@@ -1,0 +1,1183 @@
+{
+    "title": "2009 AP ASSEMBLY ELECTIONS",
+    "trigger": "AC_NO",
+    "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>INC</td><td>155</td><td style=\"background-color: rgba(0.0,192.01500000000001,255.0,1);\">  </td></tr><tr><td>2</td><td>TDP</td><td>92</td><td style=\"background-color: rgba(255,255,0,1);\">  </td></tr><tr><td>3</td><td>PRP</td><td>18</td><td style=\"background-color: rgba(108.88499999999999,255.0,207.06,1);\">  </td></tr><tr><td>4</td><td>TRS</td><td>10</td><td style=\"background-color: rgba(248.0,71.0,151.0,1);\">  </td></tr><tr><td>5</td><td>AIMIM</td><td>7</td><td style=\"background-color: rgba(0,255,0,1);\">  </td></tr><tr><td>6</td><td>CPI</td><td>4</td><td style=\"background-color: rgba(255,0,0,1);\">  </td></tr><tr><td>7</td><td>IND</td><td>3</td><td style=\"background-color: rgba(0,0,0,0.2);\">  </td></tr><tr><td>8</td><td>BJP</td><td>2</td><td style=\"background-color: rgba(250.0,181.0,5.0,1);\">  </td></tr><tr><td>9</td><td>LSP</td><td>1</td><td style=\"background-color: rgba(188.0,213.0,244.0,1);\">  </td></tr><tr><td>10</td><td>CPM</td><td>1</td><td style=\"background-color: rgba(255,0,0,1);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">The Andhra Pradesh Legislative Assembly election of 2009 took place in April 2009, concurrently with the 2009 Indian general election. The elections were held in the state in the first phase (2009-04-16) and the second phase (2009-04-23). The results were declared on 2009-05-16. The incumbent Indian National Congress retained power in the Andhra Pradesh State Assembly lower house, though with a reduced majority. The Congress Legislature party re-elected incumbent Chief minister Y. S. Rajasekhara Reddy as its leader thus re-nominating him to the post.</td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Sirpur<br><b>AC NO:  </b>1<hr><b>WINNER:  </b>Kaveti Sammaiah (47978)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>Koneru Konappa (40564)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>7414<br>"
+        },
+        "2": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Chennur<br><b>AC NO:  </b>2<hr><b>WINNER:  </b>Nallala Odelu (45012)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>Gaddam Vinod (33463)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>11549<br>"
+        },
+        "3": {
+            "color": "rgba(255,0,0,1)",
+            "matter": "<b>AC NAME: </b>Bellampalli<br><b>AC NO:  </b>3<hr><b>WINNER:  </b>Gunda Mallesh (41957)<br><b>WON BY:  </b>Communist Party of India<br><b>RUNNER:  </b>Chilumula Shankar (33065)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>8892<br>"
+        },
+        "4": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mancheriala<br><b>AC NO:  </b>4<hr><b>WINNER:  </b>Gaddam Aravinda Reddy (58340)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>Diwakar Rao Nadipelli (44513)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>13827<br>"
+        },
+        "5": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Asifabad<br><b>AC NO:  </b>5<hr><b>WINNER:  </b>Atram Sakku (42907)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Pendram Gopi (27621)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>15286<br>"
+        },
+        "6": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Khanapur<br><b>AC NO:  </b>6<hr><b>WINNER:  </b>Rathod Suman (56014)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Ajmeera Hari Naik (29582)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>26432<br>"
+        },
+        "7": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Adilabad<br><b>AC NO:  </b>7<hr><b>WINNER:  </b>Jogu Ramanna (62235)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Chilkuri Ramchandra Reddy (36655)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>25580<br>"
+        },
+        "8": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Boath<br><b>AC NO:  </b>8<hr><b>WINNER:  </b>Godam Nagesh (64895)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Anil Jadhav (33900)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>30995<br>"
+        },
+        "9": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Nirmal<br><b>AC NO:  </b>9<hr><b>WINNER:  </b>Alleti Maheshwar Reddy (44261)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Allola Indrakaran Reddy (41716)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2545<br>"
+        },
+        "10": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Mudhole<br><b>AC NO:  </b>10<hr><b>WINNER:  </b>Samudrala Venugopal Chary (45019)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Gaddigari Vittal Reddy (44836)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>183<br>"
+        },
+        "11": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Armur<br><b>AC NO:  </b>11<hr><b>WINNER:  </b>Annapurna Aleti (49009)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>K. R. Suresh Reddy (35950)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>13059<br>"
+        },
+        "12": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bodhan<br><b>AC NO:  </b>12<hr><b>WINNER:  </b>Sudarshan Reddy Podduturi (42494)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Shakil Aamir Mohammed (41219)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>1275<br>"
+        },
+        "13": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Jukkal<br><b>AC NO:  </b>13<hr><b>WINNER:  </b>Hanmanth Shinde (72971)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Savithri S (38847)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>34124<br>"
+        },
+        "14": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Banswada<br><b>AC NO:  </b>14<hr><b>WINNER:  </b>Pocharam Srinivas Reddy (69857)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Baji Reddy Goverdhan (43754)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>26103<br>"
+        },
+        "15": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Yellareddy<br><b>AC NO:  </b>15<hr><b>WINNER:  </b>Eanugu Ravinder Reddy (77153)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>Janardhan Goud Bogudameedhi (40294)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>36859<br>"
+        },
+        "16": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kamareddy<br><b>AC NO:  </b>16<hr><b>WINNER:  </b>Gampa Govardhan (86986)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Mohammed Ali Shabbir (39278)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>47708<br>"
+        },
+        "17": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Nizamabad (Urban)<br><b>AC NO:  </b>17<hr><b>WINNER:  </b>Endela Lakshminarayana (40475)<br><b>WON BY:  </b>Bharatiya Janata Party<br><b>RUNNER:  </b>Dharmapuri Srinivaas (29460)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>11015<br>"
+        },
+        "18": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nizamabad (Rural)<br><b>AC NO:  </b>18<hr><b>WINNER:  </b>Mandava Venkateshwara Rao (71813)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Akula Lalitha (43086)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>28727<br>"
+        },
+        "19": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Balkonda<br><b>AC NO:  </b>19<hr><b>WINNER:  </b>Anil Kumar Eravathri (46313)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Srinivas Reddy Shanigaram (38154)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>8159<br>"
+        },
+        "20": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Koratla<br><b>AC NO:  </b>20<hr><b>WINNER:  </b>Kalvakuntla Vidya Sagar Rao (41861)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>Juvvadi Narsinga Rao (26316)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>15545<br>"
+        },
+        "21": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Jagtial<br><b>AC NO:  </b>21<hr><b>WINNER:  </b>L. Ramana (73264)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Jeevan Reddy Thatiparthi (43415)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>29849<br>"
+        },
+        "22": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Dharmapuri<br><b>AC NO:  </b>22<hr><b>WINNER:  </b>Koppula Eshwar (45848)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>Adluri Laxman Kumar (44364)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>1484<br>"
+        },
+        "23": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Ramagundam<br><b>AC NO:  </b>23<hr><b>WINNER:  </b>Somarapu Satyanarayana (32479)<br><b>WON BY:  </b>Independent<br><b>RUNNER:  </b>Kausika Harinath (30259)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>2220<br>"
+        },
+        "24": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Manthani<br><b>AC NO:  </b>24<hr><b>WINNER:  </b>Sridhar Babu (63770)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Putta Madhukar (50561)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>13209<br>"
+        },
+        "25": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Peddapalle<br><b>AC NO:  </b>25<hr><b>WINNER:  </b>Chinthakunta Vijaya Ramana Rao (64319)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Mukunda Reddy Geetla (40837)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>23482<br>"
+        },
+        "26": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Karimnagar<br><b>AC NO:  </b>26<hr><b>WINNER:  </b>Gangula Kamalakar (68738)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>C Lakshmi Narasimha Rao (38604)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>30134<br>"
+        },
+        "27": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Choppadandi<br><b>AC NO:  </b>27<hr><b>WINNER:  </b>Suddala Devaiah (68841)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Gunukonda Babu (35853)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>32988<br>"
+        },
+        "28": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vemulawada<br><b>AC NO:  </b>28<hr><b>WINNER:  </b>Chennamaneni Ramesh (36601)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Aadi Srinivas (34780)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>1821<br>"
+        },
+        "29": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Sircilla<br><b>AC NO:  </b>29<hr><b>WINNER:  </b>K. T. Rama Rao (36783)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>K K Mahender Reddy (36612)<br><b>LOST BY:  </b>Independent<br><b>margin:  </b>171<br>"
+        },
+        "30": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Manakondur<br><b>AC NO:  </b>30<hr><b>WINNER:  </b>Arepalli Mohan (45304)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Voraganti Anand (43132)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>2172<br>"
+        },
+        "31": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Huzurabad<br><b>AC NO:  </b>31<hr><b>WINNER:  </b>Etela Rajender (56752)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>V Krishna Mohan Rao (41717)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>15035<br>"
+        },
+        "32": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Husnabad<br><b>AC NO:  </b>32<hr><b>WINNER:  </b>Aligireddy Praveen Reddy (49370)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>V. Lakshmikantha Rao (36195)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>13175<br>"
+        },
+        "33": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Siddipet<br><b>AC NO:  </b>33<hr><b>WINNER:  </b>T. Harish Rao (85843)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>Anjaiah Byri (21166)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>64677<br>"
+        },
+        "34": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Medak<br><b>AC NO:  </b>34<hr><b>WINNER:  </b>Mynampally Hanumantha Rao (57942)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>P. Shashidhar Reddy (36791)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>21151<br>"
+        },
+        "35": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Narayankhed<br><b>AC NO:  </b>35<hr><b>WINNER:  </b>Patlolla Kishta Reddy (68472)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>M Vijayapal Reddy (40799)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>27673<br>"
+        },
+        "36": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Andole<br><b>AC NO:  </b>36<hr><b>WINNER:  </b>Damodar Raja Narasimha (78671)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Babu Mohan (75765)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>2906<br>"
+        },
+        "37": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Narsapur<br><b>AC NO:  </b>37<hr><b>WINNER:  </b>Vakiti Sunitha Laxma Reddy (73924)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chilumula Krishna Reddy (60650)<br><b>LOST BY:  </b>Communist Party of India<br><b>margin:  </b>13274<br>"
+        },
+        "38": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Zahirabad<br><b>AC NO:  </b>38<hr><b>WINNER:  </b>J. Geeta Reddy (62758)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Y. Narotham (60572)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>2186<br>"
+        },
+        "39": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Sangareddy<br><b>AC NO:  </b>39<hr><b>WINNER:  </b>Turupu Jayaprakash Reddy (41101)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chinta Prabhakar (34329)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>6772<br>"
+        },
+        "40": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Patancheru<br><b>AC NO:  </b>40<hr><b>WINNER:  </b>T Nandeshwar Goud (42516)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>M Sapanadev (41269)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1247<br>"
+        },
+        "41": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Dubbak<br><b>AC NO:  </b>41<hr><b>WINNER:  </b>Cheruku Muthyam Reddy (52989)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Solipeta Ramalinga Reddy (50349)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>2640<br>"
+        },
+        "42": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Gajwel<br><b>AC NO:  </b>42<hr><b>WINNER:  </b>Tumkunta Narsa Reddy (74443)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Pratap Reddy (67268)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>7175<br>"
+        },
+        "43": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Medchal<br><b>AC NO:  </b>43<hr><b>WINNER:  </b>Kichannagari Laxma Reddy (69312)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Nakka Prabhakar Goud (63742)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>5570<br>"
+        },
+        "44": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Malkajgiri<br><b>AC NO:  </b>44<hr><b>WINNER:  </b>A.Rajender (56629)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>C. Kanaka Reddy (47434)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>9195<br>"
+        },
+        "45": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Quthbullapur<br><b>AC NO:  </b>45<hr><b>WINNER:  </b>Kuna Srisailam Goud (53753)<br><b>WON BY:  </b>Independent<br><b>RUNNER:  </b>KP Vivekananda (30534)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>23219<br>"
+        },
+        "46": {
+            "color": "rgba(188.0,213.0,244.0,1)",
+            "matter": "<b>AC NAME: </b>Kukatpally<br><b>AC NO:  </b>46<hr><b>WINNER:  </b>Jaya Prakash Narayana (71753)<br><b>WON BY:  </b>Lok Satta Party<br><b>RUNNER:  </b>Vaddepalli Narsing Rao (56110)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>15643<br>"
+        },
+        "47": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Uppal<br><b>AC NO:  </b>47<hr><b>WINNER:  </b>B. Raji Reddy (57874)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>M Yadagiri Reddy (29691)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>28183<br>"
+        },
+        "48": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Ibrahimpatnam<br><b>AC NO:  </b>48<hr><b>WINNER:  </b>Manchireddy Kishan Reddy (56508)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Malreddy Ranga Reddy (47292)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>9216<br>"
+        },
+        "49": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>L. B. Nagar<br><b>AC NO:  </b>49<hr><b>WINNER:  </b>Devireddy Sudheer Reddy (67510)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>S V Krishna Prasad (54368)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>13142<br>"
+        },
+        "50": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Maheshwaram<br><b>AC NO:  </b>50<hr><b>WINNER:  </b>Sabitha Indra Reddy (65077)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Teegala Krishna Reddy (57244)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>7833<br>"
+        },
+        "51": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Rajendranagar<br><b>AC NO:  </b>51<hr><b>WINNER:  </b>T Prakash Goud (49522)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Gnaneshwar (42037)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>7485<br>"
+        },
+        "52": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Serilingampally<br><b>AC NO:  </b>52<hr><b>WINNER:  </b>Bikshapathi Yadav (61135)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Movva Satyanarayana (59808)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1327<br>"
+        },
+        "53": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chevella<br><b>AC NO:  </b>53<hr><b>WINNER:  </b>K S Ratnam (62332)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Kale Yadaiah (60083)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2249<br>"
+        },
+        "54": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Pargi<br><b>AC NO:  </b>54<hr><b>WINNER:  </b>K Harishwar Reddy (53099)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>T. Ram Mohan Reddy (38655)<br><b>LOST BY:  </b>Independent<br><b>margin:  </b>14444<br>"
+        },
+        "55": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Vicarabad<br><b>AC NO:  </b>55<hr><b>WINNER:  </b>G Prasad Kumar (58810)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>A Chandrasekhar (53951)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>4859<br>"
+        },
+        "56": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Tandur<br><b>AC NO:  </b>56<hr><b>WINNER:  </b>P. Mahender Reddy (63737)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Malkud Ramesh (50534)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>13203<br>"
+        },
+        "57": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Musheerabad<br><b>AC NO:  </b>57<hr><b>WINNER:  </b>T. Manemma (45966)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>K. Laxman (31123)<br><b>LOST BY:  </b>Bharatiya Janata Party<br><b>margin:  </b>14843<br>"
+        },
+        "58": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Malakpet<br><b>AC NO:  </b>58<hr><b>WINNER:  </b>Ahmed Bin Abdullah Balala (30839)<br><b>WON BY:  </b>All India Majlis-e-Ittehadul Muslimeen<br><b>RUNNER:  </b>Muzaffar Ali Khan (22468)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>8371<br>"
+        },
+        "59": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Amberpet<br><b>AC NO:  </b>59<hr><b>WINNER:  </b>G. Kishan Reddy (59134)<br><b>WON BY:  </b>Bharatiya Janata Party<br><b>RUNNER:  </b>MD Fareeduddin (31891)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>27243<br>"
+        },
+        "60": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Khairatabad<br><b>AC NO:  </b>60<hr><b>WINNER:  </b>Danam Nagender (50655)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Vijaya Rama Rao (36797)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>13858<br>"
+        },
+        "61": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Jubilee Hills<br><b>AC NO:  </b>61<hr><b>WINNER:  </b>P. Vishnuvardhan Reddy (54519)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Mohammed Saleem (32778)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>21741<br>"
+        },
+        "62": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Sanathnagar<br><b>AC NO:  </b>62<hr><b>WINNER:  </b>Marri Shashidhar Reddy (37994)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>T. Padma Rao Goud (29669)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>8325<br>"
+        },
+        "63": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nampally<br><b>AC NO:  </b>63<hr><b>WINNER:  </b>Mohd. Virasat Rasool Khan (34439)<br><b>WON BY:  </b>All India Majlis-e-Ittehadul Muslimeen<br><b>RUNNER:  </b>Mohammed Feroz Khan (27640)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>6799<br>"
+        },
+        "64": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Karwan<br><b>AC NO:  </b>64<hr><b>WINNER:  </b>MD Muqtada Khan (44950)<br><b>WON BY:  </b>All India Majlis-e-Ittehadul Muslimeen<br><b>RUNNER:  </b>Devara Karunakar (25667)<br><b>LOST BY:  </b>Bharatiya Janata Party<br><b>margin:  </b>19283<br>"
+        },
+        "65": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Goshamahal<br><b>AC NO:  </b>65<hr><b>WINNER:  </b>Mukesh Goud (55829)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Prem Singh Rathore (35341)<br><b>LOST BY:  </b>Bharatiya Janata Party<br><b>margin:  </b>20488<br>"
+        },
+        "66": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Charminar<br><b>AC NO:  </b>66<hr><b>WINNER:  </b>Syed Ahmed Pasha Quadri (43725)<br><b>WON BY:  </b>All India Majlis-e-Ittehadul Muslimeen<br><b>RUNNER:  </b>Ali Bin Ibrahim Masqati (33030)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>10695<br>"
+        },
+        "67": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chandrayangutta<br><b>AC NO:  </b>67<hr><b>WINNER:  </b>Akbaruddin Owaisi (45492)<br><b>WON BY:  </b>All India Majlis-e-Ittehadul Muslimeen<br><b>RUNNER:  </b>Khayam Khan (30315)<br><b>LOST BY:  </b>Majlis Bachao Tehreek<br><b>margin:  </b>15177<br>"
+        },
+        "68": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Yakutpura<br><b>AC NO:  </b>68<hr><b>WINNER:  </b>Mumtaz Ahmed Khan (61698)<br><b>WON BY:  </b>All India Majlis-e-Ittehadul Muslimeen<br><b>RUNNER:  </b>Hamza Bin Omer Al Jabri Bin Ateeff (18406)<br><b>LOST BY:  </b>Majlis Bachao Tehreek<br><b>margin:  </b>43292<br>"
+        },
+        "69": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Bahadurpura<br><b>AC NO:  </b>69<hr><b>WINNER:  </b>Mohammad Moazam Khan (65453)<br><b>WON BY:  </b>All India Majlis-e-Ittehadul Muslimeen<br><b>RUNNER:  </b>Mir Ahmed Ali (8718)<br><b>LOST BY:  </b>Communist Party of India<br><b>margin:  </b>56735<br>"
+        },
+        "70": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Secunderabad<br><b>AC NO:  </b>70<hr><b>WINNER:  </b>Jayasudha (45063)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Talasani Srinivas Yadav (40668)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>4395<br>"
+        },
+        "71": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Secunderabad Cantt.<br><b>AC NO:  </b>71<hr><b>WINNER:  </b>P. Shankar Rao (36853)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>G Sayanna (32670)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>4183<br>"
+        },
+        "72": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kodangal<br><b>AC NO:  </b>72<hr><b>WINNER:  </b>Revanth Reddy (61685)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Gurunath Reddy (54696)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>6989<br>"
+        },
+        "73": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Narayanpet<br><b>AC NO:  </b>73<hr><b>WINNER:  </b>Yelkoti Yella Reddy (45945)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Sugappa (33802)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>12143<br>"
+        },
+        "74": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Mahbubnagar<br><b>AC NO:  </b>74<hr><b>WINNER:  </b>N Rajeshwar Reddy (38247)<br><b>WON BY:  </b>Independent<br><b>RUNNER:  </b>Syed Ibrahim (33110)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>5137<br>"
+        },
+        "75": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Jadcherla<br><b>AC NO:  </b>75<hr><b>WINNER:  </b>M.Chandra Shekar (66857)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Mallu Ravi (53320)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>13537<br>"
+        },
+        "76": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Devarkadra<br><b>AC NO:  </b>76<hr><b>WINNER:  </b>Seetha Dayakar Reddy (58576)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Swarna Sudhakar (39540)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>19036<br>"
+        },
+        "77": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Makthal<br><b>AC NO:  </b>77<hr><b>WINNER:  </b>K Dhayakar Reddy (53261)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Chittem Ram Mohan Reddy (47560)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>5701<br>"
+        },
+        "78": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Wanaparthy<br><b>AC NO:  </b>78<hr><b>WINNER:  </b>Ravula Chandra Sekar Reddy (71190)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>G Chinna Reddy (60622)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>10568<br>"
+        },
+        "79": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Gadwal<br><b>AC NO:  </b>79<hr><b>WINNER:  </b>D. K. Aruna (63433)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Bandla Krishna Mohan Reddy (53006)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>10427<br>"
+        },
+        "80": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Alampur<br><b>AC NO:  </b>80<hr><b>WINNER:  </b>V M Abraham (49722)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Prasanna Kumar (48539)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1183<br>"
+        },
+        "81": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nagarkurnool<br><b>AC NO:  </b>81<hr><b>WINNER:  </b>Nagam Janardhan Reddy (68026)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Kuchakulla Damodar Reddy (61433)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>6593<br>"
+        },
+        "82": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Achampet<br><b>AC NO:  </b>82<hr><b>WINNER:  </b>Pothuganti Ramulu (67361)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Chikkudu Vamshikrishna (62530)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>4831<br>"
+        },
+        "83": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kalwakurthy<br><b>AC NO:  </b>83<hr><b>WINNER:  </b>Gurka Jaipal Yadav (56990)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Yadma Kista Reddy (56393)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>597<br>"
+        },
+        "84": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Shadnagar<br><b>AC NO:  </b>84<hr><b>WINNER:  </b>Chowlapally Pratap Reddy (62222)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Anjaiah Yelganamoni (52384)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>9838<br>"
+        },
+        "85": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kollapur<br><b>AC NO:  </b>85<hr><b>WINNER:  </b>Jupally Krishna Rao (58046)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chintalapally Jagadeeswar Rao (56538)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1508<br>"
+        },
+        "86": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Devarakonda<br><b>AC NO:  </b>86<hr><b>WINNER:  </b>Balu Naik Nenavath (64887)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Ravindra Kumar Ramavath (57419)<br><b>LOST BY:  </b>Communist Party of India<br><b>margin:  </b>7468<br>"
+        },
+        "87": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nagarjuna Sagar<br><b>AC NO:  </b>87<hr><b>WINNER:  </b>Kunduru Jana Reddy (67958)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Tera Chinnapa Reddy (61744)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>6214<br>"
+        },
+        "88": {
+            "color": "rgba(255,0,0,1)",
+            "matter": "<b>AC NAME: </b>Miryalaguda<br><b>AC NO:  </b>88<hr><b>WINNER:  </b>Julakanti Ranga Reddy (52227)<br><b>WON BY:  </b>Communist Party of India (Marxist)<br><b>RUNNER:  </b>Gangadhar Tirunagaru (47864)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>4363<br>"
+        },
+        "89": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Huzurnagar<br><b>AC NO:  </b>89<hr><b>WINNER:  </b>N. Uttam Kumar Reddy (80835)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Guntakandla Jagadish Reddy (51641)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>29194<br>"
+        },
+        "90": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kodad<br><b>AC NO:  </b>90<hr><b>WINNER:  </b>Chander Rao Vanepally (64742)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Mahaboob Jani (54918)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>9824<br>"
+        },
+        "91": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Suryapet<br><b>AC NO:  </b>91<hr><b>WINNER:  </b>Ramreddy Damodar Reddy (57014)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Poreddy Chandra Sekhar Reddy (50817)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>6197<br>"
+        },
+        "92": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nalgonda<br><b>AC NO:  </b>92<hr><b>WINNER:  </b>Komatireddy Venkat Reddy (60665)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Nandyala Narsimha Reddy (52288)<br><b>LOST BY:  </b>Communist Party of India (Marxist)<br><b>margin:  </b>8377<br>"
+        },
+        "93": {
+            "color": "rgba(255,0,0,1)",
+            "matter": "<b>AC NAME: </b>Munugode<br><b>AC NO:  </b>93<hr><b>WINNER:  </b>Vujjini Yadagiri Rao (57383)<br><b>WON BY:  </b>Communist Party of India<br><b>RUNNER:  </b>Palvai Govardhan Reddy (53789)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>3594<br>"
+        },
+        "94": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Bhongir<br><b>AC NO:  </b>94<hr><b>WINNER:  </b>Uma Madhava Reddy (53073)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Jitta Bala Krishna Reddy (43720)<br><b>LOST BY:  </b>Independent<br><b>margin:  </b>9353<br>"
+        },
+        "95": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nakrekal<br><b>AC NO:  </b>95<hr><b>WINNER:  </b>Chirumarthi Lingaiah (72023)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Mamidi Sarvaiah (59847)<br><b>LOST BY:  </b>Communist Party of India (Marxist)<br><b>margin:  </b>12176<br>"
+        },
+        "96": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Thungathurthi<br><b>AC NO:  </b>96<hr><b>WINNER:  </b>Motkupalli Narasimhulu (80888)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Gudipati Narsaiah (69025)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>11863<br>"
+        },
+        "97": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Alair<br><b>AC NO:  </b>97<hr><b>WINNER:  </b>Budida Bikshamaiah (66905)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kallem Yadagiri Reddy (54003)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>12902<br>"
+        },
+        "98": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Jangaon<br><b>AC NO:  </b>98<hr><b>WINNER:  </b>Ponnala Lakshmaiah (61218)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kommuri Pratap Reddy (60982)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>236<br>"
+        },
+        "99": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Ghanpur(Station)<br><b>AC NO:  </b>99<hr><b>WINNER:  </b>Thatikonda Rajaiah (68162)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kadiyam Srihari (56952)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>11210<br>"
+        },
+        "100": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Palakurthi<br><b>AC NO:  </b>100<hr><b>WINNER:  </b>Errabelli Dayakar Rao (65280)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Dugyala Shrinivas Rao (62617)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2663<br>"
+        },
+        "101": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Dornakal<br><b>AC NO:  </b>101<hr><b>WINNER:  </b>Satyavathi Rathod (69282)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>D S Redya Naik (64659)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>4623<br>"
+        },
+        "102": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Mahabubabad<br><b>AC NO:  </b>102<hr><b>WINNER:  </b>Kavitha Maloth (66209)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Azmeera Chandulal (50842)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>15367<br>"
+        },
+        "103": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Narsampet<br><b>AC NO:  </b>103<hr><b>WINNER:  </b>Revuri Prakash Reddy (75400)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Donthi Madhava Reddy (66777)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>8623<br>"
+        },
+        "104": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Parkal<br><b>AC NO:  </b>104<hr><b>WINNER:  </b>Konda Surekha (69135)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Bikshapathy Moluguri (56335)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>12800<br>"
+        },
+        "105": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Warangal West<br><b>AC NO:  </b>105<hr><b>WINNER:  </b>Dasyam Vinay Bhasker (45807)<br><b>WON BY:  </b>Telangana Rashtra Samithi<br><b>RUNNER:  </b>Kondapalli Dayasagar Rao (39123)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>6684<br>"
+        },
+        "106": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Warangal East<br><b>AC NO:  </b>106<hr><b>WINNER:  </b>Basavaraju Saraiah (41952)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Errabelli Pradeep Kumar Rao (34697)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>7255<br>"
+        },
+        "107": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Waradhanapet<br><b>AC NO:  </b>107<hr><b>WINNER:  </b>Kondeti Shridhar (57871)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gunde Vijaya Rama Rao (51287)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>6584<br>"
+        },
+        "108": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bhupalpalle<br><b>AC NO:  </b>108<hr><b>WINNER:  </b>Gandra Venkata Ramana Reddy (69570)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>S. Madhusudhana Chary (57598)<br><b>LOST BY:  </b>Telangana Rashtra Samithi<br><b>margin:  </b>11972<br>"
+        },
+        "109": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Mulug<br><b>AC NO:  </b>109<hr><b>WINNER:  </b>Dansari Anasuya (64285)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Podem Veeraiah (45510)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>18775<br>"
+        },
+        "110": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pinapaka<br><b>AC NO:  </b>110<hr><b>WINNER:  </b>Rega Kantha Rao (40028)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Payam Venkateswarlu (39679)<br><b>LOST BY:  </b>Communist Party of India<br><b>margin:  </b>349<br>"
+        },
+        "111": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Yellandu<br><b>AC NO:  </b>111<hr><b>WINNER:  </b>Abbaiah Vooke (41605)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Koram Kanakaiah (38659)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2946<br>"
+        },
+        "112": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Khammam<br><b>AC NO:  </b>112<hr><b>WINNER:  </b>Thummala Nageswara Rao (55555)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Jalagam Venkat Rao (53083)<br><b>LOST BY:  </b>Independent<br><b>margin:  </b>2472<br>"
+        },
+        "113": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Palair<br><b>AC NO:  </b>113<hr><b>WINNER:  </b>Ramireddy Venkatareddy (64555)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Tammineni Veerabhadram (58889)<br><b>LOST BY:  </b>Communist Party of India (Marxist)<br><b>margin:  </b>5666<br>"
+        },
+        "114": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Madhira<br><b>AC NO:  </b>114<hr><b>WINNER:  </b>Mallu Bhatti Vikramarka (59394)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kamal Raju Lingala (57977)<br><b>LOST BY:  </b>Communist Party of India (Marxist)<br><b>margin:  </b>1417<br>"
+        },
+        "115": {
+            "color": "rgba(255,0,0,1)",
+            "matter": "<b>AC NAME: </b>Wyra<br><b>AC NO:  </b>115<hr><b>WINNER:  </b>Banoth Chandravathi (53090)<br><b>WON BY:  </b>Communist Party of India<br><b>RUNNER:  </b>Bhukya Ramachandra Nayak (39464)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>13626<br>"
+        },
+        "116": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Sathupalle<br><b>AC NO:  </b>116<hr><b>WINNER:  </b>Sandra Venkata Veeraiah (79491)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Chandrasekhar Sambhani (65483)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>14008<br>"
+        },
+        "117": {
+            "color": "rgba(255,0,0,1)",
+            "matter": "<b>AC NAME: </b>Kothagudem<br><b>AC NO:  </b>117<hr><b>WINNER:  </b>Kunamneni Sambasiva Rao (47028)<br><b>WON BY:  </b>Communist Party of India<br><b>RUNNER:  </b>Vanama Venkateshwara Rao (45024)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2004<br>"
+        },
+        "118": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Aswaraopeta<br><b>AC NO:  </b>118<hr><b>WINNER:  </b>Mithrasena Vaggela (46183)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Payam Venkaiah (41076)<br><b>LOST BY:  </b>Communist Party of India (Marxist)<br><b>margin:  </b>5107<br>"
+        },
+        "119": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bhadrachalam<br><b>AC NO:  </b>119<hr><b>WINNER:  </b>Kunja Satyavathi (51466)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Sunnam Rajaiah (45083)<br><b>LOST BY:  </b>Communist Party of India (Marxist)<br><b>margin:  </b>6383<br>"
+        },
+        "120": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Ichchapuram<br><b>AC NO:  </b>120<hr><b>WINNER:  </b>Piriya Sairaj (45277)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Nartu Rama Rao (43002)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2275<br>"
+        },
+        "121": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Palasa<br><b>AC NO:  </b>121<hr><b>WINNER:  </b>Juttu Jagannaikulu (47931)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gouthu Syam Sunder Sivaji (41117)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>6814<br>"
+        },
+        "122": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tekkali<br><b>AC NO:  </b>122<hr><b>WINNER:  </b>Revatipathi Korla (47513)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kinjarapu Atchannaidu (45620)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1893<br>"
+        },
+        "123": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pathapatnam<br><b>AC NO:  </b>123<hr><b>WINNER:  </b>Vijaya Ramaraju Setrucharla (58936)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kalamata Venkata Ramana Murthy (38146)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>20790<br>"
+        },
+        "124": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Srikakulam<br><b>AC NO:  </b>124<hr><b>WINNER:  </b>Dharmana Prasada Rao (56457)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Appala Suryanarayana Gunda (51987)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>4470<br>"
+        },
+        "125": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Amadalavalasa<br><b>AC NO:  </b>125<hr><b>WINNER:  </b>Boddepalli Satyavathi (48128)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Thammineni Seetharam (31919)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>16209<br>"
+        },
+        "126": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Etcherla<br><b>AC NO:  </b>126<hr><b>WINNER:  </b>Meesala Neelakantam (59365)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Nayana Suryanarayana Reddy (44350)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>15015<br>"
+        },
+        "127": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Narasannapeta<br><b>AC NO:  </b>127<hr><b>WINNER:  </b>Dharmana Krishna Das (60426)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Baggu Lakshmana Rao (42837)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>17589<br>"
+        },
+        "128": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rajam<br><b>AC NO:  </b>128<hr><b>WINNER:  </b>Kondru Murali Mohan (61771)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>K. Pratibha Bharati (34638)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>27133<br>"
+        },
+        "129": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Palakonda<br><b>AC NO:  </b>129<hr><b>WINNER:  </b>Nimmaka Sugreevulu (45909)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Nimmaka Gopalarao (29759)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>16150<br>"
+        },
+        "130": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kurupam<br><b>AC NO:  </b>130<hr><b>WINNER:  </b>Janardhana That Raj Veera Vara Thodaramala (48493)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Nimmaka Jayaraju (33440)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>15053<br>"
+        },
+        "131": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Parvathipuram<br><b>AC NO:  </b>131<hr><b>WINNER:  </b>Jayamani Savarapu (49614)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Bobbili Chiranjeevulu (46896)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>2718<br>"
+        },
+        "132": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Salur<br><b>AC NO:  </b>132<hr><b>WINNER:  </b>Peedika Rajanna Dora (49517)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gummidi Sandhya Rani (47861)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1656<br>"
+        },
+        "133": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bobbili<br><b>AC NO:  </b>133<hr><b>WINNER:  </b>Ravu Venkata Sujay Krishna Rangarao (75697)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Thentu Lakshmu Naidu (51525)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>24172<br>"
+        },
+        "134": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Cheepurupalli<br><b>AC NO:  </b>134<hr><b>WINNER:  </b>Botsa Satyanarayana (60677)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gadde Baburao (54735)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>5942<br>"
+        },
+        "135": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Gajapathinagaram<br><b>AC NO:  </b>135<hr><b>WINNER:  </b>Appalanarasayya Botcha (66670)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Aruna Padala (38996)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>27674<br>"
+        },
+        "136": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nellimarla<br><b>AC NO:  </b>136<hr><b>WINNER:  </b>Appalanaidu Baddukonda (48155)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Narayanaswamy Naidu Pathivada (47558)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>597<br>"
+        },
+        "137": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vizianagaram<br><b>AC NO:  </b>137<hr><b>WINNER:  </b>Pusapati Ashok Gajapathi Raju (52890)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Veera Bhadra Swamy Kolagatla (49608)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>3282<br>"
+        },
+        "138": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Srungavarapukota<br><b>AC NO:  </b>138<hr><b>WINNER:  </b>Kolla Lalitha Kumari (40142)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Allu Kesava Venkata Joginaidu (36702)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>3440<br>"
+        },
+        "139": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Bhimili<br><b>AC NO:  </b>139<hr><b>WINNER:  </b>Muttamsetti Srinivasa Rao (52130)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Anjaneya Raju N R (45820)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>6310<br>"
+        },
+        "140": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Visakhapatnam East<br><b>AC NO:  </b>140<hr><b>WINNER:  </b>Ramakrishna Babu Velagapudi (44233)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Vamsi Krishna Srinivas (40202)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>4031<br>"
+        },
+        "141": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Visakhapatnam South<br><b>AC NO:  </b>141<hr><b>WINNER:  </b>Dronamraju Srinivasa Rao (45971)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kola Guruvulu (45630)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>341<br>"
+        },
+        "142": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Visakhapatnam North<br><b>AC NO:  </b>142<hr><b>WINNER:  </b>Vijaya Kumar Thynala (49344)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Shirin Rahman Shaik (43821)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>5523<br>"
+        },
+        "143": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Visakhapatnam West<br><b>AC NO:  </b>143<hr><b>WINNER:  </b>Vijaya Prasad Malla (45018)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>P.G.V.R Naidu (40874)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>4144<br>"
+        },
+        "144": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Gajuwaka<br><b>AC NO:  </b>144<hr><b>WINNER:  </b>Chinthalapudi Venkataramaiah (50994)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Nagireddy Tippala (33087)<br><b>LOST BY:  </b>Independent<br><b>margin:  </b>17907<br>"
+        },
+        "145": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chodavaram<br><b>AC NO:  </b>145<hr><b>WINNER:  </b>Kalidindi Surya Naga Sanyasi Raju (55641)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Karanam Dharmasri (54256)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>1385<br>"
+        },
+        "146": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Madugula<br><b>AC NO:  </b>146<hr><b>WINNER:  </b>Gavireddi Ramanaidu (52762)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Avugadda Rama Murthy Naidu (45935)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>6827<br>"
+        },
+        "147": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Araku Valley<br><b>AC NO:  </b>147<hr><b>WINNER:  </b>Siveri Soma (34959)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Vanjangi Kanthamma (34557)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>402<br>"
+        },
+        "148": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Paderu<br><b>AC NO:  </b>148<hr><b>WINNER:  </b>Pasupuleti Balaraju (35653)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Goddeti Demudu (35066)<br><b>LOST BY:  </b>Communist Party of India<br><b>margin:  </b>587<br>"
+        },
+        "149": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Anakapalle<br><b>AC NO:  </b>149<hr><b>WINNER:  </b>Ganta Srinivasa Rao (58568)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Konathala Ramakrishna (47702)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>10866<br>"
+        },
+        "150": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Pendurthi<br><b>AC NO:  </b>150<hr><b>WINNER:  </b>Panchakarla Ramesh Babu (51700)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Gandi Babji (48428)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>3272<br>"
+        },
+        "151": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Yelamanchili<br><b>AC NO:  </b>151<hr><b>WINNER:  </b>Uppalapati Venkata Ramanamurthy Raju (53960)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gonthina Venkata Nageswara Rao (43870)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>10090<br>"
+        },
+        "152": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Payakaraopet<br><b>AC NO:  </b>152<hr><b>WINNER:  </b>Golla Baburao (50698)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Changala Venkata Rao (50042)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>656<br>"
+        },
+        "153": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Narsipatnam<br><b>AC NO:  </b>153<hr><b>WINNER:  </b>Bolem Muthyala Papa (65465)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chintakayala Ayyanna Patrudu (57178)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>8287<br>"
+        },
+        "154": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tuni<br><b>AC NO:  </b>154<hr><b>WINNER:  </b>Venkata Krishnam Raju Sriraja Vatsavayi (55386)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Yanamala Rama Krishnudu (46876)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>8510<br>"
+        },
+        "155": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Prathipadu<br><b>AC NO:  </b>155<hr><b>WINNER:  </b>Parvatha Sri Satyanarayanamurthy (46925)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Varapula Subbarao (43639)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>3286<br>"
+        },
+        "156": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Pithapuram<br><b>AC NO:  </b>156<hr><b>WINNER:  </b>Vanga Geetha (46623)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>S.V.S.N Varma (45587)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1036<br>"
+        },
+        "157": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Kakinada Rural<br><b>AC NO:  </b>157<hr><b>WINNER:  </b>Kurasala Kannababu (53494)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Venkateswara Rao Nulukurthi (45457)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>8037<br>"
+        },
+        "158": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Peddapuram<br><b>AC NO:  </b>158<hr><b>WINNER:  </b>Pantam Gandhi Mohan (46211)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Boddu Bhaskara Ramarao (43155)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>3056<br>"
+        },
+        "159": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Anaparthy<br><b>AC NO:  </b>159<hr><b>WINNER:  </b>Nallamilli Seshareddy (70623)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gollala Mamidada D R K Reddy (34749)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>35874<br>"
+        },
+        "160": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kakinada City<br><b>AC NO:  </b>160<hr><b>WINNER:  </b>Dwarampudi Chandra Sekhara Reddy (44606)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Bandana Hari (35327)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>9279<br>"
+        },
+        "161": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Ramachandrapuram<br><b>AC NO:  </b>161<hr><b>WINNER:  </b>Pilli Subhash Chandra Bose (56589)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Thota Trimurthulu (52558)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>4031<br>"
+        },
+        "162": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Mummidivaram<br><b>AC NO:  </b>162<hr><b>WINNER:  </b>Ponnada Venkata Satish Kumar (51087)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Srinuvasa Raju Nadimpalli (49162)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1925<br>"
+        },
+        "163": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Amalapuram<br><b>AC NO:  </b>163<hr><b>WINNER:  </b>Pinipe Viswarup (57922)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chinta Krishna Murthy (51649)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>6273<br>"
+        },
+        "164": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Razole<br><b>AC NO:  </b>164<hr><b>WINNER:  </b>Rapaka Vara Prasada Rao (52319)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Nalli Venkata Krishna Mallik (46450)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>5869<br>"
+        },
+        "165": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Gannavaram<br><b>AC NO:  </b>165<hr><b>WINNER:  </b>Pamula Rajeswari Devi (44756)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Pulaparthy Narayana Murthy (41651)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>3105<br>"
+        },
+        "166": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Kothapeta<br><b>AC NO:  </b>166<hr><b>WINNER:  </b>Bandaru Satyananda Rao (62453)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Chirla Jaggireddy (59983)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2470<br>"
+        },
+        "167": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Mandapeta<br><b>AC NO:  </b>167<hr><b>WINNER:  </b>V Jogeswara Rao (68104)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Chowdary Vvss (50664)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>17440<br>"
+        },
+        "168": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Rajanagaram<br><b>AC NO:  </b>168<hr><b>WINNER:  </b>Pendurthi Venkatesh (51520)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Jakkampudi Vijaya Lakshmi (44584)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>6936<br>"
+        },
+        "169": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rajahmundry City<br><b>AC NO:  </b>169<hr><b>WINNER:  </b>Routhu Surya Prakasarao (41369)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gorantla Butchaiah Chowdary (40085)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1284<br>"
+        },
+        "170": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Rajahmundry Rural<br><b>AC NO:  </b>170<hr><b>WINNER:  </b>Chandana Ramesh (44617)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Ravanam Swami Naidu (43070)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>1547<br>"
+        },
+        "171": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Jaggampeta<br><b>AC NO:  </b>171<hr><b>WINNER:  </b>Thota Narasimham (51184)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Jyothula Nehru (50395)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>789<br>"
+        },
+        "172": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rampachodavaram<br><b>AC NO:  </b>172<hr><b>WINNER:  </b>K. K. V. V. V. Satyanarayana Reddy (32654)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chinnam Babu Ramesh (21851)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>10803<br>"
+        },
+        "173": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kovvur<br><b>AC NO:  </b>173<hr><b>WINNER:  </b>T V Rama Rao (55669)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Koyye Mosenu Raju (40191)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>15478<br>"
+        },
+        "174": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nidadavole<br><b>AC NO:  </b>174<hr><b>WINNER:  </b>Burugupalli Sesharao (51680)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>G Srinivas Naidu (45914)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>5766<br>"
+        },
+        "175": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Achanta<br><b>AC NO:  </b>175<hr><b>WINNER:  </b>Pithani Satyanarayana (54903)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Karri Radha Krishna Reddy (39148)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>15755<br>"
+        },
+        "176": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Palakollu<br><b>AC NO:  </b>176<hr><b>WINNER:  </b>Bangaru Usha Rani (49720)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Konidela Chiranjeevi (44274)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>5446<br>"
+        },
+        "177": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Narasapuram<br><b>AC NO:  </b>177<hr><b>WINNER:  </b>Mudunuri Prasada Raju (58560)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kothapalli Subbarayudu (41235)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>17325<br>"
+        },
+        "178": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bhimavaram<br><b>AC NO:  </b>178<hr><b>WINNER:  </b>Pulaparthy Ramanjaneyulu (63862)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Vegesna Suryanarayana Raju (41763)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>22099<br>"
+        },
+        "179": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Undi<br><b>AC NO:  </b>179<hr><b>WINNER:  </b>Vetukuri Venkata Siva Rama Raju (68102)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Pathapati Sarraju (52354)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>15748<br>"
+        },
+        "180": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tanuku<br><b>AC NO:  </b>180<hr><b>WINNER:  </b>Karumuri Venkata Nageswara Rao (53211)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Y T Raja (51760)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1451<br>"
+        },
+        "181": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Tadepalligudem<br><b>AC NO:  </b>181<hr><b>WINNER:  </b>Eli Venkata Madhusudhanarao (48747)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Kottu Satyanarayana (45727)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>3020<br>"
+        },
+        "182": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Unguturu<br><b>AC NO:  </b>182<hr><b>WINNER:  </b>Vatti Vasant Kumar (52973)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Ganni Laxmi Kantam (46514)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>6459<br>"
+        },
+        "183": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Denduluru<br><b>AC NO:  </b>183<hr><b>WINNER:  </b>Chintamaneni Prabhakar (69673)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Kothari Ramachandra Rao (55442)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>14231<br>"
+        },
+        "184": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Eluru<br><b>AC NO:  </b>184<hr><b>WINNER:  </b>Alla Kali Krishna Srinivas (49962)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Badeti Kota Rama Rao (36280)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>13682<br>"
+        },
+        "185": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gopalapuram<br><b>AC NO:  </b>185<hr><b>WINNER:  </b>Taneti Vanitha (70659)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Usha Tigiripalli (56006)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>14653<br>"
+        },
+        "186": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Polavaram<br><b>AC NO:  </b>186<hr><b>WINNER:  </b>Tellam Balaraju (50298)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Punem Singanna Dora (44634)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>5664<br>"
+        },
+        "187": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Chintalapudi<br><b>AC NO:  </b>187<hr><b>WINNER:  </b>Maddala Rajesh Kumar (68078)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Karra Raja Rao (66661)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1417<br>"
+        },
+        "188": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tiruvuru<br><b>AC NO:  </b>188<hr><b>WINNER:  </b>Dirisam Padma Jyothi (63624)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Nallagatla Swamy Das (63359)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>265<br>"
+        },
+        "189": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nuzvid<br><b>AC NO:  </b>189<hr><b>WINNER:  </b>Chinnam Rama Kotaiah (70206)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Meka Venkata Pratap Apparao (65063)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>5143<br>"
+        },
+        "190": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gannavaram<br><b>AC NO:  </b>190<hr><b>WINNER:  </b>Venkata Bala Vardhana Rao Dasari (82218)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Muddaraboina Venkateswara Rao (66923)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>15295<br>"
+        },
+        "191": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gudivada<br><b>AC NO:  </b>191<hr><b>WINNER:  </b>Kodali Sri Venkateswara Rao (68034)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Pinnamaneni Venkateswara Rao (50404)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>17630<br>"
+        },
+        "192": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kaikalur<br><b>AC NO:  </b>192<hr><b>WINNER:  </b>Jayamangala Venkata Ramana (50346)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Kamineni Srinivas (49372)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>974<br>"
+        },
+        "193": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pedana<br><b>AC NO:  </b>193<hr><b>WINNER:  </b>Jogi Ramesh (44480)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kagitha Venkat Rao (43288)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1192<br>"
+        },
+        "194": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Machilipatnam<br><b>AC NO:  </b>194<hr><b>WINNER:  </b>Perni Venkataramaiah (48580)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kollu Ravindra (37181)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>11399<br>"
+        },
+        "195": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Avanigadda<br><b>AC NO:  </b>195<hr><b>WINNER:  </b>Ambati Brahmanaiah (55316)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Mandali Buddha Prasad (54899)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>417<br>"
+        },
+        "196": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pamarru<br><b>AC NO:  </b>196<hr><b>WINNER:  </b>D Y Das (60048)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Uppuleti Kalpana (53108)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>6940<br>"
+        },
+        "197": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Penamaluru<br><b>AC NO:  </b>197<hr><b>WINNER:  </b>Kolusu Parthasarathy (61346)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chalasani Venkateswara Rao (61169)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>177<br>"
+        },
+        "198": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Vijayawada West<br><b>AC NO:  </b>198<hr><b>WINNER:  </b>Vellampalli Srinivas (51467)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Mallika Begum (43125)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>8342<br>"
+        },
+        "199": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Vijayawada Central<br><b>AC NO:  </b>199<hr><b>WINNER:  </b>Malladi Vishnu (52426)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Vangaveeti Radhakrishna (51578)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>848<br>"
+        },
+        "200": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Vijayawada East<br><b>AC NO:  </b>200<hr><b>WINNER:  </b>Ravi Yalamanchili (53319)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Devineni Rajasekhar (53129)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>190<br>"
+        },
+        "201": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Mylavaram<br><b>AC NO:  </b>201<hr><b>WINNER:  </b>Devineni Uma Maheswara Rao (78554)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Appasani Sandeep (65887)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>12667<br>"
+        },
+        "202": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nandigama<br><b>AC NO:  </b>202<hr><b>WINNER:  </b>Tangirala Prabhakara Rao (60489)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Parameswara Rao Velpula (55318)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>5171<br>"
+        },
+        "203": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Jaggayyapeta<br><b>AC NO:  </b>203<hr><b>WINNER:  </b>Rajagopal Sreeram (75107)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Udayabhanu Samineni (65429)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>9678<br>"
+        },
+        "204": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Pedakurapadu<br><b>AC NO:  </b>204<hr><b>WINNER:  </b>Kommalapati Sridhar (69013)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Noorjahan (59135)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>9878<br>"
+        },
+        "205": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tadikonda<br><b>AC NO:  </b>205<hr><b>WINNER:  </b>Dokka Manikya Vara Prasad (61406)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Tenali Sravan Kumar (57786)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>3620<br>"
+        },
+        "206": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Mangalagiri<br><b>AC NO:  </b>206<hr><b>WINNER:  </b>Kamala Kandru (52585)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Tammisetty Janaki Devi (39823)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>12762<br>"
+        },
+        "207": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Ponnuru<br><b>AC NO:  </b>207<hr><b>WINNER:  </b>Dhulipalla Narendra Kumar (61008)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Marupudi Leeladhara Rao (58840)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2168<br>"
+        },
+        "208": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vemuru<br><b>AC NO:  </b>208<hr><b>WINNER:  </b>Nakka Ananda Babu (55168)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Merugu Nagarjuna (52938)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2230<br>"
+        },
+        "209": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Repalle<br><b>AC NO:  </b>209<hr><b>WINNER:  </b>Mopidevi Venkataramana (64679)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Anagani Satya Prasad (58734)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>5945<br>"
+        },
+        "210": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tenali<br><b>AC NO:  </b>210<hr><b>WINNER:  </b>Nadendla Manohar (61582)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Alapati Rajendra Prasad (58698)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>2884<br>"
+        },
+        "211": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bapatla<br><b>AC NO:  </b>211<hr><b>WINNER:  </b>Gade Venkata Reddy (37456)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chirala Govardhana Reddy (36093)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>1363<br>"
+        },
+        "212": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Prathipadu<br><b>AC NO:  </b>212<hr><b>WINNER:  </b>Mekathoti Sucharita (66324)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Ravela Kishore Babu (64282)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>2042<br>"
+        },
+        "213": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Guntur West<br><b>AC NO:  </b>213<hr><b>WINNER:  </b>Kanna Lakshminarayana (44676)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chukkapalli Ramesh (41375)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>3301<br>"
+        },
+        "214": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Guntur East<br><b>AC NO:  </b>214<hr><b>WINNER:  </b>Mastan Vali (45586)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Shaik Showkat (36574)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>9012<br>"
+        },
+        "215": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chilakaluripet<br><b>AC NO:  </b>215<hr><b>WINNER:  </b>Prathipati Pulla Rao (77399)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Marri Rajasekhar (57586)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>19813<br>"
+        },
+        "216": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Narasaraopet<br><b>AC NO:  </b>216<hr><b>WINNER:  </b>Kasu Venkata Krishna Reddy (58988)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kodela Siva Prasada Rao (53017)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>5971<br>"
+        },
+        "217": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Sattenapalle<br><b>AC NO:  </b>217<hr><b>WINNER:  </b>Yarram Venkateswarareddy (61949)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Nimmakayala Raja Narayana (54802)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>7147<br>"
+        },
+        "218": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vinukonda<br><b>AC NO:  </b>218<hr><b>WINNER:  </b>G V Aanzaneyulu (89961)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Narendra Nath Chebrolu (65858)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>24103<br>"
+        },
+        "219": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gurajala<br><b>AC NO:  </b>219<hr><b>WINNER:  </b>Yarapathineni Srinivasa Rao (72250)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Ala Venkateswarlu (62229)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>10021<br>"
+        },
+        "220": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Macherla<br><b>AC NO:  </b>220<hr><b>WINNER:  </b>Ramakrishna Reddy Pinnelli (66953)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Julakanti Brahmananda Reddy (57168)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>9785<br>"
+        },
+        "221": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Yerragondapalem<br><b>AC NO:  </b>221<hr><b>WINNER:  </b>Audimulapu Suresh (67040)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Palaparthi David Raju (53846)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>13194<br>"
+        },
+        "222": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Darsi<br><b>AC NO:  </b>222<hr><b>WINNER:  </b>Buchepalli Siva Prasad Reddy (66418)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Mannam Venkata Ramana (53028)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>13390<br>"
+        },
+        "223": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Parchur<br><b>AC NO:  </b>223<hr><b>WINNER:  </b>Daggubati Venkateswara Rao (73691)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gottipati Narasimha Rao (70731)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>2960<br>"
+        },
+        "224": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Addanki<br><b>AC NO:  </b>224<hr><b>WINNER:  </b>Gottipati Ravikumar (86035)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Karanam Balaram Krishna Murthy (70271)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>15764<br>"
+        },
+        "225": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Chirala<br><b>AC NO:  </b>225<hr><b>WINNER:  </b>Amanchi Krishna Mohan (56600)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Janjanam Srinivasarao (45314)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>11286<br>"
+        },
+        "226": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Santhanuthalapadu<br><b>AC NO:  </b>226<hr><b>WINNER:  </b>B. N. Vijay Kumar (63769)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Anjaiah Jala (54238)<br><b>LOST BY:  </b>Communist Party of India (Marxist)<br><b>margin:  </b>9531<br>"
+        },
+        "227": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Ongole<br><b>AC NO:  </b>227<hr><b>WINNER:  </b>Balineni Srinivasa Reddy (67214)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Edara Hari Babu (44228)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>22986<br>"
+        },
+        "228": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kandukur<br><b>AC NO:  </b>228<hr><b>WINNER:  </b>Maheedhar Reddy Manugunta (74553)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Divi Siva Ram (70310)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>4243<br>"
+        },
+        "229": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kondapi<br><b>AC NO:  </b>229<hr><b>WINNER:  </b>Gurrala Venkata Seshu (72075)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Dola Sree Bala Veeranjaneya Swamy (66911)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>5164<br>"
+        },
+        "230": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Markapuram<br><b>AC NO:  </b>230<hr><b>WINNER:  </b>Kandula Narayana Reddy (69744)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Kunduru Pedda Kondareddy (60690)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>9054<br>"
+        },
+        "231": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Giddalur<br><b>AC NO:  </b>231<hr><b>WINNER:  </b>Anna Rambabu (55573)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Byraboina Chandrasekhar (48027)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>7546<br>"
+        },
+        "232": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kanigiri<br><b>AC NO:  </b>232<hr><b>WINNER:  </b>Ugra Narasimha Reddy Mukku (60161)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Sunkari Madhu Sudhana Rao (57226)<br><b>LOST BY:  </b>Independent<br><b>margin:  </b>2935<br>"
+        },
+        "233": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kavali<br><b>AC NO:  </b>233<hr><b>WINNER:  </b>Beeda Masthan Rao (69219)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Katam Reddy Vishnuvardhan Reddy (50192)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>19027<br>"
+        },
+        "234": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Atmakur<br><b>AC NO:  </b>234<hr><b>WINNER:  </b>Anam Ramanarayana Reddy (76907)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kommi Lakshmaiah Naidu (58263)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>18644<br>"
+        },
+        "235": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kovur<br><b>AC NO:  </b>235<hr><b>WINNER:  </b>Nallapareddy Prasanna Kumar Reddy (73212)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Polam Reddy Srinivasulu Reddy (65768)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>7444<br>"
+        },
+        "236": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Nellore City<br><b>AC NO:  </b>236<hr><b>WINNER:  </b>Mungamuru Sridhara Krishna Reddy (36103)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Anil Kumar Poluboina (36013)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>90<br>"
+        },
+        "237": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nellore Rural<br><b>AC NO:  </b>237<hr><b>WINNER:  </b>Anam Vivekananda Reddy (46941)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Anam Venkata Ramana Reddy (43810)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>3131<br>"
+        },
+        "238": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Sarvepalli<br><b>AC NO:  </b>238<hr><b>WINNER:  </b>Adala Prabhakara Reddy (73760)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chandra Mohan Reddy Somireddy (63476)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>10284<br>"
+        },
+        "239": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gudur<br><b>AC NO:  </b>239<hr><b>WINNER:  </b>Balli Durga Prasad Rao (64330)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Panabaka Krishnaiah (53092)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>11238<br>"
+        },
+        "240": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Sullurpeta<br><b>AC NO:  </b>240<hr><b>WINNER:  </b>Parasa Venkata Rathnaiah (66089)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Vinnamala Saraswathi (60722)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>5367<br>"
+        },
+        "241": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Venkatagiri<br><b>AC NO:  </b>241<hr><b>WINNER:  </b>Kurugondla Ramakrishna (69731)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Nedurumalli Rajyalakshmi (62965)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>6766<br>"
+        },
+        "242": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Udayagiri<br><b>AC NO:  </b>242<hr><b>WINNER:  </b>Mekapati Chandra Sekhar Reddy (69352)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kambam Vijaya Rami Reddy (55870)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>13482<br>"
+        },
+        "243": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Badvel<br><b>AC NO:  </b>243<hr><b>WINNER:  </b>Kamalamma P M (78486)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chennaiah Lakkineni (41892)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>36594<br>"
+        },
+        "244": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rajampet<br><b>AC NO:  </b>244<hr><b>WINNER:  </b>Amarnath Reddy Akepati (60397)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Madan Mohan Reddy K (48055)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>12342<br>"
+        },
+        "245": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kadapa<br><b>AC NO:  </b>245<hr><b>WINNER:  </b>Ahamadullah Mohammad Syed (61613)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Kandula Sivananda Reddy (54263)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>7350<br>"
+        },
+        "246": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kodur<br><b>AC NO:  </b>246<hr><b>WINNER:  </b>Koramutla Sreenivasulu (51747)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Ajay Babu Nandavaram Benjimin (39359)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>12388<br>"
+        },
+        "247": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rayachoti<br><b>AC NO:  </b>247<hr><b>WINNER:  </b>Gadikota Srikanth Reddy (71901)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Palakondrayudu Sugavasi (57069)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>14832<br>"
+        },
+        "248": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pulivendula<br><b>AC NO:  </b>248<hr><b>WINNER:  </b>Y. S. Rajasekhara Reddy (103556)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Satish Reddy Singareddy (34875)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>68681<br>"
+        },
+        "249": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kamalapuram<br><b>AC NO:  </b>249<hr><b>WINNER:  </b>Gandluru Veera Siva Reddy (65386)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Putha Narasimha Reddy (61223)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>4163<br>"
+        },
+        "250": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Jammalamadugu<br><b>AC NO:  </b>250<hr><b>WINNER:  </b>Chadipirala Adinarayana Reddy (84416)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Rama Subba Reddy Ponnapureddy (77032)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>7384<br>"
+        },
+        "251": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Proddatur<br><b>AC NO:  </b>251<hr><b>WINNER:  </b>Lingaareddy Mallela (73023)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Nandyala Varada Rajulu Reddy (56867)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>16156<br>"
+        },
+        "252": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Mydukur<br><b>AC NO:  </b>252<hr><b>WINNER:  </b>DL Ravindra Reddy (62377)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Raghuramireddy Settipalli (58016)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>4361<br>"
+        },
+        "253": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Allagadda<br><b>AC NO:  </b>253<hr><b>WINNER:  </b>Bhima Shobha Nagi Reddy (61555)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Gangula Prathap Reddy (59597)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>1958<br>"
+        },
+        "254": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Srisailam<br><b>AC NO:  </b>254<hr><b>WINNER:  </b>Earasu Prathap Reddy (49384)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Budda Rajasekhara Reddy (45077)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>4307<br>"
+        },
+        "255": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nandikotkur<br><b>AC NO:  </b>255<hr><b>WINNER:  </b>Labbi Venkata Swamy (63442)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Chimme Bitchanna (57669)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>5773<br>"
+        },
+        "256": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kurnool<br><b>AC NO:  </b>256<hr><b>WINNER:  </b>T. G. Venkatesh (68467)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>M. Abdul Gafoor (24400)<br><b>LOST BY:  </b>Communist Party of India (Marxist)<br><b>margin:  </b>44067<br>"
+        },
+        "257": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Panyam<br><b>AC NO:  </b>257<hr><b>WINNER:  </b>Katasani Rambhupal Reddy (63323)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Byreddy Rajasekhar Reddy (54409)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>8914<br>"
+        },
+        "258": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nandyal<br><b>AC NO:  </b>258<hr><b>WINNER:  </b>Silpa Mohan Reddy (67430)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>A V Subba Reddy (35541)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>31889<br>"
+        },
+        "259": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Banaganapalle<br><b>AC NO:  </b>259<hr><b>WINNER:  </b>Katasani Rami Reddy (55438)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Challa Rama Krsihna Reddy (41752)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>13686<br>"
+        },
+        "260": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Dhone<br><b>AC NO:  </b>260<hr><b>WINNER:  </b>K. E. Krishnamurthy (60769)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Kotla Sujathamma (56118)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>4651<br>"
+        },
+        "261": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Pattikonda<br><b>AC NO:  </b>261<hr><b>WINNER:  </b>K. E. Prabhakar (67640)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>S V Chandra Mohan Reddy (57668)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>9972<br>"
+        },
+        "262": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kodumur<br><b>AC NO:  </b>262<hr><b>WINNER:  </b>Parigela Murali Krishna (47844)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>M Mani Gandhi (42519)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>5325<br>"
+        },
+        "263": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Yemmiganur<br><b>AC NO:  </b>263<hr><b>WINNER:  </b>K Chenna Kesava Reddy (53766)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>B V Mohan Reddy (51443)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>2323<br>"
+        },
+        "264": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Mantralayam<br><b>AC NO:  </b>264<hr><b>WINNER:  </b>Y Balanagi Reddy (52431)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Dalavai Ramaiah (41734)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>10697<br>"
+        },
+        "265": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Adoni<br><b>AC NO:  </b>265<hr><b>WINNER:  </b>Konka Meenakshi Naidu (45294)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Y Sai Prasad Reddy (45038)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>256<br>"
+        },
+        "266": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Alur<br><b>AC NO:  </b>266<hr><b>WINNER:  </b>Patil Neeraja Reddy (43105)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gummanur Jayaram (37460)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>5645<br>"
+        },
+        "267": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rayadurg<br><b>AC NO:  </b>267<hr><b>WINNER:  </b>Kapu Ramachandra Reddy (76259)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Mettu Govinda Reddy (62168)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>14091<br>"
+        },
+        "268": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Uravakonda<br><b>AC NO:  </b>268<hr><b>WINNER:  </b>Payyavula Keshav (64728)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Y. Visweswara Reddy (64499)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>229<br>"
+        },
+        "269": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Guntakal<br><b>AC NO:  </b>269<hr><b>WINNER:  </b>Kotrike Madhusudan Gupta (61097)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Sainath Goud Ramagowni (51753)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>9344<br>"
+        },
+        "270": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tadpatri<br><b>AC NO:  </b>270<hr><b>WINNER:  </b>J. C. Diwakar Reddy (63358)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Peram Nagi Reddy (56403)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>6955<br>"
+        },
+        "271": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Singanamala<br><b>AC NO:  </b>271<hr><b>WINNER:  </b>Sake Sailajanath (65367)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Pamidi Shamanthakamani (62191)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>3176<br>"
+        },
+        "272": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Anantapur Urban<br><b>AC NO:  </b>272<hr><b>WINNER:  </b>B Gurunatha Reddy (45275)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Mahalakshmi Sreenivasulu (32033)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>13242<br>"
+        },
+        "273": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kalyandurg<br><b>AC NO:  </b>273<hr><b>WINNER:  </b>Raghu Veera Reddy (69614)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Vunnam Hanumantharaya Chowdary (65226)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>4388<br>"
+        },
+        "274": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Raptadu<br><b>AC NO:  </b>274<hr><b>WINNER:  </b>Paritala Sunitha (64559)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Thopudurthi Prakash Reddy (62852)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>1707<br>"
+        },
+        "275": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Madakasira<br><b>AC NO:  </b>275<hr><b>WINNER:  </b>K Sudhakar (70657)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>K. Eranna (60242)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>10415<br>"
+        },
+        "276": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Hindupur<br><b>AC NO:  </b>276<hr><b>WINNER:  </b>P. Abdul Ghani (45506)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>B Naveen Nischal (36742)<br><b>LOST BY:  </b>Independent<br><b>margin:  </b>8764<br>"
+        },
+        "277": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Penukonda<br><b>AC NO:  </b>277<hr><b>WINNER:  </b>B K Parthasarathi (68400)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>K T Sreedhar (54015)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>14385<br>"
+        },
+        "278": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Puttaparthi<br><b>AC NO:  </b>278<hr><b>WINNER:  </b>Palle Raghunatha Reddy (59356)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Kadapala Mohan Reddy (58335)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>1021<br>"
+        },
+        "279": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Dharmavaram<br><b>AC NO:  </b>279<hr><b>WINNER:  </b>Kethireddy Venkatarami Reddy (61260)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>G Suryanarayana (42088)<br><b>LOST BY:  </b>Independent<br><b>margin:  </b>19172<br>"
+        },
+        "280": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kadiri<br><b>AC NO:  </b>280<hr><b>WINNER:  </b>Kandikunta Venkata Prasad (72308)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Battala Venkataramana (57331)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>14977<br>"
+        },
+        "281": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Thamballapalle<br><b>AC NO:  </b>281<hr><b>WINNER:  </b>Anipireddy Venkata Praveen Kumar Reddy (46653)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>G Shankar (43695)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>2958<br>"
+        },
+        "282": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pileru<br><b>AC NO:  </b>282<hr><b>WINNER:  </b>Nallari Kiran Kumar Reddy (53905)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Imtiyaz Ahmed Shaik (44773)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>9132<br>"
+        },
+        "283": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Madanapalle<br><b>AC NO:  </b>283<hr><b>WINNER:  </b>M Shajahan Basha (53456)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>R Krishna Sagar Reddy (42584)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>10872<br>"
+        },
+        "284": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Punganur<br><b>AC NO:  </b>284<hr><b>WINNER:  </b>Peddireddy Ramachandra Reddy (84083)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>M Venkataramana Raju (43356)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>40727<br>"
+        },
+        "285": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Chandragiri<br><b>AC NO:  </b>285<hr><b>WINNER:  </b>Aruna Kumari Galla (71942)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>R. K. Roja (60962)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>10980<br>"
+        },
+        "286": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Tirupati<br><b>AC NO:  </b>286<hr><b>WINNER:  </b>Konidela Chiranjeevi (56309)<br><b>WON BY:  </b>Praja Rajyam Party<br><b>RUNNER:  </b>Bhumana Karunakar Reddy (40379)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>15930<br>"
+        },
+        "287": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Srikalahasti<br><b>AC NO:  </b>287<hr><b>WINNER:  </b>Bojjala Gopala Krishna Reddy (70707)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>S C V Naidu (58244)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>12463<br>"
+        },
+        "288": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Satyavedu<br><b>AC NO:  </b>288<hr><b>WINNER:  </b>H Hemalatha (65471)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>K. Narayana Swamy (55780)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>9691<br>"
+        },
+        "289": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nagari<br><b>AC NO:  </b>289<hr><b>WINNER:  </b>Gali Muddu Krishnama Naidu (60849)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Chenga Reddy Reddyvari (59541)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>1308<br>"
+        },
+        "290": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Gangadhara Nellore(SC)<br><b>AC NO:  </b>290<hr><b>WINNER:  </b>Kuthuhalam Gummadi (62249)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Gandhi (51423)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>10826<br>"
+        },
+        "291": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Chittoor<br><b>AC NO:  </b>291<hr><b>WINNER:  </b>C K Jayachandra Reddy (46094)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Aranii Srenevasulu (44384)<br><b>LOST BY:  </b>Praja Rajyam Party<br><b>margin:  </b>1710<br>"
+        },
+        "292": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Puthalapattu<br><b>AC NO:  </b>292<hr><b>WINNER:  </b>P Ravi (64484)<br><b>WON BY:  </b>Indian National Congress<br><b>RUNNER:  </b>Lalitha Kumari (63533)<br><b>LOST BY:  </b>Telugu Desam Party<br><b>margin:  </b>951<br>"
+        },
+        "293": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Palamaner<br><b>AC NO:  </b>293<hr><b>WINNER:  </b>Amarnatha Reddy. N (79977)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>Reddeppa Reddy R (64429)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>15548<br>"
+        },
+        "294": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kuppam<br><b>AC NO:  </b>294<hr><b>WINNER:  </b>N. Chandrababu Naidu (89952)<br><b>WON BY:  </b>Telugu Desam Party<br><b>RUNNER:  </b>M Subramanyam Reddy (43886)<br><b>LOST BY:  </b>Indian National Congress<br><b>margin:  </b>46066<br>"
+        }
+    }
+}

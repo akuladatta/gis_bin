@@ -1,0 +1,707 @@
+{
+    "title": "2014 AP ASSEMBLY ELECTIONS",
+    "trigger": "objectid",
+    "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>TDP</td><td>102</td><td style=\"background-color: rgba(255,255,0,1);\">  </td></tr><tr><td>2</td><td>YSRCP</td><td>67</td><td style=\"background-color: rgba(0.0,215.0,255.0,1);\">  </td></tr><tr><td>3</td><td>BJP</td><td>4</td><td style=\"background-color: rgba(250.0,181.0,5.0,1);\">  </td></tr><tr><td>4</td><td>IND</td><td>2</td><td style=\"background-color: rgba(0,0,0,0.2);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">The 2014 general election was the last election that a united Andhra Pradesh took part in, as the state was bifurcated into Andhra Pradesh and Telangana states less than a month after the polls. In Andhra Pradesh there are 25 Lok sabha constituencies and were scheduled to go for voting on 7 May 2014 and results are announced on 16 May 2014 and the new state of Telangana was carved out from Andhra Pradesh on 2 June 2014.</td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Ichchapuram<br><b>AC NO:  </b>1<hr><b>WINNER:  </b>Ashok Bendalam (86815)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Nartu Rama Rao (61537)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>25278<br>"
+        },
+        "2": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Palasa<br><b>AC NO:  </b>2<hr><b>WINNER:  </b>Gouthu Syam Sunder Sivaji (69658)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Babu Rao Vajja (52133)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>17525<br>"
+        },
+        "3": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Tekkali<br><b>AC NO:  </b>3<hr><b>WINNER:  </b>Kinjarapu Atchannaidu (81167)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Duvvada Srinivas (72780)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>8387<br>"
+        },
+        "4": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pathapatnam<br><b>AC NO:  </b>4<hr><b>WINNER:  </b>Kalamata Venkata Ramana Murthy (69320)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Vijaya Ramaraju Setrucharla (65455)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>3865<br>"
+        },
+        "5": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Srikakulam<br><b>AC NO:  </b>5<hr><b>WINNER:  </b>Gunda Lakshmi Devi (88814)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Dharmana Prasada Rao (64683)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>24131<br>"
+        },
+        "6": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Amadalavalasa<br><b>AC NO:  </b>6<hr><b>WINNER:  </b>Koona Ravikumar (65233)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Thammineni Seetharam (59784)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>5449<br>"
+        },
+        "7": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Etcherla<br><b>AC NO:  </b>7<hr><b>WINNER:  </b>Kalavenkata Rao Kimidi (85769)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Gorle Kiran Kumar (81028)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>4741<br>"
+        },
+        "8": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Narasannapeta<br><b>AC NO:  </b>8<hr><b>WINNER:  </b>Baggu Ramana Murthy (76559)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Dharmana Krishna Das (71759)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>4800<br>"
+        },
+        "9": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rajam<br><b>AC NO:  </b>9<hr><b>WINNER:  </b>Kambala Jogulu (69192)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>K. Pratibha Bharati (68680)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>512<br>"
+        },
+        "10": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Palakonda<br><b>AC NO:  </b>10<hr><b>WINNER:  </b>Viswasarayi Kalavathi (55337)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Nimmaka Jayakrishna (53717)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>1620<br>"
+        },
+        "11": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kurupam<br><b>AC NO:  </b>11<hr><b>WINNER:  </b>Pushpasreevani Pamula (55435)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Janardhana That Raj Veera Vara Thodaramala (36352)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>19083<br>"
+        },
+        "12": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Parvathipuram<br><b>AC NO:  </b>12<hr><b>WINNER:  </b>Bobbili Chiranjeevulu (62458)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Jammana Prasanna Kumar (56329)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>6129<br>"
+        },
+        "13": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Salur<br><b>AC NO:  </b>13<hr><b>WINNER:  </b>Peedika Rajanna Dora (63755)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>R.P. Bhanj Deo (58758)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>4997<br>"
+        },
+        "14": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bobbili<br><b>AC NO:  </b>14<hr><b>WINNER:  </b>Ravu Venkata Sujay Krishna Rangarao (83587)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Thentu Lakshmu Naidu (76629)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>6958<br>"
+        },
+        "15": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Cheepurupalli<br><b>AC NO:  </b>15<hr><b>WINNER:  </b>Kimidi Mrunalini (63787)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Botsa Satyanarayana (42945)<br><b>LOST BY:  </b>INC<br><b>margin:  </b>20842<br>"
+        },
+        "16": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gajapathinagaram<br><b>AC NO:  </b>16<hr><b>WINNER:  </b>Kondapalli Appala Naidu (65117)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kadubandi Srinivasa Rao (45694)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>19423<br>"
+        },
+        "17": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nellimarla<br><b>AC NO:  </b>17<hr><b>WINNER:  </b>Narayanaswamy Naidu Pathivada (71267)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>P V V Suryanarayana Raju (64294)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>6973<br>"
+        },
+        "18": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vizianagaram<br><b>AC NO:  </b>18<hr><b>WINNER:  </b>Meesala Geetha (77320)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Veera Bhadra Swamy Kolagatla (61916)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>15404<br>"
+        },
+        "19": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Srungavarapukota<br><b>AC NO:  </b>19<hr><b>WINNER:  </b>Kolla Lalitha Kumari (82177)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Rongali Jagannadham (53605)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>28572<br>"
+        },
+        "20": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Bhimili<br><b>AC NO:  </b>20<hr><b>WINNER:  </b>Ganta Srinivasa Rao (118020)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Karri Sita Ramu (80794)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>37226<br>"
+        },
+        "21": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Visakhapatnam East<br><b>AC NO:  </b>21<hr><b>WINNER:  </b>Ramakrishna Babu Velagapudi (100624)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Vamsi Krishna Srinivas (52741)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>47883<br>"
+        },
+        "22": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Visakhapatnam South<br><b>AC NO:  </b>22<hr><b>WINNER:  </b>Vasupalli Ganesh Kumar (66686)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kola Guruvulu (48370)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>18316<br>"
+        },
+        "23": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Visakhapatnam North<br><b>AC NO:  </b>23<hr><b>WINNER:  </b>Penmetsa Vishnu Kumar Raju (82079)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Chokkakula Venkata Rao (63839)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>18240<br>"
+        },
+        "24": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Visakhapatnam West<br><b>AC NO:  </b>24<hr><b>WINNER:  </b>P.G.V.R Naidu (76791)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Dadi Ratnakar (45934)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>30857<br>"
+        },
+        "25": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gajuwaka<br><b>AC NO:  </b>25<hr><b>WINNER:  </b>Palla Srinivas Rao (97109)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Nagireddy Tippala (75397)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>21712<br>"
+        },
+        "26": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chodavaram<br><b>AC NO:  </b>26<hr><b>WINNER:  </b>Kalidindi Surya Naga Sanyasi Raju (80560)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Karanam Dharmasri (79651)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>909<br>"
+        },
+        "27": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Madugula<br><b>AC NO:  </b>27<hr><b>WINNER:  </b>Budi Mutyalanaidu (72299)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Gavireddi Ramanaidu (67538)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>4761<br>"
+        },
+        "28": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Araku Valley<br><b>AC NO:  </b>28<hr><b>WINNER:  </b>Kidari Sarveswara Rao (63700)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Siveri Soma (29647)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>34053<br>"
+        },
+        "29": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Paderu<br><b>AC NO:  </b>29<hr><b>WINNER:  </b>Giddi Eswari (52384)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Goddeti Demudu (26243)<br><b>LOST BY:  </b>CPI<br><b>margin:  </b>26141<br>"
+        },
+        "30": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Anakapalle<br><b>AC NO:  </b>30<hr><b>WINNER:  </b>Peela Govinda Satyanarayana (79911)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Konathala Raghunath (57570)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>22341<br>"
+        },
+        "31": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Pendurthi<br><b>AC NO:  </b>31<hr><b>WINNER:  </b>Bandaru Satyanarayana Murthy (94531)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Gandi Babji (75883)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>18648<br>"
+        },
+        "32": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Yelamanchili<br><b>AC NO:  </b>32<hr><b>WINNER:  </b>Panchakarla Ramesh Babu (80563)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Pragada Nageswara Rao (72188)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>8375<br>"
+        },
+        "33": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Payakaraopet<br><b>AC NO:  </b>33<hr><b>WINNER:  </b>Anitha Vangalapudi (86355)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Changala Venkata Rao (83527)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>2828<br>"
+        },
+        "34": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Narsipatnam<br><b>AC NO:  </b>34<hr><b>WINNER:  </b>Chintakayala Ayyanna Patrudu (79726)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Petla Uma Sankara Ganesh (77388)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>2338<br>"
+        },
+        "35": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tuni<br><b>AC NO:  </b>35<hr><b>WINNER:  </b>Dadisetti Raja (84755)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Yanamala Krishnudu (66182)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>18573<br>"
+        },
+        "36": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Prathipadu<br><b>AC NO:  </b>36<hr><b>WINNER:  </b>Varapula Subbarao (63693)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Parvatha Sri Satyanarayanamurthy (60280)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>3413<br>"
+        },
+        "37": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Pithapuram<br><b>AC NO:  </b>37<hr><b>WINNER:  </b>S.V.S.N Varma (97511)<br><b>WON BY:  </b>IND<br><b>RUNNER:  </b>Dorababu Pendem (50431)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>47080<br>"
+        },
+        "38": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kakinada Rural<br><b>AC NO:  </b>38<hr><b>WINNER:  </b>Ananthalakshmi Pilli (61144)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Chelluboyina Srinivasa Venugopalakrishna (52096)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>9048<br>"
+        },
+        "39": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Peddapuram<br><b>AC NO:  </b>39<hr><b>WINNER:  </b>Nimmakayala Chinarajappa (75914)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Thota Subbarao Naidu (65251)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>10663<br>"
+        },
+        "40": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Anaparthy<br><b>AC NO:  </b>40<hr><b>WINNER:  </b>Ramakrishna Reddy Nallamilli (83398)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Sathi Suryanarayana Reddy (82025)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>1373<br>"
+        },
+        "41": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kakinada City<br><b>AC NO:  </b>41<hr><b>WINNER:  </b>Vanamadi Venkateswara Rao (76467)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Dwarampudi Chandra Sekhara Reddy (52467)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>24000<br>"
+        },
+        "42": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Ramachandrapuram<br><b>AC NO:  </b>42<hr><b>WINNER:  </b>Thota Trimurthulu (85254)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Pilli Subhash Chandra Bose (68332)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>16922<br>"
+        },
+        "43": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Mummidivaram<br><b>AC NO:  </b>43<hr><b>WINNER:  </b>Datla Subba Raju (98274)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Guthula Venkata Sai Srinivasa Rao (68736)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>29538<br>"
+        },
+        "44": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Amalapuram<br><b>AC NO:  </b>44<hr><b>WINNER:  </b>Aithabathula Anandarao (76444)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Golla Baburao (64031)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>12413<br>"
+        },
+        "45": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Razole<br><b>AC NO:  </b>45<hr><b>WINNER:  </b>Gollapalli Surya Rao (66960)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Bonthu Rajeswara Rao (62277)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>4683<br>"
+        },
+        "46": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gannavaram<br><b>AC NO:  </b>46<hr><b>WINNER:  </b>Pulaparthy Narayana Murthy (74967)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kondeti Chittibabu (61462)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>13505<br>"
+        },
+        "47": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kothapeta<br><b>AC NO:  </b>47<hr><b>WINNER:  </b>Chirla Jaggireddy (88357)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Bandaru Satyananda Rao (87644)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>713<br>"
+        },
+        "48": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Mandapeta<br><b>AC NO:  </b>48<hr><b>WINNER:  </b>V Jogeswara Rao (100113)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Girajala Venkata Swamy Naidu (64099)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>36014<br>"
+        },
+        "49": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Rajanagaram<br><b>AC NO:  </b>49<hr><b>WINNER:  </b>Pendurthi Venkatesh (81476)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Jakkampudi Vijaya Lakshmi (72589)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>8887<br>"
+        },
+        "50": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Rajahmundry City<br><b>AC NO:  </b>50<hr><b>WINNER:  </b>Akula Satyanarayana (79531)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Bommana Raj Kumar (53154)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>26377<br>"
+        },
+        "51": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Rajahmundry Rural<br><b>AC NO:  </b>51<hr><b>WINNER:  </b>Gorantla Butchaiah Chowdary (87540)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Akula Veerraju (69482)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>18058<br>"
+        },
+        "52": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Jaggampeta<br><b>AC NO:  </b>52<hr><b>WINNER:  </b>Jyothula Nehru (88146)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Jyothula Chantibabu (72214)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>15932<br>"
+        },
+        "53": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rampachodavaram<br><b>AC NO:  </b>53<hr><b>WINNER:  </b>Vanthala Rajeswari (52156)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Seethamsetti Venkateswara Rao (43934)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>8222<br>"
+        },
+        "54": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kovvur<br><b>AC NO:  </b>54<hr><b>WINNER:  </b>Kothapalli Samuel Jawahar (74661)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Taneti Vanitha (61916)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>12745<br>"
+        },
+        "55": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nidadavole<br><b>AC NO:  </b>55<hr><b>WINNER:  </b>Burugupalli Sesharao (81591)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>S Rajiv Krishna (75232)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>6359<br>"
+        },
+        "56": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Achanta<br><b>AC NO:  </b>56<hr><b>WINNER:  </b>Pithani Satyanarayana (63549)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Mudunuri Prasada Raju (59629)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>3920<br>"
+        },
+        "57": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Palakollu<br><b>AC NO:  </b>57<hr><b>WINNER:  </b>Nimmala Rama Naidu (51523)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Satyanarayana Murthy Chavatapalli (45140)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>6383<br>"
+        },
+        "58": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Narasapuram<br><b>AC NO:  </b>58<hr><b>WINNER:  </b>Bandaru Madhava Naidu (72747)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kothapalli Subbarayudu (21712)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>51035<br>"
+        },
+        "59": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Bhimavaram<br><b>AC NO:  </b>59<hr><b>WINNER:  </b>Pulaparthy Ramanjaneyulu (90772)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Grandhi Srinivas (77046)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>13726<br>"
+        },
+        "60": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Undi<br><b>AC NO:  </b>60<hr><b>WINNER:  </b>Vetukuri Venkata Siva Rama Raju (101530)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Pathapati Sarraju (65299)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>36231<br>"
+        },
+        "61": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Tanuku<br><b>AC NO:  </b>61<hr><b>WINNER:  </b>Arimilli Radha Krishna (101015)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Cheerla Radha Krishna (70067)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>30948<br>"
+        },
+        "62": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tadepalligudem<br><b>AC NO:  </b>62<hr><b>WINNER:  </b>Pydikondala Manikyala Rao (73339)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Thota Poorna Gopala Satyanarayana (59266)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>14073<br>"
+        },
+        "63": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Unguturu<br><b>AC NO:  </b>63<hr><b>WINNER:  </b>Ganni Veeranjaneyulu (82118)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Puppala Srinivasarao (73188)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>8930<br>"
+        },
+        "64": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Denduluru<br><b>AC NO:  </b>64<hr><b>WINNER:  </b>Chintamaneni Prabhakar (92209)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Karumuri Venkata Nageswara Rao (74463)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>17746<br>"
+        },
+        "65": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Eluru<br><b>AC NO:  </b>65<hr><b>WINNER:  </b>Badeti Kota Rama Rao (82483)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Alla Kali Krishna Srinivas (57880)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>24603<br>"
+        },
+        "66": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gopalapuram(SC)<br><b>AC NO:  </b>66<hr><b>WINNER:  </b>Muppidi Venkateswara Rao (95299)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Talari Venkatrao (83759)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>11540<br>"
+        },
+        "67": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Polavaram (ST)<br><b>AC NO:  </b>67<hr><b>WINNER:  </b>Modiyam Srinivasa Rao (83767)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Tellam Balaraju (68047)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>15720<br>"
+        },
+        "68": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chintalapudi (SC)<br><b>AC NO:  </b>68<hr><b>WINNER:  </b>Peethala Sujatha (105417)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Burla Devi Priya (90253)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>15164<br>"
+        },
+        "69": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Tiruvuru (SC)<br><b>AC NO:  </b>69<hr><b>WINNER:  </b>Kokkiligadda Rakshana Nidhi (78144)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Nallagatla Swamy Das (76468)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>1676<br>"
+        },
+        "70": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nuzvid<br><b>AC NO:  </b>70<hr><b>WINNER:  </b>Meka Venkata Pratap Apparao (95565)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Muddaraboina Venkateswara Rao (85168)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>10397<br>"
+        },
+        "71": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gannavaram<br><b>AC NO:  </b>71<hr><b>WINNER:  </b>Vallabhaneni Vamsi Mohan (99163)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Dutta Ramachandrarao (89615)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>9548<br>"
+        },
+        "72": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Gudivada<br><b>AC NO:  </b>72<hr><b>WINNER:  </b>Kodali Sri Venkateswara Rao (81298)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Raavi Venkateswara Rao (69761)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>11537<br>"
+        },
+        "73": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kaikalur<br><b>AC NO:  </b>73<hr><b>WINNER:  </b>Kamineni Srinivas (88092)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rama Prasad Uppala (66521)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>21571<br>"
+        },
+        "74": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Pedana<br><b>AC NO:  </b>74<hr><b>WINNER:  </b>Kagitha Venkat Rao (71779)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Buragadda Vedavyas (58085)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>13694<br>"
+        },
+        "75": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Machilipatnam<br><b>AC NO:  </b>75<hr><b>WINNER:  </b>Kollu Ravindra (75209)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Perni Venkataramaiah (59403)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>15806<br>"
+        },
+        "76": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Avanigadda<br><b>AC NO:  </b>76<hr><b>WINNER:  </b>Mandali Buddha Prasad (80995)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Ramesh Babu Simhadri (75037)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>5958<br>"
+        },
+        "77": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pamarru (SC)<br><b>AC NO:  </b>77<hr><b>WINNER:  </b>Uppuleti Kalpana (69546)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Varla Ramaiah (68477)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>1069<br>"
+        },
+        "78": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Penamaluru<br><b>AC NO:  </b>78<hr><b>WINNER:  </b>Bode Prasad (102330)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kukkala Vidyasagar (70882)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>31448<br>"
+        },
+        "79": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Vijayawada West<br><b>AC NO:  </b>79<hr><b>WINNER:  </b>Jaleel Khan (63180)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Vellampalli Srinivas (60072)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>3108<br>"
+        },
+        "80": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vijayawada Central<br><b>AC NO:  </b>80<hr><b>WINNER:  </b>Bonda Umamaheswara Rao (82669)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Gowtham Reddy Punuru (55508)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>27161<br>"
+        },
+        "81": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vijayawada East<br><b>AC NO:  </b>81<hr><b>WINNER:  </b>Gadde Ramamohan (88784)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Vangaveeti Radhakrishna (73281)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>15503<br>"
+        },
+        "82": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Mylavaram<br><b>AC NO:  </b>82<hr><b>WINNER:  </b>Devineni Uma Maheswara Rao (94539)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Jogi Ramesh (86970)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7569<br>"
+        },
+        "83": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Nandigama (SC)<br><b>AC NO:  </b>83<hr><b>WINNER:  </b>Tangirala Prabhakara Rao (78721)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Monditoka Jagan Mohana Rao (73509)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>5212<br>"
+        },
+        "84": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Jaggayyapeta<br><b>AC NO:  </b>84<hr><b>WINNER:  </b>Rajagopal Sreeram (80939)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Udayabhanu Samineni (79093)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>1846<br>"
+        },
+        "85": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Pedakurapadu<br><b>AC NO:  </b>85<hr><b>WINNER:  </b>Kommalapati Sridhar (90310)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Bolla Brahma Naidu (81114)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>9196<br>"
+        },
+        "86": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Tadikonda (SC)<br><b>AC NO:  </b>86<hr><b>WINNER:  </b>Tenali Sravan Kumar (80847)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Heni Christina Kathera (73305)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7542<br>"
+        },
+        "87": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Mangalagiri<br><b>AC NO:  </b>87<hr><b>WINNER:  </b>Alla Rama Krishna Reddy (88977)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Ganji Chiranjeevi (88965)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>12<br>"
+        },
+        "88": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Ponnuru<br><b>AC NO:  </b>88<hr><b>WINNER:  </b>Dhulipalla Narendra Kumar (88386)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Ravi Venkata Ramana (80625)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7761<br>"
+        },
+        "89": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vemuru (SC)<br><b>AC NO:  </b>89<hr><b>WINNER:  </b>Nakka Ananda Babu (77222)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Merugu Nagarjuna (75095)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>2127<br>"
+        },
+        "90": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Repalle<br><b>AC NO:  </b>90<hr><b>WINNER:  </b>Anagani Satya Prasad (85076)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Mopidevi Venkataramana (71721)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>13355<br>"
+        },
+        "91": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Tenali<br><b>AC NO:  </b>91<hr><b>WINNER:  </b>Alapati Rajendra Prasad (93524)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Annabathuni Siva Kumar (74459)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>19065<br>"
+        },
+        "92": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bapatla<br><b>AC NO:  </b>92<hr><b>WINNER:  </b>Kona Raghupathi (71076)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Annam Satish Prabhakar (65263)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>5813<br>"
+        },
+        "93": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Prathipadu (SC)<br><b>AC NO:  </b>93<hr><b>WINNER:  </b>Ravela Kishore Babu (96274)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Mekathoti Sucharita (88869)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7405<br>"
+        },
+        "94": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Guntur West<br><b>AC NO:  </b>94<hr><b>WINNER:  </b>Modugula Venugopala Reddy (78837)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Appi Reddy Lella (60924)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>17913<br>"
+        },
+        "95": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Guntur East<br><b>AC NO:  </b>95<hr><b>WINNER:  </b>Mohammad Musthafa Shaik (74131)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Maddali Giridhara Rao (70980)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>3151<br>"
+        },
+        "96": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chilakaluripet<br><b>AC NO:  </b>96<hr><b>WINNER:  </b>Prathipati Pulla Rao (89591)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Marri Rajasekhar (78907)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>10684<br>"
+        },
+        "97": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Narasaraopet<br><b>AC NO:  </b>97<hr><b>WINNER:  </b>Gopireddy Srinivasareddy (87761)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Nalabothu Venkata Rao (71995)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>15766<br>"
+        },
+        "98": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Sattenapalle<br><b>AC NO:  </b>98<hr><b>WINNER:  </b>Kodela Siva Prasada Rao (85247)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Ambati Rambabu (84323)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>924<br>"
+        },
+        "99": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Vinukonda<br><b>AC NO:  </b>99<hr><b>WINNER:  </b>G V Aanzaneyulu (104321)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Nannapaneni Sudha (82914)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>21407<br>"
+        },
+        "100": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Gurajala<br><b>AC NO:  </b>100<hr><b>WINNER:  </b>Yarapathineni Srinivasa Rao (94827)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Janga Krishna Murthy (87640)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7187<br>"
+        },
+        "101": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Macherla<br><b>AC NO:  </b>101<hr><b>WINNER:  </b>Ramakrishna Reddy Pinnelli (94249)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Chalamareddy Kommareddy (90714)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>3535<br>"
+        },
+        "102": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Yerragondapalem (SC)<br><b>AC NO:  </b>102<hr><b>WINNER:  </b>Palaparthi David Raju (85774)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Budala Ajitha Rao (66703)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>19071<br>"
+        },
+        "103": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Darsi<br><b>AC NO:  </b>103<hr><b>WINNER:  </b>Sidda Raghava Rao (88821)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Buchepalli Siva Prasad Reddy (87447)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>1374<br>"
+        },
+        "104": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Parchur<br><b>AC NO:  </b>104<hr><b>WINNER:  </b>Yeluri Sambasiva Rao (97248)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Gottipati Bharath Kumar (86473)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>10775<br>"
+        },
+        "105": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Addanki<br><b>AC NO:  </b>105<hr><b>WINNER:  </b>Gottipati Ravikumar (99537)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Karanam Venkatesh (95302)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>4235<br>"
+        },
+        "106": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Chirala<br><b>AC NO:  </b>106<hr><b>WINNER:  </b>Amanchi Krishna Mohan (57544)<br><b>WON BY:  </b>Navodayam Party<br><b>RUNNER:  </b>Pothula Suneetha (47209)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>10335<br>"
+        },
+        "107": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Santhanuthalapadu (SC)<br><b>AC NO:  </b>107<hr><b>WINNER:  </b>Audimulapu Suresh (80954)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>B. N. Vijay Kumar (79678)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>1276<br>"
+        },
+        "108": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Ongole<br><b>AC NO:  </b>108<hr><b>WINNER:  </b>Damacharla Janardhana Rao (93025)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Balineni Srinivasa Reddy (80597)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>12428<br>"
+        },
+        "109": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kandukur<br><b>AC NO:  </b>109<hr><b>WINNER:  </b>Pothula Rama Rao (84538)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Divi Siva Ram (80732)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>3806<br>"
+        },
+        "110": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kondapi (SC)<br><b>AC NO:  </b>110<hr><b>WINNER:  </b>Dola Sree Bala Veeranjaneya Swamy (92234)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Jupudi Prabhakara Rao (86794)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>5440<br>"
+        },
+        "111": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Markapuram<br><b>AC NO:  </b>111<hr><b>WINNER:  </b>Janke Venkata Reddy (82411)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Kandula Narayana Reddy (72609)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>9802<br>"
+        },
+        "112": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Giddalur<br><b>AC NO:  </b>112<hr><b>WINNER:  </b>Ashok Reddy Muthumula (94413)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Anna Rambabu (81520)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>12893<br>"
+        },
+        "113": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kanigiri<br><b>AC NO:  </b>113<hr><b>WINNER:  </b>Kadiri Baburao (79492)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Burra Madhu Sudhan Yadav (72285)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7207<br>"
+        },
+        "114": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kavali<br><b>AC NO:  </b>114<hr><b>WINNER:  </b>Ramireddy Pratap Kumar Reddy (89589)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Beeda Masthan Rao (84620)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>4969<br>"
+        },
+        "115": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Atmakur<br><b>AC NO:  </b>115<hr><b>WINNER:  </b>Mekapati Goutham Reddy (91686)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Guturu Murali Kanna Babu (60274)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>31412<br>"
+        },
+        "116": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kovur<br><b>AC NO:  </b>116<hr><b>WINNER:  </b>Polam Reddy Srinivasulu Reddy (94108)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Nallapa Reddy Prasanna Kumar Reddy (86171)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7937<br>"
+        },
+        "117": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nellore City<br><b>AC NO:  </b>117<hr><b>WINNER:  </b>Anil Kumar Poluboina (74372)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Mungamuru Sridhara Krishna Reddy (55285)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>19087<br>"
+        },
+        "118": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nellore Rural<br><b>AC NO:  </b>118<hr><b>WINNER:  </b>Kotamreddy Sridhar Reddy (79103)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Sannapureddy Suresh Reddy (53450)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>25653<br>"
+        },
+        "119": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Sarvepalli<br><b>AC NO:  </b>119<hr><b>WINNER:  </b>Kakani Govardhan Reddy (85744)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Chandra Mohan Reddy Somireddy (80298)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>5446<br>"
+        },
+        "120": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Gudur<br><b>AC NO:  </b>120<hr><b>WINNER:  </b>Pasim Sunil Kumar (80698)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Bathala Radha Jyothsna Latha (71650)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>9048<br>"
+        },
+        "121": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Sullurpeta<br><b>AC NO:  </b>121<hr><b>WINNER:  </b>Kiliveti Sanjeevaiah (85343)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Parasa Venkata Rathnaiah (81617)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>3726<br>"
+        },
+        "122": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Venkatagiri<br><b>AC NO:  </b>122<hr><b>WINNER:  </b>Kurugondla Ramakrishna (83669)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kommi Lakshmaiah Naidu (78034)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>5635<br>"
+        },
+        "123": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Udayagiri<br><b>AC NO:  </b>123<hr><b>WINNER:  </b>Bollineni Venkata Ramarao (85873)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Mekapati Chandra Sekhar Reddy (82251)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>3622<br>"
+        },
+        "124": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Badvel<br><b>AC NO:  </b>124<hr><b>WINNER:  </b>Thiriveedi Jayaramulu (78879)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>N D Vijaya Jyothi (68800)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>10079<br>"
+        },
+        "125": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Rajampet<br><b>AC NO:  </b>125<hr><b>WINNER:  </b>Meda Venkata Mallikarjuna Reddy (83884)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Amarnath Reddy Akepati (72267)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>11617<br>"
+        },
+        "126": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kadapa<br><b>AC NO:  </b>126<hr><b>WINNER:  </b>Amzath Basha Shaik Bepari (95077)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Durgaprasad Rao Sudha (49872)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>45205<br>"
+        },
+        "127": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kodur<br><b>AC NO:  </b>127<hr><b>WINNER:  </b>Koramutla Sreenivasulu (66820)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Obili Subbaramaiah (64848)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>1972<br>"
+        },
+        "128": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rayachoti<br><b>AC NO:  </b>128<hr><b>WINNER:  </b>Gadikota Srikanth Reddy (96891)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Ramesh Kumar Reddy Reddappagari (62109)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>34782<br>"
+        },
+        "129": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pulivendula<br><b>AC NO:  </b>129<hr><b>WINNER:  </b>Y. S. Jaganmohan Reddy (124576)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Satish Reddy Singareddy (49333)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>75243<br>"
+        },
+        "130": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kamalapuram<br><b>AC NO:  </b>130<hr><b>WINNER:  </b>Pochimareddy Ravindranath Reddy (78547)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Putha Narasimha Reddy (73202)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>5345<br>"
+        },
+        "131": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Jammalamadugu<br><b>AC NO:  </b>131<hr><b>WINNER:  </b>Chadipirala Adinarayana Reddy (100794)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Rama Subba Reddy Ponnapureddy (88627)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>12167<br>"
+        },
+        "132": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Proddatur<br><b>AC NO:  </b>132<hr><b>WINNER:  </b>Rachamallu Siva Prasad Reddy (93866)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Nandyala Varada Rajulu Reddy (80921)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>12945<br>"
+        },
+        "133": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Mydukur<br><b>AC NO:  </b>133<hr><b>WINNER:  </b>Raghuramireddy Settipalli (85539)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Putta Sudhakar Yadav (74017)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>11522<br>"
+        },
+        "134": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Allagadda<br><b>AC NO:  </b>134<hr><b>WINNER:  </b>Bhima Shobha Nagi Reddy (92108)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Gangula Prabhakara Reddy (74180)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>17928<br>"
+        },
+        "135": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Srisailam<br><b>AC NO:  </b>135<hr><b>WINNER:  </b>Budda Rajasekhara Reddy (74249)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Silpa Chakrapani Reddy (69388)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>4861<br>"
+        },
+        "136": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nandikotkur<br><b>AC NO:  </b>136<hr><b>WINNER:  </b>Isaiah Yakkaladevi (87496)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Labbi Venkata Swamy (65682)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>21814<br>"
+        },
+        "137": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kurnool<br><b>AC NO:  </b>137<hr><b>WINNER:  </b>S.V.Mohan Reddy (57962)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>T. G. Venkatesh (54483)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>3479<br>"
+        },
+        "138": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Panyam<br><b>AC NO:  </b>138<hr><b>WINNER:  </b>Gowru Charitha Reddy (72245)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Katasani Rambhupal Reddy (60598)<br><b>LOST BY:  </b>Secular Democratic Labour Party of India<br><b>margin:  </b>11647<br>"
+        },
+        "139": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nandyal<br><b>AC NO:  </b>139<hr><b>WINNER:  </b>Bhuma Nagi Reddy (82194)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Silpa Mohan Reddy (78590)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>3604<br>"
+        },
+        "140": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Banaganapalle<br><b>AC NO:  </b>140<hr><b>WINNER:  </b>B.C.Janardhan Reddy (95727)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Katasani Rami Reddy (78386)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>17341<br>"
+        },
+        "141": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Dhone<br><b>AC NO:  </b>141<hr><b>WINNER:  </b>Buggana Rajendranath (83683)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>K.E. Prathap (72531)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>11152<br>"
+        },
+        "142": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Pattikonda<br><b>AC NO:  </b>142<hr><b>WINNER:  </b>K. E. Krishnamurthy (62706)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kotla Hari Chakrapani Reddy (54807)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7899<br>"
+        },
+        "143": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kodumur<br><b>AC NO:  </b>143<hr><b>WINNER:  </b>M Mani Gandhi (84206)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Madharapu Renuka (31822)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>52384<br>"
+        },
+        "144": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Yemmiganur<br><b>AC NO:  </b>144<hr><b>WINNER:  </b>B Jaya Nageswara Reddy (84483)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>K Jagan Mohan Reddy (70122)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>14361<br>"
+        },
+        "145": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Mantralayam<br><b>AC NO:  </b>145<hr><b>WINNER:  </b>Y Balanagi Reddy (69858)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Palakurthi Thikka Reddy (62396)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>7462<br>"
+        },
+        "146": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Adoni<br><b>AC NO:  </b>146<hr><b>WINNER:  </b>Y Sai Prasad Reddy (72121)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Konka Meenakshi Naidu (55290)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>16831<br>"
+        },
+        "147": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Alur<br><b>AC NO:  </b>147<hr><b>WINNER:  </b>Gummanur Jayaram (69466)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>B Veerabhadra Gowd (67547)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>1919<br>"
+        },
+        "148": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Rayadurg<br><b>AC NO:  </b>148<hr><b>WINNER:  </b>Kalava Srinivasulu (92344)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kapu Ramachandra Reddy (90517)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>1827<br>"
+        },
+        "149": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Uravakonda<br><b>AC NO:  </b>149<hr><b>WINNER:  </b>Y. Visweswara Reddy (81042)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Payyavula Keshav (78767)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>2275<br>"
+        },
+        "150": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Guntakal<br><b>AC NO:  </b>150<hr><b>WINNER:  </b>R.Jitendra Gowd (81655)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Y.Venkatarama Reddy (76561)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>5094<br>"
+        },
+        "151": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Tadpatri<br><b>AC NO:  </b>151<hr><b>WINNER:  </b>J C Prabhakar Reddy (96740)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>V R Rami Reddy (74568)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>22172<br>"
+        },
+        "152": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Singanamala<br><b>AC NO:  </b>152<hr><b>WINNER:  </b>B Yamini Bala (86679)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Padmavathy Jonnalagadda (82095)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>4584<br>"
+        },
+        "153": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Anantapur Urban<br><b>AC NO:  </b>153<hr><b>WINNER:  </b>Prabhakar Chowdary .V (74704)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>B Gurunatha Reddy (65370)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>9334<br>"
+        },
+        "154": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kalyandurg<br><b>AC NO:  </b>154<hr><b>WINNER:  </b>Vunnam Hanumantharaya Chowdary (91981)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Boya Thippe Swamy (69662)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>22319<br>"
+        },
+        "155": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Raptadu<br><b>AC NO:  </b>155<hr><b>WINNER:  </b>Paritala Sunitha (91394)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Thopudurthi Prakash Reddy (83620)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7774<br>"
+        },
+        "156": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Madakasira<br><b>AC NO:  </b>156<hr><b>WINNER:  </b>K. Eranna (76741)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>M. Thippeswamy (62029)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>14712<br>"
+        },
+        "157": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Hindupur<br><b>AC NO:  </b>157<hr><b>WINNER:  </b>Nandamuri Balakrishna (81543)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>B Naveen Nischal (65347)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>16196<br>"
+        },
+        "158": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Penukonda<br><b>AC NO:  </b>158<hr><b>WINNER:  </b>B K Parthasarathi (79793)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Malagundla Sankaranarayana (62378)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>17415<br>"
+        },
+        "159": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Puttaparthi<br><b>AC NO:  </b>159<hr><b>WINNER:  </b>Palle Raghunatha Reddy (76910)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Chinthapanti Somasekhara Reddy (69946)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>6964<br>"
+        },
+        "160": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Dharmavaram<br><b>AC NO:  </b>160<hr><b>WINNER:  </b>Gonuguntla Suryanarayana (99246)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Kethireddy Venkatarami Reddy (85035)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>14211<br>"
+        },
+        "161": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kadiri<br><b>AC NO:  </b>161<hr><b>WINNER:  </b>Attar Chand Basha (81639)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Kandikunta Venkata Prasad (80671)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>968<br>"
+        },
+        "162": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Thamballapalle<br><b>AC NO:  </b>162<hr><b>WINNER:  </b>G Shankar (82090)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Anipireddy Venkata Praveen Kumar Reddy (72900)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>9190<br>"
+        },
+        "163": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pileru<br><b>AC NO:  </b>163<hr><b>WINNER:  </b>C Ramachandra Reddy (71949)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Nallari Kishan Kumar Reddy (56636)<br><b>LOST BY:  </b>JSP<br><b>margin:  </b>15313<br>"
+        },
+        "164": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Madanapalle<br><b>AC NO:  </b>164<hr><b>WINNER:  </b>D Thippa Reddy (81252)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Challapalle Narasimha Reddy (64663)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>16589<br>"
+        },
+        "165": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Punganur<br><b>AC NO:  </b>165<hr><b>WINNER:  </b>Peddireddy Ramachandra Reddy (104587)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>M Venkataramana Raju (72856)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>31731<br>"
+        },
+        "166": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Chandragiri<br><b>AC NO:  </b>166<hr><b>WINNER:  </b>Chevireddy Bhaskar Reddy (100924)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Aruna Kumari Galla (96406)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>4518<br>"
+        },
+        "167": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Tirupati<br><b>AC NO:  </b>167<hr><b>WINNER:  </b>M Venkataramana (99313)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Bhumana Karunakar Reddy (57774)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>41539<br>"
+        },
+        "168": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Srikalahasti<br><b>AC NO:  </b>168<hr><b>WINNER:  </b>Bojjala Gopala Krishna Reddy (89953)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Biyyapu Madhusudhan Reddy (82370)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>7583<br>"
+        },
+        "169": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Satyavedu<br><b>AC NO:  </b>169<hr><b>WINNER:  </b>Talari Aditya (77655)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Adimulam Koneti (73428)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>4227<br>"
+        },
+        "170": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nagari<br><b>AC NO:  </b>170<hr><b>WINNER:  </b>R. K. Roja (74724)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Gali Muddu Krishnama Naidu (73866)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>858<br>"
+        },
+        "171": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Gangadhara Nellore(SC)<br><b>AC NO:  </b>171<hr><b>WINNER:  </b>K. Narayana Swamy (84538)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Kuthuhalam Gummadi (63973)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>20565<br>"
+        },
+        "172": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chittoor<br><b>AC NO:  </b>172<hr><b>WINNER:  </b>D A Sathya Prabha (73430)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Aranii Srenevasulu (66631)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>6799<br>"
+        },
+        "173": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Puthalapattu<br><b>AC NO:  </b>173<hr><b>WINNER:  </b>M Sunil Kumar (83200)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Lalitha Kumari (82298)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>902<br>"
+        },
+        "174": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Palamaner<br><b>AC NO:  </b>174<hr><b>WINNER:  </b>Amarnatha Reddy. N (96541)<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>R V Subash Chandra Bose (93651)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>2890<br>"
+        },
+        "175": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Kuppam<br><b>AC NO:  </b>175<hr><b>WINNER:  </b>N. Chandrababu Naidu (102952)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Krishna Chandra Mouli (69424)<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>47121<br>"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "title": "2019 PUNJAB PARLIAMENT ELECTIONS",
+    "trigger": "PC_NO",
+    "desc": "<a href='?map=punjab2019par'><button>assembly-wise-results</button></a></br><table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>INC</td><td>8</td><td style=\"background-color: rgba(0.0,215.0,255.0,1);\">  </td></tr><tr><td>2</td><td>BJP</td><td>2</td><td style=\"background-color: rgba(250.0,181.0,5.0,1);\">  </td></tr><tr><td>3</td><td>SAD</td><td>2</td><td style=\"background-color: rgba(251.99865000000003,214.00109999999998,112.0011,1);\">  </td></tr><tr><td>4</td><td>AAAP</td><td>1</td><td style=\"background-color: rgba(14.999099999999999,31.99995,74.001,0.5);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">The 2019 Indian general election in Punjab was held on 19 May 2019,making it seventh and the last phase of the election. Counting was held on 23 May 2019 and result was also declared on same day.</td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gurdaspur<br><b>AC NO:  </b>1<hr><b>WINNER:  </b>SUNNY DEOL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SUNIL JAKHAR<br><b>LOST BY:  </b>INC<br><b>margin:  </b>82459<br>"
+        },
+        "3": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Khadoor Sahib<br><b>AC NO:  </b>3<hr><b>WINNER:  </b>JASBIR SINGH GILL (DIMPA)<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>BIBI JAGIR KAUR<br><b>LOST BY:  </b>SAD<br><b>margin:  </b>140573<br>"
+        },
+        "5": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Hoshiarpur<br><b>AC NO:  </b>5<hr><b>WINNER:  </b>SOM PARKASH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr. RAJ KUMAR CHABBEWAL<br><b>LOST BY:  </b>INC<br><b>margin:  </b>48530<br>"
+        },
+        "10": {
+            "color": "rgba(251.99865000000003,214.00109999999998,112.0011,1)",
+            "matter": "<b>AC NAME: </b>Firozpur<br><b>AC NO:  </b>10<hr><b>WINNER:  </b>SUKHBIR SINGH BADAL<br><b>WON BY:  </b>SAD<br><b>RUNNER:  </b>SHER SINGH GHUBAYA<br><b>LOST BY:  </b>INC<br><b>margin:  </b>198850<br>"
+        },
+        "12": {
+            "color": "rgba(14.999099999999999,31.99995,74.001,0.5)",
+            "matter": "<b>AC NAME: </b>Sangrur<br><b>AC NO:  </b>12<hr><b>WINNER:  </b>BHAGWANT MANN<br><b>WON BY:  </b>AAAP<br><b>RUNNER:  </b>KEWAL SINGH DHILLON<br><b>LOST BY:  </b>INC<br><b>margin:  </b>110211<br>"
+        },
+        "11": {
+            "color": "rgba(251.99865000000003,214.00109999999998,112.0011,1)",
+            "matter": "<b>AC NAME: </b>Bathinda<br><b>AC NO:  </b>11<hr><b>WINNER:  </b>Harsimrat Kaur Badal<br><b>WON BY:  </b>SAD<br><b>RUNNER:  </b>Amrinder Singh Raja Warring<br><b>LOST BY:  </b>INC<br><b>margin:  </b>21772<br>"
+        },
+        "4": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Jalandhar<br><b>AC NO:  </b>4<hr><b>WINNER:  </b>Santokh Singh Chaudhary<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Charanjit Singh Atwal<br><b>LOST BY:  </b>SAD<br><b>margin:  </b>19491<br>"
+        },
+        "9": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Faridkot<br><b>AC NO:  </b>9<hr><b>WINNER:  </b>Mohammad Sadique<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Gulzar Singh Ranike<br><b>LOST BY:  </b>SAD<br><b>margin:  </b>83256<br>"
+        },
+        "2": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Amritsar<br><b>AC NO:  </b>2<hr><b>WINNER:  </b>GURJEET SINGH AUJLA<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>HARDEEP SINGH PURI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>99626<br>"
+        },
+        "6": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Anandpur Sahib<br><b>AC NO:  </b>6<hr><b>WINNER:  </b>Manish Tewari<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Professor Prem Singh Chandumajra<br><b>LOST BY:  </b>SAD<br><b>margin:  </b>46884<br>"
+        },
+        "8": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Fatehgarh Sahib<br><b>AC NO:  </b>8<hr><b>WINNER:  </b>AMAR SINGH<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>DARBARA SINGH GURU<br><b>LOST BY:  </b>SAD<br><b>margin:  </b>93898<br>"
+        },
+        "7": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Ludhiana<br><b>AC NO:  </b>7<hr><b>WINNER:  </b>RAVNEET SINGH BITTU<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>SIMARJEET SINGH BAINS<br><b>LOST BY:  </b>LIP<br><b>margin:  </b>76372<br>"
+        },
+        "13": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Patiala<br><b>AC NO:  </b>13<hr><b>WINNER:  </b>Preneet Kaur<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Surjit Singh Rakhra<br><b>LOST BY:  </b>SAD<br><b>margin:  </b>162718<br>"
+        }
+    }
+}

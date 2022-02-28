@@ -1,0 +1,1619 @@
+{
+    "title": "2017 UP PARILAMENT ELECTIONS",
+    "trigger": "AC_NO",
+    "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>BJP</td><td>275</td><td style=\"background-color: rgba(250.0,181.0,5.0,1);\">  </td></tr><tr><td>2</td><td>BSP</td><td>65</td><td style=\"background-color: rgba(0,0,255,1);\">  </td></tr><tr><td>3</td><td>SP</td><td>40</td><td style=\"background-color: rgba(108.88499999999999,255.0,207.06,1);\">  </td></tr><tr><td>4</td><td>ADAL</td><td>9</td><td style=\"background-color: rgba(248.0,71.0,151.0,1);\">  </td></tr><tr><td>5</td><td>INC</td><td>8</td><td style=\"background-color: rgba(0.0,192.01500000000001,255.0,1);\">  </td></tr><tr><td>6</td><td>IND</td><td>6</td><td style=\"background-color: rgba(0,0,0,0.2);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">The 2019 Indian general election in Uttar Pradesh was held between 11 April and 19 May 2019 to constitute the 17th Lok Sabha. The election results were declared on 23 May which saw the BJP led Alliance winning majority of seats.</td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Behat (Saharanpur)<br><b>AC NO:  </b>1<hr><b>WINNER:  </b>HAJI FAZLUR REHMAN<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAGHAV LAKHANPAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>11415.0<br>"
+        },
+        "2": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Nakur (Kairana)<br><b>AC NO:  </b>2<hr><b>WINNER:  </b>Tabassum Begum<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Pradeep Kumar<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>4058.0<br>"
+        },
+        "3": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Saharanpur Nagar (Saharanpur)<br><b>AC NO:  </b>3<hr><b>WINNER:  </b>RAGHAV LAKHANPAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>HAJI FAZLUR REHMAN<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>57839.0<br>"
+        },
+        "4": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Saharanpur   (Saharanpur)<br><b>AC NO:  </b>4<hr><b>WINNER:  </b>HAJI FAZLUR REHMAN<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAGHAV LAKHANPAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>51364.0<br>"
+        },
+        "5": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Deoband (Saharanpur)<br><b>AC NO:  </b>5<hr><b>WINNER:  </b>HAJI FAZLUR REHMAN<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAGHAV LAKHANPAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>6896.0<br>"
+        },
+        "6": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Rampur Maniharan  (Saharanpur)<br><b>AC NO:  </b>6<hr><b>WINNER:  </b>HAJI FAZLUR REHMAN<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAGHAV LAKHANPAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>11490.0<br>"
+        },
+        "7": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gangoh (Kairana)<br><b>AC NO:  </b>7<hr><b>WINNER:  </b>Pradeep Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Tabassum Begum<br><b>LOST BY:  </b>SP<br><b>margin:  </b>30256.0<br>"
+        },
+        "8": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kairana (Kairana)<br><b>AC NO:  </b>8<hr><b>WINNER:  </b>Pradeep Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Tabassum Begum<br><b>LOST BY:  </b>SP<br><b>margin:  </b>15481.0<br>"
+        },
+        "9": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Thana Bhawan (Kairana)<br><b>AC NO:  </b>9<hr><b>WINNER:  </b>Pradeep Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Tabassum Begum<br><b>LOST BY:  </b>SP<br><b>margin:  </b>12050.0<br>"
+        },
+        "10": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Shamli (Kairana)<br><b>AC NO:  </b>10<hr><b>WINNER:  </b>Pradeep Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Tabassum Begum<br><b>LOST BY:  </b>SP<br><b>margin:  </b>36312.0<br>"
+        },
+        "11": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Budhana (Muzaffarnagar)<br><b>AC NO:  </b>11<hr><b>WINNER:  </b>Ajit Singh<br><b>WON BY:  </b>RLD<br><b>RUNNER:  </b>Sanjeev Kumar Balyan<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>16645.0<br>"
+        },
+        "12": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Charthawal (Muzaffarnagar)<br><b>AC NO:  </b>12<hr><b>WINNER:  </b>Ajit Singh<br><b>WON BY:  </b>RLD<br><b>RUNNER:  </b>Sanjeev Kumar Balyan<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>16430.0<br>"
+        },
+        "13": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Purqazi  (Bijnor)<br><b>AC NO:  </b>13<hr><b>WINNER:  </b>MALOOK NAGAR<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJA BHARATENDRA SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>19436.0<br>"
+        },
+        "14": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Muzaffar Nagar (Muzaffarnagar)<br><b>AC NO:  </b>14<hr><b>WINNER:  </b>Sanjeev Kumar Balyan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ajit Singh<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>14302.0<br>"
+        },
+        "15": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Khatauli (Muzaffarnagar)<br><b>AC NO:  </b>15<hr><b>WINNER:  </b>Sanjeev Kumar Balyan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ajit Singh<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>15428.0<br>"
+        },
+        "16": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Meerapur (Bijnor)<br><b>AC NO:  </b>16<hr><b>WINNER:  </b>MALOOK NAGAR<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJA BHARATENDRA SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>29131.0<br>"
+        },
+        "17": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Najibabad (Nagina)<br><b>AC NO:  </b>17<hr><b>WINNER:  </b>GIRISH CHANDRA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DR. YASHWANT SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>53936.0<br>"
+        },
+        "18": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Nagina  (Nagina)<br><b>AC NO:  </b>18<hr><b>WINNER:  </b>GIRISH CHANDRA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DR. YASHWANT SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>55673.0<br>"
+        },
+        "19": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Barhapur (Moradabad)<br><b>AC NO:  </b>19<hr><b>WINNER:  </b>Dr. S.T. HASAN<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>KUNWAR SARVESH KUMAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>10692.0<br>"
+        },
+        "20": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Dhampur (Nagina)<br><b>AC NO:  </b>20<hr><b>WINNER:  </b>GIRISH CHANDRA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DR. YASHWANT SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>23760.0<br>"
+        },
+        "21": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Nehtaur (Nagina)<br><b>AC NO:  </b>21<hr><b>WINNER:  </b>GIRISH CHANDRA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DR. YASHWANT SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>15433.0<br>"
+        },
+        "22": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Bijnor (Bijnor)<br><b>AC NO:  </b>22<hr><b>WINNER:  </b>MALOOK NAGAR<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJA BHARATENDRA SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>17402.0<br>"
+        },
+        "23": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Chandpur (Bijnor)<br><b>AC NO:  </b>23<hr><b>WINNER:  </b>MALOOK NAGAR<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJA BHARATENDRA SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>51.0<br>"
+        },
+        "24": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Noorpur (Nagina)<br><b>AC NO:  </b>24<hr><b>WINNER:  </b>GIRISH CHANDRA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DR. YASHWANT SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>19045.0<br>"
+        },
+        "25": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Kanth (Moradabad)<br><b>AC NO:  </b>25<hr><b>WINNER:  </b>Dr. S.T. HASAN<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>KUNWAR SARVESH KUMAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>45719.0<br>"
+        },
+        "26": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Thakurdwara (Moradabad)<br><b>AC NO:  </b>26<hr><b>WINNER:  </b>Dr. S.T. HASAN<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>KUNWAR SARVESH KUMAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>14396.0<br>"
+        },
+        "27": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Moradabad Rural (Moradabad)<br><b>AC NO:  </b>27<hr><b>WINNER:  </b>Dr. S.T. HASAN<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>KUNWAR SARVESH KUMAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>39498.0<br>"
+        },
+        "28": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Moradabad Nagar (Moradabad)<br><b>AC NO:  </b>28<hr><b>WINNER:  </b>KUNWAR SARVESH KUMAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr. S.T. HASAN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>11217.0<br>"
+        },
+        "29": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Kundarki (Sambhal)<br><b>AC NO:  </b>29<hr><b>WINNER:  </b>DR. SHAFIQUR REHMAN BARQ<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PARAMESHVAR LAL SAINI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>67343.0<br>"
+        },
+        "30": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Bilari (Sambhal)<br><b>AC NO:  </b>30<hr><b>WINNER:  </b>DR. SHAFIQUR REHMAN BARQ<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PARAMESHVAR LAL SAINI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>9460.0<br>"
+        },
+        "31": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Chandausi  (Sambhal)<br><b>AC NO:  </b>31<hr><b>WINNER:  </b>PARAMESHVAR LAL SAINI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DR. SHAFIQUR REHMAN BARQ<br><b>LOST BY:  </b>SP<br><b>margin:  </b>34943.0<br>"
+        },
+        "32": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Asmoli (Sambhal)<br><b>AC NO:  </b>32<hr><b>WINNER:  </b>DR. SHAFIQUR REHMAN BARQ<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PARAMESHVAR LAL SAINI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>37081.0<br>"
+        },
+        "33": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Sambhal (Sambhal)<br><b>AC NO:  </b>33<hr><b>WINNER:  </b>DR. SHAFIQUR REHMAN BARQ<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PARAMESHVAR LAL SAINI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>96098.0<br>"
+        },
+        "34": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Suar (Rampur)<br><b>AC NO:  </b>34<hr><b>WINNER:  </b>Mohammad Azam Khan<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Jayaprada Nahata<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>63759.0<br>"
+        },
+        "35": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Chamraua (Rampur)<br><b>AC NO:  </b>35<hr><b>WINNER:  </b>Mohammad Azam Khan<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Jayaprada Nahata<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>39840.0<br>"
+        },
+        "36": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bilaspur (Rampur)<br><b>AC NO:  </b>36<hr><b>WINNER:  </b>Jayaprada Nahata<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Mohammad Azam Khan<br><b>LOST BY:  </b>SP<br><b>margin:  </b>24916.0<br>"
+        },
+        "37": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Rampur   (Rampur)<br><b>AC NO:  </b>37<hr><b>WINNER:  </b>Mohammad Azam Khan<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Jayaprada Nahata<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>40130.0<br>"
+        },
+        "38": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Milak  (Rampur)<br><b>AC NO:  </b>38<hr><b>WINNER:  </b>Jayaprada Nahata<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Mohammad Azam Khan<br><b>LOST BY:  </b>SP<br><b>margin:  </b>8425.0<br>"
+        },
+        "39": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Dhanaura  (Amroha)<br><b>AC NO:  </b>39<hr><b>WINNER:  </b>KANWAR SINGH TANWAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KUNWAR DANISH ALI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>2117.0<br>"
+        },
+        "40": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Naugawan Sadat (Amroha)<br><b>AC NO:  </b>40<hr><b>WINNER:  </b>KUNWAR DANISH ALI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>KANWAR SINGH TANWAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>5714.0<br>"
+        },
+        "41": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Amroha (Amroha)<br><b>AC NO:  </b>41<hr><b>WINNER:  </b>KUNWAR DANISH ALI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>KANWAR SINGH TANWAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>90256.0<br>"
+        },
+        "42": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Hasanpur (Amroha)<br><b>AC NO:  </b>42<hr><b>WINNER:  </b>KANWAR SINGH TANWAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KUNWAR DANISH ALI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>18433.0<br>"
+        },
+        "43": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Siwalkhas (Baghpat)<br><b>AC NO:  </b>43<hr><b>WINNER:  </b>JAYANT CHAUDHARY<br><b>WON BY:  </b>RLD<br><b>RUNNER:  </b>Dr. SATYAPAL SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>34773.0<br>"
+        },
+        "44": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sardhana (Muzaffarnagar)<br><b>AC NO:  </b>44<hr><b>WINNER:  </b>Sanjeev Kumar Balyan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ajit Singh<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>7127.0<br>"
+        },
+        "45": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Hastinapur  (Bijnor)<br><b>AC NO:  </b>45<hr><b>WINNER:  </b>MALOOK NAGAR<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJA BHARATENDRA SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>5743.0<br>"
+        },
+        "46": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Kithore (Meerut)<br><b>AC NO:  </b>46<hr><b>WINNER:  </b>HAJI MOHAMMAD YAQOOB<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJENDRA AGARWAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>21817.0<br>"
+        },
+        "47": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Meerut Cantt. (Meerut)<br><b>AC NO:  </b>47<hr><b>WINNER:  </b>RAJENDRA AGARWAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>HAJI MOHAMMAD YAQOOB<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>102752.0<br>"
+        },
+        "48": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Meerut   (Meerut)<br><b>AC NO:  </b>48<hr><b>WINNER:  </b>HAJI MOHAMMAD YAQOOB<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJENDRA AGARWAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>30396.0<br>"
+        },
+        "49": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Meerut South (Meerut)<br><b>AC NO:  </b>49<hr><b>WINNER:  </b>HAJI MOHAMMAD YAQOOB<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJENDRA AGARWAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>29714.0<br>"
+        },
+        "50": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Chhaprauli (Baghpat)<br><b>AC NO:  </b>50<hr><b>WINNER:  </b>JAYANT CHAUDHARY<br><b>WON BY:  </b>RLD<br><b>RUNNER:  </b>Dr. SATYAPAL SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>13142.0<br>"
+        },
+        "51": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Baraut (Baghpat)<br><b>AC NO:  </b>51<hr><b>WINNER:  </b>Dr. SATYAPAL SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>JAYANT CHAUDHARY<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>14381.0<br>"
+        },
+        "52": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Baghpat (Baghpat)<br><b>AC NO:  </b>52<hr><b>WINNER:  </b>Dr. SATYAPAL SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>JAYANT CHAUDHARY<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>15637.0<br>"
+        },
+        "53": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Loni (Ghaziabad)<br><b>AC NO:  </b>53<hr><b>WINNER:  </b>Vijay Kumar Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Suresh Bansal<br><b>LOST BY:  </b>SP<br><b>margin:  </b>63542.0<br>"
+        },
+        "54": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Muradnagar (Ghaziabad)<br><b>AC NO:  </b>54<hr><b>WINNER:  </b>Vijay Kumar Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Suresh Bansal<br><b>LOST BY:  </b>SP<br><b>margin:  </b>101033.0<br>"
+        },
+        "55": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sahibabad (Ghaziabad)<br><b>AC NO:  </b>55<hr><b>WINNER:  </b>Vijay Kumar Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Suresh Bansal<br><b>LOST BY:  </b>SP<br><b>margin:  </b>259712.0<br>"
+        },
+        "56": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gaziabad (Ghaziabad)<br><b>AC NO:  </b>56<hr><b>WINNER:  </b>Vijay Kumar Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Suresh Bansal<br><b>LOST BY:  </b>SP<br><b>margin:  </b>86221.0<br>"
+        },
+        "57": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Modi Nagar (Baghpat)<br><b>AC NO:  </b>57<hr><b>WINNER:  </b>Dr. SATYAPAL SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>JAYANT CHAUDHARY<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>36734.0<br>"
+        },
+        "58": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Dholana (Ghaziabad)<br><b>AC NO:  </b>58<hr><b>WINNER:  </b>Suresh Bansal<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Vijay Kumar Singh<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>10547.0<br>"
+        },
+        "59": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Hapur  (Meerut)<br><b>AC NO:  </b>59<hr><b>WINNER:  </b>HAJI MOHAMMAD YAQOOB<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAJENDRA AGARWAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>18446.0<br>"
+        },
+        "60": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Garhmukteshwar (Amroha)<br><b>AC NO:  </b>60<hr><b>WINNER:  </b>KANWAR SINGH TANWAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KUNWAR DANISH ALI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>11056.0<br>"
+        },
+        "61": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Noida (Gautam Buddha Nagar)<br><b>AC NO:  </b>61<hr><b>WINNER:  </b>Dr. MAHESH SHARMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SATVEER<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>198060.0<br>"
+        },
+        "62": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Dadri (Gautam Buddha Nagar)<br><b>AC NO:  </b>62<hr><b>WINNER:  </b>Dr. MAHESH SHARMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SATVEER<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>76628.0<br>"
+        },
+        "63": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Jewar (Gautam Buddha Nagar)<br><b>AC NO:  </b>63<hr><b>WINNER:  </b>Dr. MAHESH SHARMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SATVEER<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>7259.0<br>"
+        },
+        "64": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sikandrabad (Gautam Buddha Nagar)<br><b>AC NO:  </b>64<hr><b>WINNER:  </b>Dr. MAHESH SHARMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SATVEER<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>10578.0<br>"
+        },
+        "65": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bulandshahr (Bulandshahr)<br><b>AC NO:  </b>65<hr><b>WINNER:  </b>BHOLA SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>YOGESH VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>15594.0<br>"
+        },
+        "66": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Syana (Bulandshahr)<br><b>AC NO:  </b>66<hr><b>WINNER:  </b>BHOLA SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>YOGESH VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>79075.0<br>"
+        },
+        "67": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Anupshahr (Bulandshahr)<br><b>AC NO:  </b>67<hr><b>WINNER:  </b>BHOLA SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>YOGESH VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>48194.0<br>"
+        },
+        "68": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Debai (Bulandshahr)<br><b>AC NO:  </b>68<hr><b>WINNER:  </b>BHOLA SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>YOGESH VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>94735.0<br>"
+        },
+        "69": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Shikarpur (Bulandshahr)<br><b>AC NO:  </b>69<hr><b>WINNER:  </b>BHOLA SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>YOGESH VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>49140.0<br>"
+        },
+        "70": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Khurja  (Gautam Buddha Nagar)<br><b>AC NO:  </b>70<hr><b>WINNER:  </b>Dr. MAHESH SHARMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SATVEER<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>42218.0<br>"
+        },
+        "71": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Khair  (Aligarh)<br><b>AC NO:  </b>71<hr><b>WINNER:  </b>SATISH KUMAR GAUTAM<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DR. AJEET BALIYAN<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>71249.0<br>"
+        },
+        "72": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Barauli (Aligarh)<br><b>AC NO:  </b>72<hr><b>WINNER:  </b>SATISH KUMAR GAUTAM<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DR. AJEET BALIYAN<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>82160.0<br>"
+        },
+        "73": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Atrauli (Aligarh)<br><b>AC NO:  </b>73<hr><b>WINNER:  </b>SATISH KUMAR GAUTAM<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DR. AJEET BALIYAN<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>46333.0<br>"
+        },
+        "74": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Chharra (Hathras)<br><b>AC NO:  </b>74<hr><b>WINNER:  </b>RAJVIR DILER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAMJI LAL SUMAN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>37648.0<br>"
+        },
+        "75": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Koil (Aligarh)<br><b>AC NO:  </b>75<hr><b>WINNER:  </b>SATISH KUMAR GAUTAM<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DR. AJEET BALIYAN<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>6107.0<br>"
+        },
+        "76": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Aligarh (Aligarh)<br><b>AC NO:  </b>76<hr><b>WINNER:  </b>SATISH KUMAR GAUTAM<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DR. AJEET BALIYAN<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>21066.0<br>"
+        },
+        "77": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Iglas  (Hathras)<br><b>AC NO:  </b>77<hr><b>WINNER:  </b>RAJVIR DILER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAMJI LAL SUMAN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>73701.0<br>"
+        },
+        "78": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Hathras  (Hathras)<br><b>AC NO:  </b>78<hr><b>WINNER:  </b>RAJVIR DILER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAMJI LAL SUMAN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>68665.0<br>"
+        },
+        "79": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sadabad (Hathras)<br><b>AC NO:  </b>79<hr><b>WINNER:  </b>RAJVIR DILER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAMJI LAL SUMAN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>58737.0<br>"
+        },
+        "80": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sikandra Rao (Hathras)<br><b>AC NO:  </b>80<hr><b>WINNER:  </b>RAJVIR DILER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAMJI LAL SUMAN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>18460.0<br>"
+        },
+        "81": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Chhata (Mathura)<br><b>AC NO:  </b>81<hr><b>WINNER:  </b>HEMA MALINI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KUNWAR NARENDRA SINGH<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>80111.0<br>"
+        },
+        "82": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mant (Mathura)<br><b>AC NO:  </b>82<hr><b>WINNER:  </b>HEMA MALINI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KUNWAR NARENDRA SINGH<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>42217.0<br>"
+        },
+        "83": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Goverdhan (Mathura)<br><b>AC NO:  </b>83<hr><b>WINNER:  </b>HEMA MALINI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KUNWAR NARENDRA SINGH<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>36915.0<br>"
+        },
+        "84": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mathura (Mathura)<br><b>AC NO:  </b>84<hr><b>WINNER:  </b>HEMA MALINI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KUNWAR NARENDRA SINGH<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>101047.0<br>"
+        },
+        "85": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Baldev  (Mathura)<br><b>AC NO:  </b>85<hr><b>WINNER:  </b>HEMA MALINI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KUNWAR NARENDRA SINGH<br><b>LOST BY:  </b>RLD<br><b>margin:  </b>29733.0<br>"
+        },
+        "86": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Etmadpur (Agra)<br><b>AC NO:  </b>86<hr><b>WINNER:  </b>Satyapal Singh Baghel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Kumar Soni<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>52754.0<br>"
+        },
+        "87": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Agra Cantt.  (Agra)<br><b>AC NO:  </b>87<hr><b>WINNER:  </b>Satyapal Singh Baghel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Kumar Soni<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>21370.0<br>"
+        },
+        "88": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Agra South (Agra)<br><b>AC NO:  </b>88<hr><b>WINNER:  </b>Satyapal Singh Baghel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Kumar Soni<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>39528.0<br>"
+        },
+        "89": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Agra North (Agra)<br><b>AC NO:  </b>89<hr><b>WINNER:  </b>Satyapal Singh Baghel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Kumar Soni<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>89814.0<br>"
+        },
+        "90": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Agra Rural  (Fatehpur Sikri)<br><b>AC NO:  </b>90<hr><b>WINNER:  </b>RAJKUMAR CHAHAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHREEBHAGWAN SHARMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>79024.0<br>"
+        },
+        "91": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Fatehpur Sikri (Fatehpur Sikri)<br><b>AC NO:  </b>91<hr><b>WINNER:  </b>RAJKUMAR CHAHAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAJ BABBAR<br><b>LOST BY:  </b>INC<br><b>margin:  </b>105032.0<br>"
+        },
+        "92": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kheragarh (Fatehpur Sikri)<br><b>AC NO:  </b>92<hr><b>WINNER:  </b>RAJKUMAR CHAHAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAJ BABBAR<br><b>LOST BY:  </b>INC<br><b>margin:  </b>83554.0<br>"
+        },
+        "93": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Fatehabad (Fatehpur Sikri)<br><b>AC NO:  </b>93<hr><b>WINNER:  </b>RAJKUMAR CHAHAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAJ BABBAR<br><b>LOST BY:  </b>INC<br><b>margin:  </b>108077.0<br>"
+        },
+        "94": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bah (Fatehpur Sikri)<br><b>AC NO:  </b>94<hr><b>WINNER:  </b>RAJKUMAR CHAHAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAJ BABBAR<br><b>LOST BY:  </b>INC<br><b>margin:  </b>80557.0<br>"
+        },
+        "95": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tundla  (Firozabad)<br><b>AC NO:  </b>95<hr><b>WINNER:  </b>Dr. Chandra Sen Jadon<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Akshay Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>29518.0<br>"
+        },
+        "96": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Jasrana (Firozabad)<br><b>AC NO:  </b>96<hr><b>WINNER:  </b>Dr. Chandra Sen Jadon<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Akshay Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>4776.0<br>"
+        },
+        "97": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Firozabad (Firozabad)<br><b>AC NO:  </b>97<hr><b>WINNER:  </b>Dr. Chandra Sen Jadon<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Akshay Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>12973.0<br>"
+        },
+        "98": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Shikohabad (Firozabad)<br><b>AC NO:  </b>98<hr><b>WINNER:  </b>Akshay Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dr. Chandra Sen Jadon<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>11577.0<br>"
+        },
+        "99": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Sirsaganj (Firozabad)<br><b>AC NO:  </b>99<hr><b>WINNER:  </b>Akshay Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dr. Chandra Sen Jadon<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>7326.0<br>"
+        },
+        "100": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kasganj (Etah)<br><b>AC NO:  </b>100<hr><b>WINNER:  </b>Rajveer Singh (Raju Bhaiya)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ku. Devendra Singh Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>45493.0<br>"
+        },
+        "101": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Amanpur (Etah)<br><b>AC NO:  </b>101<hr><b>WINNER:  </b>Rajveer Singh (Raju Bhaiya)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ku. Devendra Singh Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>44927.0<br>"
+        },
+        "102": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Patiyali (Etah)<br><b>AC NO:  </b>102<hr><b>WINNER:  </b>Ku. Devendra Singh Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Rajveer Singh (Raju Bhaiya)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>2572.0<br>"
+        },
+        "103": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Aliganj (Farrukhabad)<br><b>AC NO:  </b>103<hr><b>WINNER:  </b>Mukesh Rajput<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Agarwal<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>43835.0<br>"
+        },
+        "104": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Etah (Etah)<br><b>AC NO:  </b>104<hr><b>WINNER:  </b>Rajveer Singh (Raju Bhaiya)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ku. Devendra Singh Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>14201.0<br>"
+        },
+        "105": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Marhara (Etah)<br><b>AC NO:  </b>105<hr><b>WINNER:  </b>Rajveer Singh (Raju Bhaiya)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ku. Devendra Singh Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>20164.0<br>"
+        },
+        "106": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Jalesar  (Agra)<br><b>AC NO:  </b>106<hr><b>WINNER:  </b>Satyapal Singh Baghel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Kumar Soni<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>6794.0<br>"
+        },
+        "107": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Mainpuri (Mainpuri)<br><b>AC NO:  </b>107<hr><b>WINNER:  </b>MULAYAM SINGH YADAV<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PREM SINGH SHAKYA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>6561.0<br>"
+        },
+        "108": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bhongaon (Mainpuri)<br><b>AC NO:  </b>108<hr><b>WINNER:  </b>PREM SINGH SHAKYA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>MULAYAM SINGH YADAV<br><b>LOST BY:  </b>SP<br><b>margin:  </b>25510.0<br>"
+        },
+        "109": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Kishani (SC) (Mainpuri)<br><b>AC NO:  </b>109<hr><b>WINNER:  </b>MULAYAM SINGH YADAV<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PREM SINGH SHAKYA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>13243.0<br>"
+        },
+        "110": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Karhal (Mainpuri)<br><b>AC NO:  </b>110<hr><b>WINNER:  </b>MULAYAM SINGH YADAV<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PREM SINGH SHAKYA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>38166.0<br>"
+        },
+        "111": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Gunnaur (Badaun)<br><b>AC NO:  </b>111<hr><b>WINNER:  </b>Dharmendra Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dr. Sanghmitra Maurya<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>9628.0<br>"
+        },
+        "112": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bisauli  (Badaun)<br><b>AC NO:  </b>112<hr><b>WINNER:  </b>Dr. Sanghmitra Maurya<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dharmendra Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>5201.0<br>"
+        },
+        "113": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Sahaswan (Badaun)<br><b>AC NO:  </b>113<hr><b>WINNER:  </b>Dharmendra Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dr. Sanghmitra Maurya<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>14780.0<br>"
+        },
+        "114": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bilsi (Badaun)<br><b>AC NO:  </b>114<hr><b>WINNER:  </b>Dr. Sanghmitra Maurya<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dharmendra Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>23440.0<br>"
+        },
+        "115": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Badaun (Badaun)<br><b>AC NO:  </b>115<hr><b>WINNER:  </b>Dr. Sanghmitra Maurya<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dharmendra Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>14151.0<br>"
+        },
+        "116": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Shekhupur (Aonla)<br><b>AC NO:  </b>116<hr><b>WINNER:  </b>RUCHIVIRA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DHARMENDRA KASHYAP<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>9965.0<br>"
+        },
+        "117": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Dataganj (Aonla)<br><b>AC NO:  </b>117<hr><b>WINNER:  </b>DHARMENDRA KASHYAP<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RUCHIVIRA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>40819.0<br>"
+        },
+        "118": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Baheri (Pilibhit)<br><b>AC NO:  </b>118<hr><b>WINNER:  </b>Feroze Varun Gandhi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Hemraj Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>6638.0<br>"
+        },
+        "119": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Meerganj (Bareilly)<br><b>AC NO:  </b>119<hr><b>WINNER:  </b>SANTOSH KUMAR GANGWAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BHAGWAT SARAN GANGWAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>46952.0<br>"
+        },
+        "120": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bhojipura (Bareilly)<br><b>AC NO:  </b>120<hr><b>WINNER:  </b>SANTOSH KUMAR GANGWAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BHAGWAT SARAN GANGWAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>5467.0<br>"
+        },
+        "121": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Nawabganj (Bareilly)<br><b>AC NO:  </b>121<hr><b>WINNER:  </b>SANTOSH KUMAR GANGWAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BHAGWAT SARAN GANGWAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>41840.0<br>"
+        },
+        "122": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Faridpur (Aonla)<br><b>AC NO:  </b>122<hr><b>WINNER:  </b>DHARMENDRA KASHYAP<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RUCHIVIRA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>20644.0<br>"
+        },
+        "123": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bithari Chainpur (Aonla)<br><b>AC NO:  </b>123<hr><b>WINNER:  </b>DHARMENDRA KASHYAP<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RUCHIVIRA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>39242.0<br>"
+        },
+        "124": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bareilly (Bareilly)<br><b>AC NO:  </b>124<hr><b>WINNER:  </b>SANTOSH KUMAR GANGWAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BHAGWAT SARAN GANGWAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>40295.0<br>"
+        },
+        "125": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bareilly Cantt. (Bareilly)<br><b>AC NO:  </b>125<hr><b>WINNER:  </b>SANTOSH KUMAR GANGWAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BHAGWAT SARAN GANGWAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>31576.0<br>"
+        },
+        "126": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Aonla (Aonla)<br><b>AC NO:  </b>126<hr><b>WINNER:  </b>DHARMENDRA KASHYAP<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RUCHIVIRA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>22537.0<br>"
+        },
+        "127": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Pilibhit (Pilibhit)<br><b>AC NO:  </b>127<hr><b>WINNER:  </b>Feroze Varun Gandhi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Hemraj Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>37344.0<br>"
+        },
+        "128": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Barkhera (Pilibhit)<br><b>AC NO:  </b>128<hr><b>WINNER:  </b>Feroze Varun Gandhi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Hemraj Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>97171.0<br>"
+        },
+        "129": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Puranpur (Pilibhit)<br><b>AC NO:  </b>129<hr><b>WINNER:  </b>Feroze Varun Gandhi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Hemraj Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>49696.0<br>"
+        },
+        "130": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bisalpur (Pilibhit)<br><b>AC NO:  </b>130<hr><b>WINNER:  </b>Feroze Varun Gandhi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Hemraj Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>64766.0<br>"
+        },
+        "131": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Katra (Shahjahanpur)<br><b>AC NO:  </b>131<hr><b>WINNER:  </b>Arun Kumar Sagar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Amar Chandra Jauhar<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>37876.0<br>"
+        },
+        "132": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Jalalabad (Shahjahanpur)<br><b>AC NO:  </b>132<hr><b>WINNER:  </b>Arun Kumar Sagar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Amar Chandra Jauhar<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>48730.0<br>"
+        },
+        "133": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tilhar (Shahjahanpur)<br><b>AC NO:  </b>133<hr><b>WINNER:  </b>Arun Kumar Sagar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Amar Chandra Jauhar<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>31552.0<br>"
+        },
+        "134": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Powayan (Shahjahanpur)<br><b>AC NO:  </b>134<hr><b>WINNER:  </b>Arun Kumar Sagar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Amar Chandra Jauhar<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>80292.0<br>"
+        },
+        "135": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Shahjahanpur (Shahjahanpur)<br><b>AC NO:  </b>135<hr><b>WINNER:  </b>Arun Kumar Sagar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Amar Chandra Jauhar<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>17682.0<br>"
+        },
+        "136": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Dadraul (Shahjahanpur)<br><b>AC NO:  </b>136<hr><b>WINNER:  </b>Arun Kumar Sagar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Amar Chandra Jauhar<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>52883.0<br>"
+        },
+        "137": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>PALIA (Kheri)<br><b>AC NO:  </b>137<hr><b>WINNER:  </b>Ajay Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr. Purvi Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>51396.0<br>"
+        },
+        "138": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>NIGHASAN (Kheri)<br><b>AC NO:  </b>138<hr><b>WINNER:  </b>Ajay Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr. Purvi Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>59521.0<br>"
+        },
+        "139": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>GOLA GOKRANNATH (Kheri)<br><b>AC NO:  </b>139<hr><b>WINNER:  </b>Ajay Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr. Purvi Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>22060.0<br>"
+        },
+        "140": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>SRI NAGAR (Kheri)<br><b>AC NO:  </b>140<hr><b>WINNER:  </b>Ajay Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr. Purvi Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>26881.0<br>"
+        },
+        "141": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>DHAURAHRA (Dhaurahra)<br><b>AC NO:  </b>141<hr><b>WINNER:  </b>REKHA VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ARSHAD ILIYAS SIDDIQUI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>48245.0<br>"
+        },
+        "142": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>LAKHIMPUR (Kheri)<br><b>AC NO:  </b>142<hr><b>WINNER:  </b>Ajay Kumar<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr. Purvi Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>58762.0<br>"
+        },
+        "143": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>KASTA (Dhaurahra)<br><b>AC NO:  </b>143<hr><b>WINNER:  </b>REKHA VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ARSHAD ILIYAS SIDDIQUI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>22029.0<br>"
+        },
+        "144": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>MOHAMMDI (Dhaurahra)<br><b>AC NO:  </b>144<hr><b>WINNER:  </b>REKHA VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ARSHAD ILIYAS SIDDIQUI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>9530.0<br>"
+        },
+        "145": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Maholi (Dhaurahra)<br><b>AC NO:  </b>145<hr><b>WINNER:  </b>REKHA VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ARSHAD ILIYAS SIDDIQUI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>39546.0<br>"
+        },
+        "146": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sitapur (Sitapur)<br><b>AC NO:  </b>146<hr><b>WINNER:  </b>Rajesh Verma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nakul Dubey<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>15667.0<br>"
+        },
+        "147": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Hargaon  (Dhaurahra)<br><b>AC NO:  </b>147<hr><b>WINNER:  </b>REKHA VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ARSHAD ILIYAS SIDDIQUI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>41139.0<br>"
+        },
+        "148": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Laharpur (Sitapur)<br><b>AC NO:  </b>148<hr><b>WINNER:  </b>Rajesh Verma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nakul Dubey<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>16305.0<br>"
+        },
+        "149": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Biswan (Sitapur)<br><b>AC NO:  </b>149<hr><b>WINNER:  </b>Rajesh Verma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nakul Dubey<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>6962.0<br>"
+        },
+        "150": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sevata (Sitapur)<br><b>AC NO:  </b>150<hr><b>WINNER:  </b>Rajesh Verma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nakul Dubey<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>37168.0<br>"
+        },
+        "151": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mahmoodabad (Sitapur)<br><b>AC NO:  </b>151<hr><b>WINNER:  </b>Rajesh Verma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nakul Dubey<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>24709.0<br>"
+        },
+        "152": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Sidhauli  (Mohanlalganj)<br><b>AC NO:  </b>152<hr><b>WINNER:  </b>C. L. Verma<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Kaushal Kishore<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>17513.0<br>"
+        },
+        "153": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Misrikh  (Misrikh)<br><b>AC NO:  </b>153<hr><b>WINNER:  </b>Dr Neelu Satyarthi<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Ashok Kumar Rawat<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>10620.0<br>"
+        },
+        "154": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sawaijpur (Hardoi)<br><b>AC NO:  </b>154<hr><b>WINNER:  </b>Jai Prakash<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Usha Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>46834.0<br>"
+        },
+        "155": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Shahabad (Hardoi)<br><b>AC NO:  </b>155<hr><b>WINNER:  </b>Jai Prakash<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Usha Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>18616.0<br>"
+        },
+        "156": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Hardoi (Hardoi)<br><b>AC NO:  </b>156<hr><b>WINNER:  </b>Jai Prakash<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Usha Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>47061.0<br>"
+        },
+        "157": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gopamau  (Hardoi)<br><b>AC NO:  </b>157<hr><b>WINNER:  </b>Jai Prakash<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Usha Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>7474.0<br>"
+        },
+        "158": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sandi  (Hardoi)<br><b>AC NO:  </b>158<hr><b>WINNER:  </b>Jai Prakash<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Usha Verma<br><b>LOST BY:  </b>SP<br><b>margin:  </b>12800.0<br>"
+        },
+        "159": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bilgram-Mallawan (Misrikh)<br><b>AC NO:  </b>159<hr><b>WINNER:  </b>Ashok Kumar Rawat<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr Neelu Satyarthi<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>24234.0<br>"
+        },
+        "160": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Balamau  (Misrikh)<br><b>AC NO:  </b>160<hr><b>WINNER:  </b>Ashok Kumar Rawat<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr Neelu Satyarthi<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>12679.0<br>"
+        },
+        "161": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sandila (Misrikh)<br><b>AC NO:  </b>161<hr><b>WINNER:  </b>Ashok Kumar Rawat<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr Neelu Satyarthi<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>32225.0<br>"
+        },
+        "162": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bangermau (Unnao)<br><b>AC NO:  </b>162<hr><b>WINNER:  </b>Swami Sakshi Ji Maharaj<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Arun Shanker Shukla<br><b>LOST BY:  </b>SP<br><b>margin:  </b>21715.0<br>"
+        },
+        "163": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Safipur  (Unnao)<br><b>AC NO:  </b>163<hr><b>WINNER:  </b>Swami Sakshi Ji Maharaj<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Arun Shanker Shukla<br><b>LOST BY:  </b>SP<br><b>margin:  </b>52213.0<br>"
+        },
+        "164": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mohan  (Unnao)<br><b>AC NO:  </b>164<hr><b>WINNER:  </b>Swami Sakshi Ji Maharaj<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Arun Shanker Shukla<br><b>LOST BY:  </b>SP<br><b>margin:  </b>72021.0<br>"
+        },
+        "165": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Unnao (Unnao)<br><b>AC NO:  </b>165<hr><b>WINNER:  </b>Swami Sakshi Ji Maharaj<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Arun Shanker Shukla<br><b>LOST BY:  </b>SP<br><b>margin:  </b>88219.0<br>"
+        },
+        "166": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bhagwantnagar (Unnao)<br><b>AC NO:  </b>166<hr><b>WINNER:  </b>Swami Sakshi Ji Maharaj<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Arun Shanker Shukla<br><b>LOST BY:  </b>SP<br><b>margin:  </b>87315.0<br>"
+        },
+        "167": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Purwa (Unnao)<br><b>AC NO:  </b>167<hr><b>WINNER:  </b>Swami Sakshi Ji Maharaj<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Arun Shanker Shukla<br><b>LOST BY:  </b>SP<br><b>margin:  </b>78695.0<br>"
+        },
+        "168": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Malihabad (Mohanlalganj)<br><b>AC NO:  </b>168<hr><b>WINNER:  </b>Kaushal Kishore<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>C. L. Verma<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>4294.0<br>"
+        },
+        "169": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bakshi Kaa Talab (Mohanlalganj)<br><b>AC NO:  </b>169<hr><b>WINNER:  </b>Kaushal Kishore<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>C. L. Verma<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>23490.0<br>"
+        },
+        "170": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sarojini Nagar (Mohanlalganj)<br><b>AC NO:  </b>170<hr><b>WINNER:  </b>Kaushal Kishore<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>C. L. Verma<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>61003.0<br>"
+        },
+        "171": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Lucknow West (Lucknow)<br><b>AC NO:  </b>171<hr><b>WINNER:  </b>Rajnath Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Poonam Shatrughan Sinha<br><b>LOST BY:  </b>SP<br><b>margin:  </b>54486.0<br>"
+        },
+        "172": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Lucknow North (Lucknow)<br><b>AC NO:  </b>172<hr><b>WINNER:  </b>Rajnath Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Poonam Shatrughan Sinha<br><b>LOST BY:  </b>SP<br><b>margin:  </b>75157.0<br>"
+        },
+        "173": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Lucknow East (Lucknow)<br><b>AC NO:  </b>173<hr><b>WINNER:  </b>Rajnath Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Poonam Shatrughan Sinha<br><b>LOST BY:  </b>SP<br><b>margin:  </b>99575.0<br>"
+        },
+        "174": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Lucknow Central (Lucknow)<br><b>AC NO:  </b>174<hr><b>WINNER:  </b>Rajnath Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Poonam Shatrughan Sinha<br><b>LOST BY:  </b>SP<br><b>margin:  </b>43843.0<br>"
+        },
+        "175": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>175-LUCKNOW CANTT. (Lucknow)<br><b>AC NO:  </b>175<hr><b>WINNER:  </b>Rajnath Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Poonam Shatrughan Sinha<br><b>LOST BY:  </b>SP<br><b>margin:  </b>71962.0<br>"
+        },
+        "176": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mohanlalganj  (Mohanlalganj)<br><b>AC NO:  </b>176<hr><b>WINNER:  </b>Kaushal Kishore<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>C. L. Verma<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>18501.0<br>"
+        },
+        "177": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bachhrawan  (Rae Bareli)<br><b>AC NO:  </b>177<hr><b>WINNER:  </b>SONIA GANDHI<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>DINESH PRATAP SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>24055.0<br>"
+        },
+        "178": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tiloi (Amethi)<br><b>AC NO:  </b>178<hr><b>WINNER:  </b>Smriti Irani<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rahul Gandhi<br><b>LOST BY:  </b>INC<br><b>margin:  </b>15164.0<br>"
+        },
+        "179": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Harchandpur (Rae Bareli)<br><b>AC NO:  </b>179<hr><b>WINNER:  </b>SONIA GANDHI<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>DINESH PRATAP SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>26202.0<br>"
+        },
+        "180": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Rae Bareli (Rae Bareli)<br><b>AC NO:  </b>180<hr><b>WINNER:  </b>SONIA GANDHI<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>DINESH PRATAP SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>61406.0<br>"
+        },
+        "181": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Salon  (Amethi)<br><b>AC NO:  </b>181<hr><b>WINNER:  </b>Smriti Irani<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rahul Gandhi<br><b>LOST BY:  </b>INC<br><b>margin:  </b>1910.0<br>"
+        },
+        "182": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Sareni (Rae Bareli)<br><b>AC NO:  </b>182<hr><b>WINNER:  </b>SONIA GANDHI<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>DINESH PRATAP SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>28981.0<br>"
+        },
+        "183": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Unchahar (Rae Bareli)<br><b>AC NO:  </b>183<hr><b>WINNER:  </b>SONIA GANDHI<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>DINESH PRATAP SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>27204.0<br>"
+        },
+        "184": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Jagdishpur  (Amethi)<br><b>AC NO:  </b>184<hr><b>WINNER:  </b>Smriti Irani<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rahul Gandhi<br><b>LOST BY:  </b>INC<br><b>margin:  </b>17914.0<br>"
+        },
+        "185": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gauriganj (Amethi)<br><b>AC NO:  </b>185<hr><b>WINNER:  </b>Smriti Irani<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rahul Gandhi<br><b>LOST BY:  </b>INC<br><b>margin:  </b>19973.0<br>"
+        },
+        "186": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Amethi (Amethi)<br><b>AC NO:  </b>186<hr><b>WINNER:  </b>Rahul Gandhi<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Smriti Irani<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>230.0<br>"
+        },
+        "187": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Isauli (Sultanpur)<br><b>AC NO:  </b>187<hr><b>WINNER:  </b>CHANDRA BHADRA SINGH \"SSONU\"<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>MANEKA SANJAI GANDHI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>5551.0<br>"
+        },
+        "188": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Sultanpur (Sultanpur)<br><b>AC NO:  </b>188<hr><b>WINNER:  </b>CHANDRA BHADRA SINGH \"SSONU\"<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>MANEKA SANJAI GANDHI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>12563.0<br>"
+        },
+        "189": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sadar (Sultanpur)<br><b>AC NO:  </b>189<hr><b>WINNER:  </b>MANEKA SANJAI GANDHI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>CHANDRA BHADRA SINGH \"SSONU\"<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>17218.0<br>"
+        },
+        "190": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Lambhua (Sultanpur)<br><b>AC NO:  </b>190<hr><b>WINNER:  </b>MANEKA SANJAI GANDHI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>CHANDRA BHADRA SINGH \"SSONU\"<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>996.0<br>"
+        },
+        "191": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kadipur  (Sultanpur)<br><b>AC NO:  </b>191<hr><b>WINNER:  </b>MANEKA SANJAI GANDHI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>CHANDRA BHADRA SINGH \"SSONU\"<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>13759.0<br>"
+        },
+        "192": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kaimganj  (Farrukhabad)<br><b>AC NO:  </b>192<hr><b>WINNER:  </b>Mukesh Rajput<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Agarwal<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>42247.0<br>"
+        },
+        "193": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Amritpur (Farrukhabad)<br><b>AC NO:  </b>193<hr><b>WINNER:  </b>Mukesh Rajput<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Agarwal<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>49022.0<br>"
+        },
+        "194": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Farrukhabad (Farrukhabad)<br><b>AC NO:  </b>194<hr><b>WINNER:  </b>Mukesh Rajput<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Agarwal<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>51729.0<br>"
+        },
+        "195": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bhojpur (Farrukhabad)<br><b>AC NO:  </b>195<hr><b>WINNER:  </b>Mukesh Rajput<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Manoj Agarwal<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>33383.0<br>"
+        },
+        "196": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Chhibramau (Kannauj)<br><b>AC NO:  </b>196<hr><b>WINNER:  </b>DIMPLE YADAV<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>SUBRAT PATHAK<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>11741.0<br>"
+        },
+        "197": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tirwa (Kannauj)<br><b>AC NO:  </b>197<hr><b>WINNER:  </b>SUBRAT PATHAK<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DIMPLE YADAV<br><b>LOST BY:  </b>SP<br><b>margin:  </b>15358.0<br>"
+        },
+        "198": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Kannauj  (Kannauj)<br><b>AC NO:  </b>198<hr><b>WINNER:  </b>DIMPLE YADAV<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>SUBRAT PATHAK<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>8841.0<br>"
+        },
+        "199": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Jaswantnagar (Mainpuri)<br><b>AC NO:  </b>199<hr><b>WINNER:  </b>MULAYAM SINGH YADAV<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PREM SINGH SHAKYA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>62126.0<br>"
+        },
+        "200": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Etawah (Etawah)<br><b>AC NO:  </b>200<hr><b>WINNER:  </b>Dr RAM SHANKAR KATHERIA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KAMLESH KUMAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>32079.0<br>"
+        },
+        "201": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Bharthana  (Etawah)<br><b>AC NO:  </b>201<hr><b>WINNER:  </b>KAMLESH KUMAR<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dr RAM SHANKAR KATHERIA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>13389.0<br>"
+        },
+        "202": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bidhuna (Kannauj)<br><b>AC NO:  </b>202<hr><b>WINNER:  </b>SUBRAT PATHAK<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DIMPLE YADAV<br><b>LOST BY:  </b>SP<br><b>margin:  </b>340.0<br>"
+        },
+        "203": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Dibiyapur (Etawah)<br><b>AC NO:  </b>203<hr><b>WINNER:  </b>Dr RAM SHANKAR KATHERIA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KAMLESH KUMAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>1612.0<br>"
+        },
+        "204": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Auraiya  (Etawah)<br><b>AC NO:  </b>204<hr><b>WINNER:  </b>Dr RAM SHANKAR KATHERIA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KAMLESH KUMAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>11325.0<br>"
+        },
+        "205": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Rasulabad  (Kannauj)<br><b>AC NO:  </b>205<hr><b>WINNER:  </b>SUBRAT PATHAK<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DIMPLE YADAV<br><b>LOST BY:  </b>SP<br><b>margin:  </b>16970.0<br>"
+        },
+        "206": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Akbarpur - Raniya (Akbarpur)<br><b>AC NO:  </b>206<hr><b>WINNER:  </b>Devendra Singh 'Bhole'<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nisha Sachan<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>18805.0<br>"
+        },
+        "207": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sikandra (Etawah)<br><b>AC NO:  </b>207<hr><b>WINNER:  </b>Dr RAM SHANKAR KATHERIA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KAMLESH KUMAR<br><b>LOST BY:  </b>SP<br><b>margin:  </b>32090.0<br>"
+        },
+        "208": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Bhognipur (Jalaun)<br><b>AC NO:  </b>208<hr><b>WINNER:  </b>AJAY SINGH (PANKAJ)<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>BHANU PRATAP SINGH VERMA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>2127.0<br>"
+        },
+        "209": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bilhaur (Misrikh)<br><b>AC NO:  </b>209<hr><b>WINNER:  </b>Ashok Kumar Rawat<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Dr Neelu Satyarthi<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>41934.0<br>"
+        },
+        "210": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bithoor (Akbarpur)<br><b>AC NO:  </b>210<hr><b>WINNER:  </b>Devendra Singh 'Bhole'<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nisha Sachan<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>43270.0<br>"
+        },
+        "211": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>KALYANPUR (Akbarpur)<br><b>AC NO:  </b>211<hr><b>WINNER:  </b>Devendra Singh 'Bhole'<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nisha Sachan<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>85453.0<br>"
+        },
+        "212": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Govindnagar (Kanpur)<br><b>AC NO:  </b>212<hr><b>WINNER:  </b>Satyadev Pachauri<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sriprakash Jaiswal<br><b>LOST BY:  </b>INC<br><b>margin:  </b>75739.0<br>"
+        },
+        "213": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Sishamau (Kanpur)<br><b>AC NO:  </b>213<hr><b>WINNER:  </b>Sriprakash Jaiswal<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Satyadev Pachauri<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>2223.0<br>"
+        },
+        "214": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Arya Nagar (Kanpur)<br><b>AC NO:  </b>214<hr><b>WINNER:  </b>Satyadev Pachauri<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sriprakash Jaiswal<br><b>LOST BY:  </b>INC<br><b>margin:  </b>9009.0<br>"
+        },
+        "215": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>KIDWAI NAGAR (Kanpur)<br><b>AC NO:  </b>215<hr><b>WINNER:  </b>Satyadev Pachauri<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sriprakash Jaiswal<br><b>LOST BY:  </b>INC<br><b>margin:  </b>88203.0<br>"
+        },
+        "216": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kanpur Cantt. (Kanpur)<br><b>AC NO:  </b>216<hr><b>WINNER:  </b>Sriprakash Jaiswal<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Satyadev Pachauri<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>15695.0<br>"
+        },
+        "217": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Maharajpur (Akbarpur)<br><b>AC NO:  </b>217<hr><b>WINNER:  </b>Devendra Singh 'Bhole'<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nisha Sachan<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>95064.0<br>"
+        },
+        "218": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Ghatampur  (Akbarpur)<br><b>AC NO:  </b>218<hr><b>WINNER:  </b>Devendra Singh 'Bhole'<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Nisha Sachan<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>30458.0<br>"
+        },
+        "219": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Madhaugarh (Jalaun)<br><b>AC NO:  </b>219<hr><b>WINNER:  </b>BHANU PRATAP SINGH VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AJAY SINGH (PANKAJ)<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>50331.0<br>"
+        },
+        "220": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kalpi (Jalaun)<br><b>AC NO:  </b>220<hr><b>WINNER:  </b>BHANU PRATAP SINGH VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AJAY SINGH (PANKAJ)<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>16522.0<br>"
+        },
+        "221": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Orai  (Jalaun)<br><b>AC NO:  </b>221<hr><b>WINNER:  </b>BHANU PRATAP SINGH VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AJAY SINGH (PANKAJ)<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>44217.0<br>"
+        },
+        "222": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Babina (Jhansi)<br><b>AC NO:  </b>222<hr><b>WINNER:  </b>Anurag Sharma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Shyam Sundar Singh<br><b>LOST BY:  </b>SP<br><b>margin:  </b>52216.0<br>"
+        },
+        "223": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Jhansi Nagar (Jhansi)<br><b>AC NO:  </b>223<hr><b>WINNER:  </b>Anurag Sharma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Shyam Sundar Singh<br><b>LOST BY:  </b>SP<br><b>margin:  </b>84469.0<br>"
+        },
+        "224": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mauranipur  (Jhansi)<br><b>AC NO:  </b>224<hr><b>WINNER:  </b>Anurag Sharma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Shyam Sundar Singh<br><b>LOST BY:  </b>SP<br><b>margin:  </b>42687.0<br>"
+        },
+        "225": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Garautha (Jalaun)<br><b>AC NO:  </b>225<hr><b>WINNER:  </b>BHANU PRATAP SINGH VERMA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AJAY SINGH (PANKAJ)<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>48304.0<br>"
+        },
+        "226": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Lalitpur (Jhansi)<br><b>AC NO:  </b>226<hr><b>WINNER:  </b>Anurag Sharma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Shyam Sundar Singh<br><b>LOST BY:  </b>SP<br><b>margin:  </b>103962.0<br>"
+        },
+        "227": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mehroni  (Jhansi)<br><b>AC NO:  </b>227<hr><b>WINNER:  </b>Anurag Sharma<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Shyam Sundar Singh<br><b>LOST BY:  </b>SP<br><b>margin:  </b>81947.0<br>"
+        },
+        "228": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Hamirpur (Hamirpur)<br><b>AC NO:  </b>228<hr><b>WINNER:  </b>KUNWAR PUSHPENDRA SINGH CHANDEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DILIP KUMAR SINGH<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>37250.0<br>"
+        },
+        "229": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Rath  (Hamirpur)<br><b>AC NO:  </b>229<hr><b>WINNER:  </b>KUNWAR PUSHPENDRA SINGH CHANDEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DILIP KUMAR SINGH<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>84977.0<br>"
+        },
+        "230": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mahoba (Hamirpur)<br><b>AC NO:  </b>230<hr><b>WINNER:  </b>KUNWAR PUSHPENDRA SINGH CHANDEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DILIP KUMAR SINGH<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>52691.0<br>"
+        },
+        "231": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Charkhari (Hamirpur)<br><b>AC NO:  </b>231<hr><b>WINNER:  </b>KUNWAR PUSHPENDRA SINGH CHANDEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DILIP KUMAR SINGH<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>41884.0<br>"
+        },
+        "232": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tindwari (Hamirpur)<br><b>AC NO:  </b>232<hr><b>WINNER:  </b>KUNWAR PUSHPENDRA SINGH CHANDEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>DILIP KUMAR SINGH<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>31496.0<br>"
+        },
+        "233": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Baberu (Banda)<br><b>AC NO:  </b>233<hr><b>WINNER:  </b>SHYAMA CHARAN GUPTA<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>R.K. SINGH PATEL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>17325.0<br>"
+        },
+        "234": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Naraini  (Banda)<br><b>AC NO:  </b>234<hr><b>WINNER:  </b>R.K. SINGH PATEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHYAMA CHARAN GUPTA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>12877.0<br>"
+        },
+        "235": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Banda (Banda)<br><b>AC NO:  </b>235<hr><b>WINNER:  </b>R.K. SINGH PATEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHYAMA CHARAN GUPTA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>30320.0<br>"
+        },
+        "236": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Chitrakoot (Banda)<br><b>AC NO:  </b>236<hr><b>WINNER:  </b>R.K. SINGH PATEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHYAMA CHARAN GUPTA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>3056.0<br>"
+        },
+        "237": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Manikpur (Banda)<br><b>AC NO:  </b>237<hr><b>WINNER:  </b>R.K. SINGH PATEL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHYAMA CHARAN GUPTA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>29525.0<br>"
+        },
+        "238": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Jahanabad (Fatehpur)<br><b>AC NO:  </b>238<hr><b>WINNER:  </b>NIRANJAN JYOTI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SUKHDEV PRASAD VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>47656.0<br>"
+        },
+        "239": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bindki (Fatehpur)<br><b>AC NO:  </b>239<hr><b>WINNER:  </b>NIRANJAN JYOTI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SUKHDEV PRASAD VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>38618.0<br>"
+        },
+        "240": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Fatehpur    (Fatehpur)<br><b>AC NO:  </b>240<hr><b>WINNER:  </b>NIRANJAN JYOTI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SUKHDEV PRASAD VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>31053.0<br>"
+        },
+        "241": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Ayah Shah (Fatehpur)<br><b>AC NO:  </b>241<hr><b>WINNER:  </b>NIRANJAN JYOTI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SUKHDEV PRASAD VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>34504.0<br>"
+        },
+        "242": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Husainganj (Fatehpur)<br><b>AC NO:  </b>242<hr><b>WINNER:  </b>NIRANJAN JYOTI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SUKHDEV PRASAD VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>6697.0<br>"
+        },
+        "243": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Khaga (Fatehpur)<br><b>AC NO:  </b>243<hr><b>WINNER:  </b>NIRANJAN JYOTI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SUKHDEV PRASAD VERMA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>39020.0<br>"
+        },
+        "244": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Rampur Khas (Pratapgarh)<br><b>AC NO:  </b>244<hr><b>WINNER:  </b>SANGAM LAL GUPTA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAJKUMARI RATNA SINGH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>32995.0<br>"
+        },
+        "245": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Babaganj (Kaushambi)<br><b>AC NO:  </b>245<hr><b>WINNER:  </b>SHAILENDRA KUMAR PASI<br><b>WON BY:  </b>JDL<br><b>RUNNER:  </b>VINOD KUMAR SONKAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>3498.0<br>"
+        },
+        "246": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>AC NAME: </b>Kunda (Kaushambi)<br><b>AC NO:  </b>246<hr><b>WINNER:  </b>SHAILENDRA KUMAR PASI<br><b>WON BY:  </b>JDL<br><b>RUNNER:  </b>INDRAJEET SAROJ<br><b>LOST BY:  </b>SP<br><b>margin:  </b>37349.0<br>"
+        },
+        "247": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Vishwanathganj (Pratapgarh)<br><b>AC NO:  </b>247<hr><b>WINNER:  </b>SANGAM LAL GUPTA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ASHOK TRIPATHI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>40735.0<br>"
+        },
+        "248": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Pratapgarh (Pratapgarh)<br><b>AC NO:  </b>248<hr><b>WINNER:  </b>SANGAM LAL GUPTA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ASHOK TRIPATHI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>21807.0<br>"
+        },
+        "249": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Patti (Pratapgarh)<br><b>AC NO:  </b>249<hr><b>WINNER:  </b>ASHOK TRIPATHI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>SANGAM LAL GUPTA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>3235.0<br>"
+        },
+        "250": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Raniganj (Pratapgarh)<br><b>AC NO:  </b>250<hr><b>WINNER:  </b>SANGAM LAL GUPTA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ASHOK TRIPATHI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>6204.0<br>"
+        },
+        "251": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sirathu (Kaushambi)<br><b>AC NO:  </b>251<hr><b>WINNER:  </b>VINOD KUMAR SONKAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>INDRAJEET SAROJ<br><b>LOST BY:  </b>SP<br><b>margin:  </b>13292.0<br>"
+        },
+        "252": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Manjhanpur  (Kaushambi)<br><b>AC NO:  </b>252<hr><b>WINNER:  </b>INDRAJEET SAROJ<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>VINOD KUMAR SONKAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>1991.0<br>"
+        },
+        "253": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Chail (Kaushambi)<br><b>AC NO:  </b>253<hr><b>WINNER:  </b>VINOD KUMAR SONKAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>INDRAJEET SAROJ<br><b>LOST BY:  </b>SP<br><b>margin:  </b>16915.0<br>"
+        },
+        "254": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Phaphamau (Phulpur)<br><b>AC NO:  </b>254<hr><b>WINNER:  </b>Keshari Devi Patel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Pandhari Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>25205.0<br>"
+        },
+        "255": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Soraon  (Phulpur)<br><b>AC NO:  </b>255<hr><b>WINNER:  </b>Keshari Devi Patel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Pandhari Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>17634.0<br>"
+        },
+        "256": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Phulpur (Phulpur)<br><b>AC NO:  </b>256<hr><b>WINNER:  </b>Keshari Devi Patel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Pandhari Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>10584.0<br>"
+        },
+        "257": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Pratappur (Bhadohi)<br><b>AC NO:  </b>257<hr><b>WINNER:  </b>RANGNATH MISHRA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAMESH CHAND<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>557.0<br>"
+        },
+        "258": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Handia (Bhadohi)<br><b>AC NO:  </b>258<hr><b>WINNER:  </b>RAMESH CHAND<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RANGNATH MISHRA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>14258.0<br>"
+        },
+        "259": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Meja (Allahabad)<br><b>AC NO:  </b>259<hr><b>WINNER:  </b>Rita Bahuguna Joshi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rajendra Singh Patel<br><b>LOST BY:  </b>SP<br><b>margin:  </b>16886.0<br>"
+        },
+        "260": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Karachhana (Allahabad)<br><b>AC NO:  </b>260<hr><b>WINNER:  </b>Rita Bahuguna Joshi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rajendra Singh Patel<br><b>LOST BY:  </b>SP<br><b>margin:  </b>27853.0<br>"
+        },
+        "261": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Allahabad West (Phulpur)<br><b>AC NO:  </b>261<hr><b>WINNER:  </b>Keshari Devi Patel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Pandhari Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>56745.0<br>"
+        },
+        "262": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Allahabad North (Phulpur)<br><b>AC NO:  </b>262<hr><b>WINNER:  </b>Keshari Devi Patel<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Pandhari Yadav<br><b>LOST BY:  </b>SP<br><b>margin:  </b>60912.0<br>"
+        },
+        "263": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Allahabad South (Allahabad)<br><b>AC NO:  </b>263<hr><b>WINNER:  </b>Rita Bahuguna Joshi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rajendra Singh Patel<br><b>LOST BY:  </b>SP<br><b>margin:  </b>51113.0<br>"
+        },
+        "264": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bara  (Allahabad)<br><b>AC NO:  </b>264<hr><b>WINNER:  </b>Rita Bahuguna Joshi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rajendra Singh Patel<br><b>LOST BY:  </b>SP<br><b>margin:  </b>41318.0<br>"
+        },
+        "265": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Koraon  (Allahabad)<br><b>AC NO:  </b>265<hr><b>WINNER:  </b>Rita Bahuguna Joshi<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rajendra Singh Patel<br><b>LOST BY:  </b>SP<br><b>margin:  </b>46706.0<br>"
+        },
+        "266": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kursi (Barabanki)<br><b>AC NO:  </b>266<hr><b>WINNER:  </b>Upendra Singh Rawat<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ram Sagar Rawat<br><b>LOST BY:  </b>SP<br><b>margin:  </b>30466.0<br>"
+        },
+        "267": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Ram Nagar (Barabanki)<br><b>AC NO:  </b>267<hr><b>WINNER:  </b>Upendra Singh Rawat<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ram Sagar Rawat<br><b>LOST BY:  </b>SP<br><b>margin:  </b>22950.0<br>"
+        },
+        "268": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Barabanki (Barabanki)<br><b>AC NO:  </b>268<hr><b>WINNER:  </b>Ram Sagar Rawat<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Upendra Singh Rawat<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>346.0<br>"
+        },
+        "269": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Zaidpur  (Barabanki)<br><b>AC NO:  </b>269<hr><b>WINNER:  </b>Upendra Singh Rawat<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ram Sagar Rawat<br><b>LOST BY:  </b>SP<br><b>margin:  </b>11689.0<br>"
+        },
+        "270": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Dariyabad (Faizabad)<br><b>AC NO:  </b>270<hr><b>WINNER:  </b>LALLU SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ANAND SEN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>27124.0<br>"
+        },
+        "271": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Rudauli (Faizabad)<br><b>AC NO:  </b>271<hr><b>WINNER:  </b>LALLU SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ANAND SEN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>11011.0<br>"
+        },
+        "272": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Haidergarh  (Barabanki)<br><b>AC NO:  </b>272<hr><b>WINNER:  </b>Upendra Singh Rawat<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ram Sagar Rawat<br><b>LOST BY:  </b>SP<br><b>margin:  </b>45211.0<br>"
+        },
+        "273": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Milkipur  (Faizabad)<br><b>AC NO:  </b>273<hr><b>WINNER:  </b>ANAND SEN<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>LALLU SINGH<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>7599.0<br>"
+        },
+        "274": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bikapur (Faizabad)<br><b>AC NO:  </b>274<hr><b>WINNER:  </b>LALLU SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ANAND SEN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>8803.0<br>"
+        },
+        "275": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Ayodhya (Faizabad)<br><b>AC NO:  </b>275<hr><b>WINNER:  </b>LALLU SINGH<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ANAND SEN<br><b>LOST BY:  </b>SP<br><b>margin:  </b>25587.0<br>"
+        },
+        "276": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Goshainganj (Ambedkar Nagar)<br><b>AC NO:  </b>276<hr><b>WINNER:  </b>Mukut Bihari<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Ritesh Pandey<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>11034.0<br>"
+        },
+        "277": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Katehari (Ambedkar Nagar)<br><b>AC NO:  </b>277<hr><b>WINNER:  </b>Ritesh Pandey<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Mukut Bihari<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>5254.0<br>"
+        },
+        "278": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Tanda (Ambedkar Nagar)<br><b>AC NO:  </b>278<hr><b>WINNER:  </b>Ritesh Pandey<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Mukut Bihari<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>47367.0<br>"
+        },
+        "279": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Alapur  (Sant Kabir Nagar)<br><b>AC NO:  </b>279<hr><b>WINNER:  </b>BHEESHMA SHANKAR<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>PRAVEEN KUMAR NISHAD<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>22167.0<br>"
+        },
+        "280": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Jalalpur (Ambedkar Nagar)<br><b>AC NO:  </b>280<hr><b>WINNER:  </b>Ritesh Pandey<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Mukut Bihari<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>41773.0<br>"
+        },
+        "281": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Akbarpur   (Ambedkar Nagar)<br><b>AC NO:  </b>281<hr><b>WINNER:  </b>Ritesh Pandey<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Mukut Bihari<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>12798.0<br>"
+        },
+        "282": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>BALHA (S.C.) (Bahraich)<br><b>AC NO:  </b>282<hr><b>WINNER:  </b>AKSHAIBAR LAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHABBIR BALMIKI<br><b>LOST BY:  </b>SP<br><b>margin:  </b>35474.0<br>"
+        },
+        "283": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Nanpara (Bahraich)<br><b>AC NO:  </b>283<hr><b>WINNER:  </b>AKSHAIBAR LAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHABBIR BALMIKI<br><b>LOST BY:  </b>SP<br><b>margin:  </b>21740.0<br>"
+        },
+        "284": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Matera (Bahraich)<br><b>AC NO:  </b>284<hr><b>WINNER:  </b>SHABBIR BALMIKI<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>AKSHAIBAR LAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>3293.0<br>"
+        },
+        "285": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mahasi (Bahraich)<br><b>AC NO:  </b>285<hr><b>WINNER:  </b>AKSHAIBAR LAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHABBIR BALMIKI<br><b>LOST BY:  </b>SP<br><b>margin:  </b>58982.0<br>"
+        },
+        "286": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bahraich (Bahraich)<br><b>AC NO:  </b>286<hr><b>WINNER:  </b>AKSHAIBAR LAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHABBIR BALMIKI<br><b>LOST BY:  </b>SP<br><b>margin:  </b>15766.0<br>"
+        },
+        "287": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Payagpur (Kaiserganj)<br><b>AC NO:  </b>287<hr><b>WINNER:  </b>Brijbhusan Sharan Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Chandradev Ram Yadav<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>40485.0<br>"
+        },
+        "288": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Kaiserganj (Kaiserganj)<br><b>AC NO:  </b>288<hr><b>WINNER:  </b>Chandradev Ram Yadav<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Brijbhusan Sharan Singh<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>289.0<br>"
+        },
+        "289": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Bhinga (Shrawasti)<br><b>AC NO:  </b>289<hr><b>WINNER:  </b>RAM SHIROMANI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DADDAN MISHRA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>18067.0<br>"
+        },
+        "290": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Shrawasti (Shrawasti)<br><b>AC NO:  </b>290<hr><b>WINNER:  </b>RAM SHIROMANI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DADDAN MISHRA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>14967.0<br>"
+        },
+        "291": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tulsipur (Shrawasti)<br><b>AC NO:  </b>291<hr><b>WINNER:  </b>DADDAN MISHRA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAM SHIROMANI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>6703.0<br>"
+        },
+        "292": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Gainsari (Shrawasti)<br><b>AC NO:  </b>292<hr><b>WINNER:  </b>RAM SHIROMANI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>DADDAN MISHRA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>7301.0<br>"
+        },
+        "293": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Utraula (Gonda)<br><b>AC NO:  </b>293<hr><b>WINNER:  </b>KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>VINOD KUMAR ALIAS PANDIT SINGH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>13971.0<br>"
+        },
+        "294": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Balrampur  (Shrawasti)<br><b>AC NO:  </b>294<hr><b>WINNER:  </b>DADDAN MISHRA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAM SHIROMANI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>28355.0<br>"
+        },
+        "295": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mehnaun (Gonda)<br><b>AC NO:  </b>295<hr><b>WINNER:  </b>KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>VINOD KUMAR ALIAS PANDIT SINGH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>39388.0<br>"
+        },
+        "296": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gonda (Gonda)<br><b>AC NO:  </b>296<hr><b>WINNER:  </b>KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>VINOD KUMAR ALIAS PANDIT SINGH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>25894.0<br>"
+        },
+        "297": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Katra Bazar (Kaiserganj)<br><b>AC NO:  </b>297<hr><b>WINNER:  </b>Brijbhusan Sharan Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Chandradev Ram Yadav<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>55789.0<br>"
+        },
+        "298": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Colonelganj (Kaiserganj)<br><b>AC NO:  </b>298<hr><b>WINNER:  </b>Brijbhusan Sharan Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Chandradev Ram Yadav<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>61802.0<br>"
+        },
+        "299": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tarabganj (Kaiserganj)<br><b>AC NO:  </b>299<hr><b>WINNER:  </b>Brijbhusan Sharan Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Chandradev Ram Yadav<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>103021.0<br>"
+        },
+        "300": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mankapur  (Gonda)<br><b>AC NO:  </b>300<hr><b>WINNER:  </b>KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>VINOD KUMAR ALIAS PANDIT SINGH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>58588.0<br>"
+        },
+        "301": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gaura (Gonda)<br><b>AC NO:  </b>301<hr><b>WINNER:  </b>KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>VINOD KUMAR ALIAS PANDIT SINGH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>28256.0<br>"
+        },
+        "302": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Shohratgarh (Domariyaganj)<br><b>AC NO:  </b>302<hr><b>WINNER:  </b>JAGDAMBIKA PAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AFTAB ALAM<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>27600.0<br>"
+        },
+        "303": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kapilvastu  (Domariyaganj)<br><b>AC NO:  </b>303<hr><b>WINNER:  </b>JAGDAMBIKA PAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AFTAB ALAM<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>37636.0<br>"
+        },
+        "304": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bansi (Domariyaganj)<br><b>AC NO:  </b>304<hr><b>WINNER:  </b>JAGDAMBIKA PAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AFTAB ALAM<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>26633.0<br>"
+        },
+        "305": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Itwa (Domariyaganj)<br><b>AC NO:  </b>305<hr><b>WINNER:  </b>JAGDAMBIKA PAL<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AFTAB ALAM<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>14774.0<br>"
+        },
+        "306": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Doomariyaganj (Domariyaganj)<br><b>AC NO:  </b>306<hr><b>WINNER:  </b>AFTAB ALAM<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>JAGDAMBIKA PAL<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>1399.0<br>"
+        },
+        "307": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Harraiya (Basti)<br><b>AC NO:  </b>307<hr><b>WINNER:  </b>HARISH CHANDRA ALIAS HARISH DWIVEDI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAM PRASAD CHAUDHARY<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>42604.0<br>"
+        },
+        "308": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>KAPTANGANJ (Basti)<br><b>AC NO:  </b>308<hr><b>WINNER:  </b>RAM PRASAD CHAUDHARY<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>HARISH CHANDRA ALIAS HARISH DWIVEDI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>10948.0<br>"
+        },
+        "309": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Rudhauli (Basti)<br><b>AC NO:  </b>309<hr><b>WINNER:  </b>HARISH CHANDRA ALIAS HARISH DWIVEDI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAM PRASAD CHAUDHARY<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>5339.0<br>"
+        },
+        "310": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Basti Sadar (Basti)<br><b>AC NO:  </b>310<hr><b>WINNER:  </b>HARISH CHANDRA ALIAS HARISH DWIVEDI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RAM PRASAD CHAUDHARY<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>1447.0<br>"
+        },
+        "311": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Mahadewa S.C (Basti)<br><b>AC NO:  </b>311<hr><b>WINNER:  </b>RAM PRASAD CHAUDHARY<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>HARISH CHANDRA ALIAS HARISH DWIVEDI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>6869.0<br>"
+        },
+        "312": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>MENHDAWAL (Sant Kabir Nagar)<br><b>AC NO:  </b>312<hr><b>WINNER:  </b>PRAVEEN KUMAR NISHAD<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BHEESHMA SHANKAR<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>37042.0<br>"
+        },
+        "313": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>KHALILABAD (Sant Kabir Nagar)<br><b>AC NO:  </b>313<hr><b>WINNER:  </b>BHEESHMA SHANKAR<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>PRAVEEN KUMAR NISHAD<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>11627.0<br>"
+        },
+        "314": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Dhanghata  (Sant Kabir Nagar)<br><b>AC NO:  </b>314<hr><b>WINNER:  </b>PRAVEEN KUMAR NISHAD<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BHEESHMA SHANKAR<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>15723.0<br>"
+        },
+        "315": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Pharenda (Maharajganj)<br><b>AC NO:  </b>315<hr><b>WINNER:  </b>PANKAJ CHOUDHARY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AKHILESH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>36889.0<br>"
+        },
+        "316": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Nautanwa (Maharajganj)<br><b>AC NO:  </b>316<hr><b>WINNER:  </b>PANKAJ CHOUDHARY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AKHILESH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>61363.0<br>"
+        },
+        "317": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Siswa (Maharajganj)<br><b>AC NO:  </b>317<hr><b>WINNER:  </b>PANKAJ CHOUDHARY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AKHILESH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>88830.0<br>"
+        },
+        "318": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Maharajganj  (Maharajganj)<br><b>AC NO:  </b>318<hr><b>WINNER:  </b>PANKAJ CHOUDHARY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AKHILESH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>71551.0<br>"
+        },
+        "319": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Paniyara (Maharajganj)<br><b>AC NO:  </b>319<hr><b>WINNER:  </b>PANKAJ CHOUDHARY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AKHILESH<br><b>LOST BY:  </b>SP<br><b>margin:  </b>81332.0<br>"
+        },
+        "320": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Caimpiyarganj (Gorakhpur)<br><b>AC NO:  </b>320<hr><b>WINNER:  </b>Ravindra Shyamnarayan Shukla alias Ravi Kishan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rambhual Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>60386.0<br>"
+        },
+        "321": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Pipraich (Gorakhpur)<br><b>AC NO:  </b>321<hr><b>WINNER:  </b>Ravindra Shyamnarayan Shukla alias Ravi Kishan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rambhual Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>83048.0<br>"
+        },
+        "322": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gorakhpur Urban (Gorakhpur)<br><b>AC NO:  </b>322<hr><b>WINNER:  </b>Ravindra Shyamnarayan Shukla alias Ravi Kishan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rambhual Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>88659.0<br>"
+        },
+        "323": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gorakhpur Rural (Gorakhpur)<br><b>AC NO:  </b>323<hr><b>WINNER:  </b>Ravindra Shyamnarayan Shukla alias Ravi Kishan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rambhual Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>39729.0<br>"
+        },
+        "324": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sahajanwa (Gorakhpur)<br><b>AC NO:  </b>324<hr><b>WINNER:  </b>Ravindra Shyamnarayan Shukla alias Ravi Kishan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Rambhual Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>28848.0<br>"
+        },
+        "325": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Khajani  (Sant Kabir Nagar)<br><b>AC NO:  </b>325<hr><b>WINNER:  </b>PRAVEEN KUMAR NISHAD<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BHEESHMA SHANKAR<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>16297.0<br>"
+        },
+        "326": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Chauri-Chaura (Bansgaon)<br><b>AC NO:  </b>326<hr><b>WINNER:  </b>Kamlesh Paswan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sadal Prasad<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>62340.0<br>"
+        },
+        "327": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bansgaon (Bansgaon)<br><b>AC NO:  </b>327<hr><b>WINNER:  </b>Kamlesh Paswan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sadal Prasad<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>14642.0<br>"
+        },
+        "328": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Chillupar (Bansgaon)<br><b>AC NO:  </b>328<hr><b>WINNER:  </b>Kamlesh Paswan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sadal Prasad<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>11659.0<br>"
+        },
+        "329": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Khadda (Kushi Nagar)<br><b>AC NO:  </b>329<hr><b>WINNER:  </b>VIJAY KUMAR DUBEY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>N.P. KUSHWAHA ALIAS NATHUNI PRASAD KUSHWAHA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>46905.0<br>"
+        },
+        "330": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Padrauna (Kushi Nagar)<br><b>AC NO:  </b>330<hr><b>WINNER:  </b>VIJAY KUMAR DUBEY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>N.P. KUSHWAHA ALIAS NATHUNI PRASAD KUSHWAHA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>47458.0<br>"
+        },
+        "331": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Tamkuhi Raj (Deoria)<br><b>AC NO:  </b>331<hr><b>WINNER:  </b>RAMAPATI RAM TRIPATHI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BINOD KUMAR JAISWAL<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>70289.0<br>"
+        },
+        "332": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Fazilnagar (Deoria)<br><b>AC NO:  </b>332<hr><b>WINNER:  </b>RAMAPATI RAM TRIPATHI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BINOD KUMAR JAISWAL<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>54884.0<br>"
+        },
+        "333": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Kushinagar (Kushi Nagar)<br><b>AC NO:  </b>333<hr><b>WINNER:  </b>VIJAY KUMAR DUBEY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>N.P. KUSHWAHA ALIAS NATHUNI PRASAD KUSHWAHA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>71446.0<br>"
+        },
+        "334": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Hata (Kushi Nagar)<br><b>AC NO:  </b>334<hr><b>WINNER:  </b>VIJAY KUMAR DUBEY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>N.P. KUSHWAHA ALIAS NATHUNI PRASAD KUSHWAHA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>89533.0<br>"
+        },
+        "335": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Ramkola (Kushi Nagar)<br><b>AC NO:  </b>335<hr><b>WINNER:  </b>VIJAY KUMAR DUBEY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>N.P. KUSHWAHA ALIAS NATHUNI PRASAD KUSHWAHA<br><b>LOST BY:  </b>SP<br><b>margin:  </b>82390.0<br>"
+        },
+        "336": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>RUDRAPUR (Bansgaon)<br><b>AC NO:  </b>336<hr><b>WINNER:  </b>Kamlesh Paswan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sadal Prasad<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>41856.0<br>"
+        },
+        "337": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Deoria (Deoria)<br><b>AC NO:  </b>337<hr><b>WINNER:  </b>RAMAPATI RAM TRIPATHI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BINOD KUMAR JAISWAL<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>52332.0<br>"
+        },
+        "338": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Pathardeva (Deoria)<br><b>AC NO:  </b>338<hr><b>WINNER:  </b>RAMAPATI RAM TRIPATHI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BINOD KUMAR JAISWAL<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>41415.0<br>"
+        },
+        "339": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Rampur Karkhana (Deoria)<br><b>AC NO:  </b>339<hr><b>WINNER:  </b>RAMAPATI RAM TRIPATHI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BINOD KUMAR JAISWAL<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>30969.0<br>"
+        },
+        "340": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bhatpar Rani (Salempur)<br><b>AC NO:  </b>340<hr><b>WINNER:  </b>RAVINDER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>R S KUSHWAHA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>42311.0<br>"
+        },
+        "341": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Salempur (Salempur)<br><b>AC NO:  </b>341<hr><b>WINNER:  </b>RAVINDER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>R S KUSHWAHA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>12800.0<br>"
+        },
+        "342": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Barhaj (Bansgaon)<br><b>AC NO:  </b>342<hr><b>WINNER:  </b>Kamlesh Paswan<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sadal Prasad<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>22496.0<br>"
+        },
+        "343": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Atrauliya (Lalganj)<br><b>AC NO:  </b>343<hr><b>WINNER:  </b>Sangeeta Azad<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Neelam Sonker<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>13304.0<br>"
+        },
+        "344": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Gopalpur (Azamgarh)<br><b>AC NO:  </b>344<hr><b>WINNER:  </b>Akhilesh Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dinesh Lal Yadav Nirahua<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>52940.0<br>"
+        },
+        "345": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Sagri (Azamgarh)<br><b>AC NO:  </b>345<hr><b>WINNER:  </b>Akhilesh Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dinesh Lal Yadav Nirahua<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>39176.0<br>"
+        },
+        "346": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Mubarakpur (Azamgarh)<br><b>AC NO:  </b>346<hr><b>WINNER:  </b>Akhilesh Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dinesh Lal Yadav Nirahua<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>78060.0<br>"
+        },
+        "347": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Azamgarh (Azamgarh)<br><b>AC NO:  </b>347<hr><b>WINNER:  </b>Akhilesh Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dinesh Lal Yadav Nirahua<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>43556.0<br>"
+        },
+        "348": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Nizamabad (Lalganj)<br><b>AC NO:  </b>348<hr><b>WINNER:  </b>Sangeeta Azad<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Neelam Sonker<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>54866.0<br>"
+        },
+        "349": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Phoolpur Pawai (Lalganj)<br><b>AC NO:  </b>349<hr><b>WINNER:  </b>Sangeeta Azad<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Neelam Sonker<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>44128.0<br>"
+        },
+        "350": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Didarganj (Lalganj)<br><b>AC NO:  </b>350<hr><b>WINNER:  </b>Sangeeta Azad<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Neelam Sonker<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>25043.0<br>"
+        },
+        "351": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Lalganj (Lalganj)<br><b>AC NO:  </b>351<hr><b>WINNER:  </b>Sangeeta Azad<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Neelam Sonker<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>23876.0<br>"
+        },
+        "352": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Mehnagar  (Azamgarh)<br><b>AC NO:  </b>352<hr><b>WINNER:  </b>Akhilesh Yadav<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dinesh Lal Yadav Nirahua<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>45607.0<br>"
+        },
+        "353": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Madhuban (Ghosi)<br><b>AC NO:  </b>353<hr><b>WINNER:  </b>ATUL KUMAR SINGH<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>HARINARAYAN<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>139.0<br>"
+        },
+        "354": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Ghosi (Ghosi)<br><b>AC NO:  </b>354<hr><b>WINNER:  </b>ATUL KUMAR SINGH<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>HARINARAYAN<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>20206.0<br>"
+        },
+        "355": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Muhammadabad- Gohna (SC) (Ghosi)<br><b>AC NO:  </b>355<hr><b>WINNER:  </b>ATUL KUMAR SINGH<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>HARINARAYAN<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>52798.0<br>"
+        },
+        "356": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Mau (Ghosi)<br><b>AC NO:  </b>356<hr><b>WINNER:  </b>ATUL KUMAR SINGH<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>HARINARAYAN<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>45029.0<br>"
+        },
+        "357": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Belthara Road  (Salempur)<br><b>AC NO:  </b>357<hr><b>WINNER:  </b>R S KUSHWAHA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAVINDER<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>11680.0<br>"
+        },
+        "358": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Rasara (Ghosi)<br><b>AC NO:  </b>358<hr><b>WINNER:  </b>ATUL KUMAR SINGH<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>HARINARAYAN<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>5075.0<br>"
+        },
+        "359": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sikanderpur (Salempur)<br><b>AC NO:  </b>359<hr><b>WINNER:  </b>RAVINDER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>R S KUSHWAHA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>7067.0<br>"
+        },
+        "360": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Phephana (Ballia)<br><b>AC NO:  </b>360<hr><b>WINNER:  </b>Virendra Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sanatan Pandey<br><b>LOST BY:  </b>SP<br><b>margin:  </b>4072.0<br>"
+        },
+        "361": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Ballia Nagar (Ballia)<br><b>AC NO:  </b>361<hr><b>WINNER:  </b>Virendra Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sanatan Pandey<br><b>LOST BY:  </b>SP<br><b>margin:  </b>44276.0<br>"
+        },
+        "362": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bansdih (Salempur)<br><b>AC NO:  </b>362<hr><b>WINNER:  </b>RAVINDER<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>R S KUSHWAHA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>61750.0<br>"
+        },
+        "363": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Bairia (Ballia)<br><b>AC NO:  </b>363<hr><b>WINNER:  </b>Virendra Singh<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sanatan Pandey<br><b>LOST BY:  </b>SP<br><b>margin:  </b>20711.0<br>"
+        },
+        "364": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Badlapur (Jaunpur)<br><b>AC NO:  </b>364<hr><b>WINNER:  </b>SHYAM SINGH YADAV<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>KRISHNA PRATAP SINGH K.P.<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>6938.0<br>"
+        },
+        "365": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Shahganj (Jaunpur)<br><b>AC NO:  </b>365<hr><b>WINNER:  </b>SHYAM SINGH YADAV<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>KRISHNA PRATAP SINGH K.P.<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>20151.0<br>"
+        },
+        "366": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Jaunpur (Jaunpur)<br><b>AC NO:  </b>366<hr><b>WINNER:  </b>SHYAM SINGH YADAV<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>KRISHNA PRATAP SINGH K.P.<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>15554.0<br>"
+        },
+        "367": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Malhani (Jaunpur)<br><b>AC NO:  </b>367<hr><b>WINNER:  </b>SHYAM SINGH YADAV<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>KRISHNA PRATAP SINGH K.P.<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>36168.0<br>"
+        },
+        "368": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Mungra Badshahpur (Jaunpur)<br><b>AC NO:  </b>368<hr><b>WINNER:  </b>SHYAM SINGH YADAV<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>KRISHNA PRATAP SINGH K.P.<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>1943.0<br>"
+        },
+        "369": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Machhlishahr S.C. (Machhlishahr)<br><b>AC NO:  </b>369<hr><b>WINNER:  </b>Tribhuvan Ram (T.Ram)<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Bholanath (B.P. Saroj)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>23270.0<br>"
+        },
+        "370": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mariyahu (Machhlishahr)<br><b>AC NO:  </b>370<hr><b>WINNER:  </b>Bholanath (B.P. Saroj)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Tribhuvan Ram (T.Ram)<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>6974.0<br>"
+        },
+        "371": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Zafrabad (Machhlishahr)<br><b>AC NO:  </b>371<hr><b>WINNER:  </b>Tribhuvan Ram (T.Ram)<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Bholanath (B.P. Saroj)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>1825.0<br>"
+        },
+        "372": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Kerakat S.C. (Machhlishahr)<br><b>AC NO:  </b>372<hr><b>WINNER:  </b>Tribhuvan Ram (T.Ram)<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>Bholanath (B.P. Saroj)<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>25638.0<br>"
+        },
+        "373": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Jakhanian  (Ghazipur)<br><b>AC NO:  </b>373<hr><b>WINNER:  </b>AFZAL ANSARI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>MANOJ SINHA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>43841.0<br>"
+        },
+        "374": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Saidpur  (Ghazipur)<br><b>AC NO:  </b>374<hr><b>WINNER:  </b>AFZAL ANSARI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>MANOJ SINHA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>38582.0<br>"
+        },
+        "375": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Ghazipur (Ghazipur)<br><b>AC NO:  </b>375<hr><b>WINNER:  </b>MANOJ SINHA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AFZAL ANSARI<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>4309.0<br>"
+        },
+        "376": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Jangipur (Ghazipur)<br><b>AC NO:  </b>376<hr><b>WINNER:  </b>AFZAL ANSARI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>MANOJ SINHA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>30151.0<br>"
+        },
+        "377": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Zahoorabad (Ballia)<br><b>AC NO:  </b>377<hr><b>WINNER:  </b>Sanatan Pandey<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Virendra Singh<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>30121.0<br>"
+        },
+        "378": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Mohammadabad (Ballia)<br><b>AC NO:  </b>378<hr><b>WINNER:  </b>Sanatan Pandey<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Virendra Singh<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>25307.0<br>"
+        },
+        "379": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Zamania (Ghazipur)<br><b>AC NO:  </b>379<hr><b>WINNER:  </b>AFZAL ANSARI<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>MANOJ SINHA<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>12691.0<br>"
+        },
+        "380": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mughalsarai (Chandauli)<br><b>AC NO:  </b>380<hr><b>WINNER:  </b>Dr. Mahendra Nath Pandey<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sanjay Singh Chauhan<br><b>LOST BY:  </b>SP<br><b>margin:  </b>7045.0<br>"
+        },
+        "381": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Sakaldiha (Chandauli)<br><b>AC NO:  </b>381<hr><b>WINNER:  </b>Sanjay Singh Chauhan<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dr. Mahendra Nath Pandey<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>35965.0<br>"
+        },
+        "382": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Saiyadraja (Chandauli)<br><b>AC NO:  </b>382<hr><b>WINNER:  </b>Sanjay Singh Chauhan<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>Dr. Mahendra Nath Pandey<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>7398.0<br>"
+        },
+        "383": {
+            "color": "rgba(108.88499999999999,255.0,207.06,1)",
+            "matter": "<b>AC NAME: </b>Chakia  (Robertsganj)<br><b>AC NO:  </b>383<hr><b>WINNER:  </b>BHAI LAL<br><b>WON BY:  </b>SP<br><b>RUNNER:  </b>PAKAURI LAL KOL<br><b>LOST BY:  </b>ADAL<br><b>margin:  </b>26917.0<br>"
+        },
+        "384": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Pindra (Machhlishahr)<br><b>AC NO:  </b>384<hr><b>WINNER:  </b>Bholanath (B.P. Saroj)<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Tribhuvan Ram (T.Ram)<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>44089.0<br>"
+        },
+        "385": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Ajagara  (Chandauli)<br><b>AC NO:  </b>385<hr><b>WINNER:  </b>Dr. Mahendra Nath Pandey<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sanjay Singh Chauhan<br><b>LOST BY:  </b>SP<br><b>margin:  </b>12216.0<br>"
+        },
+        "386": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Shivpur (Chandauli)<br><b>AC NO:  </b>386<hr><b>WINNER:  </b>Dr. Mahendra Nath Pandey<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Sanjay Singh Chauhan<br><b>LOST BY:  </b>SP<br><b>margin:  </b>37526.0<br>"
+        },
+        "387": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Rohaniya (Varanasi)<br><b>AC NO:  </b>387<hr><b>WINNER:  </b>NARENDRA MODI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHALINI YADAV<br><b>LOST BY:  </b>SP<br><b>margin:  </b>91057.0<br>"
+        },
+        "388": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Varanasi North (Varanasi)<br><b>AC NO:  </b>388<hr><b>WINNER:  </b>NARENDRA MODI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AJAY RAI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>100106.0<br>"
+        },
+        "389": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Varanasi South (Varanasi)<br><b>AC NO:  </b>389<hr><b>WINNER:  </b>NARENDRA MODI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AJAY RAI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>59683.0<br>"
+        },
+        "390": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Varanasi Cantt. (Varanasi)<br><b>AC NO:  </b>390<hr><b>WINNER:  </b>NARENDRA MODI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>AJAY RAI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>114313.0<br>"
+        },
+        "391": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sevapuri (Varanasi)<br><b>AC NO:  </b>391<hr><b>WINNER:  </b>NARENDRA MODI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>SHALINI YADAV<br><b>LOST BY:  </b>SP<br><b>margin:  </b>68064.0<br>"
+        },
+        "392": {
+            "color": "rgba(0,0,255,1)",
+            "matter": "<b>AC NAME: </b>Bhadohi (Bhadohi)<br><b>AC NO:  </b>392<hr><b>WINNER:  </b>RANGNATH MISHRA<br><b>WON BY:  </b>BSP<br><b>RUNNER:  </b>RAMESH CHAND<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>6749.0<br>"
+        },
+        "393": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Gyanpur (Bhadohi)<br><b>AC NO:  </b>393<hr><b>WINNER:  </b>RAMESH CHAND<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RANGNATH MISHRA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>28171.0<br>"
+        },
+        "394": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Aurai  (Bhadohi)<br><b>AC NO:  </b>394<hr><b>WINNER:  </b>RAMESH CHAND<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RANGNATH MISHRA<br><b>LOST BY:  </b>BSP<br><b>margin:  </b>8454.0<br>"
+        },
+        "395": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Chhanbey  (Mirzapur)<br><b>AC NO:  </b>395<hr><b>WINNER:  </b>Anupriya Singh Patel<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>Ramcharitra Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>47172.0<br>"
+        },
+        "396": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mirzapur (Mirzapur)<br><b>AC NO:  </b>396<hr><b>WINNER:  </b>Anupriya Singh Patel<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>Ramcharitra Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>46632.0<br>"
+        },
+        "397": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Majhawan (Mirzapur)<br><b>AC NO:  </b>397<hr><b>WINNER:  </b>Anupriya Singh Patel<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>Ramcharitra Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>29448.0<br>"
+        },
+        "398": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Chunar (Mirzapur)<br><b>AC NO:  </b>398<hr><b>WINNER:  </b>Anupriya Singh Patel<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>Ramcharitra Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>55600.0<br>"
+        },
+        "399": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Marihan (Mirzapur)<br><b>AC NO:  </b>399<hr><b>WINNER:  </b>Anupriya Singh Patel<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>Ramcharitra Nishad<br><b>LOST BY:  </b>SP<br><b>margin:  </b>52807.0<br>"
+        },
+        "400": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Ghorawal (Robertsganj)<br><b>AC NO:  </b>400<hr><b>WINNER:  </b>PAKAURI LAL KOL<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>BHAI LAL<br><b>LOST BY:  </b>SP<br><b>margin:  </b>16468.0<br>"
+        },
+        "401": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Robertsganj (Robertsganj)<br><b>AC NO:  </b>401<hr><b>WINNER:  </b>PAKAURI LAL KOL<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>BHAI LAL<br><b>LOST BY:  </b>SP<br><b>margin:  </b>19949.0<br>"
+        },
+        "402": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Obra (Robertsganj)<br><b>AC NO:  </b>402<hr><b>WINNER:  </b>PAKAURI LAL KOL<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>BHAI LAL<br><b>LOST BY:  </b>SP<br><b>margin:  </b>23375.0<br>"
+        },
+        "403": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Duddhi  (Robertsganj)<br><b>AC NO:  </b>403<hr><b>WINNER:  </b>PAKAURI LAL KOL<br><b>WON BY:  </b>ADAL<br><b>RUNNER:  </b>BHAI LAL<br><b>LOST BY:  </b>SP<br><b>margin:  </b>21512.0<br>"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "title": "2019 TELANGANA PARLIAMENT ELECTIONS",
+    "trigger": "PC_NO",
+    "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>TRS</td><td>9</td><td style=\"background-color: rgba(248.0,71.0,151.0,1);\">  </td></tr><tr><td>2</td><td>BJP</td><td>4</td><td style=\"background-color: rgba(250.0,181.0,5.0,1);\">  </td></tr><tr><td>3</td><td>INC</td><td>3</td><td style=\"background-color: rgba(0.0,215.0,255.0,1);\">  </td></tr><tr><td>4</td><td>AIMIM</td><td>1</td><td style=\"background-color: rgba(0,255,0,1);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">The 2019 Indian general election was held in India on 11 April 2019, along with Telangana, to constitute the 17th Lok Sabha.</td></tr></tfoot></table>",
+    "data": {
+        "13": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nalgonda<br><b>AC NO:  </b>13<hr><b>WINNER:  </b>UTTAM KUMAR REDDY NALAMADA<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>VEMIREDDY NARASIMHA REDDY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>25682<br>"
+        },
+        "1": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Adilabad <br><b>AC NO:  </b>1<hr><b>WINNER:  </b>SOYAM BAPU RAO<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Godam Nagesh<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>58560<br>"
+        },
+        "6": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Medak<br><b>AC NO:  </b>6<hr><b>WINNER:  </b>Kotha Prabhakar Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Anil Kumar Gali<br><b>LOST BY:  </b>INC<br><b>margin:  </b>316427<br>"
+        },
+        "12": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Nagarkurnool<br><b>AC NO:  </b>12<hr><b>WINNER:  </b>POTHUGANTI RAMULU<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DR MALLU RAVI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>189748<br>"
+        },
+        "14": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bhongir <br><b>AC NO:  </b>14<hr><b>WINNER:  </b>Komati Reddy Venkat Reddy<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Dr. Boora Narsaiah Goud<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>5219<br>"
+        },
+        "7": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Malkajgiri<br><b>AC NO:  </b>7<hr><b>WINNER:  </b>ANUMULA REVANTH REDDY<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>RAJASHEKAR REDDY MARRI<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>10919<br>"
+        },
+        "8": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Secundrabad<br><b>AC NO:  </b>8<hr><b>WINNER:  </b>G . KISHAN REDDY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>TALASANI SAI KIRAN YADAV<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>62114<br>"
+        },
+        "9": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Hyderabad<br><b>AC NO:  </b>9<hr><b>WINNER:  </b>ASADUDDIN OWAISI<br><b>WON BY:  </b>AIMIM<br><b>RUNNER:  </b>Dr. BHAGAVANTH RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>282186<br>"
+        },
+        "16": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mahabubabad  <br><b>AC NO:  </b>16<hr><b>WINNER:  </b>Kavitha Malothu<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Balaram Naik Porika<br><b>LOST BY:  </b>INC<br><b>margin:  </b>146663<br>"
+        },
+        "15": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Warangal<br><b>AC NO:  </b>15<hr><b>WINNER:  </b>DAYAKAR PASUNOORI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DOMMATI SAMBAIAH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>350298<br>"
+        },
+        "2": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Peddapalle <br><b>AC NO:  </b>2<hr><b>WINNER:  </b>Venkatesh Netha Borlakunta<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Agam Chandrasekhar<br><b>LOST BY:  </b>INC<br><b>margin:  </b>95180<br>"
+        },
+        "4": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Nizamabad<br><b>AC NO:  </b>4<hr><b>WINNER:  </b>ARVIND DHARMAPURI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KALVAKUNTLA KAVITHA<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>70875<br>"
+        },
+        "17": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Khammam <br><b>AC NO:  </b>17<hr><b>WINNER:  </b>NAMA NAGESWR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RENUKA CHOWDHURY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>168062<br>"
+        },
+        "11": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mahbubnagar<br><b>AC NO:  </b>11<hr><b>WINNER:  </b>MANNE SRINIVAS REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ARUNA D.K<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>77829<br>"
+        },
+        "10": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>CHEVELLA<br><b>AC NO:  </b>10<hr><b>WINNER:  </b>Dr. G. Ranjith Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Konda Vishweshwar Reddy<br><b>LOST BY:  </b>INC<br><b>margin:  </b>14317<br>"
+        },
+        "3": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Karimnagar <br><b>AC NO:  </b>3<hr><b>WINNER:  </b>BANDI SANJAY KUMAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BOIANAPALLI VINOD KUMAR<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>89508<br>"
+        },
+        "5": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Zahirabad<br><b>AC NO:  </b>5<hr><b>WINNER:  </b>B.B.PATIL<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>MADAN MOHAN RAO<br><b>LOST BY:  </b>INC<br><b>margin:  </b>6229<br>"
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "title": "AP NEW DISTRICTS",
+    "trigger": "CODE",
+    "desc": "<center><h4>Andhra Pradesh will complete the formation of new districts by March 15 and their administration would start from April 2, Ugadi, the Telugu New Year. The number of districts in the state would double from 13 to 26.Chief Minister Jaganmohan Reddy has called for objections and suggestions from the public vis-à-vis the new districts through officials till March 3. The final notification for new districts will be issued in the third week of March.</h4><center>",
+    "data": {        
+            "1": {
+                "color": "rgba(102.0,102.0,255.0,1)",
+                "matter": "<b>CODE: </b>1<br><b>NAME: </b>Srikakulam<br><b>CAPITAL: </b>Srikakulam<br><b>PARLIAMENT: </b>Srikakulam<br><b>REVENUE DIVISIONS: </b>Srikakulam(16),Tekkali(14)<br><b>POPULATION: </b>21.91 LAKHS<br><b>AREA: </b>4591 sq kms<br>"
+            },
+            "2": {
+                "color": "rgba(0.0,192.01500000000001,255.0,1)",
+                "matter": "<b>CODE: </b>2<br><b>NAME: </b>Vizianagaram<br><b>CAPITAL: </b>Vizianagaram<br><b>PARLIAMENT: </b>Vizianagaram<br><b>REVENUE DIVISIONS: </b>Vizianagaram(15),Bobbili(11)(N)<br><b>POPULATION: </b>18.84 LAKHS<br><b>AREA: </b>3846 sq kms<br>"
+            },
+            "3": {
+                "color": "rgba(149.0,144.0,36.0,0.7)",
+                "matter": "<b>CODE: </b>3<br><b>NAME: </b>Manyam District<br><b>CAPITAL: </b>Parvathipuram<br><b>PARLIAMENT: </b>Araku (ST)<br><b>REVENUE DIVISIONS: </b>Parvathipuram(16),Palakonda(6)(N)<br><b>POPULATION: </b>9.72 LAKHS<br><b>AREA: </b>3935 sq kms<br>"
+            },
+            "4": {
+                "color": "rgba(0.0,128.0,0.0,0.5)",
+                "matter": "<b>CODE: </b>4<br><b>NAME: </b>AlluriSitharama Raju District<br><b>CAPITAL: </b>Paderu<br><b>PARLIAMENT: </b>Araku (ST)<br><b>REVENUE DIVISIONS: </b>Paderu(11)(N),Rampachodavaram(11)<br><b>POPULATION: </b>9.54 LAKHS<br><b>AREA: </b>12251 sq kms<br>"
+            },
+            "5": {
+                "color": "rgba(0,0,0,0.2)",
+                "matter": "<b>CODE: </b>5<br><b>NAME: </b>Visakhapatnam<br><b>CAPITAL: </b>Visakhapatnam<br><b>PARLIAMENT: </b>Visakhapatnam<br><b>REVENUE DIVISIONS: </b>Visakhapatnam(5),Bhimunipatnam(5)(N)<br><b>POPULATION: </b>18.13 LAKHS<br><b>AREA: </b>928 sq kms<br>"
+            },
+            "6": {
+                "color": "rgba(240.0,235.0,215.0,1)",
+                "matter": "<b>CODE: </b>6<br><b>NAME: </b>Anakapalli<br><b>CAPITAL: </b>Anakapalli<br><b>PARLIAMENT: </b>Anakapalli<br><b>REVENUE DIVISIONS: </b>Narsipatnam(10),Anakapalli(15)<br><b>POPULATION: </b>18.73 LAKHS<br><b>AREA: </b>4412 sq kms<br>"
+            },
+            "7": {
+                "color": "rgba(135.0,7.0,80.0,0.5)",
+                "matter": "<b>CODE: </b>7<br><b>NAME: </b>Kakinada<br><b>CAPITAL: </b>Kakinada<br><b>PARLIAMENT: </b>Kakinada<br><b>REVENUE DIVISIONS: </b>Kakinada(7),Peddapuram(12)<br><b>POPULATION: </b>19.37 LAKHS<br><b>AREA: </b>2605 sq kms<br>"
+            },
+            "8": {
+                "color": "rgba(250.0,181.0,5.0,1)",
+                "matter": "<b>CODE: </b>8<br><b>NAME: </b>KonaSeema<br><b>CAPITAL: </b>Amalapuram<br><b>PARLIAMENT: </b>Amalapuram (sc)<br><b>REVENUE DIVISIONS: </b>Ramachandrapuram,Amalapuram<br><b>POPULATION: </b>18.73 LAKHS<br><b>AREA: </b>2615 sq kms<br>"
+            },
+            "9": {
+                "color": "rgba(0.0,255.0,0.0,1)",
+                "matter": "<b>CODE: </b>9<br><b>NAME: </b>East Godavari<br><b>CAPITAL: </b>Rajamahendravaram<br><b>PARLIAMENT: </b>rajahmundry<br><b>REVENUE DIVISIONS: </b>Rajahmundry(10),Kovvur(10)<br><b>POPULATION: </b>19.03 LAKHS<br><b>AREA: </b>2709 sq kms<br>"
+            },
+            "10": {
+                "color": "rgba(226.0,211.0,43.0,1)",
+                "matter": "<b>CODE: </b>10<br><b>NAME: </b>West Godavari<br><b>CAPITAL: </b>Bheemavaram<br><b>PARLIAMENT: </b>narasapuram<br><b>REVENUE DIVISIONS: </b>Bheemavaram(11)(N),Narasapuram(8)<br><b>POPULATION: </b>17.8 LAKHS<br><b>AREA: </b>2178 sq kms<br>"
+            },
+            "11": {
+                "color": "rgba(149.0,144.0,36.0,0.7)",
+                "matter": "<b>CODE: </b>11<br><b>NAME: </b>Eluru<br><b>CAPITAL: </b>Eluru<br><b>PARLIAMENT: </b>Eluru<br><b>REVENUE DIVISIONS: </b>Eluru(12),Jangareddygudem(9),Nuzividu(6)<br><b>POPULATION: </b>20.03 LAKHS<br><b>AREA: </b>6413 sq kms<br>"
+            },
+            "12": {
+                "color": "rgba(0.0,192.01500000000001,255.0,1)",
+                "matter": "<b>CODE: </b>12<br><b>NAME: </b>Krishna<br><b>CAPITAL: </b>Machilipatnam<br><b>PARLIAMENT: </b>Machilipatnam<br><b>REVENUE DIVISIONS: </b>Gudiwada(13),Machilipatnam<br><b>POPULATION: </b>17.35 LAKHS<br><b>AREA: </b>3775 sq kms<br>"
+            },
+            "13": {
+                "color": "rgba(198.0,43.0,41.0,0.5)",
+                "matter": "<b>CODE: </b>13<br><b>NAME: </b>NTR District<br><b>CAPITAL: </b>Vijayawada<br><b>PARLIAMENT: </b>Vijayawada<br><b>REVENUE DIVISIONS: </b>Vijayawada(6),Nandigama(7)(N),Tiruvuru(6)(N)<br><b>POPULATION: </b>22.19 LAKHS<br><b>AREA: </b>3316 sq kms<br>"
+            },
+            "14": {
+                "color": "rgba(0,255,0,1)",
+                "matter": "<b>CODE: </b>14<br><b>NAME: </b>Guntur<br><b>CAPITAL: </b>Guntur<br><b>PARLIAMENT: </b>Guntur<br><b>REVENUE DIVISIONS: </b>Guntur(10),Tenali(8)<br><b>POPULATION: </b>20.91 LAKHS<br><b>AREA: </b>2443 sq kms<br>"
+            },
+            "15": {
+                "color": "rgba(255,0,0,0.7)",
+                "matter": "<b>CODE: </b>15<br><b>NAME: </b>Bapatla<br><b>CAPITAL: </b>Bapatla<br><b>PARLIAMENT: </b>Bapatla (SC)<br><b>REVENUE DIVISIONS: </b>Bapatla(12)(N),Chirala(13)(N)<br><b>POPULATION: </b>15.87 LAKHS<br><b>AREA: </b>3829 sq kms<br>"
+            },
+            "16": {
+                "color": "rgba(255,255,0,1)",
+                "matter": "<b>CODE: </b>16<br><b>NAME: </b>Palnadu<br><b>CAPITAL: </b>Narsaraopeta<br><b>PARLIAMENT: </b>Narsaraopeta<br><b>REVENUE DIVISIONS: </b>Narsaraopeta(14),Gurjala(14)<br><b>POPULATION: </b>20.42 LAKHS<br><b>AREA: </b>7298 sq kms<br>"
+            },
+            "17": {
+                "color": "rgba(0.0,192.01500000000001,255.0,1)",
+                "matter": "<b>CODE: </b>17<br><b>NAME: </b>Prakasam<br><b>CAPITAL: </b>Ongole<br><b>PARLIAMENT: </b>Ongole<br><b>REVENUE DIVISIONS: </b>Ongole(12),Markapuram(13)<br><b>POPULATION: </b>22.88 LAKHS<br><b>AREA: </b>14322 sq kms<br>"
+            },
+            "18": {
+                "color": "rgba(0,0,255,0.5)",
+                "matter": "<b>CODE: </b>18<br><b>NAME: </b>sri potti sriramulu Nellore<br><b>CAPITAL: </b>Nellore<br><b>PARLIAMENT: </b>Nellore<br><b>REVENUE DIVISIONS: </b>Nellore(12),Atmakuru(11),Kavali(12)<br><b>POPULATION: </b>23.37 LAKHS<br><b>AREA: </b>9141 sq kms<br>"
+            },
+            "19": {
+                "color": "rgba(255,255,0,1)",
+                "matter": "<b>CODE: </b>19<br><b>NAME: </b>Kurnool<br><b>CAPITAL: </b>Kurnool<br><b>PARLIAMENT: </b>Kurnool<br><b>REVENUE DIVISIONS: </b>Kurnool(11),Adoni(17)<br><b>POPULATION: </b>23.66 LAKHS<br><b>AREA: </b>8507 sq kms<br>"
+            },
+            "20": {
+                "color": "rgba(128.775,128.775,255,1)",
+                "matter": "<b>CODE: </b>20<br><b>NAME: </b>Nandyal<br><b>CAPITAL: </b>Nandyal<br><b>PARLIAMENT: </b>Nandyal<br><b>REVENUE DIVISIONS: </b>Nandyal(9),Done(8)(N),Atmakuru(10)(N)<br><b>POPULATION: </b>16.87 LAKHS<br><b>AREA: </b>9155 sq kms<br>"
+            },
+            "21": {
+                "color": "rgba(219.0,49.0,235.0,1)",
+                "matter": "<b>CODE: </b>21<br><b>NAME: </b>Ananthapuram<br><b>CAPITAL: </b>Ananthapuram<br><b>PARLIAMENT: </b>Ananthapuram<br><b>REVENUE DIVISIONS: </b>Ananthapuram(14),Kalyanadurgam(12),Guntakal(8)(N)<br><b>POPULATION: </b>23.59 LAKHS<br><b>AREA: </b>11359 sq kms<br>"
+            },
+            "22": {
+                "color": "rgba(127.0,235.0,49.0,1)",
+                "matter": "<b>CODE: </b>22<br><b>NAME: </b>Sri Satyasai District<br><b>CAPITAL: </b>Puttaparthy<br><b>PARLIAMENT: </b>HINDUPUR<br><b>REVENUE DIVISIONS: </b>Puttaparthy(8)(N),Penugonda(13),Kadiri(8)<br><b>POPULATION: </b>17.22 LAKHS<br><b>AREA: </b>7771 sq kms<br>"
+            },
+            "23": {
+                "color": "rgba(255,0,0,0.5)",
+                "matter": "<b>CODE: </b>23<br><b>NAME: </b>YSR Kadapa<br><b>CAPITAL: </b>Kadapa<br><b>PARLIAMENT: </b>Kadapa<br><b>REVENUE DIVISIONS: </b>Kadapa(10),Jammalamadugu(12),Badvel(12)(N)<br><b>POPULATION: </b>19.9 LAKHS<br><b>AREA: </b>10723 sq kms<br>"
+            },
+            "24": {
+                "color": "rgba(240.0,235.0,215.0,1)",
+                "matter": "<b>CODE: </b>24<br><b>NAME: </b>Annamayya District<br><b>CAPITAL: </b>Rayachoty<br><b>PARLIAMENT: </b>RAJAMPET<br><b>REVENUE DIVISIONS: </b>Rayachoty(10)(N),Madanapalle(11)<br><b>POPULATION: </b>17.68 LAKHS<br><b>AREA: </b>8459 sq kms<br>"
+            },
+            "25": {
+                "color": "rgba(52.0,201.0,114.0,1)",
+                "matter": "<b>CODE: </b>25<br><b>NAME: </b>Chittoor<br><b>CAPITAL: </b>Chittoor<br><b>PARLIAMENT: </b>Chittoor (SC)<br><b>REVENUE DIVISIONS: </b>Chittoor(18),Palamaner(15)(N)<br><b>POPULATION: </b>19.85 LAKHS<br><b>AREA: </b>7210 sq kms<br>"
+            },
+            "26": {
+                "color": "rgba(173.0,15.0,180.0,1)",
+                "matter": "<b>CODE: </b>26<br><b>NAME: </b>Sri Balaji Dist.<br><b>CAPITAL: </b>Tirupati<br><b>PARLIAMENT: </b>Tirupati (SC)<br><b>REVENUE DIVISIONS: </b>Tirupati(11),Naidupet(13),Gudur(11)<br><b>POPULATION: </b>22.18 LAKHS<br><b>AREA: </b>9176 sq kms<br>"
+            }
+        }
+    }
