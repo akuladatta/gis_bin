@@ -1,0 +1,315 @@
+{
+    "title": "2011 PUNJAB HINDU POPULATION",
+    "trigger": "sdtcode11",
+    "desc": "<div class='col-md-6'><div style='border:2px solid Black;background-color:white;font-size:medium;'><div style='background-color:black;border:1% solid black;font-size:medium;font-weight:bold;color:white;text-align:center;height:30%;width:100%;margin-top: 0px;margin-bottom: 0px;margin-right: 0px;margin-left: 0px;'>Legend</div><div title='' style='margin-top: 5%;display: block;'>Highest: 91.04 </div><div style='background-color:white;font-size:small;color:black;margin-top: 5%;margin-bottom: 0px;margin-right: 0px;margin-left: 30%;'><div title='73.45% to 91.04% (High)' style='background-color:#d7191c;color:#d7191c;cursor:default;text-align:center;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding: 0;width: 50%;display: block;'>1</div><span id='hightxt'></span><br><div title='55.85% to 73.45% (Above Avg)' style='background-color:#fdae61;text-align:center;cursor:default;color:#fdae61;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding: 0;width: 50%;display: block;'>2</div><span id='abvavgtxt'></span><br><div title='38.26% to 55.85% (Average)' style='background-color:#ffffbf;text-align:center;cursor:default;color:#ffffbf;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding: 0;width: 50%;;display: block;'>3</div><span id='avgtxt'></span><br><div title='20.66% to 38.26% (Below Avg)' style='background-color:#abd9e9;text-align:center;cursor:default;color:#abd9e9;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding: 0;width: 50%;display: block;'>4</div><span id='blwavgtxt'></span><br><div title='3.07% to 20.66% (Low)' style='background-color:#2c7bb6;cursor:default;text-align:center;color:#2c7bb6;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding: 0;width: 50%;display: block;'>5</div><span id='lowtxt'></span><br></div><div style='margin-top: -5%;' title='BIHAR - Lowest' style='display: block; color: rgb(0, 0, 0);'>Lowest: 3.07</div><br><div id='divsc' style='display: none'><div id='divsc1'>6</div><br><div id='txtscst'>Zero SC</div></div></div></div>",
+    "data": {
+        "00200": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Dhar Kalan<br><b>total population: </b>54186<br><b>population: </b>49333<br><b>Percentage: </b>91.04<br>"
+        },
+        "00201": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Pathankot       <br><b>total population: </b>622412<br><b>population: </b>548904<br><b>Percentage: </b>88.19<br>"
+        },
+        "00202": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Gurdaspur <br><b>total population: </b>821539<br><b>population: </b>329261<br><b>Percentage: </b>40.08<br>"
+        },
+        "00203": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Batala <br><b>total population: </b>675891<br><b>population: </b>131675<br><b>Percentage: </b>19.48<br>"
+        },
+        "00204": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Dera Baba Nanak  <br><b>total population: </b>124295<br><b>population: </b>15159<br><b>Percentage: </b>12.2<br>"
+        },
+        "00205": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Bhulath<br><b>total population: </b>104354<br><b>population: </b>19697<br><b>Percentage: </b>18.88<br>"
+        },
+        "00206": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Kapurthala <br><b>total population: </b>341631<br><b>population: </b>125440<br><b>Percentage: </b>36.72<br>"
+        },
+        "00207": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Sultanpur Lodhi <br><b>total population: </b>121816<br><b>population: </b>28225<br><b>Percentage: </b>23.17<br>"
+        },
+        "00208": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>name: </b>Phagwara <br><b>total population: </b>247367<br><b>population: </b>162762<br><b>Percentage: </b>65.8<br>"
+        },
+        "00209": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Shahkot<br><b>total population: </b>166532<br><b>population: </b>53016<br><b>Percentage: </b>31.84<br>"
+        },
+        "00210": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Nakodar<br><b>total population: </b>208157<br><b>population: </b>109729<br><b>Percentage: </b>52.71<br>"
+        },
+        "00211": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Phillaur<br><b>total population: </b>381732<br><b>population: </b>236155<br><b>Percentage: </b>61.86<br>"
+        },
+        "00212": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Jalandhar - I<br><b>total population: </b>1145692<br><b>population: </b>832452<br><b>Percentage: </b>72.66<br>"
+        },
+        "00213": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Jalandhar - II<br><b>total population: </b>291477<br><b>population: </b>162977<br><b>Percentage: </b>55.91<br>"
+        },
+        "00214": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Dasua<br><b>total population: </b>360505<br><b>population: </b>155698<br><b>Percentage: </b>43.19<br>"
+        },
+        "00215": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Mukerian <br><b>total population: </b>335063<br><b>population: </b>264560<br><b>Percentage: </b>78.96<br>"
+        },
+        "00216": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>name: </b>Hoshiarpur <br><b>total population: </b>560346<br><b>population: </b>371124<br><b>Percentage: </b>66.23<br>"
+        },
+        "00217": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>name: </b>Garhshankar<br><b>total population: </b>330711<br><b>population: </b>209361<br><b>Percentage: </b>63.31<br>"
+        },
+        "00218": {
+            "color": "rgba(253.197, 197.303, 124.5379, 1.0)",
+            "matter": "<b>name: </b>Nawanshahr<br><b>total population: </b>423546<br><b>population: </b>265320<br><b>Percentage: </b>62.64<br>"
+        },
+        "00219": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Balachaur<br><b>total population: </b>188764<br><b>population: </b>136048<br><b>Percentage: </b>72.07<br>"
+        },
+        "00220": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Bassi Pathana<br><b>total population: </b>96163<br><b>population: </b>16443<br><b>Percentage: </b>17.1<br>"
+        },
+        "00221": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Fatehgarh Sahib<br><b>total population: </b>202334<br><b>population: </b>41295<br><b>Percentage: </b>20.41<br>"
+        },
+        "00222": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Amloh<br><b>total population: </b>210628<br><b>population: </b>83308<br><b>Percentage: </b>39.55<br>"
+        },
+        "00223": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Khamanon<br><b>total population: </b>91038<br><b>population: </b>11805<br><b>Percentage: </b>12.97<br>"
+        },
+        "00224": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Samrala<br><b>total population: </b>223385<br><b>population: </b>50167<br><b>Percentage: </b>22.46<br>"
+        },
+        "00225": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Khanna<br><b>total population: </b>222297<br><b>population: </b>80851<br><b>Percentage: </b>36.37<br>"
+        },
+        "00226": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Payal<br><b>total population: </b>213545<br><b>population: </b>32852<br><b>Percentage: </b>15.38<br>"
+        },
+        "00227": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Ludhiana (East)<br><b>total population: </b>1934225<br><b>population: </b>1164055<br><b>Percentage: </b>60.18<br>"
+        },
+        "00228": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Ludhiana (West)<br><b>total population: </b>362602<br><b>population: </b>104257<br><b>Percentage: </b>28.75<br>"
+        },
+        "00229": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Raikot<br><b>total population: </b>201451<br><b>population: </b>25921<br><b>Percentage: </b>12.87<br>"
+        },
+        "00230": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Jagraon<br><b>total population: </b>341234<br><b>population: </b>44300<br><b>Percentage: </b>12.98<br>"
+        },
+        "00231": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>name: </b>Nihal Singhwala<br><b>total population: </b>170609<br><b>population: </b>16571<br><b>Percentage: </b>9.71<br>"
+        },
+        "00232": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>name: </b>Bagha Purana<br><b>total population: </b>225649<br><b>population: </b>20921<br><b>Percentage: </b>9.27<br>"
+        },
+        "00233": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Moga<br><b>total population: </b>599488<br><b>population: </b>120922<br><b>Percentage: </b>20.17<br>"
+        },
+        "00234": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Zira<br><b>total population: </b>258438<br><b>population: </b>32963<br><b>Percentage: </b>12.75<br>"
+        },
+        "00235": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Firozpur<br><b>total population: </b>567191<br><b>population: </b>205033<br><b>Percentage: </b>36.15<br>"
+        },
+        "00236": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Jalalabad <br><b>total population: </b>356027<br><b>population: </b>129228<br><b>Percentage: </b>36.3<br>"
+        },
+        "00237": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Fazilka<br><b>total population: </b>404152<br><b>population: </b>216754<br><b>Percentage: </b>53.63<br>"
+        },
+        "00238": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Abohar <br><b>total population: </b>443266<br><b>population: </b>322430<br><b>Percentage: </b>72.74<br>"
+        },
+        "00239": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Malout<br><b>total population: </b>348165<br><b>population: </b>118243<br><b>Percentage: </b>33.96<br>"
+        },
+        "00240": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Gidderbaha<br><b>total population: </b>222937<br><b>population: </b>43278<br><b>Percentage: </b>19.41<br>"
+        },
+        "00241": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Muktsar<br><b>total population: </b>330794<br><b>population: </b>93399<br><b>Percentage: </b>28.23<br>"
+        },
+        "00242": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Faridkot<br><b>total population: </b>456578<br><b>population: </b>111548<br><b>Percentage: </b>24.43<br>"
+        },
+        "00243": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Jaitu<br><b>total population: </b>160930<br><b>population: </b>29815<br><b>Percentage: </b>18.53<br>"
+        },
+        "00244": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Rampura Phul<br><b>total population: </b>316669<br><b>population: </b>50680<br><b>Percentage: </b>16.0<br>"
+        },
+        "00245": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Bathinda<br><b>total population: </b>755926<br><b>population: </b>265498<br><b>Percentage: </b>35.12<br>"
+        },
+        "00246": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Talwandi Sabo<br><b>total population: </b>315930<br><b>population: </b>64391<br><b>Percentage: </b>20.38<br>"
+        },
+        "00247": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Sardulgarh<br><b>total population: </b>174234<br><b>population: </b>38525<br><b>Percentage: </b>22.11<br>"
+        },
+        "00248": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Budhlada<br><b>total population: </b>254706<br><b>population: </b>47016<br><b>Percentage: </b>18.46<br>"
+        },
+        "00249": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Mansa<br><b>total population: </b>340811<br><b>population: </b>70998<br><b>Percentage: </b>20.83<br>"
+        },
+        "00250": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Samana<br><b>total population: </b>173970<br><b>population: </b>57439<br><b>Percentage: </b>33.02<br>"
+        },
+        "00251": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Patran<br><b>total population: </b>193683<br><b>population: </b>85967<br><b>Percentage: </b>44.39<br>"
+        },
+        "00252": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Nabha<br><b>total population: </b>277236<br><b>population: </b>79957<br><b>Percentage: </b>28.84<br>"
+        },
+        "00253": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Patiala<br><b>total population: </b>859786<br><b>population: </b>395107<br><b>Percentage: </b>45.95<br>"
+        },
+        "00254": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Rajpura<br><b>total population: </b>391011<br><b>population: </b>164836<br><b>Percentage: </b>42.16<br>"
+        },
+        "00255": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>name: </b>Ajnala<br><b>total population: </b>442711<br><b>population: </b>26409<br><b>Percentage: </b>5.97<br>"
+        },
+        "00256": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>name: </b>Amritsar -I  <br><b>total population: </b>312240<br><b>population: </b>42786<br><b>Percentage: </b>13.7<br>"
+        },
+        "00257": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Amritsar- II <br><b>total population: </b>1415214<br><b>population: </b>599399<br><b>Percentage: </b>42.35<br>"
+        },
+        "00258": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>name: </b>Baba Bakala <br><b>total population: </b>320491<br><b>population: </b>22345<br><b>Percentage: </b>6.97<br>"
+        },
+        "00259": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>name: </b>Tarn Taran<br><b>total population: </b>493625<br><b>population: </b>25064<br><b>Percentage: </b>5.08<br>"
+        },
+        "00260": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>name: </b>Patti <br><b>total population: </b>438190<br><b>population: </b>29666<br><b>Percentage: </b>6.77<br>"
+        },
+        "00261": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>name: </b>Khadur Sahib<br><b>total population: </b>187812<br><b>population: </b>5774<br><b>Percentage: </b>3.07<br>"
+        },
+        "00262": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Anandpur Sahib<br><b>total population: </b>194445<br><b>population: </b>110072<br><b>Percentage: </b>56.61<br>"
+        },
+        "00263": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Nangal<br><b>total population: </b>133585<br><b>population: </b>106415<br><b>Percentage: </b>79.66<br>"
+        },
+        "00264": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Rup Nagar<br><b>total population: </b>181256<br><b>population: </b>61878<br><b>Percentage: </b>34.14<br>"
+        },
+        "00265": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Chamkaur Sahib<br><b>total population: </b>175341<br><b>population: </b>26116<br><b>Percentage: </b>14.89<br>"
+        },
+        "00266": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Kharar<br><b>total population: </b>329763<br><b>population: </b>128758<br><b>Percentage: </b>39.05<br>"
+        },
+        "00267": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>SAS Nagar (Mohali)<br><b>total population: </b>324375<br><b>population: </b>138539<br><b>Percentage: </b>42.71<br>"
+        },
+        "00268": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Dera Bassi<br><b>total population: </b>340490<br><b>population: </b>208979<br><b>Percentage: </b>61.38<br>"
+        },
+        "00269": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Malerkotla<br><b>total population: </b>429754<br><b>population: </b>65291<br><b>Percentage: </b>15.19<br>"
+        },
+        "00270": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Dhuri<br><b>total population: </b>261247<br><b>population: </b>58271<br><b>Percentage: </b>22.3<br>"
+        },
+        "00271": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Sangrur<br><b>total population: </b>362882<br><b>population: </b>95127<br><b>Percentage: </b>26.21<br>"
+        },
+        "00272": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Sunam<br><b>total population: </b>334641<br><b>population: </b>69378<br><b>Percentage: </b>20.73<br>"
+        },
+        "00273": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Lehra<br><b>total population: </b>132382<br><b>population: </b>26159<br><b>Percentage: </b>19.76<br>"
+        },
+        "00274": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Moonak<br><b>total population: </b>134263<br><b>population: </b>75184<br><b>Percentage: </b>56.0<br>"
+        },
+        "00275": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Barnala<br><b>total population: </b>388699<br><b>population: </b>83541<br><b>Percentage: </b>21.49<br>"
+        },
+        "00276": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>name: </b>Tapa<br><b>total population: </b>206828<br><b>population: </b>29318<br><b>Percentage: </b>14.18<br>"
+        }
+    }
+}
