@@ -1,0 +1,1839 @@
+{
+    "title": "2011 TELUGU POPULATION IN TELANGANA",
+    "trigger": "sdtcode11",
+    "desc": "<div class='col-md-6'><div style='border:2px solid Black;background-color:white;font-size:medium;'><div style='background-color:black;border:1% solid black;font-size:medium;font-weight:bold;color:white;text-align:center;height:30%;width:100%;margin-top: 0px;margin-bottom: 0px;margin-right: 0px;margin-left: 0px;'>Legend</div><div title='' style='margin-top: 5%;display: block;'>Highest: 99.0 </div><div style='background-color:white;font-size:small;color:black;margin-top: 5%;margin-bottom: 0px;margin-right: 0px;margin-left: 30%;'><div title='79.59% to 99.0% (High)' style='background-color:#d7191c;color:#d7191c;cursor:default;text-align:center;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding: 0;width: 50%;display: block;'>1</div><span id='hightxt'></span><br><div title='60.18% to 79.59% (Above Avg)' style='background-color:#fdae61;text-align:center;cursor:default;color:#fdae61;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding: 0;width: 50%;display: block;'>2</div><span id='abvavgtxt'></span><br><div title='40.76% to 60.18% (Average)' style='background-color:#ffffbf;text-align:center;cursor:default;color:#ffffbf;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding: 0;width: 50%;;display: block;'>3</div><span id='avgtxt'></span><br><div title='21.35% to 40.76% (Below Avg)' style='background-color:#abd9e9;text-align:center;cursor:default;color:#abd9e9;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding: 0;width: 50%;display: block;'>4</div><span id='blwavgtxt'></span><br><div title='1.94% to 21.35% (Low)' style='background-color:#2c7bb6;cursor:default;text-align:center;color:#2c7bb6;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding: 0;width: 50%;display: block;'>5</div><span id='lowtxt'></span><br></div><div style='margin-top: -5%;' title='BIHAR - Lowest' style='display: block; color: rgb(0, 0, 0);'>Lowest: 1.94</div><br><div id='divsc' style='display: none'><div id='divsc1'>6</div><br><div id='txtscst'>Zero SC</div></div></div></div>",
+    "data": {
+        "04305": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Tamsi<br><b>l1 population: </b>39631<br><b>l2 population: </b>22332 (56.35%)<br>"
+        },
+        "04306": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Adilabad<br><b>l1 population: </b>198338<br><b>l2 population: </b>94033 (47.41%)<br>"
+        },
+        "04307": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Jainad<br><b>l1 population: </b>47904<br><b>l2 population: </b>29690 (61.98%)<br>"
+        },
+        "04308": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Bela<br><b>l1 population: </b>38318<br><b>l2 population: </b>7279 (19.0%)<br>"
+        },
+        "04309": {
+            "color": "rgba(253.7121, 213.7879, 143.5985, 1.0)",
+            "matter": "<b>name: </b>Talamadugu<br><b>l1 population: </b>34632<br><b>l2 population: </b>21794 (62.93%)<br>"
+        },
+        "04310": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Gudihathnoor<br><b>l1 population: </b>30339<br><b>l2 population: </b>5180 (17.07%)<br>"
+        },
+        "04311": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>name: </b>Inderavelly<br><b>l1 population: </b>47506<br><b>l2 population: </b>3188 (6.71%)<br>"
+        },
+        "04312": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>name: </b>Narnoor<br><b>l1 population: </b>49239<br><b>l2 population: </b>1146 (2.33%)<br>"
+        },
+        "04313": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>name: </b>Kerameri <br><b>l1 population: </b>30724<br><b>l2 population: </b>2158 (7.02%)<br>"
+        },
+        "04314": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Wankdi<br><b>l1 population: </b>35523<br><b>l2 population: </b>5928 (16.69%)<br>"
+        },
+        "04315": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Sirpur (T)<br><b>l1 population: </b>31130<br><b>l2 population: </b>13209 (42.43%)<br>"
+        },
+        "04316": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Kouthala<br><b>l1 population: </b>50938<br><b>l2 population: </b>21069 (41.36%)<br>"
+        },
+        "04317": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Bejjur<br><b>l1 population: </b>49284<br><b>l2 population: </b>25528 (51.8%)<br>"
+        },
+        "04318": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Kagaznagar<br><b>l1 population: </b>110078<br><b>l2 population: </b>49211 (44.71%)<br>"
+        },
+        "04319": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Asifabad <br><b>l1 population: </b>58511<br><b>l2 population: </b>22125 (37.81%)<br>"
+        },
+        "04320": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>name: </b>Jainoor<br><b>l1 population: </b>31453<br><b>l2 population: </b>1271 (4.04%)<br>"
+        },
+        "04321": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Utnoor<br><b>l1 population: </b>63465<br><b>l2 population: </b>17076 (26.91%)<br>"
+        },
+        "04322": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Ichoda<br><b>l1 population: </b>52840<br><b>l2 population: </b>12553 (23.76%)<br>"
+        },
+        "04323": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Bazarhathnoor<br><b>l1 population: </b>28911<br><b>l2 population: </b>8097 (28.01%)<br>"
+        },
+        "04324": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Boath<br><b>l1 population: </b>48216<br><b>l2 population: </b>25288 (52.45%)<br>"
+        },
+        "04325": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Neradigonda<br><b>l1 population: </b>29633<br><b>l2 population: </b>11150 (37.63%)<br>"
+        },
+        "04326": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>name: </b>Sirpur<br><b>l1 population: </b>26097<br><b>l2 population: </b>505 (1.94%)<br>"
+        },
+        "04327": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Rebbana<br><b>l1 population: </b>35859<br><b>l2 population: </b>21364 (59.58%)<br>"
+        },
+        "04328": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Bhimini<br><b>l1 population: </b>26285<br><b>l2 population: </b>19221 (73.13%)<br>"
+        },
+        "04329": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Dahegaon<br><b>l1 population: </b>34712<br><b>l2 population: </b>26670 (76.83%)<br>"
+        },
+        "04330": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Vemanpalle<br><b>l1 population: </b>19532<br><b>l2 population: </b>17965 (91.98%)<br>"
+        },
+        "04331": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Nennal<br><b>l1 population: </b>23534<br><b>l2 population: </b>21706 (92.23%)<br>"
+        },
+        "04332": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Tandur<br><b>l1 population: </b>32617<br><b>l2 population: </b>27288 (83.66%)<br>"
+        },
+        "04333": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Tiryani<br><b>l1 population: </b>26410<br><b>l2 population: </b>7464 (28.26%)<br>"
+        },
+        "04334": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Jannaram<br><b>l1 population: </b>52883<br><b>l2 population: </b>42216 (79.83%)<br>"
+        },
+        "04335": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Kaddam (Peddur)<br><b>l1 population: </b>52703<br><b>l2 population: </b>42152 (79.98%)<br>"
+        },
+        "04336": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>name: </b>Sarangapur<br><b>l1 population: </b>48820<br><b>l2 population: </b>36634 (75.04%)<br>"
+        },
+        "04337": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Kuntala<br><b>l1 population: </b>34190<br><b>l2 population: </b>25407 (74.31%)<br>"
+        },
+        "04338": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Kubeer<br><b>l1 population: </b>47984<br><b>l2 population: </b>21933 (45.71%)<br>"
+        },
+        "04339": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Bhainsa<br><b>l1 population: </b>89417<br><b>l2 population: </b>38521 (43.08%)<br>"
+        },
+        "04340": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Tanoor<br><b>l1 population: </b>39752<br><b>l2 population: </b>13221 (33.26%)<br>"
+        },
+        "04341": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Mudhole<br><b>l1 population: </b>55923<br><b>l2 population: </b>30990 (55.42%)<br>"
+        },
+        "04342": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Lokeswaram<br><b>l1 population: </b>34253<br><b>l2 population: </b>28835 (84.18%)<br>"
+        },
+        "04343": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Dilawarpur<br><b>l1 population: </b>35780<br><b>l2 population: </b>28220 (78.87%)<br>"
+        },
+        "04344": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Nirmal<br><b>l1 population: </b>139570<br><b>l2 population: </b>98595 (70.64%)<br>"
+        },
+        "04345": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Laxmanchanda<br><b>l1 population: </b>36739<br><b>l2 population: </b>34006 (92.56%)<br>"
+        },
+        "04346": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Mamda<br><b>l1 population: </b>32303<br><b>l2 population: </b>22857 (70.76%)<br>"
+        },
+        "04347": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Khanapur<br><b>l1 population: </b>61984<br><b>l2 population: </b>43448 (70.1%)<br>"
+        },
+        "04348": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Dandepalle<br><b>l1 population: </b>49741<br><b>l2 population: </b>45180 (90.83%)<br>"
+        },
+        "04349": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Kasipet<br><b>l1 population: </b>32749<br><b>l2 population: </b>21803 (66.58%)<br>"
+        },
+        "04350": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Bellampalle<br><b>l1 population: </b>80897<br><b>l2 population: </b>69900 (86.41%)<br>"
+        },
+        "04351": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Kotapalle<br><b>l1 population: </b>33110<br><b>l2 population: </b>32015 (96.69%)<br>"
+        },
+        "04352": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Mandamarri<br><b>l1 population: </b>100109<br><b>l2 population: </b>92877 (92.78%)<br>"
+        },
+        "04353": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Luxettipet<br><b>l1 population: </b>50674<br><b>l2 population: </b>46934 (92.62%)<br>"
+        },
+        "04354": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Mancherial<br><b>l1 population: </b>195228<br><b>l2 population: </b>172222 (88.22%)<br>"
+        },
+        "04355": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Jaipur<br><b>l1 population: </b>50079<br><b>l2 population: </b>47551 (94.95%)<br>"
+        },
+        "04356": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Chennur<br><b>l1 population: </b>54692<br><b>l2 population: </b>50183 (91.76%)<br>"
+        },
+        "04357": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Ranjal<br><b>l1 population: </b>38880<br><b>l2 population: </b>25099 (64.56%)<br>"
+        },
+        "04358": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Navipet<br><b>l1 population: </b>55125<br><b>l2 population: </b>44047 (79.9%)<br>"
+        },
+        "04359": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Nandipet<br><b>l1 population: </b>70598<br><b>l2 population: </b>63333 (89.71%)<br>"
+        },
+        "04360": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Armur<br><b>l1 population: </b>121987<br><b>l2 population: </b>99277 (81.38%)<br>"
+        },
+        "04361": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Balkonda<br><b>l1 population: </b>81003<br><b>l2 population: </b>69387 (85.66%)<br>"
+        },
+        "04362": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Mortad<br><b>l1 population: </b>56153<br><b>l2 population: </b>51655 (91.99%)<br>"
+        },
+        "04363": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Kammarpalle<br><b>l1 population: </b>42765<br><b>l2 population: </b>35131 (82.15%)<br>"
+        },
+        "04364": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Bheemgal<br><b>l1 population: </b>62666<br><b>l2 population: </b>48451 (77.32%)<br>"
+        },
+        "04365": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Velpur<br><b>l1 population: </b>42486<br><b>l2 population: </b>39948 (94.03%)<br>"
+        },
+        "04366": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Jakranpalle<br><b>l1 population: </b>45505<br><b>l2 population: </b>38943 (85.58%)<br>"
+        },
+        "04367": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Makloor<br><b>l1 population: </b>58588<br><b>l2 population: </b>47047 (80.3%)<br>"
+        },
+        "04368": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Nizamabad<br><b>l1 population: </b>412500<br><b>l2 population: </b>245545 (59.53%)<br>"
+        },
+        "04369": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Yedpalle<br><b>l1 population: </b>40028<br><b>l2 population: </b>26740 (66.8%)<br>"
+        },
+        "04370": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Bodhan<br><b>l1 population: </b>143749<br><b>l2 population: </b>79046 (54.99%)<br>"
+        },
+        "04371": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Kotgiri<br><b>l1 population: </b>56917<br><b>l2 population: </b>33245 (58.41%)<br>"
+        },
+        "04372": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Madnoor<br><b>l1 population: </b>59002<br><b>l2 population: </b>20834 (35.31%)<br>"
+        },
+        "04373": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Jukkal<br><b>l1 population: </b>53980<br><b>l2 population: </b>18954 (35.11%)<br>"
+        },
+        "04374": {
+            "color": "rgba(253.7121, 213.7879, 143.5985, 1.0)",
+            "matter": "<b>name: </b>Bichkunda<br><b>l1 population: </b>64044<br><b>l2 population: </b>40029 (62.5%)<br>"
+        },
+        "04375": {
+            "color": "rgba(252.6818, 180.8182, 105.4773, 1.0)",
+            "matter": "<b>name: </b>Birkoor<br><b>l1 population: </b>50391<br><b>l2 population: </b>36495 (72.42%)<br>"
+        },
+        "04376": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Varni<br><b>l1 population: </b>72230<br><b>l2 population: </b>50288 (69.62%)<br>"
+        },
+        "04377": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Dichpalle<br><b>l1 population: </b>76896<br><b>l2 population: </b>57332 (74.56%)<br>"
+        },
+        "04378": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Dharpalle<br><b>l1 population: </b>47954<br><b>l2 population: </b>37399 (77.99%)<br>"
+        },
+        "04379": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Sirkonda<br><b>l1 population: </b>51078<br><b>l2 population: </b>37646 (73.7%)<br>"
+        },
+        "04380": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Machareddy<br><b>l1 population: </b>58443<br><b>l2 population: </b>44808 (76.67%)<br>"
+        },
+        "04381": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Sadasivanagar<br><b>l1 population: </b>56005<br><b>l2 population: </b>51022 (91.1%)<br>"
+        },
+        "04382": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Gandhari<br><b>l1 population: </b>58535<br><b>l2 population: </b>32906 (56.22%)<br>"
+        },
+        "04383": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Banswada<br><b>l1 population: </b>68732<br><b>l2 population: </b>44457 (64.68%)<br>"
+        },
+        "04384": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Pitlam<br><b>l1 population: </b>47581<br><b>l2 population: </b>36316 (76.32%)<br>"
+        },
+        "04385": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Nizamsagar<br><b>l1 population: </b>36913<br><b>l2 population: </b>30750 (83.3%)<br>"
+        },
+        "04386": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Yellareddy<br><b>l1 population: </b>46253<br><b>l2 population: </b>37309 (80.66%)<br>"
+        },
+        "04387": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Nagareddipet<br><b>l1 population: </b>34601<br><b>l2 population: </b>29752 (85.99%)<br>"
+        },
+        "04388": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Lingampet<br><b>l1 population: </b>48122<br><b>l2 population: </b>37551 (78.03%)<br>"
+        },
+        "04389": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Tadwai<br><b>l1 population: </b>48585<br><b>l2 population: </b>42407 (87.28%)<br>"
+        },
+        "04390": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>name: </b>Kamareddy<br><b>l1 population: </b>126445<br><b>l2 population: </b>95206 (75.29%)<br>"
+        },
+        "04391": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Bhiknoor<br><b>l1 population: </b>59656<br><b>l2 population: </b>56228 (94.25%)<br>"
+        },
+        "04392": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Domakonda<br><b>l1 population: </b>56939<br><b>l2 population: </b>54937 (96.48%)<br>"
+        },
+        "04393": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Ibrahimpatnam<br><b>l1 population: </b>52759<br><b>l2 population: </b>50408 (95.54%)<br>"
+        },
+        "04394": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Mallapur<br><b>l1 population: </b>53870<br><b>l2 population: </b>50896 (94.48%)<br>"
+        },
+        "04395": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Raikal<br><b>l1 population: </b>63907<br><b>l2 population: </b>58537 (91.6%)<br>"
+        },
+        "04396": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Sarangapur<br><b>l1 population: </b>45006<br><b>l2 population: </b>42352 (94.1%)<br>"
+        },
+        "04397": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Dharmapuri<br><b>l1 population: </b>78365<br><b>l2 population: </b>75755 (96.67%)<br>"
+        },
+        "04398": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Velgatoor<br><b>l1 population: </b>51719<br><b>l2 population: </b>51200 (99.0%)<br>"
+        },
+        "04399": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Ramagundam<br><b>l1 population: </b>277041<br><b>l2 population: </b>244031 (88.08%)<br>"
+        },
+        "04400": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Kamanpur<br><b>l1 population: </b>75072<br><b>l2 population: </b>69282 (92.29%)<br>"
+        },
+        "04401": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Manthani<br><b>l1 population: </b>54669<br><b>l2 population: </b>52796 (96.57%)<br>"
+        },
+        "04402": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Kataram<br><b>l1 population: </b>37336<br><b>l2 population: </b>35160 (94.17%)<br>"
+        },
+        "04403": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Mahadevpur<br><b>l1 population: </b>38489<br><b>l2 population: </b>35856 (93.16%)<br>"
+        },
+        "04404": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Mutharam (Mahadevpur)<br><b>l1 population: </b>26312<br><b>l2 population: </b>23282 (88.48%)<br>"
+        },
+        "04405": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Malharrao<br><b>l1 population: </b>25343<br><b>l2 population: </b>24314 (95.94%)<br>"
+        },
+        "04406": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Mutharam (Manthani)<br><b>l1 population: </b>31567<br><b>l2 population: </b>31108 (98.55%)<br>"
+        },
+        "04407": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Srirampur<br><b>l1 population: </b>41956<br><b>l2 population: </b>41352 (98.56%)<br>"
+        },
+        "04408": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Peddapalle<br><b>l1 population: </b>101776<br><b>l2 population: </b>89263 (87.71%)<br>"
+        },
+        "04409": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Julapalle<br><b>l1 population: </b>27661<br><b>l2 population: </b>27148 (98.15%)<br>"
+        },
+        "04410": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Elgaid<br><b>l1 population: </b>22342<br><b>l2 population: </b>22000 (98.47%)<br>"
+        },
+        "04411": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Dharmaram<br><b>l1 population: </b>54087<br><b>l2 population: </b>50689 (93.72%)<br>"
+        },
+        "04412": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Gollapalle<br><b>l1 population: </b>44951<br><b>l2 population: </b>43723 (97.27%)<br>"
+        },
+        "04413": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Mallial<br><b>l1 population: </b>47373<br><b>l2 population: </b>46196 (97.52%)<br>"
+        },
+        "04414": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Jagtial<br><b>l1 population: </b>169064<br><b>l2 population: </b>142558 (84.32%)<br>"
+        },
+        "04415": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Medipalle<br><b>l1 population: </b>51209<br><b>l2 population: </b>49074 (95.83%)<br>"
+        },
+        "04416": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Koratla<br><b>l1 population: </b>108346<br><b>l2 population: </b>85521 (78.93%)<br>"
+        },
+        "04417": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Metpalle<br><b>l1 population: </b>86692<br><b>l2 population: </b>73656 (84.96%)<br>"
+        },
+        "04418": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Kathlapur<br><b>l1 population: </b>43986<br><b>l2 population: </b>41594 (94.56%)<br>"
+        },
+        "04419": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Chandurthi<br><b>l1 population: </b>43596<br><b>l2 population: </b>41494 (95.18%)<br>"
+        },
+        "04420": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Kodimial<br><b>l1 population: </b>43685<br><b>l2 population: </b>41355 (94.67%)<br>"
+        },
+        "04421": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Pegadapalle<br><b>l1 population: </b>47981<br><b>l2 population: </b>46372 (96.65%)<br>"
+        },
+        "04422": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Gangadhara<br><b>l1 population: </b>49251<br><b>l2 population: </b>48471 (98.42%)<br>"
+        },
+        "04423": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Ramadugu<br><b>l1 population: </b>48253<br><b>l2 population: </b>46500 (96.37%)<br>"
+        },
+        "04424": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Choppadandi<br><b>l1 population: </b>51288<br><b>l2 population: </b>50130 (97.74%)<br>"
+        },
+        "04425": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Sultanabad<br><b>l1 population: </b>63454<br><b>l2 population: </b>60478 (95.31%)<br>"
+        },
+        "04426": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Odela<br><b>l1 population: </b>42211<br><b>l2 population: </b>41099 (97.37%)<br>"
+        },
+        "04427": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Manakondur<br><b>l1 population: </b>67854<br><b>l2 population: </b>65370 (96.34%)<br>"
+        },
+        "04428": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Karimnagar<br><b>l1 population: </b>363106<br><b>l2 population: </b>289487 (79.73%)<br>"
+        },
+        "04429": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Boinpalle<br><b>l1 population: </b>39240<br><b>l2 population: </b>38527 (98.18%)<br>"
+        },
+        "04430": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Vemulawada<br><b>l1 population: </b>80475<br><b>l2 population: </b>75806 (94.2%)<br>"
+        },
+        "04431": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Konaraopeta<br><b>l1 population: </b>40857<br><b>l2 population: </b>37836 (92.61%)<br>"
+        },
+        "04432": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Yellareddipet<br><b>l1 population: </b>59633<br><b>l2 population: </b>49112 (82.36%)<br>"
+        },
+        "04433": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Gambhiraopet<br><b>l1 population: </b>46878<br><b>l2 population: </b>42423 (90.5%)<br>"
+        },
+        "04434": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Mustabad<br><b>l1 population: </b>44217<br><b>l2 population: </b>41732 (94.38%)<br>"
+        },
+        "04435": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Sircilla<br><b>l1 population: </b>142676<br><b>l2 population: </b>135094 (94.69%)<br>"
+        },
+        "04436": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Ellanthakunta<br><b>l1 population: </b>51278<br><b>l2 population: </b>50035 (97.58%)<br>"
+        },
+        "04437": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Bejjanki<br><b>l1 population: </b>53945<br><b>l2 population: </b>53085 (98.41%)<br>"
+        },
+        "04438": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Timmapur (LMD Colony)<br><b>l1 population: </b>49026<br><b>l2 population: </b>46456 (94.76%)<br>"
+        },
+        "04439": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Veenavanka<br><b>l1 population: </b>49041<br><b>l2 population: </b>47706 (97.28%)<br>"
+        },
+        "04440": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Jammikunta<br><b>l1 population: </b>103429<br><b>l2 population: </b>99550 (96.25%)<br>"
+        },
+        "04441": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Shankarapatnam<br><b>l1 population: </b>45302<br><b>l2 population: </b>43160 (95.27%)<br>"
+        },
+        "04442": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Chigurumamidi<br><b>l1 population: </b>41859<br><b>l2 population: </b>40871 (97.64%)<br>"
+        },
+        "04443": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Koheda<br><b>l1 population: </b>44645<br><b>l2 population: </b>42098 (94.29%)<br>"
+        },
+        "04444": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Husnabad<br><b>l1 population: </b>78793<br><b>l2 population: </b>68665 (87.15%)<br>"
+        },
+        "04445": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Saidapur<br><b>l1 population: </b>40801<br><b>l2 population: </b>39556 (96.95%)<br>"
+        },
+        "04446": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Huzurabad<br><b>l1 population: </b>74721<br><b>l2 population: </b>70847 (94.82%)<br>"
+        },
+        "04447": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Kamalapur<br><b>l1 population: </b>61413<br><b>l2 population: </b>59783 (97.35%)<br>"
+        },
+        "04448": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Bheemadevarpalle<br><b>l1 population: </b>55886<br><b>l2 population: </b>51251 (91.71%)<br>"
+        },
+        "04449": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Elkathurthi<br><b>l1 population: </b>40577<br><b>l2 population: </b>39482 (97.3%)<br>"
+        },
+        "04450": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Kangti<br><b>l1 population: </b>52573<br><b>l2 population: </b>19766 (37.6%)<br>"
+        },
+        "04451": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Manoor<br><b>l1 population: </b>59501<br><b>l2 population: </b>26638 (44.77%)<br>"
+        },
+        "04452": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>name: </b>Narayankhed<br><b>l1 population: </b>82127<br><b>l2 population: </b>51821 (63.1%)<br>"
+        },
+        "04453": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Kalher<br><b>l1 population: </b>51486<br><b>l2 population: </b>37883 (73.58%)<br>"
+        },
+        "04454": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Shankarampet (A)<br><b>l1 population: </b>41153<br><b>l2 population: </b>36714 (89.21%)<br>"
+        },
+        "04455": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Papannapet<br><b>l1 population: </b>57149<br><b>l2 population: </b>48839 (85.46%)<br>"
+        },
+        "04456": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Medak<br><b>l1 population: </b>115177<br><b>l2 population: </b>93252 (80.96%)<br>"
+        },
+        "04457": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Ramayampet<br><b>l1 population: </b>68846<br><b>l2 population: </b>60251 (87.52%)<br>"
+        },
+        "04458": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Dubbak<br><b>l1 population: </b>71847<br><b>l2 population: </b>67910 (94.52%)<br>"
+        },
+        "04459": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Siddipet<br><b>l1 population: </b>172878<br><b>l2 population: </b>151865 (87.85%)<br>"
+        },
+        "04460": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Chinnakodur<br><b>l1 population: </b>58271<br><b>l2 population: </b>56833 (97.53%)<br>"
+        },
+        "04461": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Nangnoor<br><b>l1 population: </b>41794<br><b>l2 population: </b>39809 (95.25%)<br>"
+        },
+        "04462": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Kondapak<br><b>l1 population: </b>48592<br><b>l2 population: </b>46373 (95.43%)<br>"
+        },
+        "04463": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Thoguta<br><b>l1 population: </b>34488<br><b>l2 population: </b>32439 (94.06%)<br>"
+        },
+        "04464": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Mirdoddi<br><b>l1 population: </b>42002<br><b>l2 population: </b>40231 (95.78%)<br>"
+        },
+        "04465": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Doultabad<br><b>l1 population: </b>53824<br><b>l2 population: </b>50422 (93.68%)<br>"
+        },
+        "04466": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Chegunta<br><b>l1 population: </b>58865<br><b>l2 population: </b>50434 (85.68%)<br>"
+        },
+        "04467": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Shankarampet (R)<br><b>l1 population: </b>44994<br><b>l2 population: </b>37778 (83.96%)<br>"
+        },
+        "04468": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Kulcharam<br><b>l1 population: </b>35910<br><b>l2 population: </b>31783 (88.51%)<br>"
+        },
+        "04469": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Tekmal<br><b>l1 population: </b>37879<br><b>l2 population: </b>30557 (80.67%)<br>"
+        },
+        "04470": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Alladurg<br><b>l1 population: </b>47678<br><b>l2 population: </b>41108 (86.22%)<br>"
+        },
+        "04471": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Regode<br><b>l1 population: </b>36167<br><b>l2 population: </b>29679 (82.06%)<br>"
+        },
+        "04472": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Raikode<br><b>l1 population: </b>40732<br><b>l2 population: </b>31753 (77.96%)<br>"
+        },
+        "04473": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>name: </b>Nyalkal<br><b>l1 population: </b>57110<br><b>l2 population: </b>36266 (63.5%)<br>"
+        },
+        "04474": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Zahirabad<br><b>l1 population: </b>169451<br><b>l2 population: </b>86996 (51.34%)<br>"
+        },
+        "04475": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Kohir<br><b>l1 population: </b>60638<br><b>l2 population: </b>40103 (66.14%)<br>"
+        },
+        "04476": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Jharasangam<br><b>l1 population: </b>44583<br><b>l2 population: </b>34982 (78.46%)<br>"
+        },
+        "04477": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Munpalle<br><b>l1 population: </b>40965<br><b>l2 population: </b>33924 (82.81%)<br>"
+        },
+        "04478": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Pulkal<br><b>l1 population: </b>51386<br><b>l2 population: </b>42745 (83.18%)<br>"
+        },
+        "04479": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Andole<br><b>l1 population: </b>63536<br><b>l2 population: </b>54886 (86.39%)<br>"
+        },
+        "04480": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Kowdipalle<br><b>l1 population: </b>55518<br><b>l2 population: </b>42995 (77.44%)<br>"
+        },
+        "04481": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Yeldurthy<br><b>l1 population: </b>42309<br><b>l2 population: </b>38637 (91.32%)<br>"
+        },
+        "04482": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Tupran<br><b>l1 population: </b>60580<br><b>l2 population: </b>54233 (89.52%)<br>"
+        },
+        "04483": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Gajwel<br><b>l1 population: </b>77264<br><b>l2 population: </b>68841 (89.1%)<br>"
+        },
+        "04484": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Jagdevpur<br><b>l1 population: </b>47093<br><b>l2 population: </b>45429 (96.47%)<br>"
+        },
+        "04485": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Wargal<br><b>l1 population: </b>44525<br><b>l2 population: </b>40949 (91.97%)<br>"
+        },
+        "04486": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Mulug<br><b>l1 population: </b>44076<br><b>l2 population: </b>41455 (94.05%)<br>"
+        },
+        "04487": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Shivampet<br><b>l1 population: </b>45132<br><b>l2 population: </b>37110 (82.23%)<br>"
+        },
+        "04488": {
+            "color": "rgba(252.6818, 180.8182, 105.4773, 1.0)",
+            "matter": "<b>name: </b>Narsapur<br><b>l1 population: </b>53774<br><b>l2 population: </b>39027 (72.58%)<br>"
+        },
+        "04489": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Hathnoora<br><b>l1 population: </b>55935<br><b>l2 population: </b>47693 (85.27%)<br>"
+        },
+        "04490": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>name: </b>Sadasivpet<br><b>l1 population: </b>94337<br><b>l2 population: </b>70663 (74.9%)<br>"
+        },
+        "04491": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Kondapur<br><b>l1 population: </b>42985<br><b>l2 population: </b>35925 (83.58%)<br>"
+        },
+        "04492": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Sangareddy<br><b>l1 population: </b>154578<br><b>l2 population: </b>109345 (70.74%)<br>"
+        },
+        "04493": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Jinnaram<br><b>l1 population: </b>97279<br><b>l2 population: </b>75548 (77.66%)<br>"
+        },
+        "04494": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Patancheru<br><b>l1 population: </b>159191<br><b>l2 population: </b>131311 (82.49%)<br>"
+        },
+        "04495": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Ramachandrapuram<br><b>l1 population: </b>117110<br><b>l2 population: </b>93161 (79.55%)<br>"
+        },
+        "04496": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Shaikpet<br><b>l1 population: </b>250932<br><b>l2 population: </b>155220 (61.86%)<br>"
+        },
+        "04497": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Ameerpet<br><b>l1 population: </b>59070<br><b>l2 population: </b>45789 (77.52%)<br>"
+        },
+        "04498": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>name: </b>Secunderabad<br><b>l1 population: </b>135370<br><b>l2 population: </b>86162 (63.65%)<br>"
+        },
+        "04499": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Tirumalagiri<br><b>l1 population: </b>217910<br><b>l2 population: </b>133119 (61.09%)<br>"
+        },
+        "04500": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Maredpalle<br><b>l1 population: </b>172542<br><b>l2 population: </b>128545 (74.5%)<br>"
+        },
+        "04501": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Musheerabad<br><b>l1 population: </b>347861<br><b>l2 population: </b>255594 (73.48%)<br>"
+        },
+        "04502": {
+            "color": "rgba(252.6818, 180.8182, 105.4773, 1.0)",
+            "matter": "<b>name: </b>Amberpet<br><b>l1 population: </b>153558<br><b>l2 population: </b>110943 (72.25%)<br>"
+        },
+        "04503": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Himayathnagar<br><b>l1 population: </b>108062<br><b>l2 population: </b>55579 (51.43%)<br>"
+        },
+        "04504": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Nampally<br><b>l1 population: </b>189378<br><b>l2 population: </b>66899 (35.33%)<br>"
+        },
+        "04505": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Khairatabad<br><b>l1 population: </b>271385<br><b>l2 population: </b>174669 (64.36%)<br>"
+        },
+        "04506": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Asifnagar<br><b>l1 population: </b>442229<br><b>l2 population: </b>134169 (30.34%)<br>"
+        },
+        "04507": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Golconda<br><b>l1 population: </b>213359<br><b>l2 population: </b>59006 (27.66%)<br>"
+        },
+        "04508": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>name: </b>Bahadurpura<br><b>l1 population: </b>468158<br><b>l2 population: </b>46094 (9.85%)<br>"
+        },
+        "04509": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Bandlaguda<br><b>l1 population: </b>330193<br><b>l2 population: </b>91581 (27.74%)<br>"
+        },
+        "04510": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>name: </b>Charminar<br><b>l1 population: </b>237594<br><b>l2 population: </b>15573 (6.55%)<br>"
+        },
+        "04511": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Saidabad<br><b>l1 population: </b>345722<br><b>l2 population: </b>150532 (43.54%)<br>"
+        },
+        "04512": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Marpalle<br><b>l1 population: </b>51090<br><b>l2 population: </b>38954 (76.25%)<br>"
+        },
+        "04513": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Mominpet<br><b>l1 population: </b>43261<br><b>l2 population: </b>34465 (79.67%)<br>"
+        },
+        "04514": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Nawabpet<br><b>l1 population: </b>41283<br><b>l2 population: </b>38076 (92.23%)<br>"
+        },
+        "04515": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Shankarpalle<br><b>l1 population: </b>65428<br><b>l2 population: </b>56769 (86.77%)<br>"
+        },
+        "04516": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Serilingampally<br><b>l1 population: </b>309320<br><b>l2 population: </b>228866 (73.99%)<br>"
+        },
+        "04517": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Balanagar<br><b>l1 population: </b>567996<br><b>l2 population: </b>442681 (77.94%)<br>"
+        },
+        "04518": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Qutubullapur<br><b>l1 population: </b>495683<br><b>l2 population: </b>383900 (77.45%)<br>"
+        },
+        "04519": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Medchal<br><b>l1 population: </b>93425<br><b>l2 population: </b>76008 (81.36%)<br>"
+        },
+        "04520": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Shamirpet<br><b>l1 population: </b>118895<br><b>l2 population: </b>98601 (82.93%)<br>"
+        },
+        "04521": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Malkajgiri<br><b>l1 population: </b>413571<br><b>l2 population: </b>319369 (77.22%)<br>"
+        },
+        "04522": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Keesara<br><b>l1 population: </b>177288<br><b>l2 population: </b>150249 (84.75%)<br>"
+        },
+        "04523": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Ghatkesar<br><b>l1 population: </b>188380<br><b>l2 population: </b>163699 (86.9%)<br>"
+        },
+        "04524": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Uppal<br><b>l1 population: </b>384835<br><b>l2 population: </b>326135 (84.75%)<br>"
+        },
+        "04525": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Hayathnagar<br><b>l1 population: </b>227195<br><b>l2 population: </b>201207 (88.56%)<br>"
+        },
+        "04526": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Saroornagar<br><b>l1 population: </b>549004<br><b>l2 population: </b>438070 (79.79%)<br>"
+        },
+        "04527": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Rajendranagar<br><b>l1 population: </b>307175<br><b>l2 population: </b>163249 (53.15%)<br>"
+        },
+        "04528": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Moinabad<br><b>l1 population: </b>56205<br><b>l2 population: </b>51020 (90.77%)<br>"
+        },
+        "04529": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Chevella<br><b>l1 population: </b>58166<br><b>l2 population: </b>52514 (90.28%)<br>"
+        },
+        "04530": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Vicarabad<br><b>l1 population: </b>85410<br><b>l2 population: </b>65282 (76.43%)<br>"
+        },
+        "04531": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Dharur<br><b>l1 population: </b>44900<br><b>l2 population: </b>33120 (73.76%)<br>"
+        },
+        "04532": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Bantwaram<br><b>l1 population: </b>33159<br><b>l2 population: </b>26948 (81.27%)<br>"
+        },
+        "04533": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Peddemul<br><b>l1 population: </b>51893<br><b>l2 population: </b>35777 (68.94%)<br>"
+        },
+        "04534": {
+            "color": "rgba(253.403, 203.897, 132.1621, 1.0)",
+            "matter": "<b>name: </b>Tandur<br><b>l1 population: </b>118776<br><b>l2 population: </b>77560 (65.3%)<br>"
+        },
+        "04535": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>name: </b>Basheerabad<br><b>l1 population: </b>43562<br><b>l2 population: </b>29800 (68.41%)<br>"
+        },
+        "04536": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Yelal<br><b>l1 population: </b>45295<br><b>l2 population: </b>37630 (83.08%)<br>"
+        },
+        "04537": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Doma<br><b>l1 population: </b>48224<br><b>l2 population: </b>35886 (74.42%)<br>"
+        },
+        "04538": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Gandeed<br><b>l1 population: </b>70387<br><b>l2 population: </b>54384 (77.26%)<br>"
+        },
+        "04539": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>name: </b>Kulkacharla<br><b>l1 population: </b>70281<br><b>l2 population: </b>48215 (68.6%)<br>"
+        },
+        "04540": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Pargi<br><b>l1 population: </b>62984<br><b>l2 population: </b>47781 (75.86%)<br>"
+        },
+        "04541": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Pudur<br><b>l1 population: </b>44884<br><b>l2 population: </b>36729 (81.83%)<br>"
+        },
+        "04542": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Shabad<br><b>l1 population: </b>51334<br><b>l2 population: </b>46553 (90.69%)<br>"
+        },
+        "04543": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Shamshabad<br><b>l1 population: </b>87837<br><b>l2 population: </b>66924 (76.19%)<br>"
+        },
+        "04544": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Maheswaram<br><b>l1 population: </b>65125<br><b>l2 population: </b>50919 (78.19%)<br>"
+        },
+        "04545": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Kandukur<br><b>l1 population: </b>54587<br><b>l2 population: </b>48134 (88.18%)<br>"
+        },
+        "04546": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Ibrahimpatnam<br><b>l1 population: </b>74006<br><b>l2 population: </b>66580 (89.97%)<br>"
+        },
+        "04547": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>name: </b>Manchal<br><b>l1 population: </b>46488<br><b>l2 population: </b>33341 (71.72%)<br>"
+        },
+        "04548": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Yacharam<br><b>l1 population: </b>49409<br><b>l2 population: </b>42808 (86.64%)<br>"
+        },
+        "04549": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Kodangal<br><b>l1 population: </b>53673<br><b>l2 population: </b>42455 (79.1%)<br>"
+        },
+        "04550": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Bomraspet<br><b>l1 population: </b>55937<br><b>l2 population: </b>37400 (66.86%)<br>"
+        },
+        "04551": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Kosgi<br><b>l1 population: </b>57495<br><b>l2 population: </b>48447 (84.26%)<br>"
+        },
+        "04552": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Doulathabad<br><b>l1 population: </b>51497<br><b>l2 population: </b>44361 (86.14%)<br>"
+        },
+        "04553": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Damaragidda<br><b>l1 population: </b>57946<br><b>l2 population: </b>51806 (89.4%)<br>"
+        },
+        "04554": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Maddur<br><b>l1 population: </b>67395<br><b>l2 population: </b>55189 (81.89%)<br>"
+        },
+        "04555": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Hanwada<br><b>l1 population: </b>55044<br><b>l2 population: </b>43089 (78.28%)<br>"
+        },
+        "04556": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Nawabpet<br><b>l1 population: </b>52061<br><b>l2 population: </b>43842 (84.21%)<br>"
+        },
+        "04557": {
+            "color": "rgba(253.403, 203.897, 132.1621, 1.0)",
+            "matter": "<b>name: </b>Balanagar<br><b>l1 population: </b>66668<br><b>l2 population: </b>43450 (65.17%)<br>"
+        },
+        "04558": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Kondurg<br><b>l1 population: </b>60518<br><b>l2 population: </b>50991 (84.26%)<br>"
+        },
+        "04559": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Farooqnagar<br><b>l1 population: </b>112633<br><b>l2 population: </b>86232 (76.56%)<br>"
+        },
+        "04560": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Kothur<br><b>l1 population: </b>65241<br><b>l2 population: </b>49925 (76.52%)<br>"
+        },
+        "04561": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Keshampet<br><b>l1 population: </b>42592<br><b>l2 population: </b>36115 (84.79%)<br>"
+        },
+        "04562": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Talakondapalle<br><b>l1 population: </b>52835<br><b>l2 population: </b>41734 (78.99%)<br>"
+        },
+        "04563": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>name: </b>Amangal<br><b>l1 population: </b>62034<br><b>l2 population: </b>42536 (68.57%)<br>"
+        },
+        "04564": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Madgul<br><b>l1 population: </b>49133<br><b>l2 population: </b>40603 (82.64%)<br>"
+        },
+        "04565": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Veldanda<br><b>l1 population: </b>46006<br><b>l2 population: </b>33551 (72.93%)<br>"
+        },
+        "04566": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Midjil<br><b>l1 population: </b>52352<br><b>l2 population: </b>45829 (87.54%)<br>"
+        },
+        "04567": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Jadcherla<br><b>l1 population: </b>102766<br><b>l2 population: </b>75008 (72.99%)<br>"
+        },
+        "04568": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Mahbubnagar<br><b>l1 population: </b>249091<br><b>l2 population: </b>166417 (66.81%)<br>"
+        },
+        "04569": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Koilkonda<br><b>l1 population: </b>66721<br><b>l2 population: </b>51320 (76.92%)<br>"
+        },
+        "04570": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Narayanpet<br><b>l1 population: </b>97838<br><b>l2 population: </b>69250 (70.78%)<br>"
+        },
+        "04571": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Utkoor<br><b>l1 population: </b>55885<br><b>l2 population: </b>42782 (76.55%)<br>"
+        },
+        "04572": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Dhanwada<br><b>l1 population: </b>64039<br><b>l2 population: </b>54403 (84.95%)<br>"
+        },
+        "04573": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Devarkadra<br><b>l1 population: </b>58385<br><b>l2 population: </b>54328 (93.05%)<br>"
+        },
+        "04574": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Bhoothpur<br><b>l1 population: </b>49777<br><b>l2 population: </b>40195 (80.75%)<br>"
+        },
+        "04575": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Thimmajipet<br><b>l1 population: </b>40424<br><b>l2 population: </b>31196 (77.17%)<br>"
+        },
+        "04576": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Kalwakurthy<br><b>l1 population: </b>64095<br><b>l2 population: </b>53263 (83.1%)<br>"
+        },
+        "04577": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Vangoor<br><b>l1 population: </b>50113<br><b>l2 population: </b>42514 (84.84%)<br>"
+        },
+        "04578": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Amrabad<br><b>l1 population: </b>50133<br><b>l2 population: </b>39738 (79.27%)<br>"
+        },
+        "04579": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Achampet<br><b>l1 population: </b>69875<br><b>l2 population: </b>48636 (69.6%)<br>"
+        },
+        "04580": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Uppununthala<br><b>l1 population: </b>34225<br><b>l2 population: </b>29072 (84.94%)<br>"
+        },
+        "04581": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Telkapalle<br><b>l1 population: </b>49585<br><b>l2 population: </b>47489 (95.77%)<br>"
+        },
+        "04582": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Tadoor<br><b>l1 population: </b>38375<br><b>l2 population: </b>35737 (93.13%)<br>"
+        },
+        "04583": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Nagarkurnool<br><b>l1 population: </b>74728<br><b>l2 population: </b>66161 (88.54%)<br>"
+        },
+        "04584": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Bijinapalle<br><b>l1 population: </b>72647<br><b>l2 population: </b>60953 (83.9%)<br>"
+        },
+        "04585": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Ghanpur<br><b>l1 population: </b>48771<br><b>l2 population: </b>38337 (78.61%)<br>"
+        },
+        "04586": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Addakal<br><b>l1 population: </b>52381<br><b>l2 population: </b>47201 (90.11%)<br>"
+        },
+        "04587": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Chinnachintakunta<br><b>l1 population: </b>50341<br><b>l2 population: </b>44394 (88.19%)<br>"
+        },
+        "04588": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Narva<br><b>l1 population: </b>49359<br><b>l2 population: </b>46012 (93.22%)<br>"
+        },
+        "04589": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Makthal<br><b>l1 population: </b>72028<br><b>l2 population: </b>60673 (84.24%)<br>"
+        },
+        "04590": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Maganoor<br><b>l1 population: </b>47957<br><b>l2 population: </b>37159 (77.48%)<br>"
+        },
+        "04591": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Dharur<br><b>l1 population: </b>65945<br><b>l2 population: </b>60372 (91.55%)<br>"
+        },
+        "04592": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Atmakur<br><b>l1 population: </b>61505<br><b>l2 population: </b>53808 (87.49%)<br>"
+        },
+        "04593": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Kothakota<br><b>l1 population: </b>79604<br><b>l2 population: </b>69255 (87.0%)<br>"
+        },
+        "04594": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Peddamandadi<br><b>l1 population: </b>40303<br><b>l2 population: </b>35119 (87.14%)<br>"
+        },
+        "04595": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Wanaparthy<br><b>l1 population: </b>108521<br><b>l2 population: </b>88239 (81.31%)<br>"
+        },
+        "04596": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Gopalpeta<br><b>l1 population: </b>59345<br><b>l2 population: </b>52851 (89.06%)<br>"
+        },
+        "04597": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Balmoor<br><b>l1 population: </b>38768<br><b>l2 population: </b>34071 (87.88%)<br>"
+        },
+        "04598": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Lingal<br><b>l1 population: </b>34979<br><b>l2 population: </b>28692 (82.03%)<br>"
+        },
+        "04599": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Peddakothapalle<br><b>l1 population: </b>56461<br><b>l2 population: </b>53982 (95.61%)<br>"
+        },
+        "04600": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Kodair<br><b>l1 population: </b>44986<br><b>l2 population: </b>38478 (85.53%)<br>"
+        },
+        "04601": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Pangal<br><b>l1 population: </b>60254<br><b>l2 population: </b>52681 (87.43%)<br>"
+        },
+        "04602": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Pebbair<br><b>l1 population: </b>68690<br><b>l2 population: </b>63651 (92.66%)<br>"
+        },
+        "04603": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Gadwal<br><b>l1 population: </b>114390<br><b>l2 population: </b>94206 (82.36%)<br>"
+        },
+        "04604": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Maldakal<br><b>l1 population: </b>52579<br><b>l2 population: </b>50140 (95.36%)<br>"
+        },
+        "04605": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Ghattu<br><b>l1 population: </b>72977<br><b>l2 population: </b>67687 (92.75%)<br>"
+        },
+        "04606": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Ieej<br><b>l1 population: </b>85303<br><b>l2 population: </b>78695 (92.25%)<br>"
+        },
+        "04607": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Itikyal<br><b>l1 population: </b>52926<br><b>l2 population: </b>49915 (94.31%)<br>"
+        },
+        "04608": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Veepangandla<br><b>l1 population: </b>51336<br><b>l2 population: </b>48435 (94.35%)<br>"
+        },
+        "04609": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Kollapur<br><b>l1 population: </b>67687<br><b>l2 population: </b>58319 (86.16%)<br>"
+        },
+        "04610": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Waddepalle<br><b>l1 population: </b>69445<br><b>l2 population: </b>63009 (90.73%)<br>"
+        },
+        "04611": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Manopad<br><b>l1 population: </b>51543<br><b>l2 population: </b>46642 (90.49%)<br>"
+        },
+        "04612": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Alampur<br><b>l1 population: </b>44882<br><b>l2 population: </b>38887 (86.64%)<br>"
+        },
+        "04613": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Bommalaramaram<br><b>l1 population: </b>37248<br><b>l2 population: </b>25757 (69.15%)<br>"
+        },
+        "04614": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>M.Turkapalle<br><b>l1 population: </b>33797<br><b>l2 population: </b>24620 (72.85%)<br>"
+        },
+        "04615": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Rajapet<br><b>l1 population: </b>38454<br><b>l2 population: </b>36209 (94.16%)<br>"
+        },
+        "04616": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Yadagirigutta<br><b>l1 population: </b>54491<br><b>l2 population: </b>51897 (95.24%)<br>"
+        },
+        "04617": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Alair<br><b>l1 population: </b>47365<br><b>l2 population: </b>44786 (94.56%)<br>"
+        },
+        "04618": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Gundala<br><b>l1 population: </b>36190<br><b>l2 population: </b>35516 (98.14%)<br>"
+        },
+        "04619": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Thirumalgiri<br><b>l1 population: </b>47657<br><b>l2 population: </b>39228 (82.31%)<br>"
+        },
+        "04620": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Thungathurthi<br><b>l1 population: </b>57905<br><b>l2 population: </b>51194 (88.41%)<br>"
+        },
+        "04621": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Nuthankal<br><b>l1 population: </b>56991<br><b>l2 population: </b>51343 (90.09%)<br>"
+        },
+        "04622": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Atmakur (S)<br><b>l1 population: </b>50970<br><b>l2 population: </b>42163 (82.72%)<br>"
+        },
+        "04623": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Jaji Reddi Gudem<br><b>l1 population: </b>40785<br><b>l2 population: </b>37660 (92.34%)<br>"
+        },
+        "04624": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Sali Gouraram<br><b>l1 population: </b>47075<br><b>l2 population: </b>46066 (97.86%)<br>"
+        },
+        "04625": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Mothkur<br><b>l1 population: </b>55694<br><b>l2 population: </b>54136 (97.2%)<br>"
+        },
+        "04626": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Atmakur (M)<br><b>l1 population: </b>39194<br><b>l2 population: </b>37673 (96.12%)<br>"
+        },
+        "04627": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Valigonda<br><b>l1 population: </b>56098<br><b>l2 population: </b>54467 (97.09%)<br>"
+        },
+        "04628": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Bhongir<br><b>l1 population: </b>103538<br><b>l2 population: </b>90282 (87.2%)<br>"
+        },
+        "04629": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Bibinagar<br><b>l1 population: </b>48498<br><b>l2 population: </b>41368 (85.3%)<br>"
+        },
+        "04630": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Pochampalle<br><b>l1 population: </b>51061<br><b>l2 population: </b>48947 (95.86%)<br>"
+        },
+        "04631": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Choutuppal<br><b>l1 population: </b>73336<br><b>l2 population: </b>68832 (93.86%)<br>"
+        },
+        "04632": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Ramannapeta<br><b>l1 population: </b>51534<br><b>l2 population: </b>49481 (96.02%)<br>"
+        },
+        "04633": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Chityala<br><b>l1 population: </b>55600<br><b>l2 population: </b>53241 (95.76%)<br>"
+        },
+        "04634": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Narketpalle<br><b>l1 population: </b>50864<br><b>l2 population: </b>48491 (95.33%)<br>"
+        },
+        "04635": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Kattangoor<br><b>l1 population: </b>46831<br><b>l2 population: </b>45912 (98.04%)<br>"
+        },
+        "04636": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Nakrekal<br><b>l1 population: </b>60758<br><b>l2 population: </b>57235 (94.2%)<br>"
+        },
+        "04637": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Kethe Palle<br><b>l1 population: </b>37533<br><b>l2 population: </b>36902 (98.32%)<br>"
+        },
+        "04638": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Suryapet<br><b>l1 population: </b>155422<br><b>l2 population: </b>131760 (84.78%)<br>"
+        },
+        "04639": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Chivvemla<br><b>l1 population: </b>47835<br><b>l2 population: </b>29146 (60.93%)<br>"
+        },
+        "04640": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Mothey<br><b>l1 population: </b>44132<br><b>l2 population: </b>36245 (82.13%)<br>"
+        },
+        "04641": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Nadigudem<br><b>l1 population: </b>39335<br><b>l2 population: </b>36003 (91.53%)<br>"
+        },
+        "04642": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Munagala<br><b>l1 population: </b>43824<br><b>l2 population: </b>40750 (92.99%)<br>"
+        },
+        "04643": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Penpahad<br><b>l1 population: </b>39624<br><b>l2 population: </b>32808 (82.8%)<br>"
+        },
+        "04644": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Vemulapalle<br><b>l1 population: </b>44539<br><b>l2 population: </b>41787 (93.82%)<br>"
+        },
+        "04645": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Thipparthi<br><b>l1 population: </b>47788<br><b>l2 population: </b>45893 (96.03%)<br>"
+        },
+        "04646": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Nalgonda<br><b>l1 population: </b>200067<br><b>l2 population: </b>166528 (83.24%)<br>"
+        },
+        "04647": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Munugode<br><b>l1 population: </b>45477<br><b>l2 population: </b>44341 (97.5%)<br>"
+        },
+        "04648": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Narayanapur<br><b>l1 population: </b>44335<br><b>l2 population: </b>33976 (76.63%)<br>"
+        },
+        "04649": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Marriguda<br><b>l1 population: </b>36968<br><b>l2 population: </b>32811 (88.76%)<br>"
+        },
+        "04650": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Chintha Palle<br><b>l1 population: </b>45058<br><b>l2 population: </b>37483 (83.19%)<br>"
+        },
+        "04651": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>name: </b>Gundla Palle<br><b>l1 population: </b>46380<br><b>l2 population: </b>31874 (68.72%)<br>"
+        },
+        "04652": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Chandam Pet<br><b>l1 population: </b>51408<br><b>l2 population: </b>26222 (51.01%)<br>"
+        },
+        "04653": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Devarakonda<br><b>l1 population: </b>99384<br><b>l2 population: </b>61490 (61.87%)<br>"
+        },
+        "04654": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Nampalle<br><b>l1 population: </b>41247<br><b>l2 population: </b>36482 (88.45%)<br>"
+        },
+        "04655": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Chandur<br><b>l1 population: </b>48866<br><b>l2 population: </b>47304 (96.8%)<br>"
+        },
+        "04656": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Kangal<br><b>l1 population: </b>44029<br><b>l2 population: </b>42563 (96.67%)<br>"
+        },
+        "04657": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Gurrampode<br><b>l1 population: </b>43280<br><b>l2 population: </b>39826 (92.02%)<br>"
+        },
+        "04658": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Pedda Adiserla Palle<br><b>l1 population: </b>50338<br><b>l2 population: </b>33687 (66.92%)<br>"
+        },
+        "04659": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Peddavoora<br><b>l1 population: </b>67959<br><b>l2 population: </b>43638 (64.21%)<br>"
+        },
+        "04660": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Anumula<br><b>l1 population: </b>63740<br><b>l2 population: </b>49088 (77.01%)<br>"
+        },
+        "04661": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Nidamanur<br><b>l1 population: </b>53816<br><b>l2 population: </b>49853 (92.64%)<br>"
+        },
+        "04662": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>name: </b>Thripuraram<br><b>l1 population: </b>46627<br><b>l2 population: </b>33236 (71.28%)<br>"
+        },
+        "04663": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Dameracherla<br><b>l1 population: </b>66946<br><b>l2 population: </b>36438 (54.43%)<br>"
+        },
+        "04664": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Miryalaguda<br><b>l1 population: </b>175838<br><b>l2 population: </b>134671 (76.59%)<br>"
+        },
+        "04665": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Neredcherla<br><b>l1 population: </b>66499<br><b>l2 population: </b>54998 (82.71%)<br>"
+        },
+        "04666": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Garide Palle<br><b>l1 population: </b>56179<br><b>l2 population: </b>50530 (89.94%)<br>"
+        },
+        "04667": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Chilkur<br><b>l1 population: </b>39225<br><b>l2 population: </b>33235 (84.73%)<br>"
+        },
+        "04668": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Kodad<br><b>l1 population: </b>133130<br><b>l2 population: </b>110030 (82.65%)<br>"
+        },
+        "04669": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Huzurnagar<br><b>l1 population: </b>60426<br><b>l2 population: </b>55209 (91.37%)<br>"
+        },
+        "04670": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Mattam Palle<br><b>l1 population: </b>44939<br><b>l2 population: </b>27139 (60.39%)<br>"
+        },
+        "04671": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>name: </b>Mella Cheruvu<br><b>l1 population: </b>74682<br><b>l2 population: </b>56241 (75.31%)<br>"
+        },
+        "04672": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Cherial<br><b>l1 population: </b>70809<br><b>l2 population: </b>67758 (95.69%)<br>"
+        },
+        "04673": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Maddur<br><b>l1 population: </b>38731<br><b>l2 population: </b>34077 (87.98%)<br>"
+        },
+        "04674": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Bachannapet<br><b>l1 population: </b>44265<br><b>l2 population: </b>42918 (96.96%)<br>"
+        },
+        "04675": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Narmetta<br><b>l1 population: </b>42374<br><b>l2 population: </b>32175 (75.93%)<br>"
+        },
+        "04676": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Ghanpur (Station)<br><b>l1 population: </b>92303<br><b>l2 population: </b>83058 (89.98%)<br>"
+        },
+        "04677": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Dharmasagar<br><b>l1 population: </b>73593<br><b>l2 population: </b>68575 (93.18%)<br>"
+        },
+        "04678": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Hasanparthy<br><b>l1 population: </b>81707<br><b>l2 population: </b>76869 (94.08%)<br>"
+        },
+        "04679": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Parkal<br><b>l1 population: </b>80542<br><b>l2 population: </b>77281 (95.95%)<br>"
+        },
+        "04680": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Mogullapalle<br><b>l1 population: </b>39387<br><b>l2 population: </b>38831 (98.59%)<br>"
+        },
+        "04681": {
+            "color": "rgba(215.7455, 31.4758, 30.8318, 1.0)",
+            "matter": "<b>name: </b>Chityal<br><b>l1 population: </b>61813<br><b>l2 population: </b>60497 (97.87%)<br>"
+        },
+        "04682": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Bhupalpalle<br><b>l1 population: </b>86729<br><b>l2 population: </b>81592 (94.08%)<br>"
+        },
+        "04683": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Ghanpur (Mulug)<br><b>l1 population: </b>35952<br><b>l2 population: </b>33925 (94.36%)<br>"
+        },
+        "04684": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>name: </b>Venkatapur<br><b>l1 population: </b>38959<br><b>l2 population: </b>35381 (90.82%)<br>"
+        },
+        "04685": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Eturnagaram<br><b>l1 population: </b>41153<br><b>l2 population: </b>38155 (92.71%)<br>"
+        },
+        "04686": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Mangapet<br><b>l1 population: </b>48420<br><b>l2 population: </b>45682 (94.35%)<br>"
+        },
+        "04687": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Tadvai<br><b>l1 population: </b>22879<br><b>l2 population: </b>21865 (95.57%)<br>"
+        },
+        "04688": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Govindaraopet<br><b>l1 population: </b>30738<br><b>l2 population: </b>26949 (87.67%)<br>"
+        },
+        "04689": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Mulug<br><b>l1 population: </b>61741<br><b>l2 population: </b>50971 (82.56%)<br>"
+        },
+        "04690": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Regonda<br><b>l1 population: </b>59602<br><b>l2 population: </b>58631 (98.37%)<br>"
+        },
+        "04691": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Shayampet<br><b>l1 population: </b>40292<br><b>l2 population: </b>38553 (95.68%)<br>"
+        },
+        "04692": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Nallabelly<br><b>l1 population: </b>37503<br><b>l2 population: </b>30116 (80.3%)<br>"
+        },
+        "04693": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Duggondi<br><b>l1 population: </b>42050<br><b>l2 population: </b>39087 (92.95%)<br>"
+        },
+        "04694": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Atmakur<br><b>l1 population: </b>59540<br><b>l2 population: </b>57632 (96.8%)<br>"
+        },
+        "04695": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Hanamkonda<br><b>l1 population: </b>427303<br><b>l2 population: </b>360404 (84.34%)<br>"
+        },
+        "04696": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Zaffergadh<br><b>l1 population: </b>45899<br><b>l2 population: </b>40962 (89.24%)<br>"
+        },
+        "04697": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Palakurthi<br><b>l1 population: </b>58194<br><b>l2 population: </b>47493 (81.61%)<br>"
+        },
+        "04698": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Raghunathpalle<br><b>l1 population: </b>53374<br><b>l2 population: </b>46775 (87.64%)<br>"
+        },
+        "04699": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Jangaon<br><b>l1 population: </b>92446<br><b>l2 population: </b>81429 (88.08%)<br>"
+        },
+        "04700": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Lingalaghanpur<br><b>l1 population: </b>38340<br><b>l2 population: </b>36716 (95.76%)<br>"
+        },
+        "04701": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Devaruppula<br><b>l1 population: </b>42411<br><b>l2 population: </b>32141 (75.78%)<br>"
+        },
+        "04702": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Kodakandla<br><b>l1 population: </b>51816<br><b>l2 population: </b>38231 (73.78%)<br>"
+        },
+        "04703": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Raiparthy<br><b>l1 population: </b>56189<br><b>l2 population: </b>44127 (78.53%)<br>"
+        },
+        "04704": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Wardhannapet<br><b>l1 population: </b>76873<br><b>l2 population: </b>66987 (87.14%)<br>"
+        },
+        "04705": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Sangam<br><b>l1 population: </b>53160<br><b>l2 population: </b>45880 (86.31%)<br>"
+        },
+        "04706": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Warangal<br><b>l1 population: </b>297078<br><b>l2 population: </b>235900 (79.41%)<br>"
+        },
+        "04707": {
+            "color": "rgba(234.2909, 103.1848, 64.2136, 1.0)",
+            "matter": "<b>name: </b>Geesugonda<br><b>l1 population: </b>63783<br><b>l2 population: </b>54883 (86.05%)<br>"
+        },
+        "04708": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Narsampet<br><b>l1 population: </b>67239<br><b>l2 population: </b>55613 (82.71%)<br>"
+        },
+        "04709": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>name: </b>Khanapur<br><b>l1 population: </b>32186<br><b>l2 population: </b>23039 (71.58%)<br>"
+        },
+        "04710": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Kothagudem<br><b>l1 population: </b>39576<br><b>l2 population: </b>38138 (96.37%)<br>"
+        },
+        "04711": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Gudur<br><b>l1 population: </b>55781<br><b>l2 population: </b>28047 (50.28%)<br>"
+        },
+        "04712": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>name: </b>Chennaraopet<br><b>l1 population: </b>53013<br><b>l2 population: </b>36066 (68.03%)<br>"
+        },
+        "04713": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>name: </b>Nekkonda<br><b>l1 population: </b>49291<br><b>l2 population: </b>35209 (71.43%)<br>"
+        },
+        "04714": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Parvathagiri<br><b>l1 population: </b>47639<br><b>l2 population: </b>33215 (69.72%)<br>"
+        },
+        "04715": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Thorrur<br><b>l1 population: </b>76519<br><b>l2 population: </b>64864 (84.77%)<br>"
+        },
+        "04716": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Nellikudur<br><b>l1 population: </b>58344<br><b>l2 population: </b>40505 (69.42%)<br>"
+        },
+        "04717": {
+            "color": "rgba(253.197, 197.303, 124.5379, 1.0)",
+            "matter": "<b>name: </b>Kesamudram<br><b>l1 population: </b>66041<br><b>l2 population: </b>44809 (67.85%)<br>"
+        },
+        "04718": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Mahabubabad<br><b>l1 population: </b>113812<br><b>l2 population: </b>73528 (64.6%)<br>"
+        },
+        "04719": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>name: </b>Narsimhulapet<br><b>l1 population: </b>58704<br><b>l2 population: </b>44402 (75.64%)<br>"
+        },
+        "04720": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Maripeda<br><b>l1 population: </b>83876<br><b>l2 population: </b>48148 (57.4%)<br>"
+        },
+        "04721": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Kuravi<br><b>l1 population: </b>67179<br><b>l2 population: </b>35181 (52.37%)<br>"
+        },
+        "04722": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Dornakal<br><b>l1 population: </b>55428<br><b>l2 population: </b>30207 (54.5%)<br>"
+        },
+        "04723": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Wazeed<br><b>l1 population: </b>24816<br><b>l2 population: </b>23907 (96.34%)<br>"
+        },
+        "04724": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Venkatapuram<br><b>l1 population: </b>31765<br><b>l2 population: </b>28582 (89.98%)<br>"
+        },
+        "04725": {
+            "color": "rgba(217.2909, 37.4515, 33.6136, 1.0)",
+            "matter": "<b>name: </b>Pinapaka<br><b>l1 population: </b>48376<br><b>l2 population: </b>46669 (96.47%)<br>"
+        },
+        "04726": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>name: </b>Cherla<br><b>l1 population: </b>42947<br><b>l2 population: </b>32434 (75.52%)<br>"
+        },
+        "04727": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Manuguru<br><b>l1 population: </b>72117<br><b>l2 population: </b>61436 (85.19%)<br>"
+        },
+        "04728": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Aswapuram<br><b>l1 population: </b>43067<br><b>l2 population: </b>30135 (69.97%)<br>"
+        },
+        "04729": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Dummugudem<br><b>l1 population: </b>46802<br><b>l2 population: </b>16570 (35.4%)<br>"
+        },
+        "04736": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Burgampahad<br><b>l1 population: </b>64580<br><b>l2 population: </b>47989 (74.31%)<br>"
+        },
+        "04737": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Palwancha<br><b>l1 population: </b>113872<br><b>l2 population: </b>85015 (74.66%)<br>"
+        },
+        "04738": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Kothagudem<br><b>l1 population: </b>188191<br><b>l2 population: </b>137786 (73.22%)<br>"
+        },
+        "04739": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Tekulapalle<br><b>l1 population: </b>47879<br><b>l2 population: </b>24887 (51.98%)<br>"
+        },
+        "04740": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Yellandu<br><b>l1 population: </b>95394<br><b>l2 population: </b>71272 (74.71%)<br>"
+        },
+        "04741": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>name: </b>Gundala<br><b>l1 population: </b>28125<br><b>l2 population: </b>25935 (92.21%)<br>"
+        },
+        "04742": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Bayyaram<br><b>l1 population: </b>42587<br><b>l2 population: </b>31685 (74.4%)<br>"
+        },
+        "04743": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Garla<br><b>l1 population: </b>36998<br><b>l2 population: </b>20402 (55.14%)<br>"
+        },
+        "04744": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Singareni<br><b>l1 population: </b>54897<br><b>l2 population: </b>29059 (52.93%)<br>"
+        },
+        "04745": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Kamepalle<br><b>l1 population: </b>41955<br><b>l2 population: </b>24653 (58.76%)<br>"
+        },
+        "04746": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Julurpad<br><b>l1 population: </b>33395<br><b>l2 population: </b>20318 (60.84%)<br>"
+        },
+        "04747": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Chandrugonda<br><b>l1 population: </b>49041<br><b>l2 population: </b>35707 (72.81%)<br>"
+        },
+        "04748": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Mulkalapalle<br><b>l1 population: </b>34794<br><b>l2 population: </b>15424 (44.33%)<br>"
+        },
+        "04749": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Aswaraopeta<br><b>l1 population: </b>59652<br><b>l2 population: </b>41264 (69.17%)<br>"
+        },
+        "04750": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Dammapeta<br><b>l1 population: </b>58444<br><b>l2 population: </b>40291 (68.94%)<br>"
+        },
+        "04751": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Sathupalle<br><b>l1 population: </b>77043<br><b>l2 population: </b>67003 (86.97%)<br>"
+        },
+        "04752": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Penuballi<br><b>l1 population: </b>52841<br><b>l2 population: </b>46846 (88.65%)<br>"
+        },
+        "04753": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>name: </b>Enkuru<br><b>l1 population: </b>35342<br><b>l2 population: </b>25175 (71.23%)<br>"
+        },
+        "04754": {
+            "color": "rgba(252.6818, 180.8182, 105.4773, 1.0)",
+            "matter": "<b>name: </b>Thirumalayapalem<br><b>l1 population: </b>61502<br><b>l2 population: </b>44744 (72.75%)<br>"
+        },
+        "04755": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Kusumanchi<br><b>l1 population: </b>60020<br><b>l2 population: </b>42356 (70.57%)<br>"
+        },
+        "04756": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Khammam (Rural)<br><b>l1 population: </b>93211<br><b>l2 population: </b>78078 (83.76%)<br>"
+        },
+        "04757": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Khammam (Urban)<br><b>l1 population: </b>313504<br><b>l2 population: </b>248675 (79.32%)<br>"
+        },
+        "04758": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Mudigonda<br><b>l1 population: </b>58485<br><b>l2 population: </b>55575 (95.02%)<br>"
+        },
+        "04759": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Nelakondapalle<br><b>l1 population: </b>61325<br><b>l2 population: </b>51136 (83.39%)<br>"
+        },
+        "04760": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Chinthakani<br><b>l1 population: </b>48909<br><b>l2 population: </b>46838 (95.77%)<br>"
+        },
+        "04761": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Konijerla<br><b>l1 population: </b>61321<br><b>l2 population: </b>50590 (82.5%)<br>"
+        },
+        "04762": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Tallada<br><b>l1 population: </b>55750<br><b>l2 population: </b>52098 (93.45%)<br>"
+        },
+        "04763": {
+            "color": "rgba(231.2, 91.2333, 58.65, 1.0)",
+            "matter": "<b>name: </b>Kallur<br><b>l1 population: </b>63828<br><b>l2 population: </b>56170 (88.0%)<br>"
+        },
+        "04764": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Wyra<br><b>l1 population: </b>54320<br><b>l2 population: </b>50946 (93.79%)<br>"
+        },
+        "04765": {
+            "color": "rgba(225.0182, 67.3303, 47.5227, 1.0)",
+            "matter": "<b>name: </b>Bonakal<br><b>l1 population: </b>43909<br><b>l2 population: </b>40321 (91.83%)<br>"
+        },
+        "04766": {
+            "color": "rgba(221.9273, 55.3788, 41.9591, 1.0)",
+            "matter": "<b>name: </b>Madhira<br><b>l1 population: </b>68548<br><b>l2 population: </b>63933 (93.27%)<br>"
+        },
+        "04767": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>name: </b>Yerrupalem<br><b>l1 population: </b>49851<br><b>l2 population: </b>47292 (94.87%)<br>"
+        },
+        "04768": {
+            "color": "rgba(218.8364, 43.4273, 36.3955, 1.0)",
+            "matter": "<b>name: </b>Vemsoor<br><b>l1 population: </b>45078<br><b>l2 population: </b>43169 (95.77%)<br>"
+        }
+    }
+}
