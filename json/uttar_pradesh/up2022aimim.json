@@ -1,0 +1,387 @@
+{
+    "title": "AIMIM IN UP 2022",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Party hold percentages</caption><thead><tr><th>Color_index</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: #d7191c;\"></td><td>13.05% to 16.27%</td><td>1</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>9.82% to 13.05%</td><td>0</td><td>0 (0%)</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>6.6% to 9.82%</td><td>3</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #abd9e9;\"></td><td>3.37% to 6.6%</td><td>11</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #2c7bb6;\"></td><td>0.15% to 3.37%</td><td>80</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>95</td><td>0 (0.0%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "2": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>2<br><b>Constituency Name: </b>Nakur<br><b>Candidate Name: </b>RIZWANA(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3593<br><b>Total Votes: </b>270652<br><b>Winner: </b>MUKESH CHOUDHARY(Bharatiya Janata Party)<br><b>Percentage: </b>1.33<br>"
+        },
+        "4": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>4<br><b>Constituency Name: </b>Saharanpur<br><b>Candidate Name: </b>Margoob(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>8187<br><b>Total Votes: </b>259855<br><b>Winner: </b>Ashu Malik(Samajwadi Party)<br><b>Percentage: </b>3.15<br>"
+        },
+        "5": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>5<br><b>Constituency Name: </b>Deoband<br><b>Candidate Name: </b>UMAIR MADANI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3501<br><b>Total Votes: </b>242193<br><b>Winner: </b>BRIJESH(Bharatiya Janata Party)<br><b>Percentage: </b>1.45<br>"
+        },
+        "9": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>9<br><b>Constituency Name: </b>Thana Bhawan<br><b>Candidate Name: </b>Ikram(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>325<br><b>Total Votes: </b>218541<br><b>Winner: </b>Ashraf Ali Khan(Rashtriya Lok Dal)<br><b>Percentage: </b>0.15<br>"
+        },
+        "11": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>11<br><b>Constituency Name: </b>Budhana<br><b>Candidate Name: </b>Bheem Singh(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2633<br><b>Total Votes: </b>255624<br><b>Winner: </b>Rajpal Singh Baliyan(Rashtriya Lok Dal)<br><b>Percentage: </b>1.03<br>"
+        },
+        "12": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>12<br><b>Constituency Name: </b>Charthawal<br><b>Candidate Name: </b>Tahir Husain Ansari(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3234<br><b>Total Votes: </b>222190<br><b>Winner: </b>Pankaj Kumar Malik(Samajwadi Party)<br><b>Percentage: </b>1.46<br>"
+        },
+        "14": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>14<br><b>Constituency Name: </b>Muzaffar Nagar<br><b>Candidate Name: </b>MOHAMMED INTEZAR(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3750<br><b>Total Votes: </b>225543<br><b>Winner: </b>Kapil Dev Agarwal(Bharatiya Janata Party)<br><b>Percentage: </b>1.66<br>"
+        },
+        "18": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>18<br><b>Constituency Name: </b>Nagina<br><b>Candidate Name: </b>LALITA(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>9515<br><b>Total Votes: </b>223282<br><b>Winner: </b>MANOJ KUMAR PARAS(Samajwadi Party)<br><b>Percentage: </b>4.26<br>"
+        },
+        "19": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>19<br><b>Constituency Name: </b>Barhapur<br><b>Candidate Name: </b>MOHIUDDIN ANSARI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1019<br><b>Total Votes: </b>240760<br><b>Winner: </b>KUNWAR SUSHANT SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.42<br>"
+        },
+        "22": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>22<br><b>Constituency Name: </b>Bijnor<br><b>Candidate Name: </b>Munir Ahmed(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2290<br><b>Total Votes: </b>252142<br><b>Winner: </b>Suchi(Bharatiya Janata Party)<br><b>Percentage: </b>0.91<br>"
+        },
+        "23": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>23<br><b>Constituency Name: </b>Chandpur<br><b>Candidate Name: </b>YASIR ARAFAT(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1586<br><b>Total Votes: </b>224374<br><b>Winner: </b>SWAMI OMVESH(Samajwadi Party)<br><b>Percentage: </b>0.71<br>"
+        },
+        "25": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>25<br><b>Constituency Name: </b>Kanth<br><b>Candidate Name: </b>Raisuddin(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2886<br><b>Total Votes: </b>273839<br><b>Winner: </b>Kamal Akhtar(Samajwadi Party)<br><b>Percentage: </b>1.05<br>"
+        },
+        "27": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>27<br><b>Constituency Name: </b>Moradabad Rural<br><b>Candidate Name: </b>MOHID FARGANI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2380<br><b>Total Votes: </b>251978<br><b>Winner: </b>MOHD NASIR(Samajwadi Party)<br><b>Percentage: </b>0.94<br>"
+        },
+        "28": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>28<br><b>Constituency Name: </b>Moradabad Nagar<br><b>Candidate Name: </b>WAQI RASHEED(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2661<br><b>Total Votes: </b>321704<br><b>Winner: </b>RITESH KUMAR GUPTA(Bharatiya Janata Party)<br><b>Percentage: </b>0.83<br>"
+        },
+        "29": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>Constituency No.: </b>29<br><b>Constituency Name: </b>Kundarki<br><b>Candidate Name: </b>MOHD. VARISH(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>14251<br><b>Total Votes: </b>271785<br><b>Winner: </b>ZIA UR REHMAN(Samajwadi Party)<br><b>Percentage: </b>5.24<br>"
+        },
+        "30": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>30<br><b>Constituency Name: </b>Bilari<br><b>Candidate Name: </b>KHALID ZAMAN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>9235<br><b>Total Votes: </b>238844<br><b>Winner: </b>MOHAMMAD FAHEEM IRFAN(Samajwadi Party)<br><b>Percentage: </b>3.87<br>"
+        },
+        "32": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>Constituency No.: </b>32<br><b>Constituency Name: </b>Asmoli<br><b>Candidate Name: </b>SHAKEEL AHMED(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>13024<br><b>Total Votes: </b>260152<br><b>Winner: </b>PINKI SINGH(Samajwadi Party)<br><b>Percentage: </b>5.01<br>"
+        },
+        "33": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>Constituency No.: </b>33<br><b>Constituency Name: </b>Sambhal<br><b>Candidate Name: </b>MOHAMMAD MUSHIR KHAN TARIN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>21470<br><b>Total Votes: </b>244853<br><b>Winner: </b>IQBAL MEHMOOD(Samajwadi Party)<br><b>Percentage: </b>8.77<br>"
+        },
+        "39": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>39<br><b>Constituency Name: </b>Dhanaura<br><b>Candidate Name: </b>GITA RANI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>941<br><b>Total Votes: </b>243697<br><b>Winner: </b>RAJEEV KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.39<br>"
+        },
+        "40": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>40<br><b>Constituency Name: </b>Naugawan Sadat<br><b>Candidate Name: </b>MOHD ADIL(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1036<br><b>Total Votes: </b>244837<br><b>Winner: </b>SAMARPAL SINGH(Samajwadi Party)<br><b>Percentage: </b>0.42<br>"
+        },
+        "42": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>42<br><b>Constituency Name: </b>Hasanpur<br><b>Candidate Name: </b>AHTESHAM RZA HASHMI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4972<br><b>Total Votes: </b>268924<br><b>Winner: </b>MAHENDRA(Bharatiya Janata Party)<br><b>Percentage: </b>1.85<br>"
+        },
+        "43": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>43<br><b>Constituency Name: </b>Siwalkhas<br><b>Candidate Name: </b>RAFAT(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3019<br><b>Total Votes: </b>233667<br><b>Winner: </b>GHULAM MOHAMMAD(Rashtriya Lok Dal)<br><b>Percentage: </b>1.29<br>"
+        },
+        "44": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>44<br><b>Constituency Name: </b>Sardhana<br><b>Candidate Name: </b>Zeeshan Alam(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1459<br><b>Total Votes: </b>243206<br><b>Winner: </b>Atul Pradhan(Samajwadi Party)<br><b>Percentage: </b>0.6<br>"
+        },
+        "45": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>45<br><b>Constituency Name: </b>Hastinapur<br><b>Candidate Name: </b>Vinod Kumar(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4290<br><b>Total Votes: </b>230276<br><b>Winner: </b>Dinesh(Bharatiya Janata Party)<br><b>Percentage: </b>1.86<br>"
+        },
+        "46": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>46<br><b>Constituency Name: </b>Kithore<br><b>Candidate Name: </b>TASLEEM AHMAD(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4833<br><b>Total Votes: </b>253869<br><b>Winner: </b>SHAHID MANZOOR(Samajwadi Party)<br><b>Percentage: </b>1.9<br>"
+        },
+        "48": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>48<br><b>Constituency Name: </b>Meerut<br><b>Candidate Name: </b>IMRAN AHMAD(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3038<br><b>Total Votes: </b>201638<br><b>Winner: </b>RAFIQ ANSARI(Samajwadi Party)<br><b>Percentage: </b>1.51<br>"
+        },
+        "50": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>50<br><b>Constituency Name: </b>Chhaprauli<br><b>Candidate Name: </b>Anees(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1353<br><b>Total Votes: </b>209904<br><b>Winner: </b>Ajay Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>0.64<br>"
+        },
+        "53": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>53<br><b>Constituency Name: </b>Loni<br><b>Candidate Name: </b>MEHTAB(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3214<br><b>Total Votes: </b>315095<br><b>Winner: </b>NANDKISHOR(Bharatiya Janata Party)<br><b>Percentage: </b>1.02<br>"
+        },
+        "55": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>55<br><b>Constituency Name: </b>Sahibabad<br><b>Candidate Name: </b>MANMOHAN JHA(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4305<br><b>Total Votes: </b>481686<br><b>Winner: </b>SUNIL KUMAR SHARMA(Bharatiya Janata Party)<br><b>Percentage: </b>0.89<br>"
+        },
+        "58": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>58<br><b>Constituency Name: </b>Dhaulana<br><b>Candidate Name: </b>ARIF(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3520<br><b>Total Votes: </b>280013<br><b>Winner: </b>DHARMESH SINGH TOMAR(Bharatiya Janata Party)<br><b>Percentage: </b>1.26<br>"
+        },
+        "60": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>60<br><b>Constituency Name: </b>Garhmukteshwar<br><b>Candidate Name: </b>FURKAN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4868<br><b>Total Votes: </b>236220<br><b>Winner: </b>HARENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>2.06<br>"
+        },
+        "64": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>64<br><b>Constituency Name: </b>Sikandrabad<br><b>Candidate Name: </b>Dilshad Ahmad(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1732<br><b>Total Votes: </b>273133<br><b>Winner: </b>Lakshmi Raj(Bharatiya Janata Party)<br><b>Percentage: </b>0.63<br>"
+        },
+        "72": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>72<br><b>Constituency Name: </b>Barauli<br><b>Candidate Name: </b>Shakir Ali(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>933<br><b>Total Votes: </b>244299<br><b>Winner: </b>Thakur Jaiveer Singh(Bharatiya Janata Party)<br><b>Percentage: </b>0.38<br>"
+        },
+        "97": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>Constituency No.: </b>97<br><b>Constituency Name: </b>Firozabad<br><b>Candidate Name: </b>BABLOO SINGH RATHORE URF GOLDEE(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>18898<br><b>Total Votes: </b>259033<br><b>Winner: </b>MANISH ASIJA(Bharatiya Janata Party)<br><b>Percentage: </b>7.3<br>"
+        },
+        "98": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>98<br><b>Constituency Name: </b>Shikohabad<br><b>Candidate Name: </b>PRITY MISHRA(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2630<br><b>Total Votes: </b>235438<br><b>Winner: </b>MUKESH VERMA(Samajwadi Party)<br><b>Percentage: </b>1.12<br>"
+        },
+        "123": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>123<br><b>Constituency Name: </b>Bithari Chainpur<br><b>Candidate Name: </b>TOUFEEQ(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2858<br><b>Total Votes: </b>248030<br><b>Winner: </b>DR. RAGHAVENDRA SHARMA(Bharatiya Janata Party)<br><b>Percentage: </b>1.15<br>"
+        },
+        "124": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>124<br><b>Constituency Name: </b>Bareilly<br><b>Candidate Name: </b>SHAHEEM KHAN URF RAJU(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1744<br><b>Total Votes: </b>239946<br><b>Winner: </b>DR ARUN KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.73<br>"
+        },
+        "142": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>142<br><b>Constituency Name: </b>Lakhimpur<br><b>Candidate Name: </b>Mo. Usman Siddiqui(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1212<br><b>Total Votes: </b>269472<br><b>Winner: </b>Yogesh Verma(Bharatiya Janata Party)<br><b>Percentage: </b>0.45<br>"
+        },
+        "156": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>156<br><b>Constituency Name: </b>Hardoi<br><b>Candidate Name: </b>Ataurrahman(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>642<br><b>Total Votes: </b>238295<br><b>Winner: </b>Nitin Agarwal(Bharatiya Janata Party)<br><b>Percentage: </b>0.27<br>"
+        },
+        "161": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>161<br><b>Constituency Name: </b>Sandila<br><b>Candidate Name: </b>Mo. Rafik(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1452<br><b>Total Votes: </b>204445<br><b>Winner: </b>Alka Singh(Bharatiya Janata Party)<br><b>Percentage: </b>0.71<br>"
+        },
+        "174": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>174<br><b>Constituency Name: </b>Lucknow Central<br><b>Candidate Name: </b>SALMAN SIDDIQUE(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>623<br><b>Total Votes: </b>210567<br><b>Winner: </b>RAVIDAS MEHROTRA(Samajwadi Party)<br><b>Percentage: </b>0.3<br>"
+        },
+        "187": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>187<br><b>Constituency Name: </b>Isauli<br><b>Candidate Name: </b>MAHJAHAR(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3308<br><b>Total Votes: </b>202743<br><b>Winner: </b>MOHD TAHIR KHAN(Samajwadi Party)<br><b>Percentage: </b>1.63<br>"
+        },
+        "188": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>188<br><b>Constituency Name: </b>Sultanpur<br><b>Candidate Name: </b>MIRJA AKRAM BEG(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>5251<br><b>Total Votes: </b>219508<br><b>Winner: </b>VINOD SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>2.39<br>"
+        },
+        "195": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>195<br><b>Constituency Name: </b>Bhojpur<br><b>Candidate Name: </b>Talib Siddiqui(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3919<br><b>Total Votes: </b>197269<br><b>Winner: </b>Nagendra Singh Rathour(Bharatiya Janata Party)<br><b>Percentage: </b>1.99<br>"
+        },
+        "198": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>198<br><b>Constituency Name: </b>Kannauj<br><b>Candidate Name: </b>SUNIL KUMAR(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4482<br><b>Total Votes: </b>271435<br><b>Winner: </b>ASIM ARUN(Bharatiya Janata Party)<br><b>Percentage: </b>1.65<br>"
+        },
+        "216": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>216<br><b>Constituency Name: </b>Kanpur Cantt.<br><b>Candidate Name: </b>MOINUDDIN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1112<br><b>Total Votes: </b>189492<br><b>Winner: </b>MOHAMMAD HASAN(Samajwadi Party)<br><b>Percentage: </b>0.59<br>"
+        },
+        "223": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>223<br><b>Constituency Name: </b>Jhansi Nagar<br><b>Candidate Name: </b>Sadik Ali(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2325<br><b>Total Votes: </b>252793<br><b>Winner: </b>Ravi Sharma(Bharatiya Janata Party)<br><b>Percentage: </b>0.92<br>"
+        },
+        "248": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>248<br><b>Constituency Name: </b>Pratapgarh<br><b>Candidate Name: </b>ISRAR AHMAD(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>6480<br><b>Total Votes: </b>195981<br><b>Winner: </b>RAJENDRA KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>3.31<br>"
+        },
+        "250": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>Constituency No.: </b>250<br><b>Constituency Name: </b>Raniganj<br><b>Candidate Name: </b>ANIL KUMAR(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>11748<br><b>Total Votes: </b>188715<br><b>Winner: </b>RAKESH KUMAR VERMA ALIAS DR. R. K. VERMA(Samajwadi Party)<br><b>Percentage: </b>6.23<br>"
+        },
+        "251": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>251<br><b>Constituency Name: </b>Sirathu<br><b>Candidate Name: </b>SHER MOHAMMAD(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>863<br><b>Total Votes: </b>228626<br><b>Winner: </b>DR. PALLAVI PATEL(Samajwadi Party)<br><b>Percentage: </b>0.38<br>"
+        },
+        "253": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>253<br><b>Constituency Name: </b>Chail<br><b>Candidate Name: </b>Mohibbul Haque(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3208<br><b>Total Votes: </b>223984<br><b>Winner: </b>Pooja Pal(Samajwadi Party)<br><b>Percentage: </b>1.43<br>"
+        },
+        "255": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>255<br><b>Constituency Name: </b>Soraon<br><b>Candidate Name: </b>Sita Ram(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>5128<br><b>Total Votes: </b>223169<br><b>Winner: </b>Geeta Shastri (Pasi)(Samajwadi Party)<br><b>Percentage: </b>2.3<br>"
+        },
+        "262": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>262<br><b>Constituency Name: </b>Allahabad North<br><b>Candidate Name: </b>Mo. ALI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>860<br><b>Total Votes: </b>175941<br><b>Winner: </b>HARSHVARDHAN BAJPAI(Bharatiya Janata Party)<br><b>Percentage: </b>0.49<br>"
+        },
+        "263": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>263<br><b>Constituency Name: </b>Allahabad South<br><b>Candidate Name: </b>MOHAMMAD FARHAN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1533<br><b>Total Votes: </b>180745<br><b>Winner: </b>NAND GOPAL GUPTA \"NANDI\"(Bharatiya Janata Party)<br><b>Percentage: </b>0.85<br>"
+        },
+        "266": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>266<br><b>Constituency Name: </b>Kursi<br><b>Candidate Name: </b>KUMAIL ASHARAF KHAN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>8541<br><b>Total Votes: </b>288519<br><b>Winner: </b>Sakendra Pratap(Bharatiya Janata Party)<br><b>Percentage: </b>2.96<br>"
+        },
+        "267": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>267<br><b>Constituency Name: </b>Ram Nagar<br><b>Candidate Name: </b>ARUN KUMAR(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4940<br><b>Total Votes: </b>235461<br><b>Winner: </b>FAREED MAHFOOZ KIDWAI(Samajwadi Party)<br><b>Percentage: </b>2.1<br>"
+        },
+        "269": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>269<br><b>Constituency Name: </b>Zaidpur<br><b>Candidate Name: </b>Akash Kumar Diwan(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3072<br><b>Total Votes: </b>277908<br><b>Winner: </b>Gaurav Kumar(Samajwadi Party)<br><b>Percentage: </b>1.11<br>"
+        },
+        "270": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>270<br><b>Constituency Name: </b>Dariyabad<br><b>Candidate Name: </b>Mubashshir Ahmad(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2642<br><b>Total Votes: </b>273557<br><b>Winner: </b>Satish Chandra Sharma(Bharatiya Janata Party)<br><b>Percentage: </b>0.97<br>"
+        },
+        "271": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>271<br><b>Constituency Name: </b>Rudauli<br><b>Candidate Name: </b>Mohammad Sher Afgan(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>9961<br><b>Total Votes: </b>218920<br><b>Winner: </b>Ram Chandra Yadav(Bharatiya Janata Party)<br><b>Percentage: </b>4.55<br>"
+        },
+        "278": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>278<br><b>Constituency Name: </b>Tanda<br><b>Candidate Name: </b>Irfan Ahmad(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>7442<br><b>Total Votes: </b>219050<br><b>Winner: </b>Ram Murti Verma(Samajwadi Party)<br><b>Percentage: </b>3.4<br>"
+        },
+        "283": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>283<br><b>Constituency Name: </b>Nanpara<br><b>Candidate Name: </b>Maulana Laik Ahmad Shah(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3965<br><b>Total Votes: </b>199694<br><b>Winner: </b>Ram Niwas Verma(Apna Dal (Soneylal))<br><b>Percentage: </b>1.99<br>"
+        },
+        "286": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>286<br><b>Constituency Name: </b>Bahraich<br><b>Candidate Name: </b>RASHID JAMIL(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2240<br><b>Total Votes: </b>231708<br><b>Winner: </b>ANUPMA JAISWAL(Bharatiya Janata Party)<br><b>Percentage: </b>0.97<br>"
+        },
+        "287": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>287<br><b>Constituency Name: </b>Payagpur<br><b>Candidate Name: </b>Raise Ahmad(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3586<br><b>Total Votes: </b>230613<br><b>Winner: </b>Subhash Tripathi(Bharatiya Janata Party)<br><b>Percentage: </b>1.55<br>"
+        },
+        "288": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>288<br><b>Constituency Name: </b>Kaiserganj<br><b>Candidate Name: </b>MO BILAL ANSARI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4762<br><b>Total Votes: </b>226617<br><b>Winner: </b>ANAND KUMAR(Samajwadi Party)<br><b>Percentage: </b>2.1<br>"
+        },
+        "289": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>289<br><b>Constituency Name: </b>Bhinga<br><b>Candidate Name: </b>Aasiya(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4073<br><b>Total Votes: </b>231104<br><b>Winner: </b>Indrani Devi(Samajwadi Party)<br><b>Percentage: </b>1.76<br>"
+        },
+        "292": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>292<br><b>Constituency Name: </b>Gainsari<br><b>Candidate Name: </b>SHAHABUDDIN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3398<br><b>Total Votes: </b>189885<br><b>Winner: </b>DR. SHIV PRATAP YADAV(Samajwadi Party)<br><b>Percentage: </b>1.79<br>"
+        },
+        "293": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>Constituency No.: </b>293<br><b>Constituency Name: </b>Utraula<br><b>Candidate Name: </b>ABDUL MANNAN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>12303<br><b>Total Votes: </b>196180<br><b>Winner: </b>RAMPRATAP VERMA URF SHASHIKANT VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>6.27<br>"
+        },
+        "304": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>304<br><b>Constituency Name: </b>Bansi<br><b>Candidate Name: </b>Saimuhammad(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3443<br><b>Total Votes: </b>188754<br><b>Winner: </b>Jai Pratap Singh(Bharatiya Janata Party)<br><b>Percentage: </b>1.82<br>"
+        },
+        "306": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>306<br><b>Constituency Name: </b>Domariyaganj<br><b>Candidate Name: </b>IRFAN AHMAD MALIK(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4352<br><b>Total Votes: </b>206586<br><b>Winner: </b>SAIYADA KHATOON(Samajwadi Party)<br><b>Percentage: </b>2.11<br>"
+        },
+        "309": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>309<br><b>Constituency Name: </b>Rudhauli<br><b>Candidate Name: </b>Nihaluddin(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3238<br><b>Total Votes: </b>234531<br><b>Winner: </b>Rajendra Prasad Chaudhary(Samajwadi Party)<br><b>Percentage: </b>1.38<br>"
+        },
+        "318": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>318<br><b>Constituency Name: </b>Maharajganj<br><b>Candidate Name: </b>JITENDRA(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>7751<br><b>Total Votes: </b>262672<br><b>Winner: </b>JAY MANGAL(Bharatiya Janata Party)<br><b>Percentage: </b>2.95<br>"
+        },
+        "319": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>319<br><b>Constituency Name: </b>Paniyra<br><b>Candidate Name: </b>SHAMSHAD AALAM(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3457<br><b>Total Votes: </b>259931<br><b>Winner: </b>GYANENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.33<br>"
+        },
+        "323": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>323<br><b>Constituency Name: </b>Gorakhpur Rural<br><b>Candidate Name: </b>MOHD. ISLAM(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3519<br><b>Total Votes: </b>254865<br><b>Winner: </b>BIPIN SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.38<br>"
+        },
+        "329": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>329<br><b>Constituency Name: </b>Khadda<br><b>Candidate Name: </b>MD AKHTAR WASEEM(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>16419<br><b>Total Votes: </b>204959<br><b>Winner: </b>VIVEKA NAND PANDEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>8.01<br>"
+        },
+        "330": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>330<br><b>Constituency Name: </b>Padrauna<br><b>Candidate Name: </b>JAVED KHAN(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>7976<br><b>Total Votes: </b>229907<br><b>Winner: </b>MANISH KUMAR URF MANTU(Bharatiya Janata Party)<br><b>Percentage: </b>3.47<br>"
+        },
+        "333": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>333<br><b>Constituency Name: </b>Kushinagar<br><b>Candidate Name: </b>Safi Ahmad(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2796<br><b>Total Votes: </b>221074<br><b>Winner: </b>Panchanand Pathak (P.N. Pathak)(Bharatiya Janata Party)<br><b>Percentage: </b>1.26<br>"
+        },
+        "341": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>341<br><b>Constituency Name: </b>Salempur<br><b>Candidate Name: </b>BHARAT VYASH GAUTAM(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2732<br><b>Total Votes: </b>177800<br><b>Winner: </b>BIJAYLAXMI GAUTAM(Bharatiya Janata Party)<br><b>Percentage: </b>1.54<br>"
+        },
+        "344": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>344<br><b>Constituency Name: </b>Gopalpur<br><b>Candidate Name: </b>ABDULA(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>8163<br><b>Total Votes: </b>206518<br><b>Winner: </b>NAFEES AHMAD(Samajwadi Party)<br><b>Percentage: </b>3.95<br>"
+        },
+        "346": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>346<br><b>Constituency Name: </b>Mubarakpur<br><b>Candidate Name: </b>SHAH ALAM (GUDDU JAMALI)(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>36460<br><b>Total Votes: </b>224138<br><b>Winner: </b>AKHILESH(Samajwadi Party)<br><b>Percentage: </b>16.27<br>"
+        },
+        "347": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>347<br><b>Constituency Name: </b>Azamgarh<br><b>Candidate Name: </b>KAMAR KAMAL(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>5532<br><b>Total Votes: </b>236330<br><b>Winner: </b>DURGA PRASAD YADAV(Samajwadi Party)<br><b>Percentage: </b>2.34<br>"
+        },
+        "348": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>348<br><b>Constituency Name: </b>Nizamabad<br><b>Candidate Name: </b>ABDURRAHMAN ANSARI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>6100<br><b>Total Votes: </b>184712<br><b>Winner: </b>ALAM BADI(Samajwadi Party)<br><b>Percentage: </b>3.3<br>"
+        },
+        "350": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>350<br><b>Constituency Name: </b>Didarganj<br><b>Candidate Name: </b>ZAVED(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2199<br><b>Total Votes: </b>200957<br><b>Winner: </b>KAMALKANT(Samajwadi Party)<br><b>Percentage: </b>1.09<br>"
+        },
+        "352": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>352<br><b>Constituency Name: </b>Mehnagar<br><b>Candidate Name: </b>KARMVEER AZAD(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4377<br><b>Total Votes: </b>221016<br><b>Winner: </b>PUJA(Samajwadi Party)<br><b>Percentage: </b>1.98<br>"
+        },
+        "361": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>361<br><b>Constituency Name: </b>Ballia Nagar<br><b>Candidate Name: </b>M.Shamim Khan(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>689<br><b>Total Votes: </b>202812<br><b>Winner: </b>Daya Shankar Singh(Bharatiya Janata Party)<br><b>Percentage: </b>0.34<br>"
+        },
+        "365": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>365<br><b>Constituency Name: </b>Shahganj<br><b>Candidate Name: </b>Nayab Ahmad Khan(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>8128<br><b>Total Votes: </b>240920<br><b>Winner: </b>Ramesh(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>3.37<br>"
+        },
+        "366": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>366<br><b>Constituency Name: </b>Jaunpur<br><b>Candidate Name: </b>ABHAYRAJ(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>6228<br><b>Total Votes: </b>248447<br><b>Winner: </b>GIRISH CHANDRA YADAV(Bharatiya Janata Party)<br><b>Percentage: </b>2.51<br>"
+        },
+        "368": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>368<br><b>Constituency Name: </b>Mungra Badshahpur<br><b>Candidate Name: </b>RAMJAN ALI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1001<br><b>Total Votes: </b>219700<br><b>Winner: </b>PANKAJ(Samajwadi Party)<br><b>Percentage: </b>0.46<br>"
+        },
+        "375": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>375<br><b>Constituency Name: </b>Ghazipur<br><b>Candidate Name: </b>MD. SAD ADIL(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1260<br><b>Total Votes: </b>226595<br><b>Winner: </b>JAIKISHAN(Samajwadi Party)<br><b>Percentage: </b>0.56<br>"
+        },
+        "377": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>377<br><b>Constituency Name: </b>Zahoorabad<br><b>Candidate Name: </b>SHAUKAT ALI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1525<br><b>Total Votes: </b>247266<br><b>Winner: </b>OM PRAKASH RAJBHAR(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>0.62<br>"
+        },
+        "380": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>380<br><b>Constituency Name: </b>Mughalsarai<br><b>Candidate Name: </b>ABID ALI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>4677<br><b>Total Votes: </b>241076<br><b>Winner: </b>RAMESH JAISWAL(Bharatiya Janata Party)<br><b>Percentage: </b>1.94<br>"
+        },
+        "388": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>388<br><b>Constituency Name: </b>Varanasi North<br><b>Candidate Name: </b>Harish Mishra(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1643<br><b>Total Votes: </b>246225<br><b>Winner: </b>Ravindra Jaiswal(Bharatiya Janata Party)<br><b>Percentage: </b>0.67<br>"
+        },
+        "389": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>389<br><b>Constituency Name: </b>Varanasi South<br><b>Candidate Name: </b>Parvez Quadir Khan(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>590<br><b>Total Votes: </b>195782<br><b>Winner: </b>Dr. Neelkanth Tiwari(Bharatiya Janata Party)<br><b>Percentage: </b>0.3<br>"
+        },
+        "392": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>392<br><b>Constituency Name: </b>Bhadohi<br><b>Candidate Name: </b>RAVISHANKAR(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>3127<br><b>Total Votes: </b>250365<br><b>Winner: </b>ZAHID(Samajwadi Party)<br><b>Percentage: </b>1.25<br>"
+        },
+        "394": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>394<br><b>Constituency Name: </b>Aurai<br><b>Candidate Name: </b>Tedhai(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>2190<br><b>Total Votes: </b>224745<br><b>Winner: </b>Dinanath Bhashkar(Bharatiya Janata Party)<br><b>Percentage: </b>0.97<br>"
+        },
+        "396": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>396<br><b>Constituency Name: </b>Mirzapur<br><b>Candidate Name: </b>BADRUDDIN HASHMI(All India Majlis-E-Ittehadul Muslimeen)<br><b>No of votes: </b>1103<br><b>Total Votes: </b>227751<br><b>Winner: </b>RATNAKAR MISHRA(Bharatiya Janata Party)<br><b>Percentage: </b>0.48<br>"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "title": "NISHAD IN UP 2022",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Party hold percentages</caption><thead><tr><th>Color_index</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: #d7191c;\"></td><td>40.12% to 43.08%</td><td>2</td><td>2 (100.0%)</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>37.16% to 40.12%</td><td>3</td><td>2 (66.67%)</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>34.21% to 37.16%</td><td>2</td><td>1 (50.0%)</td></tr><tr><td style=\"background-color: #abd9e9;\"></td><td>31.25% to 34.21%</td><td>2</td><td>1 (50.0%)</td></tr><tr><td style=\"background-color: #2c7bb6;\"></td><td>28.29% to 31.25%</td><td>1</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>10</td><td>6 (60.0%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "258": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>Constituency No.: </b>258<br><b>Constituency Name: </b>Handia<br><b>Candidate Name: </b>PRASHANT KUMAR SINGH RAHUL(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>80874<br><b>Total Votes: </b>214451<br><b>Winner: </b>HAKIM LAL BIND(Samajwadi Party)<br><b>Percentage: </b>37.71<br>"
+        },
+        "329": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>329<br><b>Constituency Name: </b>Khadda<br><b>Candidate Name: </b>VIVEKA NAND PANDEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>88291<br><b>Total Votes: </b>204959<br><b>Winner: </b>VIVEKA NAND PANDEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>43.08<br>"
+        },
+        "393": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>393<br><b>Constituency Name: </b>Gyanpur<br><b>Candidate Name: </b>VIPUL DUBEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>73446<br><b>Total Votes: </b>215254<br><b>Winner: </b>VIPUL DUBEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>34.12<br>"
+        },
+        "365": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>Constituency No.: </b>365<br><b>Constituency Name: </b>Shahganj<br><b>Candidate Name: </b>Ramesh(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>87233<br><b>Total Votes: </b>240920<br><b>Winner: </b>Ramesh(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>36.21<br>"
+        },
+        "397": {
+            "color": "rgba(223.4727, 61.3545, 44.7409, 1.0)",
+            "matter": "<b>Constituency No.: </b>397<br><b>Constituency Name: </b>Majhawan<br><b>Candidate Name: </b>DR. VINOD KUMAR BIND(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>103235<br><b>Total Votes: </b>245391<br><b>Winner: </b>DR. VINOD KUMAR BIND(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>42.07<br>"
+        },
+        "277": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>277<br><b>Constituency Name: </b>Katehari<br><b>Candidate Name: </b>Avadhesh  Kumar(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>85828<br><b>Total Votes: </b>247560<br><b>Winner: </b>Lalji Verma(Samajwadi Party)<br><b>Percentage: </b>34.67<br>"
+        },
+        "316": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>Constituency No.: </b>316<br><b>Constituency Name: </b>Nautanwa<br><b>Candidate Name: </b>RISHI(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>90263<br><b>Total Votes: </b>225463<br><b>Winner: </b>RISHI(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>40.03<br>"
+        },
+        "343": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>343<br><b>Constituency Name: </b>Atrauliya<br><b>Candidate Name: </b>PRASHANT  SINGH(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>74255<br><b>Total Votes: </b>231341<br><b>Winner: </b>DR. SANGRAM(Samajwadi Party)<br><b>Percentage: </b>32.1<br>"
+        },
+        "312": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>Constituency No.: </b>312<br><b>Constituency Name: </b>Menhdawal<br><b>Candidate Name: </b>ANIL KUMAR TRIPATHI(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>90193<br><b>Total Votes: </b>242230<br><b>Winner: </b>ANIL KUMAR TRIPATHI(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>37.23<br>"
+        },
+        "220": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>220<br><b>Constituency Name: </b>Kalpi<br><b>Candidate Name: </b>CHHOTE SINGH(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>No of votes: </b>66966<br><b>Total Votes: </b>236741<br><b>Winner: </b>VINOD CHATURVEDI(Samajwadi Party)<br><b>Percentage: </b>28.29<br>"
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "title": "RLD IN UP 2022",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Party hold percentages</caption><thead><tr><th>Color_index</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: #d7191c;\"></td><td>44.02% to 53.3%</td><td>7</td><td>5 (71.43%)</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>34.74% to 44.02%</td><td>11</td><td>3 (27.27%)</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>25.45% to 34.74%</td><td>8</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #abd9e9;\"></td><td>16.17% to 25.45%</td><td>5</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #2c7bb6;\"></td><td>6.89% to 16.17%</td><td>2</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>33</td><td>8 (24.24%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "6": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>6<br><b>Constituency Name: </b>Rampur Maniharan<br><b>Candidate Name: </b>VIVEK KANT(Rashtriya Lok Dal)<br><b>No of votes: </b>64864<br><b>Total Votes: </b>232233<br><b>Winner: </b>Devender Kumar Nim(Bharatiya Janata Party)<br><b>Percentage: </b>27.93<br>"
+        },
+        "9": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>Constituency No.: </b>9<br><b>Constituency Name: </b>Thana Bhawan<br><b>Candidate Name: </b>Ashraf Ali Khan(Rashtriya Lok Dal)<br><b>No of votes: </b>103751<br><b>Total Votes: </b>218541<br><b>Winner: </b>Ashraf Ali Khan(Rashtriya Lok Dal)<br><b>Percentage: </b>47.47<br>"
+        },
+        "10": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>Constituency No.: </b>10<br><b>Constituency Name: </b>Shamli<br><b>Candidate Name: </b>Persann Kumar(Rashtriya Lok Dal)<br><b>No of votes: </b>103070<br><b>Total Votes: </b>210952<br><b>Winner: </b>Persann Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>48.86<br>"
+        },
+        "11": {
+            "color": "rgba(220.3818, 49.403, 39.1773, 1.0)",
+            "matter": "<b>Constituency No.: </b>11<br><b>Constituency Name: </b>Budhana<br><b>Candidate Name: </b>Rajpal Singh Baliyan(Rashtriya Lok Dal)<br><b>No of votes: </b>131093<br><b>Total Votes: </b>255624<br><b>Winner: </b>Rajpal Singh Baliyan(Rashtriya Lok Dal)<br><b>Percentage: </b>51.28<br>"
+        },
+        "13": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>Constituency No.: </b>13<br><b>Constituency Name: </b>Purqazi<br><b>Candidate Name: </b>Anil Kumar(Rashtriya Lok Dal)<br><b>No of votes: </b>92672<br><b>Total Votes: </b>215085<br><b>Winner: </b>Anil Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>43.09<br>"
+        },
+        "14": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>Constituency No.: </b>14<br><b>Constituency Name: </b>Muzaffar Nagar<br><b>Candidate Name: </b>SAURABH(Rashtriya Lok Dal)<br><b>No of votes: </b>93100<br><b>Total Votes: </b>225543<br><b>Winner: </b>Kapil Dev Agarwal(Bharatiya Janata Party)<br><b>Percentage: </b>41.28<br>"
+        },
+        "15": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>Constituency No.: </b>15<br><b>Constituency Name: </b>Khatauli<br><b>Candidate Name: </b>RAJPAL SINGH SAINI(Rashtriya Lok Dal)<br><b>No of votes: </b>84306<br><b>Total Votes: </b>221969<br><b>Winner: </b>VIKRAM SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>37.98<br>"
+        },
+        "16": {
+            "color": "rgba(226.5636, 73.3061, 50.3045, 1.0)",
+            "matter": "<b>Constituency No.: </b>16<br><b>Constituency Name: </b>Meerapur<br><b>Candidate Name: </b>Chandan Chauhan(Rashtriya Lok Dal)<br><b>No of votes: </b>107421<br><b>Total Votes: </b>216692<br><b>Winner: </b>Chandan Chauhan(Rashtriya Lok Dal)<br><b>Percentage: </b>49.57<br>"
+        },
+        "21": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>Constituency No.: </b>21<br><b>Constituency Name: </b>Nehtaur<br><b>Candidate Name: </b>MUNSHIRAM(Rashtriya Lok Dal)<br><b>No of votes: </b>77677<br><b>Total Votes: </b>199914<br><b>Winner: </b>OMKUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>38.86<br>"
+        },
+        "22": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>Constituency No.: </b>22<br><b>Constituency Name: </b>Bijnor<br><b>Candidate Name: </b>Neeraj Chaudhary(Rashtriya Lok Dal)<br><b>No of votes: </b>95720<br><b>Total Votes: </b>252142<br><b>Winner: </b>Suchi(Bharatiya Janata Party)<br><b>Percentage: </b>37.96<br>"
+        },
+        "43": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>Constituency No.: </b>43<br><b>Constituency Name: </b>Siwalkhas<br><b>Candidate Name: </b>GHULAM MOHAMMAD(Rashtriya Lok Dal)<br><b>No of votes: </b>101749<br><b>Total Votes: </b>233667<br><b>Winner: </b>GHULAM MOHAMMAD(Rashtriya Lok Dal)<br><b>Percentage: </b>43.54<br>"
+        },
+        "47": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>47<br><b>Constituency Name: </b>Meerut Cantt.<br><b>Candidate Name: </b>MANISHA AHLAWAT(Rashtriya Lok Dal)<br><b>No of votes: </b>43960<br><b>Total Votes: </b>244493<br><b>Winner: </b>AMIT AGARWAL(Bharatiya Janata Party)<br><b>Percentage: </b>17.98<br>"
+        },
+        "50": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>50<br><b>Constituency Name: </b>Chhaprauli<br><b>Candidate Name: </b>Ajay Kumar(Rashtriya Lok Dal)<br><b>No of votes: </b>111880<br><b>Total Votes: </b>209904<br><b>Winner: </b>Ajay Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>53.3<br>"
+        },
+        "51": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>51<br><b>Constituency Name: </b>Baraut<br><b>Candidate Name: </b>JAIVEER(Rashtriya Lok Dal)<br><b>No of votes: </b>90616<br><b>Total Votes: </b>196226<br><b>Winner: </b>KRISHAN PAL MALIK(Bharatiya Janata Party)<br><b>Percentage: </b>46.18<br>"
+        },
+        "52": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>Constituency No.: </b>52<br><b>Constituency Name: </b>Baghpat<br><b>Candidate Name: </b>Mohd Ahmed Hameed(Rashtriya Lok Dal)<br><b>No of votes: </b>94687<br><b>Total Votes: </b>214112<br><b>Winner: </b>Yogesh Dhama(Bharatiya Janata Party)<br><b>Percentage: </b>44.22<br>"
+        },
+        "53": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>Constituency No.: </b>53<br><b>Constituency Name: </b>Loni<br><b>Candidate Name: </b>MADAN BHAIYA(Rashtriya Lok Dal)<br><b>No of votes: </b>118734<br><b>Total Votes: </b>315095<br><b>Winner: </b>NANDKISHOR(Bharatiya Janata Party)<br><b>Percentage: </b>37.68<br>"
+        },
+        "54": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>54<br><b>Constituency Name: </b>Muradnagar<br><b>Candidate Name: </b>Surendra Kumar Munni(Rashtriya Lok Dal)<br><b>No of votes: </b>72195<br><b>Total Votes: </b>274689<br><b>Winner: </b>Ajit Pal Tyagi(Bharatiya Janata Party)<br><b>Percentage: </b>26.28<br>"
+        },
+        "57": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>Constituency No.: </b>57<br><b>Constituency Name: </b>Modi Nagar<br><b>Candidate Name: </b>SUDESH SHARMA(Rashtriya Lok Dal)<br><b>No of votes: </b>78730<br><b>Total Votes: </b>223867<br><b>Winner: </b>DR. MANJU SHIWACH(Bharatiya Janata Party)<br><b>Percentage: </b>35.17<br>"
+        },
+        "59": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>Constituency No.: </b>59<br><b>Constituency Name: </b>Hapur<br><b>Candidate Name: </b>GAJRAJ SINGH(Rashtriya Lok Dal)<br><b>No of votes: </b>90828<br><b>Total Votes: </b>246567<br><b>Winner: </b>VIJAYPAL (AADHTI)(Bharatiya Janata Party)<br><b>Percentage: </b>36.84<br>"
+        },
+        "63": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>63<br><b>Constituency Name: </b>Jewar<br><b>Candidate Name: </b>AVTAR SINGH BHADANA(Rashtriya Lok Dal)<br><b>No of votes: </b>60890<br><b>Total Votes: </b>231959<br><b>Winner: </b>DHIRENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>26.25<br>"
+        },
+        "65": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>Constituency No.: </b>65<br><b>Constituency Name: </b>Bulandshahr<br><b>Candidate Name: </b>Mohammad Yunus(Rashtriya Lok Dal)<br><b>No of votes: </b>101246<br><b>Total Votes: </b>259670<br><b>Winner: </b>Pradeep Kumar Chaudhary(Bharatiya Janata Party)<br><b>Percentage: </b>38.99<br>"
+        },
+        "66": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>66<br><b>Constituency Name: </b>Syana<br><b>Candidate Name: </b>Dilnawaz Khan(Rashtriya Lok Dal)<br><b>No of votes: </b>59468<br><b>Total Votes: </b>253197<br><b>Winner: </b>Devendra Singh Lodhi(Bharatiya Janata Party)<br><b>Percentage: </b>23.49<br>"
+        },
+        "69": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>69<br><b>Constituency Name: </b>Shikarpur<br><b>Candidate Name: </b>Kiranpal Singh(Rashtriya Lok Dal)<br><b>No of votes: </b>58172<br><b>Total Votes: </b>214653<br><b>Winner: </b>Anil Kumar(Bharatiya Janata Party)<br><b>Percentage: </b>27.1<br>"
+        },
+        "71": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>71<br><b>Constituency Name: </b>Khair<br><b>Candidate Name: </b>BHAGWATI PRASAD(Rashtriya Lok Dal)<br><b>No of votes: </b>41644<br><b>Total Votes: </b>251380<br><b>Winner: </b>ANOOP SINGH URF ANOOP PRADHAN VALMEEKI(Bharatiya Janata Party)<br><b>Percentage: </b>16.57<br>"
+        },
+        "72": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>72<br><b>Constituency Name: </b>Barauli<br><b>Candidate Name: </b>Pramod Gaur(Rashtriya Lok Dal)<br><b>No of votes: </b>32781<br><b>Total Votes: </b>244299<br><b>Winner: </b>Thakur Jaiveer Singh(Bharatiya Janata Party)<br><b>Percentage: </b>13.42<br>"
+        },
+        "77": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>77<br><b>Constituency Name: </b>Iglas<br><b>Candidate Name: </b>BIRPAL SINGH(Rashtriya Lok Dal)<br><b>No of votes: </b>68046<br><b>Total Votes: </b>243015<br><b>Winner: </b>RAJKUMAR SAHYOGI(Bharatiya Janata Party)<br><b>Percentage: </b>28.0<br>"
+        },
+        "79": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>Constituency No.: </b>79<br><b>Constituency Name: </b>Sadabad<br><b>Candidate Name: </b>PRADEEP KUMAR SINGH(Rashtriya Lok Dal)<br><b>No of votes: </b>104874<br><b>Total Votes: </b>242482<br><b>Winner: </b>PRADEEP KUMAR SINGH(Rashtriya Lok Dal)<br><b>Percentage: </b>43.25<br>"
+        },
+        "81": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>Constituency No.: </b>81<br><b>Constituency Name: </b>Chhata<br><b>Candidate Name: </b>TEJPAL SINGH(Rashtriya Lok Dal)<br><b>No of votes: </b>75466<br><b>Total Votes: </b>238419<br><b>Winner: </b>LAXMI NARAYAN(Bharatiya Janata Party)<br><b>Percentage: </b>31.65<br>"
+        },
+        "83": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>83<br><b>Constituency Name: </b>Goverdhan<br><b>Candidate Name: </b>PREETAM SINGH(Rashtriya Lok Dal)<br><b>No of votes: </b>55679<br><b>Total Votes: </b>221637<br><b>Winner: </b>MEGHSHYAM(Bharatiya Janata Party)<br><b>Percentage: </b>25.12<br>"
+        },
+        "85": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>Constituency No.: </b>85<br><b>Constituency Name: </b>Baldev<br><b>Candidate Name: </b>BABITA DEVI(Rashtriya Lok Dal)<br><b>No of votes: </b>83159<br><b>Total Votes: </b>245601<br><b>Winner: </b>PURAN PRAKASH(Bharatiya Janata Party)<br><b>Percentage: </b>33.86<br>"
+        },
+        "90": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>90<br><b>Constituency Name: </b>Agra Rural<br><b>Candidate Name: </b>MAHESH KUMAR(Rashtriya Lok Dal)<br><b>No of votes: </b>52731<br><b>Total Votes: </b>260921<br><b>Winner: </b>BABY RANI MAURYA(Bharatiya Janata Party)<br><b>Percentage: </b>20.21<br>"
+        },
+        "91": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>Constituency No.: </b>91<br><b>Constituency Name: </b>Fatehpur Sikri<br><b>Candidate Name: </b>Brijesh Kumar(Rashtriya Lok Dal)<br><b>No of votes: </b>64826<br><b>Total Votes: </b>242922<br><b>Winner: </b>Babulal(Bharatiya Janata Party)<br><b>Percentage: </b>26.69<br>"
+        },
+        "92": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>92<br><b>Constituency Name: </b>Kheragarh<br><b>Candidate Name: </b>Rohtan(Rashtriya Lok Dal)<br><b>No of votes: </b>14133<br><b>Total Votes: </b>205257<br><b>Winner: </b>Bhagwan Singh Kushwaha(Bharatiya Janata Party)<br><b>Percentage: </b>6.89<br>"
+        }
+    }
+}

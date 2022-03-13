@@ -1,0 +1,1603 @@
+{
+    "title": "INC IN UP 2022",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Party hold percentages</caption><thead><tr><th>Color_index</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: #d7191c;\"></td><td>40.27% to 50.27%</td><td>2</td><td>2 (100.0%)</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>30.27% to 40.27%</td><td>2</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>20.28% to 30.27%</td><td>4</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #abd9e9;\"></td><td>10.28% to 20.28%</td><td>12</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #2c7bb6;\"></td><td>0.28% to 10.28%</td><td>379</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>399</td><td>2 (0.5%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>1<br><b>Constituency Name: </b>Behat<br><b>Candidate Name: </b>Poonam Kamboj(Indian National Congress)<br><b>No of votes: </b>1632<br><b>Total Votes: </b>281373<br><b>Winner: </b>Umar Ali Khan(Samajwadi Party)<br><b>Percentage: </b>0.58<br>"
+        },
+        "2": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>2<br><b>Constituency Name: </b>Nakur<br><b>Candidate Name: </b>RANDHEER SINGH(Indian National Congress)<br><b>No of votes: </b>1354<br><b>Total Votes: </b>270652<br><b>Winner: </b>MUKESH CHOUDHARY(Bharatiya Janata Party)<br><b>Percentage: </b>0.5<br>"
+        },
+        "3": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>3<br><b>Constituency Name: </b>Saharanpur Nagar<br><b>Candidate Name: </b>SUKHWINDER KAUR(Indian National Congress)<br><b>No of votes: </b>2256<br><b>Total Votes: </b>293112<br><b>Winner: </b>RAJEEV GUMBER(Bharatiya Janata Party)<br><b>Percentage: </b>0.77<br>"
+        },
+        "4": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>4<br><b>Constituency Name: </b>Saharanpur<br><b>Candidate Name: </b>SANDEEP KUMAR(Indian National Congress)<br><b>No of votes: </b>1217<br><b>Total Votes: </b>259855<br><b>Winner: </b>Ashu Malik(Samajwadi Party)<br><b>Percentage: </b>0.47<br>"
+        },
+        "5": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>5<br><b>Constituency Name: </b>Deoband<br><b>Candidate Name: </b>RAHAT KHALIL(Indian National Congress)<br><b>No of votes: </b>1096<br><b>Total Votes: </b>242193<br><b>Winner: </b>BRIJESH(Bharatiya Janata Party)<br><b>Percentage: </b>0.45<br>"
+        },
+        "6": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>6<br><b>Constituency Name: </b>Rampur Maniharan<br><b>Candidate Name: </b>OMPAL SINGH(Indian National Congress)<br><b>No of votes: </b>1544<br><b>Total Votes: </b>232233<br><b>Winner: </b>Devender Kumar Nim(Bharatiya Janata Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "7": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>7<br><b>Constituency Name: </b>Gangoh<br><b>Candidate Name: </b>ASHOK KUMAR SAINI(Indian National Congress)<br><b>No of votes: </b>1936<br><b>Total Votes: </b>270590<br><b>Winner: </b>KIRAT SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.72<br>"
+        },
+        "8": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>8<br><b>Constituency Name: </b>Kairana<br><b>Candidate Name: </b>AKHLAK(Indian National Congress)<br><b>No of votes: </b>1522<br><b>Total Votes: </b>241947<br><b>Winner: </b>Nahid Hasan(Samajwadi Party)<br><b>Percentage: </b>0.63<br>"
+        },
+        "9": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>9<br><b>Constituency Name: </b>Thana Bhawan<br><b>Candidate Name: </b>Satya Sanyam Bhuryan(Indian National Congress)<br><b>No of votes: </b>793<br><b>Total Votes: </b>218541<br><b>Winner: </b>Ashraf Ali Khan(Rashtriya Lok Dal)<br><b>Percentage: </b>0.36<br>"
+        },
+        "10": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>10<br><b>Constituency Name: </b>Shamli<br><b>Candidate Name: </b>Mohmmad Ayub Jang(Indian National Congress)<br><b>No of votes: </b>780<br><b>Total Votes: </b>210952<br><b>Winner: </b>Persann Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>0.37<br>"
+        },
+        "11": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>11<br><b>Constituency Name: </b>Budhana<br><b>Candidate Name: </b>Devendra Kumar(Indian National Congress)<br><b>No of votes: </b>2452<br><b>Total Votes: </b>255624<br><b>Winner: </b>Rajpal Singh Baliyan(Rashtriya Lok Dal)<br><b>Percentage: </b>0.96<br>"
+        },
+        "12": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>12<br><b>Constituency Name: </b>Charthawal<br><b>Candidate Name: </b>Yasmeen Rao(Indian National Congress)<br><b>No of votes: </b>965<br><b>Total Votes: </b>222190<br><b>Winner: </b>Pankaj Kumar Malik(Samajwadi Party)<br><b>Percentage: </b>0.43<br>"
+        },
+        "13": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>13<br><b>Constituency Name: </b>Purqazi<br><b>Candidate Name: </b>Deepak Kumar(Indian National Congress)<br><b>No of votes: </b>1762<br><b>Total Votes: </b>215085<br><b>Winner: </b>Anil Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>0.82<br>"
+        },
+        "14": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>14<br><b>Constituency Name: </b>Muzaffar Nagar<br><b>Candidate Name: </b>SUBHODH SHARMA(Indian National Congress)<br><b>No of votes: </b>1694<br><b>Total Votes: </b>225543<br><b>Winner: </b>Kapil Dev Agarwal(Bharatiya Janata Party)<br><b>Percentage: </b>0.75<br>"
+        },
+        "15": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>15<br><b>Constituency Name: </b>Khatauli<br><b>Candidate Name: </b>GAURAV KUMAR URF GAURAV BHATI(Indian National Congress)<br><b>No of votes: </b>1209<br><b>Total Votes: </b>221969<br><b>Winner: </b>VIKRAM SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.54<br>"
+        },
+        "16": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>16<br><b>Constituency Name: </b>Meerapur<br><b>Candidate Name: </b>JAMIL AHMAD(Indian National Congress)<br><b>No of votes: </b>1258<br><b>Total Votes: </b>216692<br><b>Winner: </b>Chandan Chauhan(Rashtriya Lok Dal)<br><b>Percentage: </b>0.58<br>"
+        },
+        "17": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>17<br><b>Constituency Name: </b>Najibabad<br><b>Candidate Name: </b>MOHD SALEEM ANSARI(Indian National Congress)<br><b>No of votes: </b>1958<br><b>Total Votes: </b>232615<br><b>Winner: </b>TASLEEM AHMAD(Samajwadi Party)<br><b>Percentage: </b>0.84<br>"
+        },
+        "18": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>18<br><b>Constituency Name: </b>Nagina<br><b>Candidate Name: </b>SHRIMATI HENREITA(Indian National Congress)<br><b>No of votes: </b>1685<br><b>Total Votes: </b>223282<br><b>Winner: </b>MANOJ KUMAR PARAS(Samajwadi Party)<br><b>Percentage: </b>0.75<br>"
+        },
+        "19": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>19<br><b>Constituency Name: </b>Barhapur<br><b>Candidate Name: </b>AHASAN ALI(Indian National Congress)<br><b>No of votes: </b>1452<br><b>Total Votes: </b>240760<br><b>Winner: </b>KUNWAR SUSHANT SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.6<br>"
+        },
+        "20": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>20<br><b>Constituency Name: </b>Dhampur<br><b>Candidate Name: </b>HUSSAIN AHMAD(Indian National Congress)<br><b>No of votes: </b>790<br><b>Total Votes: </b>205067<br><b>Winner: </b>ASHOK KUMAR RANA(Bharatiya Janata Party)<br><b>Percentage: </b>0.39<br>"
+        },
+        "21": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>21<br><b>Constituency Name: </b>Nehtaur<br><b>Candidate Name: </b>MEENAKSHI(Indian National Congress)<br><b>No of votes: </b>1343<br><b>Total Votes: </b>199914<br><b>Winner: </b>OMKUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.67<br>"
+        },
+        "23": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>23<br><b>Constituency Name: </b>Chandpur<br><b>Candidate Name: </b>UDAY TYAGI(Indian National Congress)<br><b>No of votes: </b>1484<br><b>Total Votes: </b>224374<br><b>Winner: </b>SWAMI OMVESH(Samajwadi Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "24": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>24<br><b>Constituency Name: </b>Noorpur<br><b>Candidate Name: </b>BALA(Indian National Congress)<br><b>No of votes: </b>888<br><b>Total Votes: </b>213969<br><b>Winner: </b>RAM AVATAR SINGH(Samajwadi Party)<br><b>Percentage: </b>0.42<br>"
+        },
+        "25": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>25<br><b>Constituency Name: </b>Kanth<br><b>Candidate Name: </b>Mohd Israr(Indian National Congress)<br><b>No of votes: </b>1470<br><b>Total Votes: </b>273839<br><b>Winner: </b>Kamal Akhtar(Samajwadi Party)<br><b>Percentage: </b>0.54<br>"
+        },
+        "26": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>26<br><b>Constituency Name: </b>Thakurdwara<br><b>Candidate Name: </b>SALMA AAGA(Indian National Congress)<br><b>No of votes: </b>1508<br><b>Total Votes: </b>275608<br><b>Winner: </b>NAVAB JAN(Samajwadi Party)<br><b>Percentage: </b>0.55<br>"
+        },
+        "27": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>27<br><b>Constituency Name: </b>Moradabad Rural<br><b>Candidate Name: </b>HAJI IKRAM QURESHI(Indian National Congress)<br><b>No of votes: </b>2595<br><b>Total Votes: </b>251978<br><b>Winner: </b>MOHD NASIR(Samajwadi Party)<br><b>Percentage: </b>1.03<br>"
+        },
+        "28": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>28<br><b>Constituency Name: </b>Moradabad Nagar<br><b>Candidate Name: </b>RIZWAN QURESHI(Indian National Congress)<br><b>No of votes: </b>5351<br><b>Total Votes: </b>321704<br><b>Winner: </b>RITESH KUMAR GUPTA(Bharatiya Janata Party)<br><b>Percentage: </b>1.66<br>"
+        },
+        "29": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>29<br><b>Constituency Name: </b>Kundarki<br><b>Candidate Name: </b>DARAKSHA BEGUM(Indian National Congress)<br><b>No of votes: </b>1716<br><b>Total Votes: </b>271785<br><b>Winner: </b>ZIA UR REHMAN(Samajwadi Party)<br><b>Percentage: </b>0.63<br>"
+        },
+        "30": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>30<br><b>Constituency Name: </b>Bilari<br><b>Candidate Name: </b>KALPANA SINGH(Indian National Congress)<br><b>No of votes: </b>1411<br><b>Total Votes: </b>238844<br><b>Winner: </b>MOHAMMAD FAHEEM IRFAN(Samajwadi Party)<br><b>Percentage: </b>0.59<br>"
+        },
+        "31": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>31<br><b>Constituency Name: </b>Chandausi<br><b>Candidate Name: </b>MITHLESH KUMARI(Indian National Congress)<br><b>No of votes: </b>1595<br><b>Total Votes: </b>227934<br><b>Winner: </b>GULAB DEBI(Bharatiya Janata Party)<br><b>Percentage: </b>0.7<br>"
+        },
+        "32": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>32<br><b>Constituency Name: </b>Asmoli<br><b>Candidate Name: </b>MARGHOOB ALAM(Indian National Congress)<br><b>No of votes: </b>1511<br><b>Total Votes: </b>260152<br><b>Winner: </b>PINKI SINGH(Samajwadi Party)<br><b>Percentage: </b>0.58<br>"
+        },
+        "33": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>33<br><b>Constituency Name: </b>Sambhal<br><b>Candidate Name: </b>NIDA AHMAD(Indian National Congress)<br><b>No of votes: </b>2256<br><b>Total Votes: </b>244853<br><b>Winner: </b>IQBAL MEHMOOD(Samajwadi Party)<br><b>Percentage: </b>0.92<br>"
+        },
+        "34": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>34<br><b>Constituency Name: </b>Suar<br><b>Candidate Name: </b>Ram Raksha Pal Singh Alias Raja Thakur(Indian National Congress)<br><b>No of votes: </b>1139<br><b>Total Votes: </b>213160<br><b>Winner: </b>Mohammad Abdullah Azam Khan(Samajwadi Party)<br><b>Percentage: </b>0.53<br>"
+        },
+        "35": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>35<br><b>Constituency Name: </b>Chamraua<br><b>Candidate Name: </b>Ali Yusuf Ali(Indian National Congress)<br><b>No of votes: </b>18213<br><b>Total Votes: </b>200601<br><b>Winner: </b>Naseer Ahmad Khan(Samajwadi Party)<br><b>Percentage: </b>9.08<br>"
+        },
+        "36": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>36<br><b>Constituency Name: </b>Bilaspur<br><b>Candidate Name: </b>Sanjay Kapoor(Indian National Congress)<br><b>No of votes: </b>9814<br><b>Total Votes: </b>236259<br><b>Winner: </b>Baldev Singh Aulakh(Bharatiya Janata Party)<br><b>Percentage: </b>4.15<br>"
+        },
+        "37": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>37<br><b>Constituency Name: </b>Rampur<br><b>Candidate Name: </b>Nawab Kazim Ali Khan(Indian National Congress)<br><b>No of votes: </b>4000<br><b>Total Votes: </b>219757<br><b>Winner: </b>Mohammad Azam Khan(Samajwadi Party)<br><b>Percentage: </b>1.82<br>"
+        },
+        "38": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>38<br><b>Constituency Name: </b>Milak<br><b>Candidate Name: </b>Kumar Eklavya(Indian National Congress)<br><b>No of votes: </b>2836<br><b>Total Votes: </b>227230<br><b>Winner: </b>Rajbala Singh(Bharatiya Janata Party)<br><b>Percentage: </b>1.25<br>"
+        },
+        "39": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>39<br><b>Constituency Name: </b>Dhanaura<br><b>Candidate Name: </b>SAMAR PAL SINGH(Indian National Congress)<br><b>No of votes: </b>1385<br><b>Total Votes: </b>243697<br><b>Winner: </b>RAJEEV KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.57<br>"
+        },
+        "40": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>40<br><b>Constituency Name: </b>Naugawan Sadat<br><b>Candidate Name: </b>REKHA RANI(Indian National Congress)<br><b>No of votes: </b>1613<br><b>Total Votes: </b>244837<br><b>Winner: </b>SAMARPAL SINGH(Samajwadi Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "41": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>41<br><b>Constituency Name: </b>Amroha<br><b>Candidate Name: </b>SALEEM KHAN(Indian National Congress)<br><b>No of votes: </b>846<br><b>Total Votes: </b>224150<br><b>Winner: </b>MEHBOOB ALI(Samajwadi Party)<br><b>Percentage: </b>0.38<br>"
+        },
+        "42": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>42<br><b>Constituency Name: </b>Hasanpur<br><b>Candidate Name: </b>AASIM SABRI(Indian National Congress)<br><b>No of votes: </b>1734<br><b>Total Votes: </b>268924<br><b>Winner: </b>MAHENDRA(Bharatiya Janata Party)<br><b>Percentage: </b>0.64<br>"
+        },
+        "43": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>43<br><b>Constituency Name: </b>Siwalkhas<br><b>Candidate Name: </b>JAGDISH PRASAD(Indian National Congress)<br><b>No of votes: </b>1577<br><b>Total Votes: </b>233667<br><b>Winner: </b>GHULAM MOHAMMAD(Rashtriya Lok Dal)<br><b>Percentage: </b>0.67<br>"
+        },
+        "44": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>44<br><b>Constituency Name: </b>Sardhana<br><b>Candidate Name: </b>Syed Rehanuddin(Indian National Congress)<br><b>No of votes: </b>2144<br><b>Total Votes: </b>243206<br><b>Winner: </b>Atul Pradhan(Samajwadi Party)<br><b>Percentage: </b>0.88<br>"
+        },
+        "45": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>45<br><b>Constituency Name: </b>Hastinapur<br><b>Candidate Name: </b>Archana Gautam(Indian National Congress)<br><b>No of votes: </b>1519<br><b>Total Votes: </b>230276<br><b>Winner: </b>Dinesh(Bharatiya Janata Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "46": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>46<br><b>Constituency Name: </b>Kithore<br><b>Candidate Name: </b>BABITA GURJAR(Indian National Congress)<br><b>No of votes: </b>1589<br><b>Total Votes: </b>253869<br><b>Winner: </b>SHAHID MANZOOR(Samajwadi Party)<br><b>Percentage: </b>0.63<br>"
+        },
+        "47": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>47<br><b>Constituency Name: </b>Meerut Cantt.<br><b>Candidate Name: </b>AVNISH KAJLA(Indian National Congress)<br><b>No of votes: </b>5096<br><b>Total Votes: </b>244493<br><b>Winner: </b>AMIT AGARWAL(Bharatiya Janata Party)<br><b>Percentage: </b>2.08<br>"
+        },
+        "48": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>48<br><b>Constituency Name: </b>Meerut<br><b>Candidate Name: </b>RANJAN SHARMA(Indian National Congress)<br><b>No of votes: </b>5333<br><b>Total Votes: </b>201638<br><b>Winner: </b>RAFIQ ANSARI(Samajwadi Party)<br><b>Percentage: </b>2.64<br>"
+        },
+        "49": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>49<br><b>Constituency Name: </b>Meerut South<br><b>Candidate Name: </b>Nafees(Indian National Congress)<br><b>No of votes: </b>2346<br><b>Total Votes: </b>298393<br><b>Winner: </b>Dr. Somendra Singh Tomar(Bharatiya Janata Party)<br><b>Percentage: </b>0.79<br>"
+        },
+        "50": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>50<br><b>Constituency Name: </b>Chhaprauli<br><b>Candidate Name: </b>Mohd. Yunus(Indian National Congress)<br><b>No of votes: </b>1239<br><b>Total Votes: </b>209904<br><b>Winner: </b>Ajay Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>0.59<br>"
+        },
+        "51": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>51<br><b>Constituency Name: </b>Baraut<br><b>Candidate Name: </b>RAHUL KUMAR(Indian National Congress)<br><b>No of votes: </b>1849<br><b>Total Votes: </b>196226<br><b>Winner: </b>KRISHAN PAL MALIK(Bharatiya Janata Party)<br><b>Percentage: </b>0.94<br>"
+        },
+        "52": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>52<br><b>Constituency Name: </b>Baghpat<br><b>Candidate Name: </b>Anil(Indian National Congress)<br><b>No of votes: </b>1229<br><b>Total Votes: </b>214112<br><b>Winner: </b>Yogesh Dhama(Bharatiya Janata Party)<br><b>Percentage: </b>0.57<br>"
+        },
+        "53": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>53<br><b>Constituency Name: </b>Loni<br><b>Candidate Name: </b>MOHD YAMIN MALIK(Indian National Congress)<br><b>No of votes: </b>2049<br><b>Total Votes: </b>315095<br><b>Winner: </b>NANDKISHOR(Bharatiya Janata Party)<br><b>Percentage: </b>0.65<br>"
+        },
+        "54": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>54<br><b>Constituency Name: </b>Muradnagar<br><b>Candidate Name: </b>Vijendra Yadav(Indian National Congress)<br><b>No of votes: </b>7055<br><b>Total Votes: </b>274689<br><b>Winner: </b>Ajit Pal Tyagi(Bharatiya Janata Party)<br><b>Percentage: </b>2.57<br>"
+        },
+        "55": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>55<br><b>Constituency Name: </b>Sahibabad<br><b>Candidate Name: </b>SANGEETA TYAGI(Indian National Congress)<br><b>No of votes: </b>10273<br><b>Total Votes: </b>481686<br><b>Winner: </b>SUNIL KUMAR SHARMA(Bharatiya Janata Party)<br><b>Percentage: </b>2.13<br>"
+        },
+        "56": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>56<br><b>Constituency Name: </b>Ghaziabad<br><b>Candidate Name: </b>SUSHANT GOYAL(Indian National Congress)<br><b>No of votes: </b>11818<br><b>Total Votes: </b>244766<br><b>Winner: </b>Atul Garg(Bharatiya Janata Party)<br><b>Percentage: </b>4.83<br>"
+        },
+        "57": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>57<br><b>Constituency Name: </b>Modi Nagar<br><b>Candidate Name: </b>NEERAJ KUMARI(Indian National Congress)<br><b>No of votes: </b>2073<br><b>Total Votes: </b>223867<br><b>Winner: </b>DR. MANJU SHIWACH(Bharatiya Janata Party)<br><b>Percentage: </b>0.93<br>"
+        },
+        "58": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>58<br><b>Constituency Name: </b>Dhaulana<br><b>Candidate Name: </b>ARVIND SHARMA(Indian National Congress)<br><b>No of votes: </b>2266<br><b>Total Votes: </b>280013<br><b>Winner: </b>DHARMESH SINGH TOMAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.81<br>"
+        },
+        "59": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>59<br><b>Constituency Name: </b>Hapur<br><b>Candidate Name: </b>BHAVNA(Indian National Congress)<br><b>No of votes: </b>3195<br><b>Total Votes: </b>246567<br><b>Winner: </b>VIJAYPAL (AADHTI)(Bharatiya Janata Party)<br><b>Percentage: </b>1.3<br>"
+        },
+        "60": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>60<br><b>Constituency Name: </b>Garhmukteshwar<br><b>Candidate Name: </b>ABHA CHAUDHARY(Indian National Congress)<br><b>No of votes: </b>1646<br><b>Total Votes: </b>236220<br><b>Winner: </b>HARENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.7<br>"
+        },
+        "61": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>61<br><b>Constituency Name: </b>Noida<br><b>Candidate Name: </b>Pankhuri Pathak(Indian National Congress)<br><b>No of votes: </b>13494<br><b>Total Votes: </b>348228<br><b>Winner: </b>Pankaj Singh(Bharatiya Janata Party)<br><b>Percentage: </b>3.88<br>"
+        },
+        "62": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>62<br><b>Constituency Name: </b>Dadri<br><b>Candidate Name: </b>DEEPAK KUMAR BHATI CHOTIWALA(Indian National Congress)<br><b>No of votes: </b>5392<br><b>Total Votes: </b>353777<br><b>Winner: </b>TEJPAL SINGH NAGAR(Bharatiya Janata Party)<br><b>Percentage: </b>1.52<br>"
+        },
+        "63": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>63<br><b>Constituency Name: </b>Jewar<br><b>Candidate Name: </b>MANOJ(Indian National Congress)<br><b>No of votes: </b>3200<br><b>Total Votes: </b>231959<br><b>Winner: </b>DHIRENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.38<br>"
+        },
+        "64": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>64<br><b>Constituency Name: </b>Sikandrabad<br><b>Candidate Name: </b>Saleem Akhtar Khan(Indian National Congress)<br><b>No of votes: </b>2281<br><b>Total Votes: </b>273133<br><b>Winner: </b>Lakshmi Raj(Bharatiya Janata Party)<br><b>Percentage: </b>0.84<br>"
+        },
+        "65": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>65<br><b>Constituency Name: </b>Bulandshahr<br><b>Candidate Name: </b>Sushil Chaudhry(Indian National Congress)<br><b>No of votes: </b>2761<br><b>Total Votes: </b>259670<br><b>Winner: </b>Pradeep Kumar Chaudhary(Bharatiya Janata Party)<br><b>Percentage: </b>1.06<br>"
+        },
+        "66": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>66<br><b>Constituency Name: </b>Syana<br><b>Candidate Name: </b>Km. Poonam(Indian National Congress)<br><b>No of votes: </b>2914<br><b>Total Votes: </b>253197<br><b>Winner: </b>Devendra Singh Lodhi(Bharatiya Janata Party)<br><b>Percentage: </b>1.15<br>"
+        },
+        "67": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>67<br><b>Constituency Name: </b>Anupshahr<br><b>Candidate Name: </b>Gajendra Singh(Indian National Congress)<br><b>No of votes: </b>13321<br><b>Total Votes: </b>238600<br><b>Winner: </b>Sanjay Kumar Sharma(Bharatiya Janata Party)<br><b>Percentage: </b>5.58<br>"
+        },
+        "68": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>68<br><b>Constituency Name: </b>Debai<br><b>Candidate Name: </b>SUNITA DEVI(Indian National Congress)<br><b>No of votes: </b>1947<br><b>Total Votes: </b>219519<br><b>Winner: </b>CHANDRAPAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.89<br>"
+        },
+        "69": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>69<br><b>Constituency Name: </b>Shikarpur<br><b>Candidate Name: </b>ZiaurRahman(Indian National Congress)<br><b>No of votes: </b>1542<br><b>Total Votes: </b>214653<br><b>Winner: </b>Anil Kumar(Bharatiya Janata Party)<br><b>Percentage: </b>0.72<br>"
+        },
+        "70": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>70<br><b>Constituency Name: </b>Khurja<br><b>Candidate Name: </b>Tukki(Indian National Congress)<br><b>No of votes: </b>2643<br><b>Total Votes: </b>259387<br><b>Winner: </b>Minakshi Singh(Bharatiya Janata Party)<br><b>Percentage: </b>1.02<br>"
+        },
+        "71": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>71<br><b>Constituency Name: </b>Khair<br><b>Candidate Name: </b>MONIKA(Indian National Congress)<br><b>No of votes: </b>1514<br><b>Total Votes: </b>251380<br><b>Winner: </b>ANOOP SINGH URF ANOOP PRADHAN VALMEEKI(Bharatiya Janata Party)<br><b>Percentage: </b>0.6<br>"
+        },
+        "72": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>72<br><b>Constituency Name: </b>Barauli<br><b>Candidate Name: </b>Gaurang Dev(Indian National Congress)<br><b>No of votes: </b>2377<br><b>Total Votes: </b>244299<br><b>Winner: </b>Thakur Jaiveer Singh(Bharatiya Janata Party)<br><b>Percentage: </b>0.97<br>"
+        },
+        "73": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>73<br><b>Constituency Name: </b>Atrauli<br><b>Candidate Name: </b>DHARMENDRA KUMAR(Indian National Congress)<br><b>No of votes: </b>1331<br><b>Total Votes: </b>241581<br><b>Winner: </b>SANDEEP KUMAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.55<br>"
+        },
+        "74": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>74<br><b>Constituency Name: </b>Chharra<br><b>Candidate Name: </b>AKHILESH KUMAR(Indian National Congress)<br><b>No of votes: </b>1792<br><b>Total Votes: </b>243058<br><b>Winner: </b>RAVENDRA PAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.74<br>"
+        },
+        "75": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>75<br><b>Constituency Name: </b>Koil<br><b>Candidate Name: </b>VIVEK BANSAL(Indian National Congress)<br><b>No of votes: </b>15550<br><b>Total Votes: </b>252406<br><b>Winner: </b>ANIL PARASHAR(Bharatiya Janata Party)<br><b>Percentage: </b>6.16<br>"
+        },
+        "76": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>76<br><b>Constituency Name: </b>Aligarh<br><b>Candidate Name: </b>MOHD SALMAN IMTIAZ(Indian National Congress)<br><b>No of votes: </b>2292<br><b>Total Votes: </b>252587<br><b>Winner: </b>MUKTA RAJA(Bharatiya Janata Party)<br><b>Percentage: </b>0.91<br>"
+        },
+        "77": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>77<br><b>Constituency Name: </b>Iglas<br><b>Candidate Name: </b>PRITI(Indian National Congress)<br><b>No of votes: </b>7797<br><b>Total Votes: </b>243015<br><b>Winner: </b>RAJKUMAR SAHYOGI(Bharatiya Janata Party)<br><b>Percentage: </b>3.21<br>"
+        },
+        "78": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>78<br><b>Constituency Name: </b>Hathras<br><b>Candidate Name: </b>Kuldeep Kumar Singh(Indian National Congress)<br><b>No of votes: </b>2436<br><b>Total Votes: </b>263054<br><b>Winner: </b>ANJULA SINGH MAHAUR(Bharatiya Janata Party)<br><b>Percentage: </b>0.93<br>"
+        },
+        "79": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>79<br><b>Constituency Name: </b>Sadabad<br><b>Candidate Name: </b>MATHURA PRASAD(Indian National Congress)<br><b>No of votes: </b>2788<br><b>Total Votes: </b>242482<br><b>Winner: </b>PRADEEP KUMAR SINGH(Rashtriya Lok Dal)<br><b>Percentage: </b>1.15<br>"
+        },
+        "80": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>80<br><b>Constituency Name: </b>Sikandra Rao<br><b>Candidate Name: </b>CHHAVI VARSHNEY(Indian National Congress)<br><b>No of votes: </b>1159<br><b>Total Votes: </b>235619<br><b>Winner: </b>Birendra Singh Rana(Bharatiya Janata Party)<br><b>Percentage: </b>0.49<br>"
+        },
+        "81": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>81<br><b>Constituency Name: </b>Chhata<br><b>Candidate Name: </b>POONAM  DEVI(Indian National Congress)<br><b>No of votes: </b>1481<br><b>Total Votes: </b>238419<br><b>Winner: </b>LAXMI NARAYAN(Bharatiya Janata Party)<br><b>Percentage: </b>0.62<br>"
+        },
+        "82": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>82<br><b>Constituency Name: </b>Mant<br><b>Candidate Name: </b>SUMAN CHAUDHARY(Indian National Congress)<br><b>No of votes: </b>1281<br><b>Total Votes: </b>224786<br><b>Winner: </b>RAJESH CHAUDHARY(Bharatiya Janata Party)<br><b>Percentage: </b>0.57<br>"
+        },
+        "83": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>83<br><b>Constituency Name: </b>Goverdhan<br><b>Candidate Name: </b>DEEPAK CHAUDHARY(Indian National Congress)<br><b>No of votes: </b>3118<br><b>Total Votes: </b>221637<br><b>Winner: </b>MEGHSHYAM(Bharatiya Janata Party)<br><b>Percentage: </b>1.41<br>"
+        },
+        "84": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>84<br><b>Constituency Name: </b>Mathura<br><b>Candidate Name: </b>PRADEEP MATHUR(Indian National Congress)<br><b>No of votes: </b>49056<br><b>Total Votes: </b>263621<br><b>Winner: </b>SHRIKANT SHARMA(Bharatiya Janata Party)<br><b>Percentage: </b>18.61<br>"
+        },
+        "85": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>85<br><b>Constituency Name: </b>Baldev<br><b>Candidate Name: </b>VINESH KUMAR SANWAL(Indian National Congress)<br><b>No of votes: </b>2248<br><b>Total Votes: </b>245601<br><b>Winner: </b>PURAN PRAKASH(Bharatiya Janata Party)<br><b>Percentage: </b>0.92<br>"
+        },
+        "86": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>86<br><b>Constituency Name: </b>Etmadpur<br><b>Candidate Name: </b>SHIVANIDEVI DEVI(Indian National Congress)<br><b>No of votes: </b>1320<br><b>Total Votes: </b>300588<br><b>Winner: </b>DR. DHARMPAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.44<br>"
+        },
+        "87": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>87<br><b>Constituency Name: </b>Agra Cantt.<br><b>Candidate Name: </b>Sikandar Singh(Indian National Congress)<br><b>No of votes: </b>5590<br><b>Total Votes: </b>251816<br><b>Winner: </b>Dr. G S Dharmesh(Bharatiya Janata Party)<br><b>Percentage: </b>2.22<br>"
+        },
+        "88": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>88<br><b>Constituency Name: </b>Agra South<br><b>Candidate Name: </b>ANUJ SHARMA(Indian National Congress)<br><b>No of votes: </b>4867<br><b>Total Votes: </b>208569<br><b>Winner: </b>YOGENDRA UPADHYAYA(Bharatiya Janata Party)<br><b>Percentage: </b>2.33<br>"
+        },
+        "89": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>89<br><b>Constituency Name: </b>Agra North<br><b>Candidate Name: </b>VINOD BANSAL(Indian National Congress)<br><b>No of votes: </b>5933<br><b>Total Votes: </b>240752<br><b>Winner: </b>PURUSHOTTAM KHANDELWAL(Bharatiya Janata Party)<br><b>Percentage: </b>2.46<br>"
+        },
+        "90": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>90<br><b>Constituency Name: </b>Agra Rural<br><b>Candidate Name: </b>UPENDRA SINGH(Indian National Congress)<br><b>No of votes: </b>3770<br><b>Total Votes: </b>260921<br><b>Winner: </b>BABY RANI MAURYA(Bharatiya Janata Party)<br><b>Percentage: </b>1.44<br>"
+        },
+        "91": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>91<br><b>Constituency Name: </b>Fatehpur Sikri<br><b>Candidate Name: </b>Hemant Singh(Indian National Congress)<br><b>No of votes: </b>1192<br><b>Total Votes: </b>242922<br><b>Winner: </b>Babulal(Bharatiya Janata Party)<br><b>Percentage: </b>0.49<br>"
+        },
+        "92": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>Constituency No.: </b>92<br><b>Constituency Name: </b>Kheragarh<br><b>Candidate Name: </b>Ramnath Singh Sikarwar(Indian National Congress)<br><b>No of votes: </b>60077<br><b>Total Votes: </b>205257<br><b>Winner: </b>Bhagwan Singh Kushwaha(Bharatiya Janata Party)<br><b>Percentage: </b>29.27<br>"
+        },
+        "93": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>93<br><b>Constituency Name: </b>Fatehabad<br><b>Candidate Name: </b>Hotam Singh Nishad(Indian National Congress)<br><b>No of votes: </b>683<br><b>Total Votes: </b>215626<br><b>Winner: </b>Chhotey Lal Verma(Bharatiya Janata Party)<br><b>Percentage: </b>0.32<br>"
+        },
+        "94": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>94<br><b>Constituency Name: </b>Bah<br><b>Candidate Name: </b>Manoj Dixit(Indian National Congress)<br><b>No of votes: </b>1229<br><b>Total Votes: </b>190382<br><b>Winner: </b>Rani Pakshalika Singh(Bharatiya Janata Party)<br><b>Percentage: </b>0.65<br>"
+        },
+        "95": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>95<br><b>Constituency Name: </b>Tundla<br><b>Candidate Name: </b>SMT. YOGESH DIWAKAR(Indian National Congress)<br><b>No of votes: </b>1949<br><b>Total Votes: </b>248451<br><b>Winner: </b>PREM PAL SINGH DHANGAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.78<br>"
+        },
+        "96": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>96<br><b>Constituency Name: </b>Jasrana<br><b>Candidate Name: </b>VIJAY NATH SINGH VERMA (CHHOTU)(Indian National Congress)<br><b>No of votes: </b>1925<br><b>Total Votes: </b>247762<br><b>Winner: </b>SACHIN YADAV(Samajwadi Party)<br><b>Percentage: </b>0.78<br>"
+        },
+        "97": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>97<br><b>Constituency Name: </b>Firozabad<br><b>Candidate Name: </b>SANDEEP TIWARI(Indian National Congress)<br><b>No of votes: </b>1154<br><b>Total Votes: </b>259033<br><b>Winner: </b>MANISH ASIJA(Bharatiya Janata Party)<br><b>Percentage: </b>0.45<br>"
+        },
+        "98": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>98<br><b>Constituency Name: </b>Shikohabad<br><b>Candidate Name: </b>SHASHI SHARMA(Indian National Congress)<br><b>No of votes: </b>1428<br><b>Total Votes: </b>235438<br><b>Winner: </b>MUKESH VERMA(Samajwadi Party)<br><b>Percentage: </b>0.61<br>"
+        },
+        "99": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>99<br><b>Constituency Name: </b>Sirsaganj<br><b>Candidate Name: </b>PRATIMA PAL(Indian National Congress)<br><b>No of votes: </b>1211<br><b>Total Votes: </b>208192<br><b>Winner: </b>SARVESH SINGH(Samajwadi Party)<br><b>Percentage: </b>0.58<br>"
+        },
+        "100": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>100<br><b>Constituency Name: </b>Kasganj<br><b>Candidate Name: </b>Kuldeep Kumar(Indian National Congress)<br><b>No of votes: </b>5951<br><b>Total Votes: </b>234326<br><b>Winner: </b>Devendra Singh(Bharatiya Janata Party)<br><b>Percentage: </b>2.54<br>"
+        },
+        "101": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>101<br><b>Constituency Name: </b>Amanpur<br><b>Candidate Name: </b>DIVYA SHARMA(Indian National Congress)<br><b>No of votes: </b>1342<br><b>Total Votes: </b>191228<br><b>Winner: </b>HARIOM(Bharatiya Janata Party)<br><b>Percentage: </b>0.7<br>"
+        },
+        "102": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>102<br><b>Constituency Name: </b>Patiyali<br><b>Candidate Name: </b>Mohd. Imran Ali(Indian National Congress)<br><b>No of votes: </b>1251<br><b>Total Votes: </b>219549<br><b>Winner: </b>Nadira Sultan(Samajwadi Party)<br><b>Percentage: </b>0.57<br>"
+        },
+        "103": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>103<br><b>Constituency Name: </b>Aliganj<br><b>Candidate Name: </b>SUBHASH CHANDRA(Indian National Congress)<br><b>No of votes: </b>1031<br><b>Total Votes: </b>226375<br><b>Winner: </b>SATYAPAL SINGH RATHORE(Bharatiya Janata Party)<br><b>Percentage: </b>0.46<br>"
+        },
+        "104": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>104<br><b>Constituency Name: </b>Etah<br><b>Candidate Name: </b>Gunjan Mishra(Indian National Congress)<br><b>No of votes: </b>1497<br><b>Total Votes: </b>210489<br><b>Winner: </b>Vipin kumar David(Bharatiya Janata Party)<br><b>Percentage: </b>0.71<br>"
+        },
+        "105": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>105<br><b>Constituency Name: </b>Marhara<br><b>Candidate Name: </b>Tara Rajput(Indian National Congress)<br><b>No of votes: </b>852<br><b>Total Votes: </b>206870<br><b>Winner: </b>Virendra Singh Lodhi(Bharatiya Janata Party)<br><b>Percentage: </b>0.41<br>"
+        },
+        "106": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>106<br><b>Constituency Name: </b>Jalesar<br><b>Candidate Name: </b>NEELAMA RAJ(Indian National Congress)<br><b>No of votes: </b>860<br><b>Total Votes: </b>202531<br><b>Winner: </b>SANJEEV KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.42<br>"
+        },
+        "107": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>107<br><b>Constituency Name: </b>Mainpuri<br><b>Candidate Name: </b>VINEETA(Indian National Congress)<br><b>No of votes: </b>2558<br><b>Total Votes: </b>213589<br><b>Winner: </b>JAYVEER SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.2<br>"
+        },
+        "108": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>108<br><b>Constituency Name: </b>Bhongaon<br><b>Candidate Name: </b>Mamta Rajput(Indian National Congress)<br><b>No of votes: </b>2121<br><b>Total Votes: </b>215153<br><b>Winner: </b>Ram Naresh Agnihotri(Bharatiya Janata Party)<br><b>Percentage: </b>0.99<br>"
+        },
+        "109": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>109<br><b>Constituency Name: </b>Kishni<br><b>Candidate Name: </b>DR. VIJAY NARAIN SINGH ASST. PROFESSOR(Indian National Congress)<br><b>No of votes: </b>1570<br><b>Total Votes: </b>195795<br><b>Winner: </b>ENG. BRAJESH KATHERIYA(Samajwadi Party)<br><b>Percentage: </b>0.8<br>"
+        },
+        "111": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>111<br><b>Constituency Name: </b>Gunnaur<br><b>Candidate Name: </b>Vijay Sharma(Indian National Congress)<br><b>No of votes: </b>1694<br><b>Total Votes: </b>241292<br><b>Winner: </b>Ramkhiladi Singh(Samajwadi Party)<br><b>Percentage: </b>0.7<br>"
+        },
+        "112": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>112<br><b>Constituency Name: </b>Bisauli<br><b>Candidate Name: </b>PRAGYA YASHODA(Indian National Congress)<br><b>No of votes: </b>1089<br><b>Total Votes: </b>249964<br><b>Winner: </b>ASHUTOSH MAURYA URF RAJU(Samajwadi Party)<br><b>Percentage: </b>0.44<br>"
+        },
+        "113": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>113<br><b>Constituency Name: </b>Sahaswan<br><b>Candidate Name: </b>RAJVEER SINGH(Indian National Congress)<br><b>No of votes: </b>1126<br><b>Total Votes: </b>250872<br><b>Winner: </b>BRAJESH YADAV(Samajwadi Party)<br><b>Percentage: </b>0.45<br>"
+        },
+        "114": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>114<br><b>Constituency Name: </b>Bilsi<br><b>Candidate Name: </b>ANKIT CHAUHAN(Indian National Congress)<br><b>No of votes: </b>1890<br><b>Total Votes: </b>205319<br><b>Winner: </b>HARISH CHANDRA(Bharatiya Janata Party)<br><b>Percentage: </b>0.92<br>"
+        },
+        "115": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>115<br><b>Constituency Name: </b>Badaun<br><b>Candidate Name: </b>Rajni Singh(Indian National Congress)<br><b>No of votes: </b>2235<br><b>Total Votes: </b>219183<br><b>Winner: </b>Mahesh Chandra Gupta(Bharatiya Janata Party)<br><b>Percentage: </b>1.02<br>"
+        },
+        "116": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>116<br><b>Constituency Name: </b>Shekhupur<br><b>Candidate Name: </b>MAMTA DEVI(Indian National Congress)<br><b>No of votes: </b>1454<br><b>Total Votes: </b>246366<br><b>Winner: </b>Himanshu Yadav(Samajwadi Party)<br><b>Percentage: </b>0.59<br>"
+        },
+        "117": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>117<br><b>Constituency Name: </b>Dataganj<br><b>Candidate Name: </b>ATIF KHAN(Indian National Congress)<br><b>No of votes: </b>2413<br><b>Total Votes: </b>237304<br><b>Winner: </b>RAJEEV SINGH  URF BABBU BHAIYA(Bharatiya Janata Party)<br><b>Percentage: </b>1.02<br>"
+        },
+        "118": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>118<br><b>Constituency Name: </b>Baheri<br><b>Candidate Name: </b>SANTOSH(Indian National Congress)<br><b>No of votes: </b>1845<br><b>Total Votes: </b>266003<br><b>Winner: </b>ATAUR REHMAN(Samajwadi Party)<br><b>Percentage: </b>0.69<br>"
+        },
+        "119": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>119<br><b>Constituency Name: </b>Meerganj<br><b>Candidate Name: </b>MU. ILIYAS(Indian National Congress)<br><b>No of votes: </b>5288<br><b>Total Votes: </b>228387<br><b>Winner: </b>DR. D. C. VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>2.32<br>"
+        },
+        "120": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>120<br><b>Constituency Name: </b>Bhojipura<br><b>Candidate Name: </b>SARDAR KHAN(Indian National Congress)<br><b>No of votes: </b>1963<br><b>Total Votes: </b>260250<br><b>Winner: </b>SHAZIL ISLAM ANSARI(Samajwadi Party)<br><b>Percentage: </b>0.75<br>"
+        },
+        "121": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>121<br><b>Constituency Name: </b>Nawabganj<br><b>Candidate Name: </b>Usha Devi Gangwar(Indian National Congress)<br><b>No of votes: </b>2039<br><b>Total Votes: </b>230503<br><b>Winner: </b>Dr. M. P. Arya(Bharatiya Janata Party)<br><b>Percentage: </b>0.88<br>"
+        },
+        "122": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>122<br><b>Constituency Name: </b>Faridpur<br><b>Candidate Name: </b>VISHAL SAGAR(Indian National Congress)<br><b>No of votes: </b>1744<br><b>Total Votes: </b>203607<br><b>Winner: </b>PROF. SHYAM BIHARI LAL(Bharatiya Janata Party)<br><b>Percentage: </b>0.86<br>"
+        },
+        "123": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>123<br><b>Constituency Name: </b>Bithari Chainpur<br><b>Candidate Name: </b>ALKA SINGH(Indian National Congress)<br><b>No of votes: </b>1482<br><b>Total Votes: </b>248030<br><b>Winner: </b>DR. RAGHAVENDRA SHARMA(Bharatiya Janata Party)<br><b>Percentage: </b>0.6<br>"
+        },
+        "124": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>124<br><b>Constituency Name: </b>Bareilly<br><b>Candidate Name: </b>KRISHNA KANT SHARMA(Indian National Congress)<br><b>No of votes: </b>2311<br><b>Total Votes: </b>239946<br><b>Winner: </b>DR ARUN KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.96<br>"
+        },
+        "125": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>125<br><b>Constituency Name: </b>Bareilly Cantt.<br><b>Candidate Name: </b>MOHD. ISLAM ANSARI(Indian National Congress)<br><b>No of votes: </b>2280<br><b>Total Votes: </b>196168<br><b>Winner: </b>SANJEEV AGARWAL(Bharatiya Janata Party)<br><b>Percentage: </b>1.16<br>"
+        },
+        "126": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>126<br><b>Constituency Name: </b>Aonla<br><b>Candidate Name: </b>OMVEER(Indian National Congress)<br><b>No of votes: </b>2307<br><b>Total Votes: </b>191509<br><b>Winner: </b>DHARMPAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.2<br>"
+        },
+        "127": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>127<br><b>Constituency Name: </b>Pilibhit<br><b>Candidate Name: </b>SHAKEEL AHMAD NOORI(Indian National Congress)<br><b>No of votes: </b>1042<br><b>Total Votes: </b>261009<br><b>Winner: </b>SANJAY SINGH GANGWAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.4<br>"
+        },
+        "128": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>128<br><b>Constituency Name: </b>Barkhera<br><b>Candidate Name: </b>HARPREET PAL SINGH(Indian National Congress)<br><b>No of votes: </b>2702<br><b>Total Votes: </b>237878<br><b>Winner: </b>JAYDRATH URF PRAVAKTANAND(Bharatiya Janata Party)<br><b>Percentage: </b>1.14<br>"
+        },
+        "129": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>129<br><b>Constituency Name: </b>Puranpur<br><b>Candidate Name: </b>ISHWAR DAYAL PASWAN(Indian National Congress)<br><b>No of votes: </b>2054<br><b>Total Votes: </b>268177<br><b>Winner: </b>BABURAM(Bharatiya Janata Party)<br><b>Percentage: </b>0.77<br>"
+        },
+        "130": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>130<br><b>Constituency Name: </b>Bisalpur<br><b>Candidate Name: </b>SHIKHA PANDEY(Indian National Congress)<br><b>No of votes: </b>1382<br><b>Total Votes: </b>239625<br><b>Winner: </b>VIVEK KUMAR VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>0.58<br>"
+        },
+        "131": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>131<br><b>Constituency Name: </b>Katra<br><b>Candidate Name: </b>Munna Singh(Indian National Congress)<br><b>No of votes: </b>17504<br><b>Total Votes: </b>194967<br><b>Winner: </b>Veer Vikram Singh(Bharatiya Janata Party)<br><b>Percentage: </b>8.98<br>"
+        },
+        "132": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>132<br><b>Constituency Name: </b>Jalalabad<br><b>Candidate Name: </b>Gurmeet  Kaur(Indian National Congress)<br><b>No of votes: </b>1260<br><b>Total Votes: </b>216688<br><b>Winner: </b>Hari Prakash Verma(Bharatiya Janata Party)<br><b>Percentage: </b>0.58<br>"
+        },
+        "133": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>133<br><b>Constituency Name: </b>Tilhar<br><b>Candidate Name: </b>RAJNISH GUPTA(Indian National Congress)<br><b>No of votes: </b>3082<br><b>Total Votes: </b>213455<br><b>Winner: </b>SALONA KUSHWAHA(Bharatiya Janata Party)<br><b>Percentage: </b>1.44<br>"
+        },
+        "134": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>134<br><b>Constituency Name: </b>Powayan<br><b>Candidate Name: </b>ANUJ KUMRI(Indian National Congress)<br><b>No of votes: </b>2493<br><b>Total Votes: </b>233325<br><b>Winner: </b>CHETRAM(Bharatiya Janata Party)<br><b>Percentage: </b>1.07<br>"
+        },
+        "135": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>135<br><b>Constituency Name: </b>Shahjahanpur<br><b>Candidate Name: </b>Smt. Poonam(Indian National Congress)<br><b>No of votes: </b>1382<br><b>Total Votes: </b>224447<br><b>Winner: </b>Suresh Kumar Khanna(Bharatiya Janata Party)<br><b>Percentage: </b>0.62<br>"
+        },
+        "136": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>136<br><b>Constituency Name: </b>Dadraul<br><b>Candidate Name: </b>Tanveer Khan(Indian National Congress)<br><b>No of votes: </b>1436<br><b>Total Votes: </b>224055<br><b>Winner: </b>MANVENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.64<br>"
+        },
+        "137": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>137<br><b>Constituency Name: </b>Palia<br><b>Candidate Name: </b>Rishal Ahamad(Indian National Congress)<br><b>No of votes: </b>4514<br><b>Total Votes: </b>236794<br><b>Winner: </b>Harvinder Kumar Sahni alias Romi Sahni(Bharatiya Janata Party)<br><b>Percentage: </b>1.91<br>"
+        },
+        "138": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>138<br><b>Constituency Name: </b>Nighasan<br><b>Candidate Name: </b>Atal Kumar Shukla(Indian National Congress)<br><b>No of votes: </b>2762<br><b>Total Votes: </b>236815<br><b>Winner: </b>Shashank Verma(Bharatiya Janata Party)<br><b>Percentage: </b>1.17<br>"
+        },
+        "139": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>139<br><b>Constituency Name: </b>Gola Gokrannath<br><b>Candidate Name: </b>Prahlad Patel(Indian National Congress)<br><b>No of votes: </b>3513<br><b>Total Votes: </b>259993<br><b>Winner: </b>Arvind Giri(Bharatiya Janata Party)<br><b>Percentage: </b>1.35<br>"
+        },
+        "140": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>140<br><b>Constituency Name: </b>Sri Nagar<br><b>Candidate Name: </b>Chandni(Indian National Congress)<br><b>No of votes: </b>2127<br><b>Total Votes: </b>229293<br><b>Winner: </b>Manju Tyagi(Bharatiya Janata Party)<br><b>Percentage: </b>0.93<br>"
+        },
+        "141": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>141<br><b>Constituency Name: </b>Dhaurahra<br><b>Candidate Name: </b>JITENDRI DEVI(Indian National Congress)<br><b>No of votes: </b>1216<br><b>Total Votes: </b>229315<br><b>Winner: </b>VINOD SHANKAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.53<br>"
+        },
+        "142": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>142<br><b>Constituency Name: </b>Lakhimpur<br><b>Candidate Name: </b>Dr. RaviShankar Trivedi(Indian National Congress)<br><b>No of votes: </b>2834<br><b>Total Votes: </b>269472<br><b>Winner: </b>Yogesh Verma(Bharatiya Janata Party)<br><b>Percentage: </b>1.05<br>"
+        },
+        "143": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>143<br><b>Constituency Name: </b>Kasta<br><b>Candidate Name: </b>RADHE SHYAM(Indian National Congress)<br><b>No of votes: </b>1956<br><b>Total Votes: </b>215550<br><b>Winner: </b>SAURABH SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.91<br>"
+        },
+        "144": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>144<br><b>Constituency Name: </b>Mohammdi<br><b>Candidate Name: </b>REETU SINGH(Indian National Congress)<br><b>No of votes: </b>2419<br><b>Total Votes: </b>232436<br><b>Winner: </b>LOKENDRA PRATAP SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.04<br>"
+        },
+        "145": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>145<br><b>Constituency Name: </b>Maholi<br><b>Candidate Name: </b>ASHISH MISHRA(Indian National Congress)<br><b>No of votes: </b>2212<br><b>Total Votes: </b>250504<br><b>Winner: </b>SHASHANK TRIVEDI(Bharatiya Janata Party)<br><b>Percentage: </b>0.88<br>"
+        },
+        "146": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>146<br><b>Constituency Name: </b>Sitapur<br><b>Candidate Name: </b>Shamina Shafiq(Indian National Congress)<br><b>No of votes: </b>2886<br><b>Total Votes: </b>232552<br><b>Winner: </b>Rakesh Rathour(Bharatiya Janata Party)<br><b>Percentage: </b>1.24<br>"
+        },
+        "147": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>147<br><b>Constituency Name: </b>Hargaon<br><b>Candidate Name: </b>MAMTA BHARTI(Indian National Congress)<br><b>No of votes: </b>3130<br><b>Total Votes: </b>222425<br><b>Winner: </b>SURESH RAHI(Bharatiya Janata Party)<br><b>Percentage: </b>1.41<br>"
+        },
+        "148": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>148<br><b>Constituency Name: </b>Laharpur<br><b>Candidate Name: </b>ANUPAMA DWIVEDI(Indian National Congress)<br><b>No of votes: </b>1564<br><b>Total Votes: </b>240151<br><b>Winner: </b>ANIL KUMAR VERMA(Samajwadi Party)<br><b>Percentage: </b>0.65<br>"
+        },
+        "149": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>149<br><b>Constituency Name: </b>Biswan<br><b>Candidate Name: </b>VANDANA BHARRGAVA(Indian National Congress)<br><b>No of votes: </b>4665<br><b>Total Votes: </b>236786<br><b>Winner: </b>NIRMAL VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>1.97<br>"
+        },
+        "150": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>150<br><b>Constituency Name: </b>Sevata<br><b>Candidate Name: </b>DR. VIJAYNATH AWASTHI(Indian National Congress)<br><b>No of votes: </b>2984<br><b>Total Votes: </b>223131<br><b>Winner: </b>GYAN TIWARI(Bharatiya Janata Party)<br><b>Percentage: </b>1.34<br>"
+        },
+        "151": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>151<br><b>Constituency Name: </b>Mahmoodabad<br><b>Candidate Name: </b>USHA VERMA(Indian National Congress)<br><b>No of votes: </b>1762<br><b>Total Votes: </b>219853<br><b>Winner: </b>ASHA MAURYA(Bharatiya Janata Party)<br><b>Percentage: </b>0.8<br>"
+        },
+        "152": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>152<br><b>Constituency Name: </b>Sidhauli<br><b>Candidate Name: </b>Kamla Rawat(Indian National Congress)<br><b>No of votes: </b>2360<br><b>Total Votes: </b>243719<br><b>Winner: </b>Manish Rawat(Bharatiya Janata Party)<br><b>Percentage: </b>0.97<br>"
+        },
+        "153": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>153<br><b>Constituency Name: </b>Misrikh<br><b>Candidate Name: </b>SUBHASH RAJVANSHI(Indian National Congress)<br><b>No of votes: </b>1976<br><b>Total Votes: </b>221341<br><b>Winner: </b>RAMKRISHNA BHARGAVA(Bharatiya Janata Party)<br><b>Percentage: </b>0.89<br>"
+        },
+        "154": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>154<br><b>Constituency Name: </b>Sawayazpur<br><b>Candidate Name: </b>Rajvardhan Singh(Indian National Congress)<br><b>No of votes: </b>11396<br><b>Total Votes: </b>248222<br><b>Winner: </b>Madhavendra Pratap Singh(Bharatiya Janata Party)<br><b>Percentage: </b>4.59<br>"
+        },
+        "155": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>155<br><b>Constituency Name: </b>Shahabad<br><b>Candidate Name: </b>AZIMUSHAN(Indian National Congress)<br><b>No of votes: </b>1561<br><b>Total Votes: </b>233517<br><b>Winner: </b>RAJNI TIWARI(Bharatiya Janata Party)<br><b>Percentage: </b>0.67<br>"
+        },
+        "156": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>156<br><b>Constituency Name: </b>Hardoi<br><b>Candidate Name: </b>Ashish Singh Somvanshi(Indian National Congress)<br><b>No of votes: </b>1999<br><b>Total Votes: </b>238295<br><b>Winner: </b>Nitin Agarwal(Bharatiya Janata Party)<br><b>Percentage: </b>0.84<br>"
+        },
+        "157": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>157<br><b>Constituency Name: </b>Gopamau<br><b>Candidate Name: </b>Suneeta Devi(Indian National Congress)<br><b>No of votes: </b>1410<br><b>Total Votes: </b>213048<br><b>Winner: </b>Shyam Prakash(Bharatiya Janata Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "158": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>158<br><b>Constituency Name: </b>Sandi<br><b>Candidate Name: </b>Akanksha Verma(Indian National Congress)<br><b>No of votes: </b>3055<br><b>Total Votes: </b>195511<br><b>Winner: </b>Prabhash Kumar(Bharatiya Janata Party)<br><b>Percentage: </b>1.56<br>"
+        },
+        "159": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>Constituency No.: </b>159<br><b>Constituency Name: </b>Mallanwan<br><b>Candidate Name: </b>SUBHASH PAL(Indian National Congress)<br><b>No of votes: </b>52398<br><b>Total Votes: </b>234764<br><b>Winner: </b>ASHISH KUMAR SINGH 'ASHU'(Bharatiya Janata Party)<br><b>Percentage: </b>22.32<br>"
+        },
+        "160": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>160<br><b>Constituency Name: </b>Balamau<br><b>Candidate Name: </b>Surendra Kumar(Indian National Congress)<br><b>No of votes: </b>4112<br><b>Total Votes: </b>191387<br><b>Winner: </b>Rampal Verma(Bharatiya Janata Party)<br><b>Percentage: </b>2.15<br>"
+        },
+        "161": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>161<br><b>Constituency Name: </b>Sandila<br><b>Candidate Name: </b>Mo. Haneef(Indian National Congress)<br><b>No of votes: </b>3464<br><b>Total Votes: </b>204445<br><b>Winner: </b>Alka Singh(Bharatiya Janata Party)<br><b>Percentage: </b>1.69<br>"
+        },
+        "162": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>162<br><b>Constituency Name: </b>Bangermau<br><b>Candidate Name: </b>Arti Bajpai(Indian National Congress)<br><b>No of votes: </b>5285<br><b>Total Votes: </b>203527<br><b>Winner: </b>Shrikant Katiyar(Bharatiya Janata Party)<br><b>Percentage: </b>2.6<br>"
+        },
+        "163": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>163<br><b>Constituency Name: </b>Safipur<br><b>Candidate Name: </b>SHANKAR LAL GAUTAM(Indian National Congress)<br><b>No of votes: </b>1504<br><b>Total Votes: </b>197535<br><b>Winner: </b>BAMBA LAL(Bharatiya Janata Party)<br><b>Percentage: </b>0.76<br>"
+        },
+        "164": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>164<br><b>Constituency Name: </b>Mohan<br><b>Candidate Name: </b>MADHU VERMA ALIAS MADHU RAWAT(Indian National Congress)<br><b>No of votes: </b>2744<br><b>Total Votes: </b>211963<br><b>Winner: </b>BRAJESH KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>1.29<br>"
+        },
+        "165": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>165<br><b>Constituency Name: </b>Unnao<br><b>Candidate Name: </b>Asha Singh(Indian National Congress)<br><b>No of votes: </b>1555<br><b>Total Votes: </b>245372<br><b>Winner: </b>Pankaj Gupta(Bharatiya Janata Party)<br><b>Percentage: </b>0.63<br>"
+        },
+        "166": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>166<br><b>Constituency Name: </b>Bhagwantnagar<br><b>Candidate Name: </b>Jang Bahadur Singh(Indian National Congress)<br><b>No of votes: </b>2580<br><b>Total Votes: </b>247886<br><b>Winner: </b>Ashutosh Shukla(Bharatiya Janata Party)<br><b>Percentage: </b>1.04<br>"
+        },
+        "167": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>167<br><b>Constituency Name: </b>Purwa<br><b>Candidate Name: </b>UROOSA IMRAN RANA(Indian National Congress)<br><b>No of votes: </b>1878<br><b>Total Votes: </b>256018<br><b>Winner: </b>ANIL KUMAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.73<br>"
+        },
+        "168": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>168<br><b>Constituency Name: </b>Malihabad<br><b>Candidate Name: </b>INDAL KUMAR(Indian National Congress)<br><b>No of votes: </b>2142<br><b>Total Votes: </b>240941<br><b>Winner: </b>JAI DEVI(Bharatiya Janata Party)<br><b>Percentage: </b>0.89<br>"
+        },
+        "169": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>169<br><b>Constituency Name: </b>Bakshi Kaa Talab<br><b>Candidate Name: </b>LALAN KUMAR(Indian National Congress)<br><b>No of votes: </b>9056<br><b>Total Votes: </b>319052<br><b>Winner: </b>YOGESH SHUKLA(Bharatiya Janata Party)<br><b>Percentage: </b>2.84<br>"
+        },
+        "170": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>170<br><b>Constituency Name: </b>Sarojini Nagar<br><b>Candidate Name: </b>RUDRA DAMAN SINGH(Indian National Congress)<br><b>No of votes: </b>19711<br><b>Total Votes: </b>327373<br><b>Winner: </b>Rajeshwar Singh(Bharatiya Janata Party)<br><b>Percentage: </b>6.02<br>"
+        },
+        "171": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>171<br><b>Constituency Name: </b>Lucknow West<br><b>Candidate Name: </b>SHAHANA SIDDIQUI(Indian National Congress)<br><b>No of votes: </b>2796<br><b>Total Votes: </b>258320<br><b>Winner: </b>ARMAAN KHAN(Samajwadi Party)<br><b>Percentage: </b>1.08<br>"
+        },
+        "172": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>172<br><b>Constituency Name: </b>Lucknow North<br><b>Candidate Name: </b>Ajay Kumar Srivastava(Indian National Congress)<br><b>No of votes: </b>3236<br><b>Total Votes: </b>261099<br><b>Winner: </b>Dr. Neeraj Bora(Bharatiya Janata Party)<br><b>Percentage: </b>1.24<br>"
+        },
+        "173": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>173<br><b>Constituency Name: </b>Lucknow East<br><b>Candidate Name: </b>Manoj Tiwari(Indian National Congress)<br><b>No of votes: </b>4485<br><b>Total Votes: </b>257468<br><b>Winner: </b>Ashutosh Tandon 'Gopal Ji '(Bharatiya Janata Party)<br><b>Percentage: </b>1.74<br>"
+        },
+        "174": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>174<br><b>Constituency Name: </b>Lucknow Central<br><b>Candidate Name: </b>SADAF JAFAR(Indian National Congress)<br><b>No of votes: </b>2927<br><b>Total Votes: </b>210567<br><b>Winner: </b>RAVIDAS MEHROTRA(Samajwadi Party)<br><b>Percentage: </b>1.39<br>"
+        },
+        "175": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>175<br><b>Constituency Name: </b>Lucknow Cantt.<br><b>Candidate Name: </b>Dilpreet Singh Virk(Indian National Congress)<br><b>No of votes: </b>6510<br><b>Total Votes: </b>197716<br><b>Winner: </b>Brajesh Pathak(Bharatiya Janata Party)<br><b>Percentage: </b>3.29<br>"
+        },
+        "176": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>176<br><b>Constituency Name: </b>Mohanlalganj<br><b>Candidate Name: </b>Mamta Choudhary(Indian National Congress)<br><b>No of votes: </b>2990<br><b>Total Votes: </b>245742<br><b>Winner: </b>Amresh Kumar(Bharatiya Janata Party)<br><b>Percentage: </b>1.22<br>"
+        },
+        "177": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>Constituency No.: </b>177<br><b>Constituency Name: </b>Bachhrawan<br><b>Candidate Name: </b>SUSHIL KUMAR PASI(Indian National Congress)<br><b>No of votes: </b>56835<br><b>Total Votes: </b>209512<br><b>Winner: </b>SHYAM SUNDER(Samajwadi Party)<br><b>Percentage: </b>27.13<br>"
+        },
+        "178": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>178<br><b>Constituency Name: </b>Tiloi<br><b>Candidate Name: </b>PRADEEP SINGHAL(Indian National Congress)<br><b>No of votes: </b>21978<br><b>Total Votes: </b>204940<br><b>Winner: </b>MAYANKESHWAR SHARAN SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>10.72<br>"
+        },
+        "179": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>179<br><b>Constituency Name: </b>Harchandpur<br><b>Candidate Name: </b>SURENDRA VIKRAM SINGH(Indian National Congress)<br><b>No of votes: </b>16230<br><b>Total Votes: </b>201651<br><b>Winner: </b>RAHUL RAJPOOT(Samajwadi Party)<br><b>Percentage: </b>8.05<br>"
+        },
+        "180": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>180<br><b>Constituency Name: </b>Rae Bareli<br><b>Candidate Name: </b>DR. MANISH CHAUHAN(Indian National Congress)<br><b>No of votes: </b>14954<br><b>Total Votes: </b>230100<br><b>Winner: </b>ADITI SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>6.5<br>"
+        },
+        "181": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>181<br><b>Constituency Name: </b>Salon<br><b>Candidate Name: </b>ARJUN KUMAR(Indian National Congress)<br><b>No of votes: </b>11439<br><b>Total Votes: </b>200323<br><b>Winner: </b>ASHOK KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>5.71<br>"
+        },
+        "182": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>Constituency No.: </b>182<br><b>Constituency Name: </b>Sareni<br><b>Candidate Name: </b>SUDHA DWIVEDI(Indian National Congress)<br><b>No of votes: </b>42702<br><b>Total Votes: </b>216700<br><b>Winner: </b>DEVENDRA PRATAP SINGH(Samajwadi Party)<br><b>Percentage: </b>19.71<br>"
+        },
+        "183": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>183<br><b>Constituency Name: </b>Unchahar<br><b>Candidate Name: </b>Atul Singh(Indian National Congress)<br><b>No of votes: </b>9985<br><b>Total Votes: </b>212030<br><b>Winner: </b>Manoj Kumar Pandey(Samajwadi Party)<br><b>Percentage: </b>4.71<br>"
+        },
+        "184": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>Constituency No.: </b>184<br><b>Constituency Name: </b>Jagdishpur<br><b>Candidate Name: </b>VIJAY KUMAR(Indian National Congress)<br><b>No of votes: </b>66491<br><b>Total Votes: </b>203268<br><b>Winner: </b>SURESH KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>32.71<br>"
+        },
+        "185": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>185<br><b>Constituency Name: </b>Gauriganj<br><b>Candidate Name: </b>Fateh Bahadur(Indian National Congress)<br><b>No of votes: </b>28964<br><b>Total Votes: </b>202856<br><b>Winner: </b>Rakesh Pratap Singh(Samajwadi Party)<br><b>Percentage: </b>14.28<br>"
+        },
+        "186": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>186<br><b>Constituency Name: </b>Amethi<br><b>Candidate Name: </b>ASHISH SHUKLA(Indian National Congress)<br><b>No of votes: </b>14080<br><b>Total Votes: </b>189864<br><b>Winner: </b>MAHARAJI PRAJAPATI(Samajwadi Party)<br><b>Percentage: </b>7.42<br>"
+        },
+        "187": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>187<br><b>Constituency Name: </b>Isauli<br><b>Candidate Name: </b>BRIJMOHAN(Indian National Congress)<br><b>No of votes: </b>2306<br><b>Total Votes: </b>202743<br><b>Winner: </b>MOHD TAHIR KHAN(Samajwadi Party)<br><b>Percentage: </b>1.14<br>"
+        },
+        "188": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>188<br><b>Constituency Name: </b>Sultanpur<br><b>Candidate Name: </b>FIROZ KHAN(Indian National Congress)<br><b>No of votes: </b>2655<br><b>Total Votes: </b>219508<br><b>Winner: </b>VINOD SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.21<br>"
+        },
+        "189": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>189<br><b>Constituency Name: </b>Sadar<br><b>Candidate Name: </b>ABHISHEK SINGH RANA(Indian National Congress)<br><b>No of votes: </b>4133<br><b>Total Votes: </b>203496<br><b>Winner: </b>RAJ PRASAD UPADHYAY(Bharatiya Janata Party)<br><b>Percentage: </b>2.03<br>"
+        },
+        "190": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>190<br><b>Constituency Name: </b>Lambhua<br><b>Candidate Name: </b>VINAY VIKRAM SINGH(Indian National Congress)<br><b>No of votes: </b>1930<br><b>Total Votes: </b>210835<br><b>Winner: </b>SITARAM VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>0.92<br>"
+        },
+        "191": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>191<br><b>Constituency Name: </b>Kadipur<br><b>Candidate Name: </b>NIKLESH  SAROJ(Indian National Congress)<br><b>No of votes: </b>3248<br><b>Total Votes: </b>221945<br><b>Winner: </b>RAJESH KUMAR GAUTAM(Bharatiya Janata Party)<br><b>Percentage: </b>1.46<br>"
+        },
+        "192": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>192<br><b>Constituency Name: </b>Kaimganj<br><b>Candidate Name: </b>SHAKUNTALA(Indian National Congress)<br><b>No of votes: </b>2244<br><b>Total Votes: </b>241231<br><b>Winner: </b>Dr. SURABHI(Apna Dal (Soneylal))<br><b>Percentage: </b>0.93<br>"
+        },
+        "193": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>193<br><b>Constituency Name: </b>Amritpur<br><b>Candidate Name: </b>Shubham Tiwari(Indian National Congress)<br><b>No of votes: </b>1313<br><b>Total Votes: </b>186149<br><b>Winner: </b>Sushil Kumar Shakya(Bharatiya Janata Party)<br><b>Percentage: </b>0.71<br>"
+        },
+        "194": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>194<br><b>Constituency Name: </b>Farrukhabad<br><b>Candidate Name: </b>Louise Khurshid(Indian National Congress)<br><b>No of votes: </b>2045<br><b>Total Votes: </b>208634<br><b>Winner: </b>Major Sunil Dutt Dwivedi(Bharatiya Janata Party)<br><b>Percentage: </b>0.98<br>"
+        },
+        "195": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>195<br><b>Constituency Name: </b>Bhojpur<br><b>Candidate Name: </b>Archana Rathaur(Indian National Congress)<br><b>No of votes: </b>2053<br><b>Total Votes: </b>197269<br><b>Winner: </b>Nagendra Singh Rathour(Bharatiya Janata Party)<br><b>Percentage: </b>1.04<br>"
+        },
+        "196": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>196<br><b>Constituency Name: </b>Chhibramau<br><b>Candidate Name: </b>Vijay Kumar(Indian National Congress)<br><b>No of votes: </b>1194<br><b>Total Votes: </b>281597<br><b>Winner: </b>Archana Pandey(Bharatiya Janata Party)<br><b>Percentage: </b>0.42<br>"
+        },
+        "198": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>198<br><b>Constituency Name: </b>Kannauj<br><b>Candidate Name: </b>VINEETA DEVI(Indian National Congress)<br><b>No of votes: </b>1786<br><b>Total Votes: </b>271435<br><b>Winner: </b>ASIM ARUN(Bharatiya Janata Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "200": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>200<br><b>Constituency Name: </b>Etawah<br><b>Candidate Name: </b>Mohd Rashid(Indian National Congress)<br><b>No of votes: </b>1476<br><b>Total Votes: </b>245542<br><b>Winner: </b>Sarita(Bharatiya Janata Party)<br><b>Percentage: </b>0.6<br>"
+        },
+        "201": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>201<br><b>Constituency Name: </b>Bharthana<br><b>Candidate Name: </b>SNEH LATA(Indian National Congress)<br><b>No of votes: </b>1854<br><b>Total Votes: </b>246734<br><b>Winner: </b>RAGHVENDRA KUMAR SINGH(Samajwadi Party)<br><b>Percentage: </b>0.75<br>"
+        },
+        "202": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>202<br><b>Constituency Name: </b>Bidhuna<br><b>Candidate Name: </b>Suman Vyas(Indian National Congress)<br><b>No of votes: </b>1086<br><b>Total Votes: </b>228340<br><b>Winner: </b>Rekha Verma(Samajwadi Party)<br><b>Percentage: </b>0.48<br>"
+        },
+        "203": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>203<br><b>Constituency Name: </b>Dibiyapur<br><b>Candidate Name: </b>Manoj Kumar(Indian National Congress)<br><b>No of votes: </b>1530<br><b>Total Votes: </b>200455<br><b>Winner: </b>Pradeep Kumar Yadav(Samajwadi Party)<br><b>Percentage: </b>0.76<br>"
+        },
+        "204": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>204<br><b>Constituency Name: </b>Auraiya<br><b>Candidate Name: </b>Sarita Dohare(Indian National Congress)<br><b>No of votes: </b>1143<br><b>Total Votes: </b>195746<br><b>Winner: </b>Gudiya Katheriya(Bharatiya Janata Party)<br><b>Percentage: </b>0.58<br>"
+        },
+        "205": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>205<br><b>Constituency Name: </b>Rasulabad<br><b>Candidate Name: </b>Manorama(Indian National Congress)<br><b>No of votes: </b>1310<br><b>Total Votes: </b>196261<br><b>Winner: </b>Poonam Sankhwar(Bharatiya Janata Party)<br><b>Percentage: </b>0.67<br>"
+        },
+        "206": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>206<br><b>Constituency Name: </b>Raniya<br><b>Candidate Name: </b>Ambrish Singh Gaur(Indian National Congress)<br><b>No of votes: </b>1646<br><b>Total Votes: </b>211830<br><b>Winner: </b>Pratibha Shukla(Bharatiya Janata Party)<br><b>Percentage: </b>0.78<br>"
+        },
+        "207": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>207<br><b>Constituency Name: </b>Sikandra<br><b>Candidate Name: </b>NARESH CHANDRA(Indian National Congress)<br><b>No of votes: </b>5162<br><b>Total Votes: </b>199307<br><b>Winner: </b>AJIT SINGH PAL(Bharatiya Janata Party)<br><b>Percentage: </b>2.59<br>"
+        },
+        "208": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>208<br><b>Constituency Name: </b>Bhognipur<br><b>Candidate Name: </b>GOVIND KUMAR(Indian National Congress)<br><b>No of votes: </b>1518<br><b>Total Votes: </b>218144<br><b>Winner: </b>RAKESH SACHAN(Bharatiya Janata Party)<br><b>Percentage: </b>0.7<br>"
+        },
+        "209": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>209<br><b>Constituency Name: </b>Bilhaur<br><b>Candidate Name: </b>USHA RANI(Indian National Congress)<br><b>No of votes: </b>2510<br><b>Total Votes: </b>244540<br><b>Winner: </b>MOHIT SONKAR(Bharatiya Janata Party)<br><b>Percentage: </b>1.03<br>"
+        },
+        "210": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>210<br><b>Constituency Name: </b>Bithoor<br><b>Candidate Name: </b>ASHOK KUMAR(Indian National Congress)<br><b>No of votes: </b>4447<br><b>Total Votes: </b>241399<br><b>Winner: </b>ABHIJEET SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.84<br>"
+        },
+        "211": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>211<br><b>Constituency Name: </b>Kalyanpur<br><b>Candidate Name: </b>NEHA TIWARI(Indian National Congress)<br><b>No of votes: </b>2302<br><b>Total Votes: </b>187814<br><b>Winner: </b>NEELIMA KATIYAR(Bharatiya Janata Party)<br><b>Percentage: </b>1.23<br>"
+        },
+        "212": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>212<br><b>Constituency Name: </b>Govindnagar<br><b>Candidate Name: </b>KARISHMA THAKUR(Indian National Congress)<br><b>No of votes: </b>26267<br><b>Total Votes: </b>192202<br><b>Winner: </b>SURENDRA MAITHANI(Bharatiya Janata Party)<br><b>Percentage: </b>13.67<br>"
+        },
+        "213": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>213<br><b>Constituency Name: </b>Sishamau<br><b>Candidate Name: </b>HAJEE SUHEL AHAMAD(Indian National Congress)<br><b>No of votes: </b>5616<br><b>Total Votes: </b>156209<br><b>Winner: </b>HAJI IRFAN SOLANKI(Samajwadi Party)<br><b>Percentage: </b>3.6<br>"
+        },
+        "214": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>214<br><b>Constituency Name: </b>Arya Nagar<br><b>Candidate Name: </b>PRAMOD KUMAR(Indian National Congress)<br><b>No of votes: </b>3309<br><b>Total Votes: </b>152099<br><b>Winner: </b>AMITABH BAJPAI(Samajwadi Party)<br><b>Percentage: </b>2.18<br>"
+        },
+        "215": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>Constituency No.: </b>215<br><b>Constituency Name: </b>Kidwai Nagar<br><b>Candidate Name: </b>AJAY KAPOOR(Indian National Congress)<br><b>No of votes: </b>76351<br><b>Total Votes: </b>206018<br><b>Winner: </b>MAHESH KUMAR TRIVEDI(Bharatiya Janata Party)<br><b>Percentage: </b>37.06<br>"
+        },
+        "216": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>216<br><b>Constituency Name: </b>Kanpur Cantt.<br><b>Candidate Name: </b>SOHIL AKHTAR ANSARI(Indian National Congress)<br><b>No of votes: </b>13279<br><b>Total Votes: </b>189492<br><b>Winner: </b>MOHAMMAD HASAN(Samajwadi Party)<br><b>Percentage: </b>7.01<br>"
+        },
+        "217": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>217<br><b>Constituency Name: </b>Maharajpur<br><b>Candidate Name: </b>KANISHKA PANDEY(Indian National Congress)<br><b>No of votes: </b>7280<br><b>Total Votes: </b>252262<br><b>Winner: </b>Satish Mahana(Bharatiya Janata Party)<br><b>Percentage: </b>2.89<br>"
+        },
+        "218": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>218<br><b>Constituency Name: </b>Ghatampur<br><b>Candidate Name: </b>RAJ NARAYAN(Indian National Congress)<br><b>No of votes: </b>3798<br><b>Total Votes: </b>196466<br><b>Winner: </b>SAROJ(Apna Dal (Soneylal))<br><b>Percentage: </b>1.93<br>"
+        },
+        "219": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>219<br><b>Constituency Name: </b>Madhaugarh<br><b>Candidate Name: </b>SIDDARTH DEVOLIA(Indian National Congress)<br><b>No of votes: </b>3141<br><b>Total Votes: </b>254828<br><b>Winner: </b>MOOL CHANDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.23<br>"
+        },
+        "220": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>220<br><b>Constituency Name: </b>Kalpi<br><b>Candidate Name: </b>UMAKANTI(Indian National Congress)<br><b>No of votes: </b>15195<br><b>Total Votes: </b>236741<br><b>Winner: </b>VINOD CHATURVEDI(Samajwadi Party)<br><b>Percentage: </b>6.42<br>"
+        },
+        "221": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>221<br><b>Constituency Name: </b>Orai<br><b>Candidate Name: </b>URMILA DEVI SONKAR KHABRI(Indian National Congress)<br><b>No of votes: </b>4650<br><b>Total Votes: </b>271107<br><b>Winner: </b>GAURI SHANKAR(Bharatiya Janata Party)<br><b>Percentage: </b>1.72<br>"
+        },
+        "222": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>222<br><b>Constituency Name: </b>Babina<br><b>Candidate Name: </b>Chandra Shekher Tiwari(Indian National Congress)<br><b>No of votes: </b>2332<br><b>Total Votes: </b>234631<br><b>Winner: </b>Rajeev Singh ''Parichha''(Bharatiya Janata Party)<br><b>Percentage: </b>0.99<br>"
+        },
+        "223": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>223<br><b>Constituency Name: </b>Jhansi Nagar<br><b>Candidate Name: </b>Rahul Richhariya(Indian National Congress)<br><b>No of votes: </b>8841<br><b>Total Votes: </b>252793<br><b>Winner: </b>Ravi Sharma(Bharatiya Janata Party)<br><b>Percentage: </b>3.5<br>"
+        },
+        "224": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>224<br><b>Constituency Name: </b>Mauranipur<br><b>Candidate Name: </b>Bhagwandas(Indian National Congress)<br><b>No of votes: </b>3323<br><b>Total Votes: </b>276999<br><b>Winner: </b>Rashmi Arya(Apna Dal (Soneylal))<br><b>Percentage: </b>1.2<br>"
+        },
+        "225": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>225<br><b>Constituency Name: </b>Garautha<br><b>Candidate Name: </b>Neha(Indian National Congress)<br><b>No of votes: </b>3303<br><b>Total Votes: </b>235972<br><b>Winner: </b>Jawahar Lal Rajput(Bharatiya Janata Party)<br><b>Percentage: </b>1.4<br>"
+        },
+        "226": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>226<br><b>Constituency Name: </b>Lalitpur<br><b>Candidate Name: </b>Balwant Singh Rajpoot(Indian National Congress)<br><b>No of votes: </b>3920<br><b>Total Votes: </b>333155<br><b>Winner: </b>Ramratan Kushwaha(Bharatiya Janata Party)<br><b>Percentage: </b>1.18<br>"
+        },
+        "227": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>227<br><b>Constituency Name: </b>Mehroni<br><b>Candidate Name: </b>Brijlal Khabri(Indian National Congress)<br><b>No of votes: </b>4344<br><b>Total Votes: </b>336798<br><b>Winner: </b>Manohar Lal(Bharatiya Janata Party)<br><b>Percentage: </b>1.29<br>"
+        },
+        "228": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>228<br><b>Constituency Name: </b>Hamirpur<br><b>Candidate Name: </b>RAJKUMARI SINGH(Indian National Congress)<br><b>No of votes: </b>16437<br><b>Total Votes: </b>262674<br><b>Winner: </b>DR. MANOJ KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>6.26<br>"
+        },
+        "229": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>229<br><b>Constituency Name: </b>Rath<br><b>Candidate Name: </b>KAMLESH KUMAR VERMA(Indian National Congress)<br><b>No of votes: </b>5164<br><b>Total Votes: </b>259108<br><b>Winner: </b>MANISHA(Bharatiya Janata Party)<br><b>Percentage: </b>1.99<br>"
+        },
+        "230": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>230<br><b>Constituency Name: </b>Mahoba<br><b>Candidate Name: </b>SAGAR(Indian National Congress)<br><b>No of votes: </b>9423<br><b>Total Votes: </b>207179<br><b>Winner: </b>RAKESH KUMAR GOSWAMI(Bharatiya Janata Party)<br><b>Percentage: </b>4.55<br>"
+        },
+        "231": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>231<br><b>Constituency Name: </b>Charkhari<br><b>Candidate Name: </b>NIRDOSH KUMAR DIXIT(Indian National Congress)<br><b>No of votes: </b>7187<br><b>Total Votes: </b>223078<br><b>Winner: </b>BRIJBHUSHAN RAJPUT(Bharatiya Janata Party)<br><b>Percentage: </b>3.22<br>"
+        },
+        "232": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>232<br><b>Constituency Name: </b>Tindwari<br><b>Candidate Name: </b>ADISHAKTI(Indian National Congress)<br><b>No of votes: </b>2586<br><b>Total Votes: </b>196221<br><b>Winner: </b>RAMKESH NISHAD(Bharatiya Janata Party)<br><b>Percentage: </b>1.32<br>"
+        },
+        "233": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>233<br><b>Constituency Name: </b>Baberu<br><b>Candidate Name: </b>GAJENDRA SINGH  PATEL(Indian National Congress)<br><b>No of votes: </b>2112<br><b>Total Votes: </b>205453<br><b>Winner: </b>VISHAMBHAR SINGH YADAV(Samajwadi Party)<br><b>Percentage: </b>1.03<br>"
+        },
+        "234": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>234<br><b>Constituency Name: </b>Naraini<br><b>Candidate Name: </b>PAWAN DEVI(Indian National Congress)<br><b>No of votes: </b>1806<br><b>Total Votes: </b>213967<br><b>Winner: </b>Ommani  Varma(Bharatiya Janata Party)<br><b>Percentage: </b>0.84<br>"
+        },
+        "235": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>235<br><b>Constituency Name: </b>Banda<br><b>Candidate Name: </b>LAXMINARAYAN(Indian National Congress)<br><b>No of votes: </b>1894<br><b>Total Votes: </b>197300<br><b>Winner: </b>PRAKASH DWIVEDI(Bharatiya Janata Party)<br><b>Percentage: </b>0.96<br>"
+        },
+        "236": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>236<br><b>Constituency Name: </b>Chitrakoot<br><b>Candidate Name: </b>NIRMALA(Indian National Congress)<br><b>No of votes: </b>2148<br><b>Total Votes: </b>242357<br><b>Winner: </b>ANIL KUMAR ANIL PRADHAN(Samajwadi Party)<br><b>Percentage: </b>0.89<br>"
+        },
+        "237": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>237<br><b>Constituency Name: </b>Manikpur<br><b>Candidate Name: </b>RANJANA BARATI LAL PANDEY(Indian National Congress)<br><b>No of votes: </b>4110<br><b>Total Votes: </b>207930<br><b>Winner: </b>AVINASH CHANDRA DWIVEDI(Apna Dal (Soneylal))<br><b>Percentage: </b>1.98<br>"
+        },
+        "238": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>238<br><b>Constituency Name: </b>Jahanabad<br><b>Candidate Name: </b>KAMLA DEVI(Indian National Congress)<br><b>No of votes: </b>3550<br><b>Total Votes: </b>190500<br><b>Winner: </b>RAJENDRA SINGH PATEL(Bharatiya Janata Party)<br><b>Percentage: </b>1.86<br>"
+        },
+        "239": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>239<br><b>Constituency Name: </b>Bindki<br><b>Candidate Name: </b>Abhimanyu Singh(Indian National Congress)<br><b>No of votes: </b>5637<br><b>Total Votes: </b>190821<br><b>Winner: </b>Jay Kumar  Singh  Jaiki(Apna Dal (Soneylal))<br><b>Percentage: </b>2.95<br>"
+        },
+        "240": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>240<br><b>Constituency Name: </b>Fatehpur<br><b>Candidate Name: </b>MOHSIN AHMAD(Indian National Congress)<br><b>No of votes: </b>1803<br><b>Total Votes: </b>214050<br><b>Winner: </b>Chandra Prakash(Samajwadi Party)<br><b>Percentage: </b>0.84<br>"
+        },
+        "241": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>241<br><b>Constituency Name: </b>Ayah Shah<br><b>Candidate Name: </b>HEMLATA(Indian National Congress)<br><b>No of votes: </b>1753<br><b>Total Votes: </b>160419<br><b>Winner: </b>Vikas Gupta(Bharatiya Janata Party)<br><b>Percentage: </b>1.09<br>"
+        },
+        "242": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>242<br><b>Constituency Name: </b>Husainganj<br><b>Candidate Name: </b>SHIVAKANT TIWARI(Indian National Congress)<br><b>No of votes: </b>5042<br><b>Total Votes: </b>188359<br><b>Winner: </b>USHA MAURYA(Samajwadi Party)<br><b>Percentage: </b>2.68<br>"
+        },
+        "243": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>243<br><b>Constituency Name: </b>Khaga<br><b>Candidate Name: </b>OMPRAKASH GIHAR(Indian National Congress)<br><b>No of votes: </b>3773<br><b>Total Votes: </b>199986<br><b>Winner: </b>KRISHNA PASWAN(Bharatiya Janata Party)<br><b>Percentage: </b>1.89<br>"
+        },
+        "244": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>244<br><b>Constituency Name: </b>Rampur Khas<br><b>Candidate Name: </b>Aradhana Mishra, Mona(Indian National Congress)<br><b>No of votes: </b>84334<br><b>Total Votes: </b>167754<br><b>Winner: </b>Aradhana Mishra, Mona(Indian National Congress)<br><b>Percentage: </b>50.27<br>"
+        },
+        "245": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>245<br><b>Constituency Name: </b>Babaganj<br><b>Candidate Name: </b>VEENA RANI(Indian National Congress)<br><b>No of votes: </b>1501<br><b>Total Votes: </b>166804<br><b>Winner: </b>VINOD KUMAR(Jansatta Dal Loktantrik)<br><b>Percentage: </b>0.9<br>"
+        },
+        "246": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>246<br><b>Constituency Name: </b>Kunda<br><b>Candidate Name: </b>YOGESH KUMAR(Indian National Congress)<br><b>No of votes: </b>549<br><b>Total Votes: </b>196940<br><b>Winner: </b>RAGHURAJ PRATAP SINGH(Jansatta Dal Loktantrik)<br><b>Percentage: </b>0.28<br>"
+        },
+        "247": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>247<br><b>Constituency Name: </b>Vishwanath Ganj<br><b>Candidate Name: </b>PRASHANT SINGH(Indian National Congress)<br><b>No of votes: </b>1910<br><b>Total Votes: </b>200930<br><b>Winner: </b>JEET LAL(Apna Dal (Soneylal))<br><b>Percentage: </b>0.95<br>"
+        },
+        "248": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>248<br><b>Constituency Name: </b>Pratapgarh<br><b>Candidate Name: </b>NEERAJ TRIPATHI(Indian National Congress)<br><b>No of votes: </b>6326<br><b>Total Votes: </b>195981<br><b>Winner: </b>RAJENDRA KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>3.23<br>"
+        },
+        "249": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>249<br><b>Constituency Name: </b>Patti<br><b>Candidate Name: </b>SUNITA(Indian National Congress)<br><b>No of votes: </b>1455<br><b>Total Votes: </b>221762<br><b>Winner: </b>RAM SINGH(Samajwadi Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "250": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>250<br><b>Constituency Name: </b>Raniganj<br><b>Candidate Name: </b>ABDUL WAHID(Indian National Congress)<br><b>No of votes: </b>1085<br><b>Total Votes: </b>188715<br><b>Winner: </b>RAKESH KUMAR VERMA ALIAS DR. R. K. VERMA(Samajwadi Party)<br><b>Percentage: </b>0.57<br>"
+        },
+        "251": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>251<br><b>Constituency Name: </b>Sirathu<br><b>Candidate Name: </b>SEEMA DEVI(Indian National Congress)<br><b>No of votes: </b>845<br><b>Total Votes: </b>228626<br><b>Winner: </b>DR. PALLAVI PATEL(Samajwadi Party)<br><b>Percentage: </b>0.37<br>"
+        },
+        "252": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>252<br><b>Constituency Name: </b>Manjhanpur<br><b>Candidate Name: </b>Arun Vidyarthi Advocate(Indian National Congress)<br><b>No of votes: </b>3524<br><b>Total Votes: </b>257411<br><b>Winner: </b>Indrajeet Saroj(Samajwadi Party)<br><b>Percentage: </b>1.37<br>"
+        },
+        "253": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>253<br><b>Constituency Name: </b>Chail<br><b>Candidate Name: </b>Talat Azim(Indian National Congress)<br><b>No of votes: </b>4055<br><b>Total Votes: </b>223984<br><b>Winner: </b>Pooja Pal(Samajwadi Party)<br><b>Percentage: </b>1.81<br>"
+        },
+        "254": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>254<br><b>Constituency Name: </b>Phaphamau<br><b>Candidate Name: </b>DURGESH PANDEY(Indian National Congress)<br><b>No of votes: </b>2391<br><b>Total Votes: </b>210773<br><b>Winner: </b>GURU PRASAD MAURYA(Bharatiya Janata Party)<br><b>Percentage: </b>1.13<br>"
+        },
+        "255": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>255<br><b>Constituency Name: </b>Soraon<br><b>Candidate Name: </b>Manoj Kumar Pasi(Indian National Congress)<br><b>No of votes: </b>2027<br><b>Total Votes: </b>223169<br><b>Winner: </b>Geeta Shastri (Pasi)(Samajwadi Party)<br><b>Percentage: </b>0.91<br>"
+        },
+        "256": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>256<br><b>Constituency Name: </b>Phulpur<br><b>Candidate Name: </b>Siddhanath Maurya(Indian National Congress)<br><b>No of votes: </b>1626<br><b>Total Votes: </b>246588<br><b>Winner: </b>Praveen Patel(Bharatiya Janata Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "257": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>257<br><b>Constituency Name: </b>Pratappur<br><b>Candidate Name: </b>SANJAY TIWARI(Indian National Congress)<br><b>No of votes: </b>2971<br><b>Total Votes: </b>227363<br><b>Winner: </b>VIJAMA YADAV(Samajwadi Party)<br><b>Percentage: </b>1.31<br>"
+        },
+        "258": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>258<br><b>Constituency Name: </b>Handia<br><b>Candidate Name: </b>REENA KUMARI BIND(Indian National Congress)<br><b>No of votes: </b>1453<br><b>Total Votes: </b>214451<br><b>Winner: </b>HAKIM LAL BIND(Samajwadi Party)<br><b>Percentage: </b>0.68<br>"
+        },
+        "259": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>259<br><b>Constituency Name: </b>Meja<br><b>Candidate Name: </b>SHALINI DWIVEDI(Indian National Congress)<br><b>No of votes: </b>1553<br><b>Total Votes: </b>186497<br><b>Winner: </b>SANDEEP SINGH(Samajwadi Party)<br><b>Percentage: </b>0.83<br>"
+        },
+        "260": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>260<br><b>Constituency Name: </b>Karachhana<br><b>Candidate Name: </b>RINKI PATEL(Indian National Congress)<br><b>No of votes: </b>4343<br><b>Total Votes: </b>203189<br><b>Winner: </b>PIYUSH RANJAN NISHAD(Bharatiya Janata Party)<br><b>Percentage: </b>2.14<br>"
+        },
+        "261": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>261<br><b>Constituency Name: </b>Allahabad West<br><b>Candidate Name: </b>TASLEEM UDDIN(Indian National Congress)<br><b>No of votes: </b>2295<br><b>Total Votes: </b>222861<br><b>Winner: </b>SIDHARTH NATH SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.03<br>"
+        },
+        "262": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>262<br><b>Constituency Name: </b>Allahabad North<br><b>Candidate Name: </b>ANUGRAH NARAIN SINGH(Indian National Congress)<br><b>No of votes: </b>23571<br><b>Total Votes: </b>175941<br><b>Winner: </b>HARSHVARDHAN BAJPAI(Bharatiya Janata Party)<br><b>Percentage: </b>13.4<br>"
+        },
+        "263": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>263<br><b>Constituency Name: </b>Allahabad South<br><b>Candidate Name: </b>ALPANA NISHAD(Indian National Congress)<br><b>No of votes: </b>2098<br><b>Total Votes: </b>180745<br><b>Winner: </b>NAND GOPAL GUPTA \"NANDI\"(Bharatiya Janata Party)<br><b>Percentage: </b>1.16<br>"
+        },
+        "264": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>264<br><b>Constituency Name: </b>Bara<br><b>Candidate Name: </b>MANJU SANT(Indian National Congress)<br><b>No of votes: </b>3443<br><b>Total Votes: </b>205129<br><b>Winner: </b>VACHASPATI(Apna Dal (Soneylal))<br><b>Percentage: </b>1.68<br>"
+        },
+        "265": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>265<br><b>Constituency Name: </b>Koraon<br><b>Candidate Name: </b>Ramkripal(Indian National Congress)<br><b>No of votes: </b>21462<br><b>Total Votes: </b>207611<br><b>Winner: </b>Raj Mani(Bharatiya Janata Party)<br><b>Percentage: </b>10.34<br>"
+        },
+        "266": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>266<br><b>Constituency Name: </b>Kursi<br><b>Candidate Name: </b>SHRIMATI URMILA PATEL(Indian National Congress)<br><b>No of votes: </b>2803<br><b>Total Votes: </b>288519<br><b>Winner: </b>Sakendra Pratap(Bharatiya Janata Party)<br><b>Percentage: </b>0.97<br>"
+        },
+        "267": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>267<br><b>Constituency Name: </b>Ram Nagar<br><b>Candidate Name: </b>GYANESH SHUKLA(Indian National Congress)<br><b>No of votes: </b>4430<br><b>Total Votes: </b>235461<br><b>Winner: </b>FAREED MAHFOOZ KIDWAI(Samajwadi Party)<br><b>Percentage: </b>1.88<br>"
+        },
+        "268": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>268<br><b>Constituency Name: </b>Barabanki<br><b>Candidate Name: </b>Roohi Arshad(Indian National Congress)<br><b>No of votes: </b>4560<br><b>Total Votes: </b>266396<br><b>Winner: </b>Dharmraj Singh Yadav(Samajwadi Party)<br><b>Percentage: </b>1.71<br>"
+        },
+        "269": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>269<br><b>Constituency Name: </b>Zaidpur<br><b>Candidate Name: </b>Tanuj Punia(Indian National Congress)<br><b>No of votes: </b>28689<br><b>Total Votes: </b>277908<br><b>Winner: </b>Gaurav Kumar(Samajwadi Party)<br><b>Percentage: </b>10.32<br>"
+        },
+        "270": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>270<br><b>Constituency Name: </b>Dariyabad<br><b>Candidate Name: </b>Chitra Verma(Indian National Congress)<br><b>No of votes: </b>2301<br><b>Total Votes: </b>273557<br><b>Winner: </b>Satish Chandra Sharma(Bharatiya Janata Party)<br><b>Percentage: </b>0.84<br>"
+        },
+        "271": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>271<br><b>Constituency Name: </b>Rudauli<br><b>Candidate Name: </b>Dayanand Shukla(Indian National Congress)<br><b>No of votes: </b>3270<br><b>Total Votes: </b>218920<br><b>Winner: </b>Ram Chandra Yadav(Bharatiya Janata Party)<br><b>Percentage: </b>1.49<br>"
+        },
+        "272": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>272<br><b>Constituency Name: </b>Haidergarh<br><b>Candidate Name: </b>Nirmla Chaudhri(Indian National Congress)<br><b>No of votes: </b>3993<br><b>Total Votes: </b>230094<br><b>Winner: </b>Dinesh Rawat(Bharatiya Janata Party)<br><b>Percentage: </b>1.74<br>"
+        },
+        "273": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>273<br><b>Constituency Name: </b>Milkipur<br><b>Candidate Name: </b>BRIJESH KUMAR(Indian National Congress)<br><b>No of votes: </b>3166<br><b>Total Votes: </b>216515<br><b>Winner: </b>AWADHESH PRASAD(Samajwadi Party)<br><b>Percentage: </b>1.46<br>"
+        },
+        "274": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>274<br><b>Constituency Name: </b>Bikapur<br><b>Candidate Name: </b>AKHILESH YADAV(Indian National Congress)<br><b>No of votes: </b>4394<br><b>Total Votes: </b>241937<br><b>Winner: </b>AMIT SINGH CHAUHAN(Bharatiya Janata Party)<br><b>Percentage: </b>1.82<br>"
+        },
+        "275": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>275<br><b>Constituency Name: </b>Ayodhya<br><b>Candidate Name: </b>REETA(Indian National Congress)<br><b>No of votes: </b>2011<br><b>Total Votes: </b>231258<br><b>Winner: </b>VED PRAKASH(Bharatiya Janata Party)<br><b>Percentage: </b>0.87<br>"
+        },
+        "276": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>276<br><b>Constituency Name: </b>Goshainganj<br><b>Candidate Name: </b>SHARADA DEVI(Indian National Congress)<br><b>No of votes: </b>1319<br><b>Total Votes: </b>241298<br><b>Winner: </b>ABHAY SINGH(Samajwadi Party)<br><b>Percentage: </b>0.55<br>"
+        },
+        "277": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>277<br><b>Constituency Name: </b>Katehari<br><b>Candidate Name: </b>Nishat Fatima(Indian National Congress)<br><b>No of votes: </b>2049<br><b>Total Votes: </b>247560<br><b>Winner: </b>Lalji Verma(Samajwadi Party)<br><b>Percentage: </b>0.83<br>"
+        },
+        "278": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>278<br><b>Constituency Name: </b>Tanda<br><b>Candidate Name: </b>Merajuddhin(Indian National Congress)<br><b>No of votes: </b>1972<br><b>Total Votes: </b>219050<br><b>Winner: </b>Ram Murti Verma(Samajwadi Party)<br><b>Percentage: </b>0.9<br>"
+        },
+        "279": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>279<br><b>Constituency Name: </b>Alapur<br><b>Candidate Name: </b>Sattyambada(Indian National Congress)<br><b>No of votes: </b>1748<br><b>Total Votes: </b>208647<br><b>Winner: </b>Tribhuwan Dutt(Samajwadi Party)<br><b>Percentage: </b>0.84<br>"
+        },
+        "280": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>280<br><b>Constituency Name: </b>Jalalpur<br><b>Candidate Name: </b>Dr. Ragini Pathak(Indian National Congress)<br><b>No of votes: </b>1731<br><b>Total Votes: </b>258897<br><b>Winner: </b>Rakesh Pandey(Samajwadi Party)<br><b>Percentage: </b>0.67<br>"
+        },
+        "281": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>281<br><b>Constituency Name: </b>Akbarpur<br><b>Candidate Name: </b>PRIYANKA(Indian National Congress)<br><b>No of votes: </b>2735<br><b>Total Votes: </b>214843<br><b>Winner: </b>RAM ACHAL RAJBHAR(Samajwadi Party)<br><b>Percentage: </b>1.27<br>"
+        },
+        "282": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>282<br><b>Constituency Name: </b>Balha<br><b>Candidate Name: </b>KIRAN BHARTI(Indian National Congress)<br><b>No of votes: </b>2125<br><b>Total Votes: </b>214812<br><b>Winner: </b>SAROJ SONKAR(Bharatiya Janata Party)<br><b>Percentage: </b>0.99<br>"
+        },
+        "283": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>283<br><b>Constituency Name: </b>Nanpara<br><b>Candidate Name: </b>Dr.A.M. Siddiquie(Indian National Congress)<br><b>No of votes: </b>2154<br><b>Total Votes: </b>199694<br><b>Winner: </b>Ram Niwas Verma(Apna Dal (Soneylal))<br><b>Percentage: </b>1.08<br>"
+        },
+        "284": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>284<br><b>Constituency Name: </b>Matera<br><b>Candidate Name: </b>ALI AKBAR(Indian National Congress)<br><b>No of votes: </b>2964<br><b>Total Votes: </b>212372<br><b>Winner: </b>MARIYA(Samajwadi Party)<br><b>Percentage: </b>1.4<br>"
+        },
+        "285": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>285<br><b>Constituency Name: </b>Mahasi<br><b>Candidate Name: </b>DR. RAJESH TIWARI(Indian National Congress)<br><b>No of votes: </b>4830<br><b>Total Votes: </b>215978<br><b>Winner: </b>SURESHWAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>2.24<br>"
+        },
+        "286": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>286<br><b>Constituency Name: </b>Bahraich<br><b>Candidate Name: </b>JAI PRAKASH MISHRA(Indian National Congress)<br><b>No of votes: </b>3275<br><b>Total Votes: </b>231708<br><b>Winner: </b>ANUPMA JAISWAL(Bharatiya Janata Party)<br><b>Percentage: </b>1.41<br>"
+        },
+        "287": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>287<br><b>Constituency Name: </b>Payagpur<br><b>Candidate Name: </b>Rana Shivam Singh(Indian National Congress)<br><b>No of votes: </b>2957<br><b>Total Votes: </b>230613<br><b>Winner: </b>Subhash Tripathi(Bharatiya Janata Party)<br><b>Percentage: </b>1.28<br>"
+        },
+        "288": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>288<br><b>Constituency Name: </b>Kaiserganj<br><b>Candidate Name: </b>GEETA DEVI(Indian National Congress)<br><b>No of votes: </b>1790<br><b>Total Votes: </b>226617<br><b>Winner: </b>ANAND KUMAR(Samajwadi Party)<br><b>Percentage: </b>0.79<br>"
+        },
+        "289": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>289<br><b>Constituency Name: </b>Bhinga<br><b>Candidate Name: </b>Gajala Chaudhary(Indian National Congress)<br><b>No of votes: </b>3131<br><b>Total Votes: </b>231104<br><b>Winner: </b>Indrani Devi(Samajwadi Party)<br><b>Percentage: </b>1.35<br>"
+        },
+        "290": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>290<br><b>Constituency Name: </b>Shrawasti<br><b>Candidate Name: </b>Muhammad Ramjan(Indian National Congress)<br><b>No of votes: </b>4655<br><b>Total Votes: </b>253077<br><b>Winner: </b>Ram Feran(Bharatiya Janata Party)<br><b>Percentage: </b>1.84<br>"
+        },
+        "291": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>291<br><b>Constituency Name: </b>Tulsipur<br><b>Candidate Name: </b>DIPENDRA SINGH DIPANKAR(Indian National Congress)<br><b>No of votes: </b>4171<br><b>Total Votes: </b>202787<br><b>Winner: </b>KAILASH NATH(Bharatiya Janata Party)<br><b>Percentage: </b>2.06<br>"
+        },
+        "292": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>292<br><b>Constituency Name: </b>Gainsari<br><b>Candidate Name: </b>DR. ISHTIYAQ AHAMAD KHAN(Indian National Congress)<br><b>No of votes: </b>3984<br><b>Total Votes: </b>189885<br><b>Winner: </b>DR. SHIV PRATAP YADAV(Samajwadi Party)<br><b>Percentage: </b>2.1<br>"
+        },
+        "293": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>293<br><b>Constituency Name: </b>Utraula<br><b>Candidate Name: </b>DHIRENDRA PRATAP SINGH URF DHIRU SINGH(Indian National Congress)<br><b>No of votes: </b>12944<br><b>Total Votes: </b>196180<br><b>Winner: </b>RAMPRATAP VERMA URF SHASHIKANT VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>6.6<br>"
+        },
+        "294": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>294<br><b>Constituency Name: </b>Balrampur<br><b>Candidate Name: </b>BABITA(Indian National Congress)<br><b>No of votes: </b>2576<br><b>Total Votes: </b>206720<br><b>Winner: </b>PALTOO RAM(Bharatiya Janata Party)<br><b>Percentage: </b>1.25<br>"
+        },
+        "295": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>295<br><b>Constituency Name: </b>Mehnaun<br><b>Candidate Name: </b>QUTUBUDDIN KHAN DIAMOND(Indian National Congress)<br><b>No of votes: </b>5499<br><b>Total Votes: </b>214439<br><b>Winner: </b>VINAY KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>2.56<br>"
+        },
+        "296": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>296<br><b>Constituency Name: </b>Gonda<br><b>Candidate Name: </b>RAMA KASHYAP(Indian National Congress)<br><b>No of votes: </b>2701<br><b>Total Votes: </b>200215<br><b>Winner: </b>PRATEEK BHUSHAN SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.35<br>"
+        },
+        "297": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>297<br><b>Constituency Name: </b>Katra Bazar<br><b>Candidate Name: </b>Tahir Vano(Indian National Congress)<br><b>No of votes: </b>2719<br><b>Total Votes: </b>234642<br><b>Winner: </b>Bawan Singh(Bharatiya Janata Party)<br><b>Percentage: </b>1.16<br>"
+        },
+        "298": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>298<br><b>Constituency Name: </b>Colonelganj<br><b>Candidate Name: </b>TRILOKI NATH TIWARI(Indian National Congress)<br><b>No of votes: </b>3756<br><b>Total Votes: </b>193761<br><b>Winner: </b>AJAY(Bharatiya Janata Party)<br><b>Percentage: </b>1.94<br>"
+        },
+        "299": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>299<br><b>Constituency Name: </b>Tarabganj<br><b>Candidate Name: </b>TVARITA SINGH(Indian National Congress)<br><b>No of votes: </b>2684<br><b>Total Votes: </b>211012<br><b>Winner: </b>PREM NRAYAN PANDEY(Bharatiya Janata Party)<br><b>Percentage: </b>1.27<br>"
+        },
+        "300": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>300<br><b>Constituency Name: </b>Mankapur<br><b>Candidate Name: </b>Santosh(Indian National Congress)<br><b>No of votes: </b>1201<br><b>Total Votes: </b>183192<br><b>Winner: </b>Ramapati Shastri(Bharatiya Janata Party)<br><b>Percentage: </b>0.66<br>"
+        },
+        "301": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>301<br><b>Constituency Name: </b>Gaura<br><b>Candidate Name: </b>Ram Pratap Singh(Indian National Congress)<br><b>No of votes: </b>31589<br><b>Total Votes: </b>172557<br><b>Winner: </b>Prabhat Kumar Verma(Bharatiya Janata Party)<br><b>Percentage: </b>18.31<br>"
+        },
+        "302": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>302<br><b>Constituency Name: </b>Shohratgarh<br><b>Candidate Name: </b>CHAUDHARY RAVINDRA PRATAP(Indian National Congress)<br><b>No of votes: </b>20242<br><b>Total Votes: </b>189713<br><b>Winner: </b>VINAY VERMA(Apna Dal (Soneylal))<br><b>Percentage: </b>10.67<br>"
+        },
+        "303": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>303<br><b>Constituency Name: </b>Kapilvastu<br><b>Candidate Name: </b>DEVENDRA KUMAR GUDDU(Indian National Congress)<br><b>No of votes: </b>2484<br><b>Total Votes: </b>252356<br><b>Winner: </b>SHYAMDHANI RAHI(Bharatiya Janata Party)<br><b>Percentage: </b>0.98<br>"
+        },
+        "304": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>304<br><b>Constituency Name: </b>Bansi<br><b>Candidate Name: </b>Kiran Shukla(Indian National Congress)<br><b>No of votes: </b>2931<br><b>Total Votes: </b>188754<br><b>Winner: </b>Jai Pratap Singh(Bharatiya Janata Party)<br><b>Percentage: </b>1.55<br>"
+        },
+        "305": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>305<br><b>Constituency Name: </b>Itwa<br><b>Candidate Name: </b>ARSHAD KHURSHEED(Indian National Congress)<br><b>No of votes: </b>10326<br><b>Total Votes: </b>166700<br><b>Winner: </b>MATA PRASAD PANDEY(Samajwadi Party)<br><b>Percentage: </b>6.19<br>"
+        },
+        "306": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>306<br><b>Constituency Name: </b>Domariyaganj<br><b>Candidate Name: </b>KANTI(Indian National Congress)<br><b>No of votes: </b>2453<br><b>Total Votes: </b>206586<br><b>Winner: </b>SAIYADA KHATOON(Samajwadi Party)<br><b>Percentage: </b>1.19<br>"
+        },
+        "307": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>307<br><b>Constituency Name: </b>Harraiya<br><b>Candidate Name: </b>LABONI SINGH(Indian National Congress)<br><b>No of votes: </b>2008<br><b>Total Votes: </b>221334<br><b>Winner: </b>AJAY SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.91<br>"
+        },
+        "308": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>308<br><b>Constituency Name: </b>Kaptanganj<br><b>Candidate Name: </b>AMBIKA SINGH(Indian National Congress)<br><b>No of votes: </b>3527<br><b>Total Votes: </b>215925<br><b>Winner: </b>KAVINDRA CHAUDHARY(Samajwadi Party)<br><b>Percentage: </b>1.63<br>"
+        },
+        "309": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>309<br><b>Constituency Name: </b>Rudhauli<br><b>Candidate Name: </b>Basant Chaudhary(Indian National Congress)<br><b>No of votes: </b>4451<br><b>Total Votes: </b>234531<br><b>Winner: </b>Rajendra Prasad Chaudhary(Samajwadi Party)<br><b>Percentage: </b>1.9<br>"
+        },
+        "310": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>310<br><b>Constituency Name: </b>Basti Sadar<br><b>Candidate Name: </b>DEVENDRA KUMAR SRIVASTAVA(Indian National Congress)<br><b>No of votes: </b>4105<br><b>Total Votes: </b>216093<br><b>Winner: </b>Mahendra Nath Yadav(Samajwadi Party)<br><b>Percentage: </b>1.9<br>"
+        },
+        "311": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>311<br><b>Constituency Name: </b>Mahadewa<br><b>Candidate Name: </b>Brijesh Kumar(Indian National Congress)<br><b>No of votes: </b>2255<br><b>Total Votes: </b>211187<br><b>Winner: </b>Dudhram(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>1.07<br>"
+        },
+        "312": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>312<br><b>Constituency Name: </b>Menhdawal<br><b>Candidate Name: </b>RAFIQUA KHATOON(Indian National Congress)<br><b>No of votes: </b>2370<br><b>Total Votes: </b>242230<br><b>Winner: </b>ANIL KUMAR TRIPATHI(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>0.98<br>"
+        },
+        "313": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>313<br><b>Constituency Name: </b>Khalilabad<br><b>Candidate Name: </b>AMRENDRA BHUSHAN(Indian National Congress)<br><b>No of votes: </b>1610<br><b>Total Votes: </b>250627<br><b>Winner: </b>ANKUR TIWARI(Bharatiya Janata Party)<br><b>Percentage: </b>0.64<br>"
+        },
+        "314": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>314<br><b>Constituency Name: </b>Dhanghata<br><b>Candidate Name: </b>SHANTI DEVI(Indian National Congress)<br><b>No of votes: </b>1971<br><b>Total Votes: </b>216222<br><b>Winner: </b>GANESH CHANDRA(Bharatiya Janata Party)<br><b>Percentage: </b>0.91<br>"
+        },
+        "315": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>Constituency No.: </b>315<br><b>Constituency Name: </b>Pharenda<br><b>Candidate Name: </b>Virendra Chaudhary(Indian National Congress)<br><b>No of votes: </b>85181<br><b>Total Votes: </b>211490<br><b>Winner: </b>Virendra Chaudhary(Indian National Congress)<br><b>Percentage: </b>40.28<br>"
+        },
+        "316": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>316<br><b>Constituency Name: </b>Nautanwa<br><b>Candidate Name: </b>SADA MOHAN(Indian National Congress)<br><b>No of votes: </b>5071<br><b>Total Votes: </b>225463<br><b>Winner: </b>RISHI(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>2.25<br>"
+        },
+        "317": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>317<br><b>Constituency Name: </b>Siswa<br><b>Candidate Name: </b>Raju Kumar Gupta(Indian National Congress)<br><b>No of votes: </b>4260<br><b>Total Votes: </b>255079<br><b>Winner: </b>Premsagar Patel(Bharatiya Janata Party)<br><b>Percentage: </b>1.67<br>"
+        },
+        "318": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>318<br><b>Constituency Name: </b>Maharajganj<br><b>Candidate Name: </b>ALOK PRASAD(Indian National Congress)<br><b>No of votes: </b>5865<br><b>Total Votes: </b>262672<br><b>Winner: </b>JAY MANGAL(Bharatiya Janata Party)<br><b>Percentage: </b>2.23<br>"
+        },
+        "319": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>319<br><b>Constituency Name: </b>Paniyra<br><b>Candidate Name: </b>SHARDENDU KUMAR PANDEY(Indian National Congress)<br><b>No of votes: </b>2992<br><b>Total Votes: </b>259931<br><b>Winner: </b>GYANENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.15<br>"
+        },
+        "320": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>320<br><b>Constituency Name: </b>Caimpiyarganj<br><b>Candidate Name: </b>SURENDRA KUMAR NISHAD(Indian National Congress)<br><b>No of votes: </b>2592<br><b>Total Votes: </b>224393<br><b>Winner: </b>FATEH BAHADUR(Bharatiya Janata Party)<br><b>Percentage: </b>1.16<br>"
+        },
+        "321": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>321<br><b>Constituency Name: </b>Pipraich<br><b>Candidate Name: </b>SUMAN CHAUHAN(Indian National Congress)<br><b>No of votes: </b>1971<br><b>Total Votes: </b>258442<br><b>Winner: </b>MAHENDRA PAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.76<br>"
+        },
+        "322": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>322<br><b>Constituency Name: </b>Gorakhpur Urban<br><b>Candidate Name: </b>Dr.  CHETNA PANDEY(Indian National Congress)<br><b>No of votes: </b>2880<br><b>Total Votes: </b>250067<br><b>Winner: </b>ADITYANATH(Bharatiya Janata Party)<br><b>Percentage: </b>1.15<br>"
+        },
+        "323": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>323<br><b>Constituency Name: </b>Gorakhpur Rural<br><b>Candidate Name: </b>DEVENDRA NISHAD MAHARA(Indian National Congress)<br><b>No of votes: </b>1492<br><b>Total Votes: </b>254865<br><b>Winner: </b>BIPIN SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>0.59<br>"
+        },
+        "324": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>324<br><b>Constituency Name: </b>Sahajanwa<br><b>Candidate Name: </b>MANOJ YADAV(Indian National Congress)<br><b>No of votes: </b>3338<br><b>Total Votes: </b>224489<br><b>Winner: </b>PRADEEP SHUKLA(Bharatiya Janata Party)<br><b>Percentage: </b>1.49<br>"
+        },
+        "325": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>325<br><b>Constituency Name: </b>Khajani<br><b>Candidate Name: </b>RAJANI(Indian National Congress)<br><b>No of votes: </b>2197<br><b>Total Votes: </b>198827<br><b>Winner: </b>SHRIRAM CHAUHAN(Bharatiya Janata Party)<br><b>Percentage: </b>1.1<br>"
+        },
+        "326": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>326<br><b>Constituency Name: </b>Chaura<br><b>Candidate Name: </b>JITENDRA(Indian National Congress)<br><b>No of votes: </b>1741<br><b>Total Votes: </b>205952<br><b>Winner: </b>SARVAN KUMAR NISHAD(Bharatiya Janata Party)<br><b>Percentage: </b>0.85<br>"
+        },
+        "327": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>327<br><b>Constituency Name: </b>Bansgaon<br><b>Candidate Name: </b>POONAM(Indian National Congress)<br><b>No of votes: </b>2050<br><b>Total Votes: </b>188542<br><b>Winner: </b>DR. VIMLESH PASWAN(Bharatiya Janata Party)<br><b>Percentage: </b>1.09<br>"
+        },
+        "328": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>328<br><b>Constituency Name: </b>Chillupar<br><b>Candidate Name: </b>SONIYA SHUKLA(Indian National Congress)<br><b>No of votes: </b>1378<br><b>Total Votes: </b>227784<br><b>Winner: </b>RAJESH TRIPATHI(Bharatiya Janata Party)<br><b>Percentage: </b>0.6<br>"
+        },
+        "329": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>329<br><b>Constituency Name: </b>Khadda<br><b>Candidate Name: </b>DHANANJAY(Indian National Congress)<br><b>No of votes: </b>2272<br><b>Total Votes: </b>204959<br><b>Winner: </b>VIVEKA NAND PANDEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>1.11<br>"
+        },
+        "330": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>330<br><b>Constituency Name: </b>Padrauna<br><b>Candidate Name: </b>MD JAHIRUDDIN(Indian National Congress)<br><b>No of votes: </b>3338<br><b>Total Votes: </b>229907<br><b>Winner: </b>MANISH KUMAR URF MANTU(Bharatiya Janata Party)<br><b>Percentage: </b>1.45<br>"
+        },
+        "331": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>331<br><b>Constituency Name: </b>Tamkuhi Raj<br><b>Candidate Name: </b>AJAY KUMAR LALLU(Indian National Congress)<br><b>No of votes: </b>33496<br><b>Total Votes: </b>226581<br><b>Winner: </b>ASIM KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>14.78<br>"
+        },
+        "332": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>332<br><b>Constituency Name: </b>Fazilnagar<br><b>Candidate Name: </b>Sunil Urf Manoj Singh(Indian National Congress)<br><b>No of votes: </b>2323<br><b>Total Votes: </b>224836<br><b>Winner: </b>Surendra Kumar Kushwaha(Bharatiya Janata Party)<br><b>Percentage: </b>1.03<br>"
+        },
+        "333": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>333<br><b>Constituency Name: </b>Kushinagar<br><b>Candidate Name: </b>Syamrati(Indian National Congress)<br><b>No of votes: </b>1481<br><b>Total Votes: </b>221074<br><b>Winner: </b>Panchanand Pathak (P.N. Pathak)(Bharatiya Janata Party)<br><b>Percentage: </b>0.67<br>"
+        },
+        "334": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>334<br><b>Constituency Name: </b>Hata<br><b>Candidate Name: </b>Amrendra(Indian National Congress)<br><b>No of votes: </b>2291<br><b>Total Votes: </b>216619<br><b>Winner: </b>MOHAN(Bharatiya Janata Party)<br><b>Percentage: </b>1.06<br>"
+        },
+        "335": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>335<br><b>Constituency Name: </b>Ramkola<br><b>Candidate Name: </b>SHAMBHU CHAUDHRY(Indian National Congress)<br><b>No of votes: </b>4080<br><b>Total Votes: </b>214152<br><b>Winner: </b>VINAY PRAKASH GOND(Bharatiya Janata Party)<br><b>Percentage: </b>1.91<br>"
+        },
+        "336": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>336<br><b>Constituency Name: </b>Rudrapur<br><b>Candidate Name: </b>AKHILESH PRATAP SINGH(Indian National Congress)<br><b>No of votes: </b>31177<br><b>Total Votes: </b>181863<br><b>Winner: </b>JAI PRAKASH NISHAD(Bharatiya Janata Party)<br><b>Percentage: </b>17.14<br>"
+        },
+        "337": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>337<br><b>Constituency Name: </b>Deoria<br><b>Candidate Name: </b>PUROOSHOTTAM  NARAIN SINGH(Indian National Congress)<br><b>No of votes: </b>2708<br><b>Total Votes: </b>199352<br><b>Winner: </b>SHALABH MANI TRIPATHI(Bharatiya Janata Party)<br><b>Percentage: </b>1.36<br>"
+        },
+        "338": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>338<br><b>Constituency Name: </b>Pathardeva<br><b>Candidate Name: </b>AMBAR JAHAN(Indian National Congress)<br><b>No of votes: </b>1956<br><b>Total Votes: </b>201183<br><b>Winner: </b>SURYA PRATAP SHAHI(Bharatiya Janata Party)<br><b>Percentage: </b>0.97<br>"
+        },
+        "339": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>339<br><b>Constituency Name: </b>Rampur Karkhana<br><b>Candidate Name: </b>SHAHLA AHRARI(Indian National Congress)<br><b>No of votes: </b>2016<br><b>Total Votes: </b>206915<br><b>Winner: </b>SURENDRA CHAURASIA(Bharatiya Janata Party)<br><b>Percentage: </b>0.97<br>"
+        },
+        "340": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>340<br><b>Constituency Name: </b>Bhatpar Rani<br><b>Candidate Name: </b>KESHAV CHAND YADAV(Indian National Congress)<br><b>No of votes: </b>4486<br><b>Total Votes: </b>194282<br><b>Winner: </b>SABHAKUNWAR(Bharatiya Janata Party)<br><b>Percentage: </b>2.31<br>"
+        },
+        "341": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>341<br><b>Constituency Name: </b>Salempur<br><b>Candidate Name: </b>DULARI DEVI(Indian National Congress)<br><b>No of votes: </b>2736<br><b>Total Votes: </b>177800<br><b>Winner: </b>BIJAYLAXMI GAUTAM(Bharatiya Janata Party)<br><b>Percentage: </b>1.54<br>"
+        },
+        "342": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>342<br><b>Constituency Name: </b>Barhaj<br><b>Candidate Name: </b>RAMJEE GIRI(Indian National Congress)<br><b>No of votes: </b>2079<br><b>Total Votes: </b>185108<br><b>Winner: </b>DEEPAK KUMAR MISHR(Bharatiya Janata Party)<br><b>Percentage: </b>1.12<br>"
+        },
+        "343": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>343<br><b>Constituency Name: </b>Atrauliya<br><b>Candidate Name: </b>RAMESH CHAND(Indian National Congress)<br><b>No of votes: </b>2212<br><b>Total Votes: </b>231341<br><b>Winner: </b>DR. SANGRAM(Samajwadi Party)<br><b>Percentage: </b>0.96<br>"
+        },
+        "344": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>344<br><b>Constituency Name: </b>Gopalpur<br><b>Candidate Name: </b>MIRZA SHAN ALAM BEG(Indian National Congress)<br><b>No of votes: </b>1649<br><b>Total Votes: </b>206518<br><b>Winner: </b>NAFEES AHMAD(Samajwadi Party)<br><b>Percentage: </b>0.8<br>"
+        },
+        "345": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>345<br><b>Constituency Name: </b>Sagri<br><b>Candidate Name: </b>RANA KHATOON(Indian National Congress)<br><b>No of votes: </b>1401<br><b>Total Votes: </b>194340<br><b>Winner: </b>HRIDAY NARAYAN SINGH PATEL(Samajwadi Party)<br><b>Percentage: </b>0.72<br>"
+        },
+        "346": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>346<br><b>Constituency Name: </b>Mubarakpur<br><b>Candidate Name: </b>PARVEEN BANO(Indian National Congress)<br><b>No of votes: </b>1331<br><b>Total Votes: </b>224138<br><b>Winner: </b>AKHILESH(Samajwadi Party)<br><b>Percentage: </b>0.59<br>"
+        },
+        "347": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>347<br><b>Constituency Name: </b>Azamgarh<br><b>Candidate Name: </b>PRAVEEN KUMAR SINGH(Indian National Congress)<br><b>No of votes: </b>2175<br><b>Total Votes: </b>236330<br><b>Winner: </b>DURGA PRASAD YADAV(Samajwadi Party)<br><b>Percentage: </b>0.92<br>"
+        },
+        "348": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>348<br><b>Constituency Name: </b>Nizamabad<br><b>Candidate Name: </b>ANIL KUMAR YADAV(Indian National Congress)<br><b>No of votes: </b>2297<br><b>Total Votes: </b>184712<br><b>Winner: </b>ALAM BADI(Samajwadi Party)<br><b>Percentage: </b>1.24<br>"
+        },
+        "349": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>349<br><b>Constituency Name: </b>Pawai<br><b>Candidate Name: </b>MO SHAHID(Indian National Congress)<br><b>No of votes: </b>1558<br><b>Total Votes: </b>193244<br><b>Winner: </b>RAMAKANT(Samajwadi Party)<br><b>Percentage: </b>0.81<br>"
+        },
+        "350": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>350<br><b>Constituency Name: </b>Didarganj<br><b>Candidate Name: </b>AWADHESH KUMAR SINGH(Indian National Congress)<br><b>No of votes: </b>1717<br><b>Total Votes: </b>200957<br><b>Winner: </b>KAMALKANT(Samajwadi Party)<br><b>Percentage: </b>0.85<br>"
+        },
+        "351": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>351<br><b>Constituency Name: </b>Lalganj<br><b>Candidate Name: </b>PUSHPA BHARTIY(Indian National Congress)<br><b>No of votes: </b>2099<br><b>Total Votes: </b>218657<br><b>Winner: </b>BECHAI(Samajwadi Party)<br><b>Percentage: </b>0.96<br>"
+        },
+        "352": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>352<br><b>Constituency Name: </b>Mehnagar<br><b>Candidate Name: </b>NIRMALA BHARTI(Indian National Congress)<br><b>No of votes: </b>1662<br><b>Total Votes: </b>221016<br><b>Winner: </b>PUJA(Samajwadi Party)<br><b>Percentage: </b>0.75<br>"
+        },
+        "353": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>353<br><b>Constituency Name: </b>Madhuban<br><b>Candidate Name: </b>AMARESH CHAND PANDEY(Indian National Congress)<br><b>No of votes: </b>3871<br><b>Total Votes: </b>224258<br><b>Winner: </b>RAM BILASH CHAUHAN(Bharatiya Janata Party)<br><b>Percentage: </b>1.73<br>"
+        },
+        "354": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>354<br><b>Constituency Name: </b>Ghosi<br><b>Candidate Name: </b>PRIYANKA(Indian National Congress)<br><b>No of votes: </b>2012<br><b>Total Votes: </b>256855<br><b>Winner: </b>DARA SINGH CHAUHAN(Samajwadi Party)<br><b>Percentage: </b>0.78<br>"
+        },
+        "355": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>355<br><b>Constituency Name: </b>Gohna<br><b>Candidate Name: </b>BANVARI RAM(Indian National Congress)<br><b>No of votes: </b>2452<br><b>Total Votes: </b>228291<br><b>Winner: </b>RAJENDRA KUMAR(Samajwadi Party)<br><b>Percentage: </b>1.07<br>"
+        },
+        "356": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>356<br><b>Constituency Name: </b>Mau<br><b>Candidate Name: </b>MADHAVENDRA BAHADUR SINGH(Indian National Congress)<br><b>No of votes: </b>6589<br><b>Total Votes: </b>278996<br><b>Winner: </b>ABBAS ANSARI(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>2.36<br>"
+        },
+        "357": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>357<br><b>Constituency Name: </b>Belthara Road<br><b>Candidate Name: </b>Geeta(Indian National Congress)<br><b>No of votes: </b>1529<br><b>Total Votes: </b>199617<br><b>Winner: </b>Hansu Ram(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>0.77<br>"
+        },
+        "358": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>358<br><b>Constituency Name: </b>Rasara<br><b>Candidate Name: </b>RAJ URF OMLATA RAJ(Indian National Congress)<br><b>No of votes: </b>1294<br><b>Total Votes: </b>200572<br><b>Winner: </b>UMASHANKAR SINGH(Bahujan Samaj Party)<br><b>Percentage: </b>0.65<br>"
+        },
+        "359": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>359<br><b>Constituency Name: </b>Sikanderpur<br><b>Candidate Name: </b>BRIJESH SINGH GAT(Indian National Congress)<br><b>No of votes: </b>1857<br><b>Total Votes: </b>176471<br><b>Winner: </b>ZIYAUDDIN RIZVI(Samajwadi Party)<br><b>Percentage: </b>1.05<br>"
+        },
+        "360": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>360<br><b>Constituency Name: </b>Phephana<br><b>Candidate Name: </b>JAINENDRA(Indian National Congress)<br><b>No of votes: </b>2229<br><b>Total Votes: </b>189662<br><b>Winner: </b>SANGRAM SINGH(Samajwadi Party)<br><b>Percentage: </b>1.18<br>"
+        },
+        "361": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>361<br><b>Constituency Name: </b>Ballia Nagar<br><b>Candidate Name: </b>Omprakash(Indian National Congress)<br><b>No of votes: </b>2166<br><b>Total Votes: </b>202812<br><b>Winner: </b>Daya Shankar Singh(Bharatiya Janata Party)<br><b>Percentage: </b>1.07<br>"
+        },
+        "362": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>362<br><b>Constituency Name: </b>Bansdih<br><b>Candidate Name: </b>PUNEET(Indian National Congress)<br><b>No of votes: </b>4354<br><b>Total Votes: </b>216698<br><b>Winner: </b>KETAKEE SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>2.01<br>"
+        },
+        "363": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>363<br><b>Constituency Name: </b>Bairia<br><b>Candidate Name: </b>KUMARI SONA(Indian National Congress)<br><b>No of votes: </b>1203<br><b>Total Votes: </b>176654<br><b>Winner: </b>JAI PRAKASH ANCHAL(Samajwadi Party)<br><b>Percentage: </b>0.68<br>"
+        },
+        "364": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>364<br><b>Constituency Name: </b>Badlapur<br><b>Candidate Name: </b>ARTI SINGH(Indian National Congress)<br><b>No of votes: </b>1651<br><b>Total Votes: </b>207419<br><b>Winner: </b>RAMESH CHANDRA MISHRA(Bharatiya Janata Party)<br><b>Percentage: </b>0.8<br>"
+        },
+        "365": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>365<br><b>Constituency Name: </b>Shahganj<br><b>Candidate Name: </b>Parvez Alam(Indian National Congress)<br><b>No of votes: </b>1529<br><b>Total Votes: </b>240920<br><b>Winner: </b>Ramesh(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>0.63<br>"
+        },
+        "366": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>366<br><b>Constituency Name: </b>Jaunpur<br><b>Candidate Name: </b>NADEEM JAVED(Indian National Congress)<br><b>No of votes: </b>12150<br><b>Total Votes: </b>248447<br><b>Winner: </b>GIRISH CHANDRA YADAV(Bharatiya Janata Party)<br><b>Percentage: </b>4.89<br>"
+        },
+        "367": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>367<br><b>Constituency Name: </b>Malhani<br><b>Candidate Name: </b>PUSHPA SHUKLA(Indian National Congress)<br><b>No of votes: </b>1444<br><b>Total Votes: </b>228695<br><b>Winner: </b>LUCKY YADAV(Samajwadi Party)<br><b>Percentage: </b>0.63<br>"
+        },
+        "368": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>368<br><b>Constituency Name: </b>Mungra Badshahpur<br><b>Candidate Name: </b>PRAMOD KUMAR SINGH(Indian National Congress)<br><b>No of votes: </b>1830<br><b>Total Votes: </b>219700<br><b>Winner: </b>PANKAJ(Samajwadi Party)<br><b>Percentage: </b>0.83<br>"
+        },
+        "369": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>369<br><b>Constituency Name: </b>Machhlishahr<br><b>Candidate Name: </b>MALA DEVI(Indian National Congress)<br><b>No of votes: </b>2178<br><b>Total Votes: </b>218312<br><b>Winner: </b>DR. RAGINI(Samajwadi Party)<br><b>Percentage: </b>1.0<br>"
+        },
+        "370": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>370<br><b>Constituency Name: </b>Mariyahu<br><b>Candidate Name: </b>MEERA PANDEY(Indian National Congress)<br><b>No of votes: </b>1372<br><b>Total Votes: </b>193664<br><b>Winner: </b>DR R.K. PATEL(Apna Dal (Soneylal))<br><b>Percentage: </b>0.71<br>"
+        },
+        "371": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>371<br><b>Constituency Name: </b>Zafrabad<br><b>Candidate Name: </b>LAXMI NAGAR(Indian National Congress)<br><b>No of votes: </b>2235<br><b>Total Votes: </b>223351<br><b>Winner: </b>JAGDISH NARAYAN(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>1.0<br>"
+        },
+        "372": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>372<br><b>Constituency Name: </b>Kerakat<br><b>Candidate Name: </b>Rajesh(Indian National Congress)<br><b>No of votes: </b>2688<br><b>Total Votes: </b>240258<br><b>Winner: </b>Tufani Saroj(Samajwadi Party)<br><b>Percentage: </b>1.12<br>"
+        },
+        "373": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>373<br><b>Constituency Name: </b>Jakhanian<br><b>Candidate Name: </b>SUNIL KUMAR(Indian National Congress)<br><b>No of votes: </b>1926<br><b>Total Votes: </b>254608<br><b>Winner: </b>BEDI(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>0.76<br>"
+        },
+        "374": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>374<br><b>Constituency Name: </b>Saidpur<br><b>Candidate Name: </b>SEEMA DEVI(Indian National Congress)<br><b>No of votes: </b>1704<br><b>Total Votes: </b>236636<br><b>Winner: </b>ANKIT BHARTI(Samajwadi Party)<br><b>Percentage: </b>0.72<br>"
+        },
+        "375": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>375<br><b>Constituency Name: </b>Ghazipur<br><b>Candidate Name: </b>LAUTAN(Indian National Congress)<br><b>No of votes: </b>1234<br><b>Total Votes: </b>226595<br><b>Winner: </b>JAIKISHAN(Samajwadi Party)<br><b>Percentage: </b>0.54<br>"
+        },
+        "376": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>376<br><b>Constituency Name: </b>Jangipur<br><b>Candidate Name: </b>AJAY RAJBHAR(Indian National Congress)<br><b>No of votes: </b>1570<br><b>Total Votes: </b>230465<br><b>Winner: </b>VIRENDRA KUMAR YADAV(Samajwadi Party)<br><b>Percentage: </b>0.68<br>"
+        },
+        "377": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>377<br><b>Constituency Name: </b>Zahoorabad<br><b>Candidate Name: </b>GYAN PRAKASH(Indian National Congress)<br><b>No of votes: </b>1559<br><b>Total Votes: </b>247266<br><b>Winner: </b>OM PRAKASH RAJBHAR(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>0.63<br>"
+        },
+        "378": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>378<br><b>Constituency Name: </b>Mohammadabad<br><b>Candidate Name: </b>Dr. Arvind Kishor Rai(Indian National Congress)<br><b>No of votes: </b>2458<br><b>Total Votes: </b>246214<br><b>Winner: </b>SUHAIB Alias MANNU ANSARI(Samajwadi Party)<br><b>Percentage: </b>1.0<br>"
+        },
+        "379": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>379<br><b>Constituency Name: </b>Zamania<br><b>Candidate Name: </b>FARAJANA(Indian National Congress)<br><b>No of votes: </b>1333<br><b>Total Votes: </b>233390<br><b>Winner: </b>OM PRAKASH(Samajwadi Party)<br><b>Percentage: </b>0.57<br>"
+        },
+        "380": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>380<br><b>Constituency Name: </b>Mughalsarai<br><b>Candidate Name: </b>CHHABBU(Indian National Congress)<br><b>No of votes: </b>5344<br><b>Total Votes: </b>241076<br><b>Winner: </b>RAMESH JAISWAL(Bharatiya Janata Party)<br><b>Percentage: </b>2.22<br>"
+        },
+        "381": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>381<br><b>Constituency Name: </b>Sakaldiha<br><b>Candidate Name: </b>DEVENDRA PRATAP(Indian National Congress)<br><b>No of votes: </b>5135<br><b>Total Votes: </b>212118<br><b>Winner: </b>PRABHU NARAYAN YADAV(Samajwadi Party)<br><b>Percentage: </b>2.42<br>"
+        },
+        "382": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>382<br><b>Constituency Name: </b>Saiyadraja<br><b>Candidate Name: </b>VIMLA(Indian National Congress)<br><b>No of votes: </b>2155<br><b>Total Votes: </b>210031<br><b>Winner: </b>SUSHIL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.03<br>"
+        },
+        "383": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>383<br><b>Constituency Name: </b>Chakia<br><b>Candidate Name: </b>RAM SUMER RAM(Indian National Congress)<br><b>No of votes: </b>2049<br><b>Total Votes: </b>246794<br><b>Winner: </b>KAILASH(Bharatiya Janata Party)<br><b>Percentage: </b>0.83<br>"
+        },
+        "384": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>384<br><b>Constituency Name: </b>Pindra<br><b>Candidate Name: </b>AJAY(Indian National Congress)<br><b>No of votes: </b>48248<br><b>Total Votes: </b>220547<br><b>Winner: </b>AWADHESH KUMAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>21.88<br>"
+        },
+        "385": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>385<br><b>Constituency Name: </b>Ajagara<br><b>Candidate Name: </b>HEMA DEVI(Indian National Congress)<br><b>No of votes: </b>2130<br><b>Total Votes: </b>245074<br><b>Winner: </b>TRIBHUWAN RAM(Bharatiya Janata Party)<br><b>Percentage: </b>0.87<br>"
+        },
+        "386": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>386<br><b>Constituency Name: </b>Shivpur<br><b>Candidate Name: </b>Girish(Indian National Congress)<br><b>No of votes: </b>3417<br><b>Total Votes: </b>251791<br><b>Winner: </b>Anil Rajbhar(Bharatiya Janata Party)<br><b>Percentage: </b>1.36<br>"
+        },
+        "387": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>387<br><b>Constituency Name: </b>Rohaniya<br><b>Candidate Name: </b>RAJESHWAR SINGH PATEL(Indian National Congress)<br><b>No of votes: </b>16785<br><b>Total Votes: </b>246793<br><b>Winner: </b>DR. SUNIL PATEL(Apna Dal (Soneylal))<br><b>Percentage: </b>6.8<br>"
+        },
+        "388": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>388<br><b>Constituency Name: </b>Varanasi North<br><b>Candidate Name: </b>Gulerana Sabassum(Indian National Congress)<br><b>No of votes: </b>3102<br><b>Total Votes: </b>246225<br><b>Winner: </b>Ravindra Jaiswal(Bharatiya Janata Party)<br><b>Percentage: </b>1.26<br>"
+        },
+        "389": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>389<br><b>Constituency Name: </b>Varanasi South<br><b>Candidate Name: </b>Mudita Kapoor(Indian National Congress)<br><b>No of votes: </b>2166<br><b>Total Votes: </b>195782<br><b>Winner: </b>Dr. Neelkanth Tiwari(Bharatiya Janata Party)<br><b>Percentage: </b>1.11<br>"
+        },
+        "390": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>390<br><b>Constituency Name: </b>Varanasi Cantt.<br><b>Candidate Name: </b>Rajesh Kumar Mishra(Indian National Congress)<br><b>No of votes: </b>23807<br><b>Total Votes: </b>243821<br><b>Winner: </b>Saurabh  Srivastava(Bharatiya Janata Party)<br><b>Percentage: </b>9.76<br>"
+        },
+        "391": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>391<br><b>Constituency Name: </b>Sevapuri<br><b>Candidate Name: </b>Anju Anand Singh(Indian National Congress)<br><b>No of votes: </b>2974<br><b>Total Votes: </b>220910<br><b>Winner: </b>Neel Ratan Singh(Bharatiya Janata Party)<br><b>Percentage: </b>1.35<br>"
+        },
+        "392": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>392<br><b>Constituency Name: </b>Bhadohi<br><b>Candidate Name: </b>VASIM ANSARI(Indian National Congress)<br><b>No of votes: </b>2353<br><b>Total Votes: </b>250365<br><b>Winner: </b>ZAHID(Samajwadi Party)<br><b>Percentage: </b>0.94<br>"
+        },
+        "393": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>393<br><b>Constituency Name: </b>Gyanpur<br><b>Candidate Name: </b>SURESH CHANDRA MISHRA(Indian National Congress)<br><b>No of votes: </b>1945<br><b>Total Votes: </b>215254<br><b>Winner: </b>VIPUL DUBEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>0.9<br>"
+        },
+        "394": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>394<br><b>Constituency Name: </b>Aurai<br><b>Candidate Name: </b>Sanjoo Devi(Indian National Congress)<br><b>No of votes: </b>2694<br><b>Total Votes: </b>224745<br><b>Winner: </b>Dinanath Bhashkar(Bharatiya Janata Party)<br><b>Percentage: </b>1.2<br>"
+        },
+        "395": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>395<br><b>Constituency Name: </b>Chhanbey<br><b>Candidate Name: </b>BHAGWATI  PRASAD  CHAUDHARY(Indian National Congress)<br><b>No of votes: </b>3935<br><b>Total Votes: </b>216739<br><b>Winner: </b>RAHUL PRAKASH KOL(Apna Dal (Soneylal))<br><b>Percentage: </b>1.82<br>"
+        },
+        "396": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>396<br><b>Constituency Name: </b>Mirzapur<br><b>Candidate Name: </b>BHAGWAN DUTT PATHAK ALIAS RAJAN PATHAK(Indian National Congress)<br><b>No of votes: </b>3674<br><b>Total Votes: </b>227751<br><b>Winner: </b>RATNAKAR MISHRA(Bharatiya Janata Party)<br><b>Percentage: </b>1.61<br>"
+        },
+        "397": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>397<br><b>Constituency Name: </b>Majhawan<br><b>Candidate Name: </b>SHIV SHANKER CHAUBEY(Indian National Congress)<br><b>No of votes: </b>3399<br><b>Total Votes: </b>245391<br><b>Winner: </b>DR. VINOD KUMAR BIND(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>1.39<br>"
+        },
+        "398": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>398<br><b>Constituency Name: </b>Chunar<br><b>Candidate Name: </b>SEEMA DEVI(Indian National Congress)<br><b>No of votes: </b>4164<br><b>Total Votes: </b>220823<br><b>Winner: </b>ANURAG SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>1.89<br>"
+        },
+        "399": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>399<br><b>Constituency Name: </b>Marihan<br><b>Candidate Name: </b>GITA DEVI KOL(Indian National Congress)<br><b>No of votes: </b>4928<br><b>Total Votes: </b>236733<br><b>Winner: </b>RAMA SHANKAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>2.08<br>"
+        },
+        "400": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>400<br><b>Constituency Name: </b>Ghorawal<br><b>Candidate Name: </b>Videshwari Singh Rathore(Indian National Congress)<br><b>No of votes: </b>10377<br><b>Total Votes: </b>250342<br><b>Winner: </b>Dr. Anil Kumar Maurya(Bharatiya Janata Party)<br><b>Percentage: </b>4.15<br>"
+        },
+        "401": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>401<br><b>Constituency Name: </b>Robertsganj<br><b>Candidate Name: </b>Kamlesh Kumar(Indian National Congress)<br><b>No of votes: </b>2481<br><b>Total Votes: </b>209724<br><b>Winner: </b>Bhupesh Chaubey(Bharatiya Janata Party)<br><b>Percentage: </b>1.18<br>"
+        },
+        "402": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>402<br><b>Constituency Name: </b>Obra<br><b>Candidate Name: </b>RAMRAJ(Indian National Congress)<br><b>No of votes: </b>4519<br><b>Total Votes: </b>163139<br><b>Winner: </b>SANJEEV KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>2.77<br>"
+        },
+        "403": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>403<br><b>Constituency Name: </b>Duddhi<br><b>Candidate Name: </b>BASANTI PANIKA(Indian National Congress)<br><b>No of votes: </b>4533<br><b>Total Votes: </b>204469<br><b>Winner: </b>RAMDULAR(Bharatiya Janata Party)<br><b>Percentage: </b>2.22<br>"
+        }
+    }
+}

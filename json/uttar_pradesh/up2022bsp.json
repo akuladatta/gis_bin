@@ -1,0 +1,1619 @@
+{
+    "title": "BSP IN UP 2022",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Party hold percentages</caption><thead><tr><th>Color_index</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: #d7191c;\"></td><td>35.23% to 43.82%</td><td>1</td><td>1 (100.0%)</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>26.64% to 35.23%</td><td>9</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>18.04% to 26.64%</td><td>84</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #abd9e9;\"></td><td>9.45% to 18.04%</td><td>170</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #2c7bb6;\"></td><td>0.86% to 9.45%</td><td>139</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>403</td><td>1 (0.25%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>1<br><b>Constituency Name: </b>Behat<br><b>Candidate Name: </b>Rais Malik(Bahujan Samaj Party)<br><b>No of votes: </b>45075<br><b>Total Votes: </b>281373<br><b>Winner: </b>Umar Ali Khan(Samajwadi Party)<br><b>Percentage: </b>16.02<br>"
+        },
+        "2": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>2<br><b>Constituency Name: </b>Nakur<br><b>Candidate Name: </b>SAHIL KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>55112<br><b>Total Votes: </b>270652<br><b>Winner: </b>MUKESH CHOUDHARY(Bharatiya Janata Party)<br><b>Percentage: </b>20.36<br>"
+        },
+        "3": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>3<br><b>Constituency Name: </b>Saharanpur Nagar<br><b>Candidate Name: </b>Manish(Bahujan Samaj Party)<br><b>No of votes: </b>8776<br><b>Total Votes: </b>293112<br><b>Winner: </b>RAJEEV GUMBER(Bharatiya Janata Party)<br><b>Percentage: </b>2.99<br>"
+        },
+        "4": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>Constituency No.: </b>4<br><b>Constituency Name: </b>Saharanpur<br><b>Candidate Name: </b>Ajab Singh(Bahujan Samaj Party)<br><b>No of votes: </b>62637<br><b>Total Votes: </b>259855<br><b>Winner: </b>Ashu Malik(Samajwadi Party)<br><b>Percentage: </b>24.1<br>"
+        },
+        "5": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>5<br><b>Constituency Name: </b>Deoband<br><b>Candidate Name: </b>CHOUDHARY RAJENDRA SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>52732<br><b>Total Votes: </b>242193<br><b>Winner: </b>BRIJESH(Bharatiya Janata Party)<br><b>Percentage: </b>21.77<br>"
+        },
+        "6": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>Constituency No.: </b>6<br><b>Constituency Name: </b>Rampur Maniharan<br><b>Candidate Name: </b>RAVINDRA KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>68516<br><b>Total Votes: </b>232233<br><b>Winner: </b>Devender Kumar Nim(Bharatiya Janata Party)<br><b>Percentage: </b>29.5<br>"
+        },
+        "7": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>7<br><b>Constituency Name: </b>Gangoh<br><b>Candidate Name: </b>NOMAN MASOOD(Bahujan Samaj Party)<br><b>No of votes: </b>55078<br><b>Total Votes: </b>270590<br><b>Winner: </b>KIRAT SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>20.35<br>"
+        },
+        "8": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>8<br><b>Constituency Name: </b>Kairana<br><b>Candidate Name: </b>RAJENDERA(Bahujan Samaj Party)<br><b>No of votes: </b>2077<br><b>Total Votes: </b>241947<br><b>Winner: </b>Nahid Hasan(Samajwadi Party)<br><b>Percentage: </b>0.86<br>"
+        },
+        "9": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>9<br><b>Constituency Name: </b>Thana Bhawan<br><b>Candidate Name: </b>Zaheer Malik(Bahujan Samaj Party)<br><b>No of votes: </b>11039<br><b>Total Votes: </b>218541<br><b>Winner: </b>Ashraf Ali Khan(Rashtriya Lok Dal)<br><b>Percentage: </b>5.05<br>"
+        },
+        "10": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>10<br><b>Constituency Name: </b>Shamli<br><b>Candidate Name: </b>Bijendra(Bahujan Samaj Party)<br><b>No of votes: </b>8183<br><b>Total Votes: </b>210952<br><b>Winner: </b>Persann Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>3.88<br>"
+        },
+        "11": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>11<br><b>Constituency Name: </b>Budhana<br><b>Candidate Name: </b>Anees(Bahujan Samaj Party)<br><b>No of votes: </b>10397<br><b>Total Votes: </b>255624<br><b>Winner: </b>Rajpal Singh Baliyan(Rashtriya Lok Dal)<br><b>Percentage: </b>4.07<br>"
+        },
+        "12": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>12<br><b>Constituency Name: </b>Charthawal<br><b>Candidate Name: </b>Salman Sayeed(Bahujan Samaj Party)<br><b>No of votes: </b>25131<br><b>Total Votes: </b>222190<br><b>Winner: </b>Pankaj Kumar Malik(Samajwadi Party)<br><b>Percentage: </b>11.31<br>"
+        },
+        "13": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>13<br><b>Constituency Name: </b>Purqazi<br><b>Candidate Name: </b>Surendra Pal Singh(Bahujan Samaj Party)<br><b>No of votes: </b>27778<br><b>Total Votes: </b>215085<br><b>Winner: </b>Anil Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>12.91<br>"
+        },
+        "14": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>14<br><b>Constituency Name: </b>Muzaffar Nagar<br><b>Candidate Name: </b>PUSPANKAR DEEPAK(Bahujan Samaj Party)<br><b>No of votes: </b>10733<br><b>Total Votes: </b>225543<br><b>Winner: </b>Kapil Dev Agarwal(Bharatiya Janata Party)<br><b>Percentage: </b>4.76<br>"
+        },
+        "15": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>Constituency No.: </b>15<br><b>Constituency Name: </b>Khatauli<br><b>Candidate Name: </b>KARTAR SINGH BHADANA(Bahujan Samaj Party)<br><b>No of votes: </b>31412<br><b>Total Votes: </b>221969<br><b>Winner: </b>VIKRAM SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>14.15<br>"
+        },
+        "16": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>16<br><b>Constituency Name: </b>Meerapur<br><b>Candidate Name: </b>MO. SALIM(Bahujan Samaj Party)<br><b>No of votes: </b>23797<br><b>Total Votes: </b>216692<br><b>Winner: </b>Chandan Chauhan(Rashtriya Lok Dal)<br><b>Percentage: </b>10.98<br>"
+        },
+        "17": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>Constituency No.: </b>17<br><b>Constituency Name: </b>Najibabad<br><b>Candidate Name: </b>SHAHNAWAZ ALAM(Bahujan Samaj Party)<br><b>No of votes: </b>44727<br><b>Total Votes: </b>232615<br><b>Winner: </b>TASLEEM AHMAD(Samajwadi Party)<br><b>Percentage: </b>19.23<br>"
+        },
+        "18": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>18<br><b>Constituency Name: </b>Nagina<br><b>Candidate Name: </b>BRAJPAL(Bahujan Samaj Party)<br><b>No of votes: </b>40164<br><b>Total Votes: </b>223282<br><b>Winner: </b>MANOJ KUMAR PARAS(Samajwadi Party)<br><b>Percentage: </b>17.99<br>"
+        },
+        "19": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>19<br><b>Constituency Name: </b>Barhapur<br><b>Candidate Name: </b>MOHAMMED GHAZI(Bahujan Samaj Party)<br><b>No of votes: </b>46638<br><b>Total Votes: </b>240760<br><b>Winner: </b>KUNWAR SUSHANT SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>19.37<br>"
+        },
+        "20": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>Constituency No.: </b>20<br><b>Constituency Name: </b>Dhampur<br><b>Candidate Name: </b>THAKUR MOOLCHAND CHAUHAN(Bahujan Samaj Party)<br><b>No of votes: </b>38993<br><b>Total Votes: </b>205067<br><b>Winner: </b>ASHOK KUMAR RANA(Bharatiya Janata Party)<br><b>Percentage: </b>19.01<br>"
+        },
+        "21": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>Constituency No.: </b>21<br><b>Constituency Name: </b>Nehtaur<br><b>Candidate Name: </b>PRIYA SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>38020<br><b>Total Votes: </b>199914<br><b>Winner: </b>OMKUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>19.02<br>"
+        },
+        "22": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>22<br><b>Constituency Name: </b>Bijnor<br><b>Candidate Name: </b>Ruchi Vira(Bahujan Samaj Party)<br><b>No of votes: </b>52035<br><b>Total Votes: </b>252142<br><b>Winner: </b>Suchi(Bharatiya Janata Party)<br><b>Percentage: </b>20.64<br>"
+        },
+        "23": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>23<br><b>Constituency Name: </b>Chandpur<br><b>Candidate Name: </b>SHAKEEL AHMAD(Bahujan Samaj Party)<br><b>No of votes: </b>37359<br><b>Total Votes: </b>224374<br><b>Winner: </b>SWAMI OMVESH(Samajwadi Party)<br><b>Percentage: </b>16.65<br>"
+        },
+        "24": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>Constituency No.: </b>24<br><b>Constituency Name: </b>Noorpur<br><b>Candidate Name: </b>JIYAUDDIN(Bahujan Samaj Party)<br><b>No of votes: </b>31300<br><b>Total Votes: </b>213969<br><b>Winner: </b>RAM AVATAR SINGH(Samajwadi Party)<br><b>Percentage: </b>14.63<br>"
+        },
+        "25": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>25<br><b>Constituency Name: </b>Kanth<br><b>Candidate Name: </b>Afaq Ali Khan(Bahujan Samaj Party)<br><b>No of votes: </b>36341<br><b>Total Votes: </b>273839<br><b>Winner: </b>Kamal Akhtar(Samajwadi Party)<br><b>Percentage: </b>13.27<br>"
+        },
+        "26": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>26<br><b>Constituency Name: </b>Thakurdwara<br><b>Candidate Name: </b>MUJAHID ALI(Bahujan Samaj Party)<br><b>No of votes: </b>22163<br><b>Total Votes: </b>275608<br><b>Winner: </b>NAVAB JAN(Samajwadi Party)<br><b>Percentage: </b>8.04<br>"
+        },
+        "27": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>27<br><b>Constituency Name: </b>Moradabad Rural<br><b>Candidate Name: </b>AKEEL CHOUDHARY(Bahujan Samaj Party)<br><b>No of votes: </b>13598<br><b>Total Votes: </b>251978<br><b>Winner: </b>MOHD NASIR(Samajwadi Party)<br><b>Percentage: </b>5.4<br>"
+        },
+        "28": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>28<br><b>Constituency Name: </b>Moradabad Nagar<br><b>Candidate Name: </b>IRSHAD HUSSAIN(Bahujan Samaj Party)<br><b>No of votes: </b>14013<br><b>Total Votes: </b>321704<br><b>Winner: </b>RITESH KUMAR GUPTA(Bharatiya Janata Party)<br><b>Percentage: </b>4.36<br>"
+        },
+        "29": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>29<br><b>Constituency Name: </b>Kundarki<br><b>Candidate Name: </b>MOHD. RIZWAN(Bahujan Samaj Party)<br><b>No of votes: </b>42742<br><b>Total Votes: </b>271785<br><b>Winner: </b>ZIA UR REHMAN(Samajwadi Party)<br><b>Percentage: </b>15.73<br>"
+        },
+        "30": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>30<br><b>Constituency Name: </b>Bilari<br><b>Candidate Name: </b>ANIL KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>42411<br><b>Total Votes: </b>238844<br><b>Winner: </b>MOHAMMAD FAHEEM IRFAN(Samajwadi Party)<br><b>Percentage: </b>17.76<br>"
+        },
+        "31": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>31<br><b>Constituency Name: </b>Chandausi<br><b>Candidate Name: </b>RAN VIJAY SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>30481<br><b>Total Votes: </b>227934<br><b>Winner: </b>GULAB DEBI(Bharatiya Janata Party)<br><b>Percentage: </b>13.37<br>"
+        },
+        "32": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>32<br><b>Constituency Name: </b>Asmoli<br><b>Candidate Name: </b>RAFATULLA(Bahujan Samaj Party)<br><b>No of votes: </b>42512<br><b>Total Votes: </b>260152<br><b>Winner: </b>PINKI SINGH(Samajwadi Party)<br><b>Percentage: </b>16.34<br>"
+        },
+        "33": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>Constituency No.: </b>33<br><b>Constituency Name: </b>Sambhal<br><b>Candidate Name: </b>SHAKIL AHAMAD(Bahujan Samaj Party)<br><b>No of votes: </b>44443<br><b>Total Votes: </b>244853<br><b>Winner: </b>IQBAL MEHMOOD(Samajwadi Party)<br><b>Percentage: </b>18.15<br>"
+        },
+        "34": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>34<br><b>Constituency Name: </b>Suar<br><b>Candidate Name: </b>Adhyapak Shanker Lal(Bahujan Samaj Party)<br><b>No of votes: </b>15035<br><b>Total Votes: </b>213160<br><b>Winner: </b>Mohammad Abdullah Azam Khan(Samajwadi Party)<br><b>Percentage: </b>7.05<br>"
+        },
+        "35": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>35<br><b>Constituency Name: </b>Chamraua<br><b>Candidate Name: </b>Abdul Mustafa Husain(Bahujan Samaj Party)<br><b>No of votes: </b>10366<br><b>Total Votes: </b>200601<br><b>Winner: </b>Naseer Ahmad Khan(Samajwadi Party)<br><b>Percentage: </b>5.17<br>"
+        },
+        "36": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>36<br><b>Constituency Name: </b>Bilaspur<br><b>Candidate Name: </b>Ramautar Kashyap(Bahujan Samaj Party)<br><b>No of votes: </b>18870<br><b>Total Votes: </b>236259<br><b>Winner: </b>Baldev Singh Aulakh(Bharatiya Janata Party)<br><b>Percentage: </b>7.99<br>"
+        },
+        "37": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>37<br><b>Constituency Name: </b>Rampur<br><b>Candidate Name: </b>Sadaqat Hussain(Bahujan Samaj Party)<br><b>No of votes: </b>4940<br><b>Total Votes: </b>219757<br><b>Winner: </b>Mohammad Azam Khan(Samajwadi Party)<br><b>Percentage: </b>2.25<br>"
+        },
+        "38": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>Constituency No.: </b>38<br><b>Constituency Name: </b>Milak<br><b>Candidate Name: </b>Surendra Singh Sagar(Bahujan Samaj Party)<br><b>No of votes: </b>31492<br><b>Total Votes: </b>227230<br><b>Winner: </b>Rajbala Singh(Bharatiya Janata Party)<br><b>Percentage: </b>13.86<br>"
+        },
+        "39": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>39<br><b>Constituency Name: </b>Dhanaura<br><b>Candidate Name: </b>HARPAL SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>43974<br><b>Total Votes: </b>243697<br><b>Winner: </b>RAJEEV KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>18.04<br>"
+        },
+        "40": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>40<br><b>Constituency Name: </b>Naugawan Sadat<br><b>Candidate Name: </b>SHADAB KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>28688<br><b>Total Votes: </b>244837<br><b>Winner: </b>SAMARPAL SINGH(Samajwadi Party)<br><b>Percentage: </b>11.72<br>"
+        },
+        "41": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>41<br><b>Constituency Name: </b>Amroha<br><b>Candidate Name: </b>MOHAMMED NAVED AYAZ(Bahujan Samaj Party)<br><b>No of votes: </b>34585<br><b>Total Votes: </b>224150<br><b>Winner: </b>MEHBOOB ALI(Samajwadi Party)<br><b>Percentage: </b>15.43<br>"
+        },
+        "42": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>42<br><b>Constituency Name: </b>Hasanpur<br><b>Candidate Name: </b>PHIRERAM(Bahujan Samaj Party)<br><b>No of votes: </b>36150<br><b>Total Votes: </b>268924<br><b>Winner: </b>MAHENDRA(Bharatiya Janata Party)<br><b>Percentage: </b>13.44<br>"
+        },
+        "43": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>43<br><b>Constituency Name: </b>Siwalkhas<br><b>Candidate Name: </b>MUKRRAM ALI URF NANHE KHATUN(Bahujan Samaj Party)<br><b>No of votes: </b>29958<br><b>Total Votes: </b>233667<br><b>Winner: </b>GHULAM MOHAMMAD(Rashtriya Lok Dal)<br><b>Percentage: </b>12.82<br>"
+        },
+        "44": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>44<br><b>Constituency Name: </b>Sardhana<br><b>Candidate Name: </b>Sanjeev Dhama(Bahujan Samaj Party)<br><b>No of votes: </b>18140<br><b>Total Votes: </b>243206<br><b>Winner: </b>Atul Pradhan(Samajwadi Party)<br><b>Percentage: </b>7.46<br>"
+        },
+        "45": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>45<br><b>Constituency Name: </b>Hastinapur<br><b>Candidate Name: </b>Sanjeev Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>14240<br><b>Total Votes: </b>230276<br><b>Winner: </b>Dinesh(Bharatiya Janata Party)<br><b>Percentage: </b>6.18<br>"
+        },
+        "46": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>46<br><b>Constituency Name: </b>Kithore<br><b>Candidate Name: </b>KUSHAL PAL MAVI(Bahujan Samaj Party)<br><b>No of votes: </b>31213<br><b>Total Votes: </b>253869<br><b>Winner: </b>SHAHID MANZOOR(Samajwadi Party)<br><b>Percentage: </b>12.29<br>"
+        },
+        "47": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>47<br><b>Constituency Name: </b>Meerut Cantt.<br><b>Candidate Name: </b>AMIT SHARMA(Bahujan Samaj Party)<br><b>No of votes: </b>28519<br><b>Total Votes: </b>244493<br><b>Winner: </b>AMIT AGARWAL(Bharatiya Janata Party)<br><b>Percentage: </b>11.66<br>"
+        },
+        "48": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>48<br><b>Constituency Name: </b>Meerut<br><b>Candidate Name: </b>DILSHAD(Bahujan Samaj Party)<br><b>No of votes: </b>4939<br><b>Total Votes: </b>201638<br><b>Winner: </b>RAFIQ ANSARI(Samajwadi Party)<br><b>Percentage: </b>2.45<br>"
+        },
+        "49": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>49<br><b>Constituency Name: </b>Meerut South<br><b>Candidate Name: </b>Dilshad Ali(Bahujan Samaj Party)<br><b>No of votes: </b>39857<br><b>Total Votes: </b>298393<br><b>Winner: </b>Dr. Somendra Singh Tomar(Bharatiya Janata Party)<br><b>Percentage: </b>13.36<br>"
+        },
+        "50": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>50<br><b>Constituency Name: </b>Chhaprauli<br><b>Candidate Name: </b>Sahik(Bahujan Samaj Party)<br><b>No of votes: </b>9774<br><b>Total Votes: </b>209904<br><b>Winner: </b>Ajay Kumar(Rashtriya Lok Dal)<br><b>Percentage: </b>4.66<br>"
+        },
+        "51": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>51<br><b>Constituency Name: </b>Baraut<br><b>Candidate Name: </b>ANKIT SHAMAR(Bahujan Samaj Party)<br><b>No of votes: </b>11244<br><b>Total Votes: </b>196226<br><b>Winner: </b>KRISHAN PAL MALIK(Bharatiya Janata Party)<br><b>Percentage: </b>5.73<br>"
+        },
+        "52": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>52<br><b>Constituency Name: </b>Baghpat<br><b>Candidate Name: </b>Arun Kasana(Bahujan Samaj Party)<br><b>No of votes: </b>12863<br><b>Total Votes: </b>214112<br><b>Winner: </b>Yogesh Dhama(Bharatiya Janata Party)<br><b>Percentage: </b>6.01<br>"
+        },
+        "53": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>53<br><b>Constituency Name: </b>Loni<br><b>Candidate Name: </b>AKIL(Bahujan Samaj Party)<br><b>No of votes: </b>25717<br><b>Total Votes: </b>315095<br><b>Winner: </b>NANDKISHOR(Bharatiya Janata Party)<br><b>Percentage: </b>8.16<br>"
+        },
+        "54": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>54<br><b>Constituency Name: </b>Muradnagar<br><b>Candidate Name: </b>Ayyuv Khan(Bahujan Samaj Party)<br><b>No of votes: </b>20589<br><b>Total Votes: </b>274689<br><b>Winner: </b>Ajit Pal Tyagi(Bharatiya Janata Party)<br><b>Percentage: </b>7.5<br>"
+        },
+        "55": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>55<br><b>Constituency Name: </b>Sahibabad<br><b>Candidate Name: </b>AJIT KUMAR PAL(Bahujan Samaj Party)<br><b>No of votes: </b>24136<br><b>Total Votes: </b>481686<br><b>Winner: </b>SUNIL KUMAR SHARMA(Bharatiya Janata Party)<br><b>Percentage: </b>5.01<br>"
+        },
+        "56": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>56<br><b>Constituency Name: </b>Ghaziabad<br><b>Candidate Name: </b>Krishan Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>32691<br><b>Total Votes: </b>244766<br><b>Winner: </b>Atul Garg(Bharatiya Janata Party)<br><b>Percentage: </b>13.36<br>"
+        },
+        "57": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>57<br><b>Constituency Name: </b>Modi Nagar<br><b>Candidate Name: </b>DR. POONAM GARG(Bahujan Samaj Party)<br><b>No of votes: </b>26729<br><b>Total Votes: </b>223867<br><b>Winner: </b>DR. MANJU SHIWACH(Bharatiya Janata Party)<br><b>Percentage: </b>11.94<br>"
+        },
+        "58": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>58<br><b>Constituency Name: </b>Dhaulana<br><b>Candidate Name: </b>BASID(Bahujan Samaj Party)<br><b>No of votes: </b>32999<br><b>Total Votes: </b>280013<br><b>Winner: </b>DHARMESH SINGH TOMAR(Bharatiya Janata Party)<br><b>Percentage: </b>11.78<br>"
+        },
+        "59": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>59<br><b>Constituency Name: </b>Hapur<br><b>Candidate Name: </b>MANISH SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>50751<br><b>Total Votes: </b>246567<br><b>Winner: </b>VIJAYPAL (AADHTI)(Bharatiya Janata Party)<br><b>Percentage: </b>20.58<br>"
+        },
+        "60": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>60<br><b>Constituency Name: </b>Garhmukteshwar<br><b>Candidate Name: </b>MADAN CHAUHAN(Bahujan Samaj Party)<br><b>No of votes: </b>43929<br><b>Total Votes: </b>236220<br><b>Winner: </b>HARENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>18.6<br>"
+        },
+        "61": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>61<br><b>Constituency Name: </b>Noida<br><b>Candidate Name: </b>Kripa Ram Sharma(Bahujan Samaj Party)<br><b>No of votes: </b>16292<br><b>Total Votes: </b>348228<br><b>Winner: </b>Pankaj Singh(Bharatiya Janata Party)<br><b>Percentage: </b>4.68<br>"
+        },
+        "62": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>62<br><b>Constituency Name: </b>Dadri<br><b>Candidate Name: </b>MANBIR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>40456<br><b>Total Votes: </b>353777<br><b>Winner: </b>TEJPAL SINGH NAGAR(Bharatiya Janata Party)<br><b>Percentage: </b>11.44<br>"
+        },
+        "63": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>63<br><b>Constituency Name: </b>Jewar<br><b>Candidate Name: </b>NARENDER KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>45256<br><b>Total Votes: </b>231959<br><b>Winner: </b>DHIRENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>19.51<br>"
+        },
+        "64": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>64<br><b>Constituency Name: </b>Sikandrabad<br><b>Candidate Name: </b>Manveer Singh(Bahujan Samaj Party)<br><b>No of votes: </b>42634<br><b>Total Votes: </b>273133<br><b>Winner: </b>Lakshmi Raj(Bharatiya Janata Party)<br><b>Percentage: </b>15.61<br>"
+        },
+        "65": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>65<br><b>Constituency Name: </b>Bulandshahr<br><b>Candidate Name: </b>Mohd. Mobin Kallu Qureshi(Bahujan Samaj Party)<br><b>No of votes: </b>24373<br><b>Total Votes: </b>259670<br><b>Winner: </b>Pradeep Kumar Chaudhary(Bharatiya Janata Party)<br><b>Percentage: </b>9.39<br>"
+        },
+        "66": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>Constituency No.: </b>66<br><b>Constituency Name: </b>Syana<br><b>Candidate Name: </b>Sunil Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>36193<br><b>Total Votes: </b>253197<br><b>Winner: </b>Devendra Singh Lodhi(Bharatiya Janata Party)<br><b>Percentage: </b>14.29<br>"
+        },
+        "67": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>Constituency No.: </b>67<br><b>Constituency Name: </b>Anupshahr<br><b>Candidate Name: </b>Rameshvar(Bahujan Samaj Party)<br><b>No of votes: </b>47979<br><b>Total Votes: </b>238600<br><b>Winner: </b>Sanjay Kumar Sharma(Bharatiya Janata Party)<br><b>Percentage: </b>20.11<br>"
+        },
+        "68": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>68<br><b>Constituency Name: </b>Debai<br><b>Candidate Name: </b>KARAN PAL SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>24516<br><b>Total Votes: </b>219519<br><b>Winner: </b>CHANDRAPAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>11.17<br>"
+        },
+        "69": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>Constituency No.: </b>69<br><b>Constituency Name: </b>Shikarpur<br><b>Candidate Name: </b>Mu Rafik(Bahujan Samaj Party)<br><b>No of votes: </b>37358<br><b>Total Votes: </b>214653<br><b>Winner: </b>Anil Kumar(Bharatiya Janata Party)<br><b>Percentage: </b>17.4<br>"
+        },
+        "70": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>Constituency No.: </b>70<br><b>Constituency Name: </b>Khurja<br><b>Candidate Name: </b>Vinod(Bahujan Samaj Party)<br><b>No of votes: </b>45325<br><b>Total Votes: </b>259387<br><b>Winner: </b>Minakshi Singh(Bharatiya Janata Party)<br><b>Percentage: </b>17.47<br>"
+        },
+        "71": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>Constituency No.: </b>71<br><b>Constituency Name: </b>Khair<br><b>Candidate Name: </b>CHARU KAIN KAIN(Bahujan Samaj Party)<br><b>No of votes: </b>65302<br><b>Total Votes: </b>251380<br><b>Winner: </b>ANOOP SINGH URF ANOOP PRADHAN VALMEEKI(Bharatiya Janata Party)<br><b>Percentage: </b>25.98<br>"
+        },
+        "72": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>Constituency No.: </b>72<br><b>Constituency Name: </b>Barauli<br><b>Candidate Name: </b>NARENDRA KUMAR SHARMA(Bahujan Samaj Party)<br><b>No of votes: </b>57339<br><b>Total Votes: </b>244299<br><b>Winner: </b>Thakur Jaiveer Singh(Bharatiya Janata Party)<br><b>Percentage: </b>23.47<br>"
+        },
+        "73": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>73<br><b>Constituency Name: </b>Atrauli<br><b>Candidate Name: </b>DR. OMVIR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>23134<br><b>Total Votes: </b>241581<br><b>Winner: </b>SANDEEP KUMAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>9.58<br>"
+        },
+        "74": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>74<br><b>Constituency Name: </b>Chharra<br><b>Candidate Name: </b>TILAK RAJ(Bahujan Samaj Party)<br><b>No of votes: </b>37558<br><b>Total Votes: </b>243058<br><b>Winner: </b>RAVENDRA PAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>15.45<br>"
+        },
+        "75": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>75<br><b>Constituency Name: </b>Koil<br><b>Candidate Name: </b>MOHD BILAL(Bahujan Samaj Party)<br><b>No of votes: </b>23016<br><b>Total Votes: </b>252406<br><b>Winner: </b>ANIL PARASHAR(Bharatiya Janata Party)<br><b>Percentage: </b>9.12<br>"
+        },
+        "76": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>76<br><b>Constituency Name: </b>Aligarh<br><b>Candidate Name: </b>RAZIA KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>18273<br><b>Total Votes: </b>252587<br><b>Winner: </b>MUKTA RAJA(Bharatiya Janata Party)<br><b>Percentage: </b>7.23<br>"
+        },
+        "77": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>77<br><b>Constituency Name: </b>Iglas<br><b>Candidate Name: </b>SUSHIL KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>37980<br><b>Total Votes: </b>243015<br><b>Winner: </b>RAJKUMAR SAHYOGI(Bharatiya Janata Party)<br><b>Percentage: </b>15.63<br>"
+        },
+        "78": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>78<br><b>Constituency Name: </b>Hathras<br><b>Candidate Name: </b>SANJEEV KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>53799<br><b>Total Votes: </b>263054<br><b>Winner: </b>ANJULA SINGH MAHAUR(Bharatiya Janata Party)<br><b>Percentage: </b>20.45<br>"
+        },
+        "79": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>79<br><b>Constituency Name: </b>Sadabad<br><b>Candidate Name: </b>DR. AVIN SHARMA(Bahujan Samaj Party)<br><b>No of votes: </b>32555<br><b>Total Votes: </b>242482<br><b>Winner: </b>PRADEEP KUMAR SINGH(Rashtriya Lok Dal)<br><b>Percentage: </b>13.43<br>"
+        },
+        "80": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>80<br><b>Constituency Name: </b>Sikandra Rao<br><b>Candidate Name: </b>Awdhesh Kumar Singh(Bahujan Samaj Party)<br><b>No of votes: </b>41781<br><b>Total Votes: </b>235619<br><b>Winner: </b>Birendra Singh Rana(Bharatiya Janata Party)<br><b>Percentage: </b>17.73<br>"
+        },
+        "81": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>81<br><b>Constituency Name: </b>Chhata<br><b>Candidate Name: </b>SONPAL(Bahujan Samaj Party)<br><b>No of votes: </b>30214<br><b>Total Votes: </b>238419<br><b>Winner: </b>LAXMI NARAYAN(Bharatiya Janata Party)<br><b>Percentage: </b>12.67<br>"
+        },
+        "82": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>Constituency No.: </b>82<br><b>Constituency Name: </b>Mant<br><b>Candidate Name: </b>SHYAM SUNDAR SHARMA(Bahujan Samaj Party)<br><b>No of votes: </b>74378<br><b>Total Votes: </b>224786<br><b>Winner: </b>RAJESH CHAUDHARY(Bharatiya Janata Party)<br><b>Percentage: </b>33.09<br>"
+        },
+        "83": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>Constituency No.: </b>83<br><b>Constituency Name: </b>Goverdhan<br><b>Candidate Name: </b>RAJKUMAR RAWAT(Bahujan Samaj Party)<br><b>No of votes: </b>57692<br><b>Total Votes: </b>221637<br><b>Winner: </b>MEGHSHYAM(Bharatiya Janata Party)<br><b>Percentage: </b>26.03<br>"
+        },
+        "84": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>84<br><b>Constituency Name: </b>Mathura<br><b>Candidate Name: </b>S.K.SHARMA(Bahujan Samaj Party)<br><b>No of votes: </b>31551<br><b>Total Votes: </b>263621<br><b>Winner: </b>SHRIKANT SHARMA(Bharatiya Janata Party)<br><b>Percentage: </b>11.97<br>"
+        },
+        "85": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>85<br><b>Constituency Name: </b>Baldev<br><b>Candidate Name: </b>ASHOK KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>48370<br><b>Total Votes: </b>245601<br><b>Winner: </b>PURAN PRAKASH(Bharatiya Janata Party)<br><b>Percentage: </b>19.69<br>"
+        },
+        "86": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>Constituency No.: </b>86<br><b>Constituency Name: </b>Etmadpur<br><b>Candidate Name: </b>PRAVAL PRATAP SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>98679<br><b>Total Votes: </b>300588<br><b>Winner: </b>DR. DHARMPAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>32.83<br>"
+        },
+        "87": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>87<br><b>Constituency Name: </b>Agra Cantt.<br><b>Candidate Name: </b>Dr.  Bhartendra Kumar Arun(Bahujan Samaj Party)<br><b>No of votes: </b>54409<br><b>Total Votes: </b>251816<br><b>Winner: </b>Dr. G S Dharmesh(Bharatiya Janata Party)<br><b>Percentage: </b>21.61<br>"
+        },
+        "88": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>Constituency No.: </b>88<br><b>Constituency Name: </b>Agra South<br><b>Candidate Name: </b>RAVI BHARADWAJ(Bahujan Samaj Party)<br><b>No of votes: </b>38219<br><b>Total Votes: </b>208569<br><b>Winner: </b>YOGENDRA UPADHYAYA(Bharatiya Janata Party)<br><b>Percentage: </b>18.32<br>"
+        },
+        "89": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>Constituency No.: </b>89<br><b>Constituency Name: </b>Agra North<br><b>Candidate Name: </b>SHABBIR ABBAS(Bahujan Samaj Party)<br><b>No of votes: </b>41447<br><b>Total Votes: </b>240752<br><b>Winner: </b>PURUSHOTTAM KHANDELWAL(Bharatiya Janata Party)<br><b>Percentage: </b>17.22<br>"
+        },
+        "90": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>Constituency No.: </b>90<br><b>Constituency Name: </b>Agra Rural<br><b>Candidate Name: </b>KIRAN PRABHA KESHARI(Bahujan Samaj Party)<br><b>No of votes: </b>60702<br><b>Total Votes: </b>260921<br><b>Winner: </b>BABY RANI MAURYA(Bharatiya Janata Party)<br><b>Percentage: </b>23.26<br>"
+        },
+        "91": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>Constituency No.: </b>91<br><b>Constituency Name: </b>Fatehpur Sikri<br><b>Candidate Name: </b>Mukesh Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>59641<br><b>Total Votes: </b>242922<br><b>Winner: </b>Babulal(Bharatiya Janata Party)<br><b>Percentage: </b>24.55<br>"
+        },
+        "92": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>Constituency No.: </b>92<br><b>Constituency Name: </b>Kheragarh<br><b>Candidate Name: </b>Gangadhar Kushwah(Bahujan Samaj Party)<br><b>No of votes: </b>28988<br><b>Total Votes: </b>205257<br><b>Winner: </b>Bhagwan Singh Kushwaha(Bharatiya Janata Party)<br><b>Percentage: </b>14.12<br>"
+        },
+        "93": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>Constituency No.: </b>93<br><b>Constituency Name: </b>Fatehabad<br><b>Candidate Name: </b>Shailendra Singh(Bahujan Samaj Party)<br><b>No of votes: </b>40958<br><b>Total Votes: </b>215626<br><b>Winner: </b>Chhotey Lal Verma(Bharatiya Janata Party)<br><b>Percentage: </b>18.99<br>"
+        },
+        "94": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>Constituency No.: </b>94<br><b>Constituency Name: </b>Bah<br><b>Candidate Name: </b>Nitin Verma(Bahujan Samaj Party)<br><b>No of votes: </b>50618<br><b>Total Votes: </b>190382<br><b>Winner: </b>Rani Pakshalika Singh(Bharatiya Janata Party)<br><b>Percentage: </b>26.59<br>"
+        },
+        "95": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>95<br><b>Constituency Name: </b>Tundla<br><b>Candidate Name: </b>AMAR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>40977<br><b>Total Votes: </b>248451<br><b>Winner: </b>PREM PAL SINGH DHANGAR(Bharatiya Janata Party)<br><b>Percentage: </b>16.49<br>"
+        },
+        "96": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>96<br><b>Constituency Name: </b>Jasrana<br><b>Candidate Name: </b>SURYA PRATAP SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>16955<br><b>Total Votes: </b>247762<br><b>Winner: </b>SACHIN YADAV(Samajwadi Party)<br><b>Percentage: </b>6.84<br>"
+        },
+        "97": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>Constituency No.: </b>97<br><b>Constituency Name: </b>Firozabad<br><b>Candidate Name: </b>SHAZIA HASAN(Bahujan Samaj Party)<br><b>No of votes: </b>37643<br><b>Total Votes: </b>259033<br><b>Winner: </b>MANISH ASIJA(Bharatiya Janata Party)<br><b>Percentage: </b>14.53<br>"
+        },
+        "98": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>98<br><b>Constituency Name: </b>Shikohabad<br><b>Candidate Name: </b>ANIL KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>25445<br><b>Total Votes: </b>235438<br><b>Winner: </b>MUKESH VERMA(Samajwadi Party)<br><b>Percentage: </b>10.81<br>"
+        },
+        "99": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>99<br><b>Constituency Name: </b>Sirsaganj<br><b>Candidate Name: </b>Pankaj Mishra(Bahujan Samaj Party)<br><b>No of votes: </b>18757<br><b>Total Votes: </b>208192<br><b>Winner: </b>SARVESH SINGH(Samajwadi Party)<br><b>Percentage: </b>9.01<br>"
+        },
+        "100": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>100<br><b>Constituency Name: </b>Kasganj<br><b>Candidate Name: </b>Mohd. Arif(Bahujan Samaj Party)<br><b>No of votes: </b>23001<br><b>Total Votes: </b>234326<br><b>Winner: </b>Devendra Singh(Bharatiya Janata Party)<br><b>Percentage: </b>9.82<br>"
+        },
+        "101": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>101<br><b>Constituency Name: </b>Amanpur<br><b>Candidate Name: </b>SUBHASH CHANDRA(Bahujan Samaj Party)<br><b>No of votes: </b>35372<br><b>Total Votes: </b>191228<br><b>Winner: </b>HARIOM(Bharatiya Janata Party)<br><b>Percentage: </b>18.5<br>"
+        },
+        "102": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>Constituency No.: </b>102<br><b>Constituency Name: </b>Patiyali<br><b>Candidate Name: </b>Neeraj Kishore Mishra(Bahujan Samaj Party)<br><b>No of votes: </b>30626<br><b>Total Votes: </b>219549<br><b>Winner: </b>Nadira Sultan(Samajwadi Party)<br><b>Percentage: </b>13.95<br>"
+        },
+        "103": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>103<br><b>Constituency Name: </b>Aliganj<br><b>Candidate Name: </b>SAOOD ALI KHAN URF JUNAID MIYAN(Bahujan Samaj Party)<br><b>No of votes: </b>17751<br><b>Total Votes: </b>226375<br><b>Winner: </b>SATYAPAL SINGH RATHORE(Bharatiya Janata Party)<br><b>Percentage: </b>7.84<br>"
+        },
+        "104": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>104<br><b>Constituency Name: </b>Etah<br><b>Candidate Name: </b>Ajay Singh(Bahujan Samaj Party)<br><b>No of votes: </b>26871<br><b>Total Votes: </b>210489<br><b>Winner: </b>Vipin kumar David(Bharatiya Janata Party)<br><b>Percentage: </b>12.77<br>"
+        },
+        "105": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>105<br><b>Constituency Name: </b>Marhara<br><b>Candidate Name: </b>Yogesh Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>16900<br><b>Total Votes: </b>206870<br><b>Winner: </b>Virendra Singh Lodhi(Bharatiya Janata Party)<br><b>Percentage: </b>8.17<br>"
+        },
+        "106": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>106<br><b>Constituency Name: </b>Jalesar<br><b>Candidate Name: </b>AKASH SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>19364<br><b>Total Votes: </b>202531<br><b>Winner: </b>SANJEEV KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>9.56<br>"
+        },
+        "107": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>107<br><b>Constituency Name: </b>Mainpuri<br><b>Candidate Name: </b>GAURAV NAND(Bahujan Samaj Party)<br><b>No of votes: </b>17216<br><b>Total Votes: </b>213589<br><b>Winner: </b>JAYVEER SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>8.06<br>"
+        },
+        "108": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>108<br><b>Constituency Name: </b>Bhongaon<br><b>Candidate Name: </b>Ashok Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>14150<br><b>Total Votes: </b>215153<br><b>Winner: </b>Ram Naresh Agnihotri(Bharatiya Janata Party)<br><b>Percentage: </b>6.58<br>"
+        },
+        "109": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>109<br><b>Constituency Name: </b>Kishni<br><b>Candidate Name: </b>PRABHU DAYAL(Bahujan Samaj Party)<br><b>No of votes: </b>16755<br><b>Total Votes: </b>195795<br><b>Winner: </b>ENG. BRAJESH KATHERIYA(Samajwadi Party)<br><b>Percentage: </b>8.56<br>"
+        },
+        "110": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>110<br><b>Constituency Name: </b>Karhal<br><b>Candidate Name: </b>Kuladip Narayan(Bahujan Samaj Party)<br><b>No of votes: </b>15701<br><b>Total Votes: </b>246498<br><b>Winner: </b>Akhilesh Yadav(Samajwadi Party)<br><b>Percentage: </b>6.37<br>"
+        },
+        "111": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>111<br><b>Constituency Name: </b>Gunnaur<br><b>Candidate Name: </b>FIROZ(Bahujan Samaj Party)<br><b>No of votes: </b>15068<br><b>Total Votes: </b>241292<br><b>Winner: </b>Ramkhiladi Singh(Samajwadi Party)<br><b>Percentage: </b>6.24<br>"
+        },
+        "112": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>112<br><b>Constituency Name: </b>Bisauli<br><b>Candidate Name: </b>JAYPAL SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>23454<br><b>Total Votes: </b>249964<br><b>Winner: </b>ASHUTOSH MAURYA URF RAJU(Samajwadi Party)<br><b>Percentage: </b>9.38<br>"
+        },
+        "113": {
+            "color": "rgba(253.7121, 213.7879, 143.5985, 1.0)",
+            "matter": "<b>Constituency No.: </b>113<br><b>Constituency Name: </b>Sahaswan<br><b>Candidate Name: </b>MUSARRAT ALI(Bahujan Samaj Party)<br><b>No of votes: </b>69728<br><b>Total Votes: </b>250872<br><b>Winner: </b>BRAJESH YADAV(Samajwadi Party)<br><b>Percentage: </b>27.79<br>"
+        },
+        "114": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>114<br><b>Constituency Name: </b>Bilsi<br><b>Candidate Name: </b>MAMTA SHAKYA(Bahujan Samaj Party)<br><b>No of votes: </b>31694<br><b>Total Votes: </b>205319<br><b>Winner: </b>HARISH CHANDRA(Bharatiya Janata Party)<br><b>Percentage: </b>15.44<br>"
+        },
+        "115": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>Constituency No.: </b>115<br><b>Constituency Name: </b>Badaun<br><b>Candidate Name: </b>Rajesh Kumar Singh(Bahujan Samaj Party)<br><b>No of votes: </b>23135<br><b>Total Votes: </b>219183<br><b>Winner: </b>Mahesh Chandra Gupta(Bharatiya Janata Party)<br><b>Percentage: </b>10.56<br>"
+        },
+        "116": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>Constituency No.: </b>116<br><b>Constituency Name: </b>Shekhupur<br><b>Candidate Name: </b>MUSLIM KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>34932<br><b>Total Votes: </b>246366<br><b>Winner: </b>Himanshu Yadav(Samajwadi Party)<br><b>Percentage: </b>14.18<br>"
+        },
+        "117": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>117<br><b>Constituency Name: </b>Dataganj<br><b>Candidate Name: </b>RACHIT GUPTA(Bahujan Samaj Party)<br><b>No of votes: </b>20571<br><b>Total Votes: </b>237304<br><b>Winner: </b>RAJEEV SINGH  URF BABBU BHAIYA(Bharatiya Janata Party)<br><b>Percentage: </b>8.67<br>"
+        },
+        "118": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>118<br><b>Constituency Name: </b>Baheri<br><b>Candidate Name: </b>ASEY RAM(Bahujan Samaj Party)<br><b>No of votes: </b>15814<br><b>Total Votes: </b>266003<br><b>Winner: </b>ATAUR REHMAN(Samajwadi Party)<br><b>Percentage: </b>5.95<br>"
+        },
+        "119": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>119<br><b>Constituency Name: </b>Meerganj<br><b>Candidate Name: </b>KUNWAR BHANU PRATAP SINGH KUNWAR PRATAP(Bahujan Samaj Party)<br><b>No of votes: </b>19189<br><b>Total Votes: </b>228387<br><b>Winner: </b>DR. D. C. VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>8.4<br>"
+        },
+        "120": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>Constituency No.: </b>120<br><b>Constituency Name: </b>Bhojipura<br><b>Candidate Name: </b>YOGESH KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>26909<br><b>Total Votes: </b>260250<br><b>Winner: </b>SHAZIL ISLAM ANSARI(Samajwadi Party)<br><b>Percentage: </b>10.34<br>"
+        },
+        "121": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>121<br><b>Constituency Name: </b>Nawabganj<br><b>Candidate Name: </b>Yusuf Khan(Bahujan Samaj Party)<br><b>No of votes: </b>11083<br><b>Total Votes: </b>230503<br><b>Winner: </b>Dr. M. P. Arya(Bharatiya Janata Party)<br><b>Percentage: </b>4.81<br>"
+        },
+        "122": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>122<br><b>Constituency Name: </b>Faridpur<br><b>Candidate Name: </b>SHALINI SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>14478<br><b>Total Votes: </b>203607<br><b>Winner: </b>PROF. SHYAM BIHARI LAL(Bharatiya Janata Party)<br><b>Percentage: </b>7.11<br>"
+        },
+        "123": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>123<br><b>Constituency Name: </b>Bithari Chainpur<br><b>Candidate Name: </b>ASHISH PATEL(Bahujan Samaj Party)<br><b>No of votes: </b>22727<br><b>Total Votes: </b>248030<br><b>Winner: </b>DR. RAGHAVENDRA SHARMA(Bharatiya Janata Party)<br><b>Percentage: </b>9.16<br>"
+        },
+        "124": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>124<br><b>Constituency Name: </b>Bareilly<br><b>Candidate Name: </b>BRAHAMA NAND SHARMA(Bahujan Samaj Party)<br><b>No of votes: </b>6982<br><b>Total Votes: </b>239946<br><b>Winner: </b>DR ARUN KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>2.91<br>"
+        },
+        "125": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>125<br><b>Constituency Name: </b>Bareilly Cantt.<br><b>Candidate Name: </b>ANIL KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>3370<br><b>Total Votes: </b>196168<br><b>Winner: </b>SANJEEV AGARWAL(Bharatiya Janata Party)<br><b>Percentage: </b>1.72<br>"
+        },
+        "126": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>126<br><b>Constituency Name: </b>Aonla<br><b>Candidate Name: </b>LAXMAN PRASAD(Bahujan Samaj Party)<br><b>No of votes: </b>18773<br><b>Total Votes: </b>191509<br><b>Winner: </b>DHARMPAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>9.8<br>"
+        },
+        "127": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>127<br><b>Constituency Name: </b>Pilibhit<br><b>Candidate Name: </b>SHANE ALI(Bahujan Samaj Party)<br><b>No of votes: </b>12099<br><b>Total Votes: </b>261009<br><b>Winner: </b>SANJAY SINGH GANGWAR(Bharatiya Janata Party)<br><b>Percentage: </b>4.64<br>"
+        },
+        "128": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>128<br><b>Constituency Name: </b>Barkhera<br><b>Candidate Name: </b>MOHAN SWAROOP(Bahujan Samaj Party)<br><b>No of votes: </b>9383<br><b>Total Votes: </b>237878<br><b>Winner: </b>JAYDRATH URF PRAVAKTANAND(Bharatiya Janata Party)<br><b>Percentage: </b>3.94<br>"
+        },
+        "129": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>129<br><b>Constituency Name: </b>Puranpur<br><b>Candidate Name: </b>ASHOK KUMAR RAJA(Bahujan Samaj Party)<br><b>No of votes: </b>16060<br><b>Total Votes: </b>268177<br><b>Winner: </b>BABURAM(Bharatiya Janata Party)<br><b>Percentage: </b>5.99<br>"
+        },
+        "130": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>Constituency No.: </b>130<br><b>Constituency Name: </b>Bisalpur<br><b>Candidate Name: </b>ANIS AHMED KHAN PHOOL BABU(Bahujan Samaj Party)<br><b>No of votes: </b>35983<br><b>Total Votes: </b>239625<br><b>Winner: </b>VIVEK KUMAR VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>15.02<br>"
+        },
+        "131": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>131<br><b>Constituency Name: </b>Katra<br><b>Candidate Name: </b>Rajesh Kashyap(Bahujan Samaj Party)<br><b>No of votes: </b>15236<br><b>Total Votes: </b>194967<br><b>Winner: </b>Veer Vikram Singh(Bharatiya Janata Party)<br><b>Percentage: </b>7.81<br>"
+        },
+        "132": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>132<br><b>Constituency Name: </b>Jalalabad<br><b>Candidate Name: </b>Anuruddh Singh(Bahujan Samaj Party)<br><b>No of votes: </b>16057<br><b>Total Votes: </b>216688<br><b>Winner: </b>Hari Prakash Verma(Bharatiya Janata Party)<br><b>Percentage: </b>7.41<br>"
+        },
+        "133": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>133<br><b>Constituency Name: </b>Tilhar<br><b>Candidate Name: </b>NAWAB FAIZAN ALI KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>12290<br><b>Total Votes: </b>213455<br><b>Winner: </b>SALONA KUSHWAHA(Bharatiya Janata Party)<br><b>Percentage: </b>5.76<br>"
+        },
+        "134": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>134<br><b>Constituency Name: </b>Powayan<br><b>Candidate Name: </b>UDAYVEER SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>16799<br><b>Total Votes: </b>233325<br><b>Winner: </b>CHETRAM(Bharatiya Janata Party)<br><b>Percentage: </b>7.2<br>"
+        },
+        "135": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>135<br><b>Constituency Name: </b>Shahjahanpur<br><b>Candidate Name: </b>Sarvesh Chandra Dhandhu(Bahujan Samaj Party)<br><b>No of votes: </b>8726<br><b>Total Votes: </b>224447<br><b>Winner: </b>Suresh Kumar Khanna(Bharatiya Janata Party)<br><b>Percentage: </b>3.89<br>"
+        },
+        "136": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>136<br><b>Constituency Name: </b>Dadraul<br><b>Candidate Name: </b>Chandraketu Maurya(Bahujan Samaj Party)<br><b>No of votes: </b>21671<br><b>Total Votes: </b>224055<br><b>Winner: </b>MANVENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>9.67<br>"
+        },
+        "137": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>137<br><b>Constituency Name: </b>Palia<br><b>Candidate Name: </b>Dr. Jakir Husain(Bahujan Samaj Party)<br><b>No of votes: </b>27849<br><b>Total Votes: </b>236794<br><b>Winner: </b>Harvinder Kumar Sahni alias Romi Sahni(Bharatiya Janata Party)<br><b>Percentage: </b>11.76<br>"
+        },
+        "138": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>138<br><b>Constituency Name: </b>Nighasan<br><b>Candidate Name: </b>R A Usmani(Bahujan Samaj Party)<br><b>No of votes: </b>15392<br><b>Total Votes: </b>236815<br><b>Winner: </b>Shashank Verma(Bharatiya Janata Party)<br><b>Percentage: </b>6.5<br>"
+        },
+        "139": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>Constituency No.: </b>139<br><b>Constituency Name: </b>Gola Gokrannath<br><b>Candidate Name: </b>Patel Shikha Ashok Kanaujiya(Bahujan Samaj Party)<br><b>No of votes: </b>26970<br><b>Total Votes: </b>259993<br><b>Winner: </b>Arvind Giri(Bharatiya Janata Party)<br><b>Percentage: </b>10.37<br>"
+        },
+        "140": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>140<br><b>Constituency Name: </b>Sri Nagar<br><b>Candidate Name: </b>Meera Bano(Bahujan Samaj Party)<br><b>No of votes: </b>23091<br><b>Total Votes: </b>229293<br><b>Winner: </b>Manju Tyagi(Bharatiya Janata Party)<br><b>Percentage: </b>10.07<br>"
+        },
+        "141": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>141<br><b>Constituency Name: </b>Dhaurahra<br><b>Candidate Name: </b>ANAND MOHAN URF DHEER MOHAN TRIVEDI(Bahujan Samaj Party)<br><b>No of votes: </b>16122<br><b>Total Votes: </b>229315<br><b>Winner: </b>VINOD SHANKAR(Bharatiya Janata Party)<br><b>Percentage: </b>7.03<br>"
+        },
+        "142": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>142<br><b>Constituency Name: </b>Lakhimpur<br><b>Candidate Name: </b>Mohan Bajpai(Bahujan Samaj Party)<br><b>No of votes: </b>24014<br><b>Total Votes: </b>269472<br><b>Winner: </b>Yogesh Verma(Bharatiya Janata Party)<br><b>Percentage: </b>8.91<br>"
+        },
+        "143": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>143<br><b>Constituency Name: </b>Kasta<br><b>Candidate Name: </b>HEMVATI DEVI(Bahujan Samaj Party)<br><b>No of votes: </b>16344<br><b>Total Votes: </b>215550<br><b>Winner: </b>SAURABH SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>7.58<br>"
+        },
+        "144": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>144<br><b>Constituency Name: </b>Mohammdi<br><b>Candidate Name: </b>SHAKEEL AHMAD SIDDIQUI(Bahujan Samaj Party)<br><b>No of votes: </b>31144<br><b>Total Votes: </b>232436<br><b>Winner: </b>LOKENDRA PRATAP SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>13.4<br>"
+        },
+        "145": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>145<br><b>Constituency Name: </b>Maholi<br><b>Candidate Name: </b>DR RAJENDRA PRASAD VERMA(Bahujan Samaj Party)<br><b>No of votes: </b>25507<br><b>Total Votes: </b>250504<br><b>Winner: </b>SHASHANK TRIVEDI(Bharatiya Janata Party)<br><b>Percentage: </b>10.18<br>"
+        },
+        "146": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>146<br><b>Constituency Name: </b>Sitapur<br><b>Candidate Name: </b>Khurshid Ansari(Bahujan Samaj Party)<br><b>No of votes: </b>16988<br><b>Total Votes: </b>232552<br><b>Winner: </b>Rakesh Rathour(Bharatiya Janata Party)<br><b>Percentage: </b>7.31<br>"
+        },
+        "147": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>147<br><b>Constituency Name: </b>Hargaon<br><b>Candidate Name: </b>RANU CHAUDHARY(Bahujan Samaj Party)<br><b>No of votes: </b>16226<br><b>Total Votes: </b>222425<br><b>Winner: </b>SURESH RAHI(Bharatiya Janata Party)<br><b>Percentage: </b>7.3<br>"
+        },
+        "148": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>148<br><b>Constituency Name: </b>Laharpur<br><b>Candidate Name: </b>MO. JUNAID ANSARI(Bahujan Samaj Party)<br><b>No of votes: </b>19809<br><b>Total Votes: </b>240151<br><b>Winner: </b>ANIL KUMAR VERMA(Samajwadi Party)<br><b>Percentage: </b>8.25<br>"
+        },
+        "149": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>149<br><b>Constituency Name: </b>Biswan<br><b>Candidate Name: </b>HASHIM ALI(Bahujan Samaj Party)<br><b>No of votes: </b>24086<br><b>Total Votes: </b>236786<br><b>Winner: </b>NIRMAL VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>10.17<br>"
+        },
+        "150": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>150<br><b>Constituency Name: </b>Sevata<br><b>Candidate Name: </b>ASHISH PRATAP SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>17054<br><b>Total Votes: </b>223131<br><b>Winner: </b>GYAN TIWARI(Bharatiya Janata Party)<br><b>Percentage: </b>7.64<br>"
+        },
+        "151": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>151<br><b>Constituency Name: </b>Mahmoodabad<br><b>Candidate Name: </b>MEESAM AMMAR RIZVI(Bahujan Samaj Party)<br><b>No of votes: </b>35304<br><b>Total Votes: </b>219853<br><b>Winner: </b>ASHA MAURYA(Bharatiya Janata Party)<br><b>Percentage: </b>16.06<br>"
+        },
+        "152": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>152<br><b>Constituency Name: </b>Sidhauli<br><b>Candidate Name: </b>Pushpendra Kumar or Dr. Pushpendra Pasi(Bahujan Samaj Party)<br><b>No of votes: </b>31530<br><b>Total Votes: </b>243719<br><b>Winner: </b>Manish Rawat(Bharatiya Janata Party)<br><b>Percentage: </b>12.94<br>"
+        },
+        "153": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>153<br><b>Constituency Name: </b>Misrikh<br><b>Candidate Name: </b>SHYAM KISHOR(Bahujan Samaj Party)<br><b>No of votes: </b>34654<br><b>Total Votes: </b>221341<br><b>Winner: </b>RAMKRISHNA BHARGAVA(Bharatiya Janata Party)<br><b>Percentage: </b>15.66<br>"
+        },
+        "154": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>154<br><b>Constituency Name: </b>Sawayazpur<br><b>Candidate Name: </b>Dr. Rahul Tiwari(Bahujan Samaj Party)<br><b>No of votes: </b>21221<br><b>Total Votes: </b>248222<br><b>Winner: </b>Madhavendra Pratap Singh(Bharatiya Janata Party)<br><b>Percentage: </b>8.55<br>"
+        },
+        "155": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>155<br><b>Constituency Name: </b>Shahabad<br><b>Candidate Name: </b>AHIVRAN(Bahujan Samaj Party)<br><b>No of votes: </b>37475<br><b>Total Votes: </b>233517<br><b>Winner: </b>RAJNI TIWARI(Bharatiya Janata Party)<br><b>Percentage: </b>16.05<br>"
+        },
+        "156": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>156<br><b>Constituency Name: </b>Hardoi<br><b>Candidate Name: </b>Shobhit Pathak(Bahujan Samaj Party)<br><b>No of votes: </b>20573<br><b>Total Votes: </b>238295<br><b>Winner: </b>Nitin Agarwal(Bharatiya Janata Party)<br><b>Percentage: </b>8.63<br>"
+        },
+        "157": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>Constituency No.: </b>157<br><b>Constituency Name: </b>Gopamau<br><b>Candidate Name: </b>Sarvesh Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>31715<br><b>Total Votes: </b>213048<br><b>Winner: </b>Shyam Prakash(Bharatiya Janata Party)<br><b>Percentage: </b>14.89<br>"
+        },
+        "158": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>158<br><b>Constituency Name: </b>Sandi<br><b>Candidate Name: </b>Kamal Verma s/o Sundar Lal Verma(Bahujan Samaj Party)<br><b>No of votes: </b>30576<br><b>Total Votes: </b>195511<br><b>Winner: </b>Prabhash Kumar(Bharatiya Janata Party)<br><b>Percentage: </b>15.64<br>"
+        },
+        "159": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>159<br><b>Constituency Name: </b>Mallanwan<br><b>Candidate Name: </b>KRISHNA KUMAR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>35764<br><b>Total Votes: </b>234764<br><b>Winner: </b>ASHISH KUMAR SINGH 'ASHU'(Bharatiya Janata Party)<br><b>Percentage: </b>15.23<br>"
+        },
+        "160": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>Constituency No.: </b>160<br><b>Constituency Name: </b>Balamau<br><b>Candidate Name: </b>Tilak Chandra(Bahujan Samaj Party)<br><b>No of votes: </b>42551<br><b>Total Votes: </b>191387<br><b>Winner: </b>Rampal Verma(Bharatiya Janata Party)<br><b>Percentage: </b>22.23<br>"
+        },
+        "161": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>Constituency No.: </b>161<br><b>Constituency Name: </b>Sandila<br><b>Candidate Name: </b>Abdul Mannan(Bahujan Samaj Party)<br><b>No of votes: </b>64627<br><b>Total Votes: </b>204445<br><b>Winner: </b>Alka Singh(Bharatiya Janata Party)<br><b>Percentage: </b>31.61<br>"
+        },
+        "162": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>162<br><b>Constituency Name: </b>Bangermau<br><b>Candidate Name: </b>Ram Kishore Pal(Bahujan Samaj Party)<br><b>No of votes: </b>25543<br><b>Total Votes: </b>203527<br><b>Winner: </b>Shrikant Katiyar(Bharatiya Janata Party)<br><b>Percentage: </b>12.55<br>"
+        },
+        "163": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>163<br><b>Constituency Name: </b>Safipur<br><b>Candidate Name: </b>RAJENDRA KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>19768<br><b>Total Votes: </b>197535<br><b>Winner: </b>BAMBA LAL(Bharatiya Janata Party)<br><b>Percentage: </b>10.01<br>"
+        },
+        "164": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>164<br><b>Constituency Name: </b>Mohan<br><b>Candidate Name: </b>SEWAK LAL RAWAT(Bahujan Samaj Party)<br><b>No of votes: </b>20806<br><b>Total Votes: </b>211963<br><b>Winner: </b>BRAJESH KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>9.82<br>"
+        },
+        "165": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>165<br><b>Constituency Name: </b>Unnao<br><b>Candidate Name: </b>Devendra Singh(Bahujan Samaj Party)<br><b>No of votes: </b>15605<br><b>Total Votes: </b>245372<br><b>Winner: </b>Pankaj Gupta(Bharatiya Janata Party)<br><b>Percentage: </b>6.36<br>"
+        },
+        "166": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>166<br><b>Constituency Name: </b>Bhagwantnagar<br><b>Candidate Name: </b>Brij Kishor(Bahujan Samaj Party)<br><b>No of votes: </b>28441<br><b>Total Votes: </b>247886<br><b>Winner: </b>Ashutosh Shukla(Bharatiya Janata Party)<br><b>Percentage: </b>11.47<br>"
+        },
+        "167": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>167<br><b>Constituency Name: </b>Purwa<br><b>Candidate Name: </b>VINOD KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>10557<br><b>Total Votes: </b>256018<br><b>Winner: </b>ANIL KUMAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>4.12<br>"
+        },
+        "168": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>168<br><b>Constituency Name: </b>Malihabad<br><b>Candidate Name: </b>JAGDISH(Bahujan Samaj Party)<br><b>No of votes: </b>25914<br><b>Total Votes: </b>240941<br><b>Winner: </b>JAI DEVI(Bharatiya Janata Party)<br><b>Percentage: </b>10.76<br>"
+        },
+        "169": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>169<br><b>Constituency Name: </b>Bakshi Kaa Talab<br><b>Candidate Name: </b>SALAUDDIN 'MUSSAN'(Bahujan Samaj Party)<br><b>No of votes: </b>35167<br><b>Total Votes: </b>319052<br><b>Winner: </b>YOGESH SHUKLA(Bharatiya Janata Party)<br><b>Percentage: </b>11.02<br>"
+        },
+        "170": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>170<br><b>Constituency Name: </b>Sarojini Nagar<br><b>Candidate Name: </b>Mohd. Jaleesh Khan(Bahujan Samaj Party)<br><b>No of votes: </b>33356<br><b>Total Votes: </b>327373<br><b>Winner: </b>Rajeshwar Singh(Bharatiya Janata Party)<br><b>Percentage: </b>10.19<br>"
+        },
+        "171": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>171<br><b>Constituency Name: </b>Lucknow West<br><b>Candidate Name: </b>KAYAM RAZA  KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>10061<br><b>Total Votes: </b>258320<br><b>Winner: </b>ARMAAN KHAN(Samajwadi Party)<br><b>Percentage: </b>3.89<br>"
+        },
+        "172": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>172<br><b>Constituency Name: </b>Lucknow North<br><b>Candidate Name: </b>Mohd Sarwar Malik(Bahujan Samaj Party)<br><b>No of votes: </b>8945<br><b>Total Votes: </b>261099<br><b>Winner: </b>Dr. Neeraj Bora(Bharatiya Janata Party)<br><b>Percentage: </b>3.43<br>"
+        },
+        "173": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>173<br><b>Constituency Name: </b>Lucknow East<br><b>Candidate Name: </b>Aashish Kumar Sinha(Bahujan Samaj Party)<br><b>No of votes: </b>9834<br><b>Total Votes: </b>257468<br><b>Winner: </b>Ashutosh Tandon 'Gopal Ji '(Bharatiya Janata Party)<br><b>Percentage: </b>3.82<br>"
+        },
+        "174": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>174<br><b>Constituency Name: </b>Lucknow Central<br><b>Candidate Name: </b>ASHISH CHANDRA(Bahujan Samaj Party)<br><b>No of votes: </b>6181<br><b>Total Votes: </b>210567<br><b>Winner: </b>RAVIDAS MEHROTRA(Samajwadi Party)<br><b>Percentage: </b>2.94<br>"
+        },
+        "175": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>175<br><b>Constituency Name: </b>Lucknow Cantt.<br><b>Candidate Name: </b>Anil Pandey(Bahujan Samaj Party)<br><b>No of votes: </b>10426<br><b>Total Votes: </b>197716<br><b>Winner: </b>Brajesh Pathak(Bharatiya Janata Party)<br><b>Percentage: </b>5.27<br>"
+        },
+        "176": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>176<br><b>Constituency Name: </b>Mohanlalganj<br><b>Candidate Name: </b>Devendra Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>31623<br><b>Total Votes: </b>245742<br><b>Winner: </b>Amresh Kumar(Bharatiya Janata Party)<br><b>Percentage: </b>12.87<br>"
+        },
+        "177": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>177<br><b>Constituency Name: </b>Bachhrawan<br><b>Candidate Name: </b>LAJWANTI KURIL(Bahujan Samaj Party)<br><b>No of votes: </b>13730<br><b>Total Votes: </b>209512<br><b>Winner: </b>SHYAM SUNDER(Samajwadi Party)<br><b>Percentage: </b>6.55<br>"
+        },
+        "178": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>178<br><b>Constituency Name: </b>Tiloi<br><b>Candidate Name: </b>RAGHUVANSH(Bahujan Samaj Party)<br><b>No of votes: </b>6120<br><b>Total Votes: </b>204940<br><b>Winner: </b>MAYANKESHWAR SHARAN SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>2.99<br>"
+        },
+        "179": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>179<br><b>Constituency Name: </b>Harchandpur<br><b>Candidate Name: </b>SHER BAHADUR(Bahujan Samaj Party)<br><b>No of votes: </b>7335<br><b>Total Votes: </b>201651<br><b>Winner: </b>RAHUL RAJPOOT(Samajwadi Party)<br><b>Percentage: </b>3.64<br>"
+        },
+        "180": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>180<br><b>Constituency Name: </b>Rae Bareli<br><b>Candidate Name: </b>MO. ASHRAF(Bahujan Samaj Party)<br><b>No of votes: </b>9331<br><b>Total Votes: </b>230100<br><b>Winner: </b>ADITI SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>4.06<br>"
+        },
+        "181": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>181<br><b>Constituency Name: </b>Salon<br><b>Candidate Name: </b>SVATI SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>9335<br><b>Total Votes: </b>200323<br><b>Winner: </b>ASHOK KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>4.66<br>"
+        },
+        "182": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>Constituency No.: </b>182<br><b>Constituency Name: </b>Sareni<br><b>Candidate Name: </b>THAKUR PRASAD YADAV(Bahujan Samaj Party)<br><b>No of votes: </b>38155<br><b>Total Votes: </b>216700<br><b>Winner: </b>DEVENDRA PRATAP SINGH(Samajwadi Party)<br><b>Percentage: </b>17.61<br>"
+        },
+        "183": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>183<br><b>Constituency Name: </b>Unchahar<br><b>Candidate Name: </b>ANJALI MAURYA(Bahujan Samaj Party)<br><b>No of votes: </b>34692<br><b>Total Votes: </b>212030<br><b>Winner: </b>Manoj Kumar Pandey(Samajwadi Party)<br><b>Percentage: </b>16.36<br>"
+        },
+        "184": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>184<br><b>Constituency Name: </b>Jagdishpur<br><b>Candidate Name: </b>JITENDAR KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>10198<br><b>Total Votes: </b>203268<br><b>Winner: </b>SURESH KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>5.02<br>"
+        },
+        "185": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>185<br><b>Constituency Name: </b>Gauriganj<br><b>Candidate Name: </b>Ramlakhan(Bahujan Samaj Party)<br><b>No of votes: </b>9872<br><b>Total Votes: </b>202856<br><b>Winner: </b>Rakesh Pratap Singh(Samajwadi Party)<br><b>Percentage: </b>4.87<br>"
+        },
+        "186": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>186<br><b>Constituency Name: </b>Amethi<br><b>Candidate Name: </b>RAGINI(Bahujan Samaj Party)<br><b>No of votes: </b>10202<br><b>Total Votes: </b>189864<br><b>Winner: </b>MAHARAJI PRAJAPATI(Samajwadi Party)<br><b>Percentage: </b>5.37<br>"
+        },
+        "187": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>Constituency No.: </b>187<br><b>Constituency Name: </b>Isauli<br><b>Candidate Name: </b>YASH BHADRA SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>54119<br><b>Total Votes: </b>202743<br><b>Winner: </b>MOHD TAHIR KHAN(Samajwadi Party)<br><b>Percentage: </b>26.69<br>"
+        },
+        "188": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>188<br><b>Constituency Name: </b>Sultanpur<br><b>Candidate Name: </b>DR. DEVI SAHAY MISHRA(Bahujan Samaj Party)<br><b>No of votes: </b>22521<br><b>Total Votes: </b>219508<br><b>Winner: </b>VINOD SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>10.26<br>"
+        },
+        "189": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>189<br><b>Constituency Name: </b>Sadar<br><b>Candidate Name: </b>OM PRAKASH SINGH (O.P. SINGH)(Bahujan Samaj Party)<br><b>No of votes: </b>39920<br><b>Total Votes: </b>203496<br><b>Winner: </b>RAJ PRASAD UPADHYAY(Bharatiya Janata Party)<br><b>Percentage: </b>19.62<br>"
+        },
+        "190": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>Constituency No.: </b>190<br><b>Constituency Name: </b>Lambhua<br><b>Candidate Name: </b>AVANISH KUMAR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>42119<br><b>Total Votes: </b>210835<br><b>Winner: </b>SITARAM VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>19.98<br>"
+        },
+        "191": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>191<br><b>Constituency Name: </b>Kadipur<br><b>Candidate Name: </b>HEERA LAL(Bahujan Samaj Party)<br><b>No of votes: </b>46388<br><b>Total Votes: </b>221945<br><b>Winner: </b>RAJESH KUMAR GAUTAM(Bharatiya Janata Party)<br><b>Percentage: </b>20.9<br>"
+        },
+        "192": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>192<br><b>Constituency Name: </b>Kaimganj<br><b>Candidate Name: </b>DURGA PRASAD(Bahujan Samaj Party)<br><b>No of votes: </b>18443<br><b>Total Votes: </b>241231<br><b>Winner: </b>Dr. SURABHI(Apna Dal (Soneylal))<br><b>Percentage: </b>7.65<br>"
+        },
+        "193": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>193<br><b>Constituency Name: </b>Amritpur<br><b>Candidate Name: </b>Amit Kumar Singh(Bahujan Samaj Party)<br><b>No of votes: </b>13049<br><b>Total Votes: </b>186149<br><b>Winner: </b>Sushil Kumar Shakya(Bharatiya Janata Party)<br><b>Percentage: </b>7.01<br>"
+        },
+        "194": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>194<br><b>Constituency Name: </b>Farrukhabad<br><b>Candidate Name: </b>Vijay Kumar Katiyar(Bahujan Samaj Party)<br><b>No of votes: </b>16611<br><b>Total Votes: </b>208634<br><b>Winner: </b>Major Sunil Dutt Dwivedi(Bharatiya Janata Party)<br><b>Percentage: </b>7.96<br>"
+        },
+        "195": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>195<br><b>Constituency Name: </b>Bhojpur<br><b>Candidate Name: </b>Alok Verma(Bahujan Samaj Party)<br><b>No of votes: </b>15714<br><b>Total Votes: </b>197269<br><b>Winner: </b>Nagendra Singh Rathour(Bharatiya Janata Party)<br><b>Percentage: </b>7.97<br>"
+        },
+        "196": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>196<br><b>Constituency Name: </b>Chhibramau<br><b>Candidate Name: </b>Waheeda Bano urf Juhi Sultan(Bahujan Samaj Party)<br><b>No of votes: </b>22000<br><b>Total Votes: </b>281597<br><b>Winner: </b>Archana Pandey(Bharatiya Janata Party)<br><b>Percentage: </b>7.81<br>"
+        },
+        "197": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>197<br><b>Constituency Name: </b>Tirwa<br><b>Candidate Name: </b>Ajay Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>23092<br><b>Total Votes: </b>238364<br><b>Winner: </b>Kailash Rajput(Bharatiya Janata Party)<br><b>Percentage: </b>9.69<br>"
+        },
+        "198": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>198<br><b>Constituency Name: </b>Kannauj<br><b>Candidate Name: </b>SAMAR JEET DOHARE(Bahujan Samaj Party)<br><b>No of votes: </b>26239<br><b>Total Votes: </b>271435<br><b>Winner: </b>ASIM ARUN(Bharatiya Janata Party)<br><b>Percentage: </b>9.67<br>"
+        },
+        "199": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>199<br><b>Constituency Name: </b>Jaswantnagar<br><b>Candidate Name: </b>BRAJENDRA PRATAP SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>17515<br><b>Total Votes: </b>253630<br><b>Winner: </b>SHIVPAL SINGH YADAV(Samajwadi Party)<br><b>Percentage: </b>6.91<br>"
+        },
+        "200": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>Constituency No.: </b>200<br><b>Constituency Name: </b>Etawah<br><b>Candidate Name: </b>Kuldeep Gupta(Bahujan Samaj Party)<br><b>No of votes: </b>46525<br><b>Total Votes: </b>245542<br><b>Winner: </b>Sarita(Bharatiya Janata Party)<br><b>Percentage: </b>18.95<br>"
+        },
+        "201": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>201<br><b>Constituency Name: </b>Bharthana<br><b>Candidate Name: </b>KAMLESH(Bahujan Samaj Party)<br><b>No of votes: </b>37599<br><b>Total Votes: </b>246734<br><b>Winner: </b>RAGHVENDRA KUMAR SINGH(Samajwadi Party)<br><b>Percentage: </b>15.24<br>"
+        },
+        "202": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>Constituency No.: </b>202<br><b>Constituency Name: </b>Bidhuna<br><b>Candidate Name: </b>Gaurav Raghuvanshi(Bahujan Samaj Party)<br><b>No of votes: </b>32220<br><b>Total Votes: </b>228340<br><b>Winner: </b>Rekha Verma(Samajwadi Party)<br><b>Percentage: </b>14.11<br>"
+        },
+        "203": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>203<br><b>Constituency Name: </b>Dibiyapur<br><b>Candidate Name: </b>Arun Kumar Dubey (Lal Dubey)(Bahujan Samaj Party)<br><b>No of votes: </b>31500<br><b>Total Votes: </b>200455<br><b>Winner: </b>Pradeep Kumar Yadav(Samajwadi Party)<br><b>Percentage: </b>15.71<br>"
+        },
+        "204": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>Constituency No.: </b>204<br><b>Constituency Name: </b>Auraiya<br><b>Candidate Name: </b>Ravi Shastri Dohrey(Bahujan Samaj Party)<br><b>No of votes: </b>36159<br><b>Total Votes: </b>195746<br><b>Winner: </b>Gudiya Katheriya(Bharatiya Janata Party)<br><b>Percentage: </b>18.47<br>"
+        },
+        "205": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>Constituency No.: </b>205<br><b>Constituency Name: </b>Rasulabad<br><b>Candidate Name: </b>Sima  Singh(Bahujan Samaj Party)<br><b>No of votes: </b>28189<br><b>Total Votes: </b>196261<br><b>Winner: </b>Poonam Sankhwar(Bharatiya Janata Party)<br><b>Percentage: </b>14.36<br>"
+        },
+        "206": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>206<br><b>Constituency Name: </b>Raniya<br><b>Candidate Name: </b>Vinod Kumar Pal(Bahujan Samaj Party)<br><b>No of votes: </b>32233<br><b>Total Votes: </b>211830<br><b>Winner: </b>Pratibha Shukla(Bharatiya Janata Party)<br><b>Percentage: </b>15.22<br>"
+        },
+        "207": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>Constituency No.: </b>207<br><b>Constituency Name: </b>Sikandra<br><b>Candidate Name: </b>LAL JI(Bahujan Samaj Party)<br><b>No of votes: </b>36033<br><b>Total Votes: </b>199307<br><b>Winner: </b>AJIT SINGH PAL(Bharatiya Janata Party)<br><b>Percentage: </b>18.08<br>"
+        },
+        "208": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>208<br><b>Constituency Name: </b>Bhognipur<br><b>Candidate Name: </b>JUNED KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>47332<br><b>Total Votes: </b>218144<br><b>Winner: </b>RAKESH SACHAN(Bharatiya Janata Party)<br><b>Percentage: </b>21.7<br>"
+        },
+        "209": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>209<br><b>Constituency Name: </b>Bilhaur<br><b>Candidate Name: </b>MADHU SINGH GAUTAM(Bahujan Samaj Party)<br><b>No of votes: </b>31426<br><b>Total Votes: </b>244540<br><b>Winner: </b>MOHIT SONKAR(Bharatiya Janata Party)<br><b>Percentage: </b>12.85<br>"
+        },
+        "210": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>210<br><b>Constituency Name: </b>Bithoor<br><b>Candidate Name: </b>RAMESH SINGH YADAV(Bahujan Samaj Party)<br><b>No of votes: </b>36955<br><b>Total Votes: </b>241399<br><b>Winner: </b>ABHIJEET SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>15.31<br>"
+        },
+        "211": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>211<br><b>Constituency Name: </b>Kalyanpur<br><b>Candidate Name: </b>ARUN MISHRA(Bahujan Samaj Party)<br><b>No of votes: </b>6615<br><b>Total Votes: </b>187814<br><b>Winner: </b>NEELIMA KATIYAR(Bharatiya Janata Party)<br><b>Percentage: </b>3.52<br>"
+        },
+        "212": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>212<br><b>Constituency Name: </b>Govindnagar<br><b>Candidate Name: </b>ASHOK KUMAR KALIYA(Bahujan Samaj Party)<br><b>No of votes: </b>8333<br><b>Total Votes: </b>192202<br><b>Winner: </b>SURENDRA MAITHANI(Bharatiya Janata Party)<br><b>Percentage: </b>4.34<br>"
+        },
+        "213": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>213<br><b>Constituency Name: </b>Sishamau<br><b>Candidate Name: </b>RAJNISH TIWARI(Bahujan Samaj Party)<br><b>No of votes: </b>2937<br><b>Total Votes: </b>156209<br><b>Winner: </b>HAJI IRFAN SOLANKI(Samajwadi Party)<br><b>Percentage: </b>1.88<br>"
+        },
+        "214": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>214<br><b>Constituency Name: </b>Arya Nagar<br><b>Candidate Name: </b>TONI JAISWAL(Bahujan Samaj Party)<br><b>No of votes: </b>1387<br><b>Total Votes: </b>152099<br><b>Winner: </b>AMITABH BAJPAI(Samajwadi Party)<br><b>Percentage: </b>0.91<br>"
+        },
+        "215": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>215<br><b>Constituency Name: </b>Kidwai Nagar<br><b>Candidate Name: </b>MOHAN MISHRA(Bahujan Samaj Party)<br><b>No of votes: </b>3846<br><b>Total Votes: </b>206018<br><b>Winner: </b>MAHESH KUMAR TRIVEDI(Bharatiya Janata Party)<br><b>Percentage: </b>1.87<br>"
+        },
+        "216": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>216<br><b>Constituency Name: </b>Kanpur Cantt.<br><b>Candidate Name: </b>MOHAMMAD SHAFI(Bahujan Samaj Party)<br><b>No of votes: </b>3389<br><b>Total Votes: </b>189492<br><b>Winner: </b>MOHAMMAD HASAN(Samajwadi Party)<br><b>Percentage: </b>1.79<br>"
+        },
+        "217": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>217<br><b>Constituency Name: </b>Maharajpur<br><b>Candidate Name: </b>SURENDRA PAL SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>15113<br><b>Total Votes: </b>252262<br><b>Winner: </b>Satish Mahana(Bharatiya Janata Party)<br><b>Percentage: </b>5.99<br>"
+        },
+        "218": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>218<br><b>Constituency Name: </b>Ghatampur<br><b>Candidate Name: </b>PRASHANT AHIRWAR(Bahujan Samaj Party)<br><b>No of votes: </b>32472<br><b>Total Votes: </b>196466<br><b>Winner: </b>SAROJ(Apna Dal (Soneylal))<br><b>Percentage: </b>16.53<br>"
+        },
+        "219": {
+            "color": "rgba(253.7121, 213.7879, 143.5985, 1.0)",
+            "matter": "<b>Constituency No.: </b>219<br><b>Constituency Name: </b>Madhaugarh<br><b>Candidate Name: </b>SHEETAL KUSHWAHA(Bahujan Samaj Party)<br><b>No of votes: </b>70257<br><b>Total Votes: </b>254828<br><b>Winner: </b>MOOL CHANDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>27.57<br>"
+        },
+        "220": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>Constituency No.: </b>220<br><b>Constituency Name: </b>Kalpi<br><b>Candidate Name: </b>SHYAM PAL(Bahujan Samaj Party)<br><b>No of votes: </b>64683<br><b>Total Votes: </b>236741<br><b>Winner: </b>VINOD CHATURVEDI(Samajwadi Party)<br><b>Percentage: </b>27.32<br>"
+        },
+        "221": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>Constituency No.: </b>221<br><b>Constituency Name: </b>Orai<br><b>Candidate Name: </b>SATYENDRA PRATAP(Bahujan Samaj Party)<br><b>No of votes: </b>38638<br><b>Total Votes: </b>271107<br><b>Winner: </b>GAURI SHANKAR(Bharatiya Janata Party)<br><b>Percentage: </b>14.25<br>"
+        },
+        "222": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>222<br><b>Constituency Name: </b>Babina<br><b>Candidate Name: </b>Dasharath Singh Rajpoot(Bahujan Samaj Party)<br><b>No of votes: </b>30540<br><b>Total Votes: </b>234631<br><b>Winner: </b>Rajeev Singh ''Parichha''(Bharatiya Janata Party)<br><b>Percentage: </b>13.02<br>"
+        },
+        "223": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>223<br><b>Constituency Name: </b>Jhansi Nagar<br><b>Candidate Name: </b>Kailash Sahu(Bahujan Samaj Party)<br><b>No of votes: </b>17846<br><b>Total Votes: </b>252793<br><b>Winner: </b>Ravi Sharma(Bharatiya Janata Party)<br><b>Percentage: </b>7.06<br>"
+        },
+        "224": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>224<br><b>Constituency Name: </b>Mauranipur<br><b>Candidate Name: </b>Rohit Ratan(Bahujan Samaj Party)<br><b>No of votes: </b>32641<br><b>Total Votes: </b>276999<br><b>Winner: </b>Rashmi Arya(Apna Dal (Soneylal))<br><b>Percentage: </b>11.78<br>"
+        },
+        "225": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>225<br><b>Constituency Name: </b>Garautha<br><b>Candidate Name: </b>Bira Singh(Bahujan Samaj Party)<br><b>No of votes: </b>29333<br><b>Total Votes: </b>235972<br><b>Winner: </b>Jawahar Lal Rajput(Bharatiya Janata Party)<br><b>Percentage: </b>12.43<br>"
+        },
+        "226": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>226<br><b>Constituency Name: </b>Lalitpur<br><b>Candidate Name: </b>Chandra Bhusan Singh Bundela (Guddu Raja)(Bahujan Samaj Party)<br><b>No of votes: </b>69335<br><b>Total Votes: </b>333155<br><b>Winner: </b>Ramratan Kushwaha(Bharatiya Janata Party)<br><b>Percentage: </b>20.81<br>"
+        },
+        "227": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>Constituency No.: </b>227<br><b>Constituency Name: </b>Mehroni<br><b>Candidate Name: </b>Kiran Ramesh Khatik(Bahujan Samaj Party)<br><b>No of votes: </b>74327<br><b>Total Votes: </b>336798<br><b>Winner: </b>Manohar Lal(Bharatiya Janata Party)<br><b>Percentage: </b>22.07<br>"
+        },
+        "228": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>228<br><b>Constituency Name: </b>Hamirpur<br><b>Candidate Name: </b>RAM PHOOL NISHAD(Bahujan Samaj Party)<br><b>No of votes: </b>47299<br><b>Total Votes: </b>262674<br><b>Winner: </b>DR. MANOJ KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>18.01<br>"
+        },
+        "229": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>229<br><b>Constituency Name: </b>Rath<br><b>Candidate Name: </b>PRASANNA BHUSHAN(Bahujan Samaj Party)<br><b>No of votes: </b>24266<br><b>Total Votes: </b>259108<br><b>Winner: </b>MANISHA(Bharatiya Janata Party)<br><b>Percentage: </b>9.37<br>"
+        },
+        "230": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>230<br><b>Constituency Name: </b>Mahoba<br><b>Candidate Name: </b>SANJAY KUMAR SAHU(Bahujan Samaj Party)<br><b>No of votes: </b>38296<br><b>Total Votes: </b>207179<br><b>Winner: </b>RAKESH KUMAR GOSWAMI(Bharatiya Janata Party)<br><b>Percentage: </b>18.48<br>"
+        },
+        "231": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>Constituency No.: </b>231<br><b>Constituency Name: </b>Charkhari<br><b>Candidate Name: </b>VINOD KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>41087<br><b>Total Votes: </b>223078<br><b>Winner: </b>BRIJBHUSHAN RAJPUT(Bharatiya Janata Party)<br><b>Percentage: </b>18.42<br>"
+        },
+        "232": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>Constituency No.: </b>232<br><b>Constituency Name: </b>Tindwari<br><b>Candidate Name: </b>JAYRAM SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>39450<br><b>Total Votes: </b>196221<br><b>Winner: </b>RAMKESH NISHAD(Bharatiya Janata Party)<br><b>Percentage: </b>20.1<br>"
+        },
+        "233": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>233<br><b>Constituency Name: </b>Baberu<br><b>Candidate Name: </b>RAMSEVAK SHUKLA(Bahujan Samaj Party)<br><b>No of votes: </b>37009<br><b>Total Votes: </b>205453<br><b>Winner: </b>VISHAMBHAR SINGH YADAV(Samajwadi Party)<br><b>Percentage: </b>18.01<br>"
+        },
+        "234": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>Constituency No.: </b>234<br><b>Constituency Name: </b>Naraini<br><b>Candidate Name: </b>GAYACHARAN DINKAR(Bahujan Samaj Party)<br><b>No of votes: </b>36871<br><b>Total Votes: </b>213967<br><b>Winner: </b>Ommani  Varma(Bharatiya Janata Party)<br><b>Percentage: </b>17.23<br>"
+        },
+        "235": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>235<br><b>Constituency Name: </b>Banda<br><b>Candidate Name: </b>DHEERAJ PRAKASH(Bahujan Samaj Party)<br><b>No of votes: </b>38284<br><b>Total Votes: </b>197300<br><b>Winner: </b>PRAKASH DWIVEDI(Bharatiya Janata Party)<br><b>Percentage: </b>19.4<br>"
+        },
+        "236": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>236<br><b>Constituency Name: </b>Chitrakoot<br><b>Candidate Name: </b>PUSHPENDRA SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>38711<br><b>Total Votes: </b>242357<br><b>Winner: </b>ANIL KUMAR ANIL PRADHAN(Samajwadi Party)<br><b>Percentage: </b>15.97<br>"
+        },
+        "237": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>237<br><b>Constituency Name: </b>Manikpur<br><b>Candidate Name: </b>BALVEER PAL(Bahujan Samaj Party)<br><b>No of votes: </b>45367<br><b>Total Votes: </b>207930<br><b>Winner: </b>AVINASH CHANDRA DWIVEDI(Apna Dal (Soneylal))<br><b>Percentage: </b>21.82<br>"
+        },
+        "238": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>238<br><b>Constituency Name: </b>Jahanabad<br><b>Candidate Name: </b>ADITYA PANDEY(Bahujan Samaj Party)<br><b>No of votes: </b>39205<br><b>Total Votes: </b>190500<br><b>Winner: </b>RAJENDRA SINGH PATEL(Bharatiya Janata Party)<br><b>Percentage: </b>20.58<br>"
+        },
+        "239": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>239<br><b>Constituency Name: </b>Bindki<br><b>Candidate Name: </b>Sushil Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>23358<br><b>Total Votes: </b>190821<br><b>Winner: </b>Jay Kumar  Singh  Jaiki(Apna Dal (Soneylal))<br><b>Percentage: </b>12.24<br>"
+        },
+        "240": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>240<br><b>Constituency Name: </b>Fatehpur<br><b>Candidate Name: </b>AYUV AHMAD(Bahujan Samaj Party)<br><b>No of votes: </b>20363<br><b>Total Votes: </b>214050<br><b>Winner: </b>Chandra Prakash(Samajwadi Party)<br><b>Percentage: </b>9.51<br>"
+        },
+        "241": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>241<br><b>Constituency Name: </b>Ayah Shah<br><b>Candidate Name: </b>CHANDAN SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>22045<br><b>Total Votes: </b>160419<br><b>Winner: </b>Vikas Gupta(Bharatiya Janata Party)<br><b>Percentage: </b>13.74<br>"
+        },
+        "242": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>242<br><b>Constituency Name: </b>Husainganj<br><b>Candidate Name: </b>FAREED AHMAD(Bahujan Samaj Party)<br><b>No of votes: </b>21009<br><b>Total Votes: </b>188359<br><b>Winner: </b>USHA MAURYA(Samajwadi Party)<br><b>Percentage: </b>11.15<br>"
+        },
+        "243": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>243<br><b>Constituency Name: </b>Khaga<br><b>Candidate Name: </b>DASHARATH LAL(Bahujan Samaj Party)<br><b>No of votes: </b>22115<br><b>Total Votes: </b>199986<br><b>Winner: </b>KRISHNA PASWAN(Bharatiya Janata Party)<br><b>Percentage: </b>11.06<br>"
+        },
+        "244": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>244<br><b>Constituency Name: </b>Rampur Khas<br><b>Candidate Name: </b>BANKELAL PATEL(Bahujan Samaj Party)<br><b>No of votes: </b>4914<br><b>Total Votes: </b>167754<br><b>Winner: </b>Aradhana Mishra, Mona(Indian National Congress)<br><b>Percentage: </b>2.93<br>"
+        },
+        "245": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>245<br><b>Constituency Name: </b>Babaganj<br><b>Candidate Name: </b>SUSHIL KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>8723<br><b>Total Votes: </b>166804<br><b>Winner: </b>VINOD KUMAR(Jansatta Dal Loktantrik)<br><b>Percentage: </b>5.23<br>"
+        },
+        "246": {
+            "color": "rgba(48.5015, 126.2121, 183.1106, 1.0)",
+            "matter": "<b>Constituency No.: </b>246<br><b>Constituency Name: </b>Kunda<br><b>Candidate Name: </b>MU PHAHEEM(Bahujan Samaj Party)<br><b>No of votes: </b>3345<br><b>Total Votes: </b>196940<br><b>Winner: </b>RAGHURAJ PRATAP SINGH(Jansatta Dal Loktantrik)<br><b>Percentage: </b>1.7<br>"
+        },
+        "247": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>247<br><b>Constituency Name: </b>Vishwanath Ganj<br><b>Candidate Name: </b>SANJAY(Bahujan Samaj Party)<br><b>No of votes: </b>16633<br><b>Total Votes: </b>200930<br><b>Winner: </b>JEET LAL(Apna Dal (Soneylal))<br><b>Percentage: </b>8.28<br>"
+        },
+        "248": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>248<br><b>Constituency Name: </b>Pratapgarh<br><b>Candidate Name: </b>ASHUTOSH TRIPATHI(Bahujan Samaj Party)<br><b>No of votes: </b>19249<br><b>Total Votes: </b>195981<br><b>Winner: </b>RAJENDRA KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>9.82<br>"
+        },
+        "249": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>249<br><b>Constituency Name: </b>Patti<br><b>Candidate Name: </b>FULCHANDRA(Bahujan Samaj Party)<br><b>No of votes: </b>21482<br><b>Total Votes: </b>221762<br><b>Winner: </b>RAM SINGH(Samajwadi Party)<br><b>Percentage: </b>9.69<br>"
+        },
+        "250": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>250<br><b>Constituency Name: </b>Raniganj<br><b>Candidate Name: </b>AJAY YADAV(Bahujan Samaj Party)<br><b>No of votes: </b>21411<br><b>Total Votes: </b>188715<br><b>Winner: </b>RAKESH KUMAR VERMA ALIAS DR. R. K. VERMA(Samajwadi Party)<br><b>Percentage: </b>11.35<br>"
+        },
+        "251": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>251<br><b>Constituency Name: </b>Sirathu<br><b>Candidate Name: </b>MUNSAB ALI(Bahujan Samaj Party)<br><b>No of votes: </b>10073<br><b>Total Votes: </b>228626<br><b>Winner: </b>DR. PALLAVI PATEL(Samajwadi Party)<br><b>Percentage: </b>4.41<br>"
+        },
+        "252": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>252<br><b>Constituency Name: </b>Manjhanpur<br><b>Candidate Name: </b>Neetu Kanojia(Bahujan Samaj Party)<br><b>No of votes: </b>25430<br><b>Total Votes: </b>257411<br><b>Winner: </b>Indrajeet Saroj(Samajwadi Party)<br><b>Percentage: </b>9.88<br>"
+        },
+        "253": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>Constituency No.: </b>253<br><b>Constituency Name: </b>Chail<br><b>Candidate Name: </b>Atul Kumar Dwivedi(Bahujan Samaj Party)<br><b>No of votes: </b>31362<br><b>Total Votes: </b>223984<br><b>Winner: </b>Pooja Pal(Samajwadi Party)<br><b>Percentage: </b>14.0<br>"
+        },
+        "254": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>254<br><b>Constituency Name: </b>Phaphamau<br><b>Candidate Name: </b>OM PRAKASH(Bahujan Samaj Party)<br><b>No of votes: </b>27286<br><b>Total Votes: </b>210773<br><b>Winner: </b>GURU PRASAD MAURYA(Bharatiya Janata Party)<br><b>Percentage: </b>12.95<br>"
+        },
+        "255": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>255<br><b>Constituency Name: </b>Soraon<br><b>Candidate Name: </b>Anand Bharti(Bahujan Samaj Party)<br><b>No of votes: </b>29250<br><b>Total Votes: </b>223169<br><b>Winner: </b>Geeta Shastri (Pasi)(Samajwadi Party)<br><b>Percentage: </b>13.11<br>"
+        },
+        "256": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>256<br><b>Constituency Name: </b>Phulpur<br><b>Candidate Name: </b>Ram Taulan Yadav(Bahujan Samaj Party)<br><b>No of votes: </b>33036<br><b>Total Votes: </b>246588<br><b>Winner: </b>Praveen Patel(Bharatiya Janata Party)<br><b>Percentage: </b>13.4<br>"
+        },
+        "257": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>257<br><b>Constituency Name: </b>Pratappur<br><b>Candidate Name: </b>GHANSHYAM PANDEY(Bahujan Samaj Party)<br><b>No of votes: </b>34912<br><b>Total Votes: </b>227363<br><b>Winner: </b>VIJAMA YADAV(Samajwadi Party)<br><b>Percentage: </b>15.36<br>"
+        },
+        "258": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>258<br><b>Constituency Name: </b>Handia<br><b>Candidate Name: </b>NARENDRA KUMAR URF MUNNA TRIPATHI(Bahujan Samaj Party)<br><b>No of votes: </b>33877<br><b>Total Votes: </b>214451<br><b>Winner: </b>HAKIM LAL BIND(Samajwadi Party)<br><b>Percentage: </b>15.8<br>"
+        },
+        "259": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>259<br><b>Constituency Name: </b>Meja<br><b>Candidate Name: </b>SARVESH CHANDRA TIWARI(Bahujan Samaj Party)<br><b>No of votes: </b>22933<br><b>Total Votes: </b>186497<br><b>Winner: </b>SANDEEP SINGH(Samajwadi Party)<br><b>Percentage: </b>12.3<br>"
+        },
+        "260": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>260<br><b>Constituency Name: </b>Karachhana<br><b>Candidate Name: </b>ARVIND KUMAR SHUKLA(Bahujan Samaj Party)<br><b>No of votes: </b>21950<br><b>Total Votes: </b>203189<br><b>Winner: </b>PIYUSH RANJAN NISHAD(Bharatiya Janata Party)<br><b>Percentage: </b>10.8<br>"
+        },
+        "261": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>261<br><b>Constituency Name: </b>Allahabad West<br><b>Candidate Name: </b>GULAM QADIR(Bahujan Samaj Party)<br><b>No of votes: </b>7626<br><b>Total Votes: </b>222861<br><b>Winner: </b>SIDHARTH NATH SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>3.42<br>"
+        },
+        "262": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>262<br><b>Constituency Name: </b>Allahabad North<br><b>Candidate Name: </b>SANJAY GOSWAMI(Bahujan Samaj Party)<br><b>No of votes: </b>9614<br><b>Total Votes: </b>175941<br><b>Winner: </b>HARSHVARDHAN BAJPAI(Bharatiya Janata Party)<br><b>Percentage: </b>5.46<br>"
+        },
+        "263": {
+            "color": "rgba(58.8045, 133.8364, 187.2318, 1.0)",
+            "matter": "<b>Constituency No.: </b>263<br><b>Constituency Name: </b>Allahabad South<br><b>Candidate Name: </b>\"DEVENDRA MISHRA NAGRAHA\"(Bahujan Samaj Party)<br><b>No of votes: </b>4208<br><b>Total Votes: </b>180745<br><b>Winner: </b>NAND GOPAL GUPTA \"NANDI\"(Bharatiya Janata Party)<br><b>Percentage: </b>2.33<br>"
+        },
+        "264": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>264<br><b>Constituency Name: </b>Bara<br><b>Candidate Name: </b>DR AJAY KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>22719<br><b>Total Votes: </b>205129<br><b>Winner: </b>VACHASPATI(Apna Dal (Soneylal))<br><b>Percentage: </b>11.08<br>"
+        },
+        "265": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>265<br><b>Constituency Name: </b>Koraon<br><b>Candidate Name: </b>Rajbali Jaisal(Bahujan Samaj Party)<br><b>No of votes: </b>26383<br><b>Total Votes: </b>207611<br><b>Winner: </b>Raj Mani(Bharatiya Janata Party)<br><b>Percentage: </b>12.71<br>"
+        },
+        "266": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>266<br><b>Constituency Name: </b>Kursi<br><b>Candidate Name: </b>KUMARI MEETA GAUTAM(Bahujan Samaj Party)<br><b>No of votes: </b>35561<br><b>Total Votes: </b>288519<br><b>Winner: </b>Sakendra Pratap(Bharatiya Janata Party)<br><b>Percentage: </b>12.33<br>"
+        },
+        "267": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>267<br><b>Constituency Name: </b>Ram Nagar<br><b>Candidate Name: </b>RAM KISHOR(Bahujan Samaj Party)<br><b>No of votes: </b>23259<br><b>Total Votes: </b>235461<br><b>Winner: </b>FAREED MAHFOOZ KIDWAI(Samajwadi Party)<br><b>Percentage: </b>9.88<br>"
+        },
+        "268": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>268<br><b>Constituency Name: </b>Barabanki<br><b>Candidate Name: </b>Dr. Vivek Singh Verma(Bahujan Samaj Party)<br><b>No of votes: </b>42506<br><b>Total Votes: </b>266396<br><b>Winner: </b>Dharmraj Singh Yadav(Samajwadi Party)<br><b>Percentage: </b>15.96<br>"
+        },
+        "269": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>269<br><b>Constituency Name: </b>Zaidpur<br><b>Candidate Name: </b>Usha Singh(Bahujan Samaj Party)<br><b>No of votes: </b>18400<br><b>Total Votes: </b>277908<br><b>Winner: </b>Gaurav Kumar(Samajwadi Party)<br><b>Percentage: </b>6.62<br>"
+        },
+        "270": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>Constituency No.: </b>270<br><b>Constituency Name: </b>Dariyabad<br><b>Candidate Name: </b>Jagprasad Rawat(Bahujan Samaj Party)<br><b>No of votes: </b>28361<br><b>Total Votes: </b>273557<br><b>Winner: </b>Satish Chandra Sharma(Bharatiya Janata Party)<br><b>Percentage: </b>10.37<br>"
+        },
+        "271": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>Constituency No.: </b>271<br><b>Constituency Name: </b>Rudauli<br><b>Candidate Name: </b>Abbas Ali Zaidi Alias Rushdi(Bahujan Samaj Party)<br><b>No of votes: </b>52181<br><b>Total Votes: </b>218920<br><b>Winner: </b>Ram Chandra Yadav(Bharatiya Janata Party)<br><b>Percentage: </b>23.84<br>"
+        },
+        "272": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>Constituency No.: </b>272<br><b>Constituency Name: </b>Haidergarh<br><b>Candidate Name: </b>Shri Chandra(Bahujan Samaj Party)<br><b>No of votes: </b>12239<br><b>Total Votes: </b>230094<br><b>Winner: </b>Dinesh Rawat(Bharatiya Janata Party)<br><b>Percentage: </b>5.32<br>"
+        },
+        "273": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>Constituency No.: </b>273<br><b>Constituency Name: </b>Milkipur<br><b>Candidate Name: </b>Mira Devi(Bahujan Samaj Party)<br><b>No of votes: </b>14427<br><b>Total Votes: </b>216515<br><b>Winner: </b>AWADHESH PRASAD(Samajwadi Party)<br><b>Percentage: </b>6.66<br>"
+        },
+        "274": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>274<br><b>Constituency Name: </b>Bikapur<br><b>Candidate Name: </b>SUNIL(Bahujan Samaj Party)<br><b>No of votes: </b>21385<br><b>Total Votes: </b>241937<br><b>Winner: </b>AMIT SINGH CHAUHAN(Bharatiya Janata Party)<br><b>Percentage: </b>8.84<br>"
+        },
+        "275": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>275<br><b>Constituency Name: </b>Ayodhya<br><b>Candidate Name: </b>RAVI PRAKASH(Bahujan Samaj Party)<br><b>No of votes: </b>17706<br><b>Total Votes: </b>231258<br><b>Winner: </b>VED PRAKASH(Bharatiya Janata Party)<br><b>Percentage: </b>7.66<br>"
+        },
+        "276": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>Constituency No.: </b>276<br><b>Constituency Name: </b>Goshainganj<br><b>Candidate Name: </b>RAM SAGAR(Bahujan Samaj Party)<br><b>No of votes: </b>37271<br><b>Total Votes: </b>241298<br><b>Winner: </b>ABHAY SINGH(Samajwadi Party)<br><b>Percentage: </b>15.45<br>"
+        },
+        "277": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>Constituency No.: </b>277<br><b>Constituency Name: </b>Katehari<br><b>Candidate Name: </b>Prateek Pandey(Bahujan Samaj Party)<br><b>No of votes: </b>58482<br><b>Total Votes: </b>247560<br><b>Winner: </b>Lalji Verma(Samajwadi Party)<br><b>Percentage: </b>23.62<br>"
+        },
+        "278": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>278<br><b>Constituency Name: </b>Tanda<br><b>Candidate Name: </b>Shabana Khatoon(Bahujan Samaj Party)<br><b>No of votes: </b>45222<br><b>Total Votes: </b>219050<br><b>Winner: </b>Ram Murti Verma(Samajwadi Party)<br><b>Percentage: </b>20.64<br>"
+        },
+        "279": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>Constituency No.: </b>279<br><b>Constituency Name: </b>Alapur<br><b>Candidate Name: </b>Keshradevi Gautam(Bahujan Samaj Party)<br><b>No of votes: </b>53061<br><b>Total Votes: </b>208647<br><b>Winner: </b>Tribhuwan Dutt(Samajwadi Party)<br><b>Percentage: </b>25.43<br>"
+        },
+        "280": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>Constituency No.: </b>280<br><b>Constituency Name: </b>Jalalpur<br><b>Candidate Name: </b>Dr. Rajesh Singh(Bahujan Samaj Party)<br><b>No of votes: </b>80038<br><b>Total Votes: </b>258897<br><b>Winner: </b>Rakesh Pandey(Samajwadi Party)<br><b>Percentage: </b>30.91<br>"
+        },
+        "281": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>Constituency No.: </b>281<br><b>Constituency Name: </b>Akbarpur<br><b>Candidate Name: </b>CHANDRA PRAKASH VERMA(Bahujan Samaj Party)<br><b>No of votes: </b>53398<br><b>Total Votes: </b>214843<br><b>Winner: </b>RAM ACHAL RAJBHAR(Samajwadi Party)<br><b>Percentage: </b>24.85<br>"
+        },
+        "282": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>282<br><b>Constituency Name: </b>Balha<br><b>Candidate Name: </b>RAMCHANDRA(Bahujan Samaj Party)<br><b>No of votes: </b>15578<br><b>Total Votes: </b>214812<br><b>Winner: </b>SAROJ SONKAR(Bharatiya Janata Party)<br><b>Percentage: </b>7.25<br>"
+        },
+        "283": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>283<br><b>Constituency Name: </b>Nanpara<br><b>Candidate Name: </b>Hakikat Ali(Bahujan Samaj Party)<br><b>No of votes: </b>17949<br><b>Total Votes: </b>199694<br><b>Winner: </b>Ram Niwas Verma(Apna Dal (Soneylal))<br><b>Percentage: </b>8.99<br>"
+        },
+        "284": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>284<br><b>Constituency Name: </b>Matera<br><b>Candidate Name: </b>AQIB ULLA KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>8918<br><b>Total Votes: </b>212372<br><b>Winner: </b>MARIYA(Samajwadi Party)<br><b>Percentage: </b>4.2<br>"
+        },
+        "285": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>285<br><b>Constituency Name: </b>Mahasi<br><b>Candidate Name: </b>DINESH KUMAR SHUKLA(Bahujan Samaj Party)<br><b>No of votes: </b>10651<br><b>Total Votes: </b>215978<br><b>Winner: </b>SURESHWAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>4.93<br>"
+        },
+        "286": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>Constituency No.: </b>286<br><b>Constituency Name: </b>Bahraich<br><b>Candidate Name: </b>NAEEM(Bahujan Samaj Party)<br><b>No of votes: </b>10299<br><b>Total Votes: </b>231708<br><b>Winner: </b>ANUPMA JAISWAL(Bharatiya Janata Party)<br><b>Percentage: </b>4.44<br>"
+        },
+        "287": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>287<br><b>Constituency Name: </b>Payagpur<br><b>Candidate Name: </b>Geeta(Bahujan Samaj Party)<br><b>No of votes: </b>11232<br><b>Total Votes: </b>230613<br><b>Winner: </b>Subhash Tripathi(Bharatiya Janata Party)<br><b>Percentage: </b>4.87<br>"
+        },
+        "288": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>288<br><b>Constituency Name: </b>Kaiserganj<br><b>Candidate Name: </b>BAQAULLAH(Bahujan Samaj Party)<br><b>No of votes: </b>13850<br><b>Total Votes: </b>226617<br><b>Winner: </b>ANAND KUMAR(Samajwadi Party)<br><b>Percentage: </b>6.11<br>"
+        },
+        "289": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>289<br><b>Constituency Name: </b>Bhinga<br><b>Candidate Name: </b>Alimuddin(Bahujan Samaj Party)<br><b>No of votes: </b>21547<br><b>Total Votes: </b>231104<br><b>Winner: </b>Indrani Devi(Samajwadi Party)<br><b>Percentage: </b>9.32<br>"
+        },
+        "290": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>290<br><b>Constituency Name: </b>Shrawasti<br><b>Candidate Name: </b>Neetu Mishra(Bahujan Samaj Party)<br><b>No of votes: </b>41026<br><b>Total Votes: </b>253077<br><b>Winner: </b>Ram Feran(Bharatiya Janata Party)<br><b>Percentage: </b>16.21<br>"
+        },
+        "291": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>291<br><b>Constituency Name: </b>Tulsipur<br><b>Candidate Name: </b>BHUWAN PRATAP SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>8118<br><b>Total Votes: </b>202787<br><b>Winner: </b>KAILASH NATH(Bharatiya Janata Party)<br><b>Percentage: </b>4.0<br>"
+        },
+        "292": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>Constituency No.: </b>292<br><b>Constituency Name: </b>Gainsari<br><b>Candidate Name: </b>ALAUDDIN(Bahujan Samaj Party)<br><b>No of votes: </b>31914<br><b>Total Votes: </b>189885<br><b>Winner: </b>DR. SHIV PRATAP YADAV(Samajwadi Party)<br><b>Percentage: </b>16.81<br>"
+        },
+        "293": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>293<br><b>Constituency Name: </b>Utraula<br><b>Candidate Name: </b>RAM PRATAP(Bahujan Samaj Party)<br><b>No of votes: </b>9669<br><b>Total Votes: </b>196180<br><b>Winner: </b>RAMPRATAP VERMA URF SHASHIKANT VERMA(Bharatiya Janata Party)<br><b>Percentage: </b>4.93<br>"
+        },
+        "294": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>294<br><b>Constituency Name: </b>Balrampur<br><b>Candidate Name: </b>HARI RAM(Bahujan Samaj Party)<br><b>No of votes: </b>5371<br><b>Total Votes: </b>206720<br><b>Winner: </b>PALTOO RAM(Bharatiya Janata Party)<br><b>Percentage: </b>2.6<br>"
+        },
+        "295": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>295<br><b>Constituency Name: </b>Mehnaun<br><b>Candidate Name: </b>SHIV KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>10883<br><b>Total Votes: </b>214439<br><b>Winner: </b>VINAY KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>5.08<br>"
+        },
+        "296": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>296<br><b>Constituency Name: </b>Gonda<br><b>Candidate Name: </b>MOHD. ZAKI(Bahujan Samaj Party)<br><b>No of votes: </b>5758<br><b>Total Votes: </b>200215<br><b>Winner: </b>PRATEEK BHUSHAN SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>2.88<br>"
+        },
+        "297": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>297<br><b>Constituency Name: </b>Katra Bazar<br><b>Candidate Name: </b>Vinod Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>18218<br><b>Total Votes: </b>234642<br><b>Winner: </b>Bawan Singh(Bharatiya Janata Party)<br><b>Percentage: </b>7.76<br>"
+        },
+        "298": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>298<br><b>Constituency Name: </b>Colonelganj<br><b>Candidate Name: </b>Ranjeet(Bahujan Samaj Party)<br><b>No of votes: </b>3764<br><b>Total Votes: </b>193761<br><b>Winner: </b>AJAY(Bharatiya Janata Party)<br><b>Percentage: </b>1.94<br>"
+        },
+        "299": {
+            "color": "rgba(53.653, 130.0242, 185.1712, 1.0)",
+            "matter": "<b>Constituency No.: </b>299<br><b>Constituency Name: </b>Tarabganj<br><b>Candidate Name: </b>LALJI(Bahujan Samaj Party)<br><b>No of votes: </b>3751<br><b>Total Votes: </b>211012<br><b>Winner: </b>PREM NRAYAN PANDEY(Bharatiya Janata Party)<br><b>Percentage: </b>1.78<br>"
+        },
+        "300": {
+            "color": "rgba(74.2591, 145.2727, 193.4136, 1.0)",
+            "matter": "<b>Constituency No.: </b>300<br><b>Constituency Name: </b>Mankapur<br><b>Candidate Name: </b>Shyam Narayan(Bahujan Samaj Party)<br><b>No of votes: </b>6579<br><b>Total Votes: </b>183192<br><b>Winner: </b>Ramapati Shastri(Bharatiya Janata Party)<br><b>Percentage: </b>3.59<br>"
+        },
+        "301": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>301<br><b>Constituency Name: </b>Gaura<br><b>Candidate Name: </b>Nigar Fatma(Bahujan Samaj Party)<br><b>No of votes: </b>11016<br><b>Total Votes: </b>172557<br><b>Winner: </b>Prabhat Kumar Verma(Bharatiya Janata Party)<br><b>Percentage: </b>6.38<br>"
+        },
+        "302": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>302<br><b>Constituency Name: </b>Shohratgarh<br><b>Candidate Name: </b>RADHARAMAN TRIPATHI(Bahujan Samaj Party)<br><b>No of votes: </b>22300<br><b>Total Votes: </b>189713<br><b>Winner: </b>VINAY VERMA(Apna Dal (Soneylal))<br><b>Percentage: </b>11.75<br>"
+        },
+        "303": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>Constituency No.: </b>303<br><b>Constituency Name: </b>Kapilvastu<br><b>Candidate Name: </b>KANHAIYA PRASAD(Bahujan Samaj Party)<br><b>No of votes: </b>26662<br><b>Total Votes: </b>252356<br><b>Winner: </b>SHYAMDHANI RAHI(Bharatiya Janata Party)<br><b>Percentage: </b>10.57<br>"
+        },
+        "304": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>304<br><b>Constituency Name: </b>Bansi<br><b>Candidate Name: </b>Radheshyam(Bahujan Samaj Party)<br><b>No of votes: </b>22071<br><b>Total Votes: </b>188754<br><b>Winner: </b>Jai Pratap Singh(Bharatiya Janata Party)<br><b>Percentage: </b>11.69<br>"
+        },
+        "305": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>Constituency No.: </b>305<br><b>Constituency Name: </b>Itwa<br><b>Candidate Name: </b>HARI SHANKAR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>24944<br><b>Total Votes: </b>166700<br><b>Winner: </b>MATA PRASAD PANDEY(Samajwadi Party)<br><b>Percentage: </b>14.96<br>"
+        },
+        "306": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>306<br><b>Constituency Name: </b>Domariyaganj<br><b>Candidate Name: </b>ASHOK KUMAR TEWARI(Bahujan Samaj Party)<br><b>No of votes: </b>20416<br><b>Total Votes: </b>206586<br><b>Winner: </b>SAIYADA KHATOON(Samajwadi Party)<br><b>Percentage: </b>9.88<br>"
+        },
+        "307": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>Constituency No.: </b>307<br><b>Constituency Name: </b>Harraiya<br><b>Candidate Name: </b>RAJ KISHOR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>55697<br><b>Total Votes: </b>221334<br><b>Winner: </b>AJAY SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>25.16<br>"
+        },
+        "308": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>308<br><b>Constituency Name: </b>Kaptanganj<br><b>Candidate Name: </b>ZAHEER AHMAD(Bahujan Samaj Party)<br><b>No of votes: </b>40381<br><b>Total Votes: </b>215925<br><b>Winner: </b>KAVINDRA CHAUDHARY(Samajwadi Party)<br><b>Percentage: </b>18.7<br>"
+        },
+        "309": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>309<br><b>Constituency Name: </b>Rudhauli<br><b>Candidate Name: </b>Ashok Kumar(Bahujan Samaj Party)<br><b>No of votes: </b>37618<br><b>Total Votes: </b>234531<br><b>Winner: </b>Rajendra Prasad Chaudhary(Samajwadi Party)<br><b>Percentage: </b>16.04<br>"
+        },
+        "310": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>Constituency No.: </b>310<br><b>Constituency Name: </b>Basti Sadar<br><b>Candidate Name: </b>Alok Ranjan Verma(Bahujan Samaj Party)<br><b>No of votes: </b>36429<br><b>Total Votes: </b>216093<br><b>Winner: </b>Mahendra Nath Yadav(Samajwadi Party)<br><b>Percentage: </b>16.86<br>"
+        },
+        "311": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>Constituency No.: </b>311<br><b>Constituency Name: </b>Mahadewa<br><b>Candidate Name: </b>LAXMI CHANDRA KHARVAR(Bahujan Samaj Party)<br><b>No of votes: </b>40207<br><b>Total Votes: </b>211187<br><b>Winner: </b>Dudhram(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>19.04<br>"
+        },
+        "312": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>312<br><b>Constituency Name: </b>Menhdawal<br><b>Candidate Name: </b>MUHAMMAD TABISH KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>50554<br><b>Total Votes: </b>242230<br><b>Winner: </b>ANIL KUMAR TRIPATHI(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>20.87<br>"
+        },
+        "313": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>Constituency No.: </b>313<br><b>Constituency Name: </b>Khalilabad<br><b>Candidate Name: </b>AFTAB ALAM(Bahujan Samaj Party)<br><b>No of votes: </b>58368<br><b>Total Votes: </b>250627<br><b>Winner: </b>ANKUR TIWARI(Bharatiya Janata Party)<br><b>Percentage: </b>23.29<br>"
+        },
+        "314": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>314<br><b>Constituency Name: </b>Dhanghata<br><b>Candidate Name: </b>SANTOSH(Bahujan Samaj Party)<br><b>No of votes: </b>40693<br><b>Total Votes: </b>216222<br><b>Winner: </b>GANESH CHANDRA(Bharatiya Janata Party)<br><b>Percentage: </b>18.82<br>"
+        },
+        "315": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>315<br><b>Constituency Name: </b>Pharenda<br><b>Candidate Name: </b>Ishoo Chaurasiya(Bahujan Samaj Party)<br><b>No of votes: </b>21665<br><b>Total Votes: </b>211490<br><b>Winner: </b>Virendra Chaudhary(Indian National Congress)<br><b>Percentage: </b>10.24<br>"
+        },
+        "316": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>316<br><b>Constituency Name: </b>Nautanwa<br><b>Candidate Name: </b>AMAN MANI TRIPATHI(Bahujan Samaj Party)<br><b>No of votes: </b>46128<br><b>Total Votes: </b>225463<br><b>Winner: </b>RISHI(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>20.46<br>"
+        },
+        "317": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>317<br><b>Constituency Name: </b>Siswa<br><b>Candidate Name: </b>Dhirendra Pratap Singh(Bahujan Samaj Party)<br><b>No of votes: </b>33498<br><b>Total Votes: </b>255079<br><b>Winner: </b>Premsagar Patel(Bharatiya Janata Party)<br><b>Percentage: </b>13.13<br>"
+        },
+        "318": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>318<br><b>Constituency Name: </b>Maharajganj<br><b>Candidate Name: </b>OMPRAKASH(Bahujan Samaj Party)<br><b>No of votes: </b>20466<br><b>Total Votes: </b>262672<br><b>Winner: </b>JAY MANGAL(Bharatiya Janata Party)<br><b>Percentage: </b>7.79<br>"
+        },
+        "319": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>Constituency No.: </b>319<br><b>Constituency Name: </b>Paniyra<br><b>Candidate Name: </b>Omprakash Chaurasia(Bahujan Samaj Party)<br><b>No of votes: </b>34829<br><b>Total Votes: </b>259931<br><b>Winner: </b>GYANENDRA SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>13.4<br>"
+        },
+        "320": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>Constituency No.: </b>320<br><b>Constituency Name: </b>Caimpiyarganj<br><b>Candidate Name: </b>CHANDRA PRAKASH NISHAD(Bahujan Samaj Party)<br><b>No of votes: </b>13153<br><b>Total Votes: </b>224393<br><b>Winner: </b>FATEH BAHADUR(Bharatiya Janata Party)<br><b>Percentage: </b>5.86<br>"
+        },
+        "321": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>321<br><b>Constituency Name: </b>Pipraich<br><b>Candidate Name: </b>DEEPAK KUMAR AGARWAL(Bahujan Samaj Party)<br><b>No of votes: </b>30954<br><b>Total Votes: </b>258442<br><b>Winner: </b>MAHENDRA PAL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>11.98<br>"
+        },
+        "322": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>Constituency No.: </b>322<br><b>Constituency Name: </b>Gorakhpur Urban<br><b>Candidate Name: </b>KHWAJA SHAMSUDDIN(Bahujan Samaj Party)<br><b>No of votes: </b>8023<br><b>Total Votes: </b>250067<br><b>Winner: </b>ADITYANATH(Bharatiya Janata Party)<br><b>Percentage: </b>3.21<br>"
+        },
+        "323": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>Constituency No.: </b>323<br><b>Constituency Name: </b>Gorakhpur Rural<br><b>Candidate Name: </b>DARA SINGH NISHAD(Bahujan Samaj Party)<br><b>No of votes: </b>15982<br><b>Total Votes: </b>254865<br><b>Winner: </b>BIPIN SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>6.27<br>"
+        },
+        "324": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>324<br><b>Constituency Name: </b>Sahajanwa<br><b>Candidate Name: </b>SUDHiR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>43905<br><b>Total Votes: </b>224489<br><b>Winner: </b>PRADEEP SHUKLA(Bharatiya Janata Party)<br><b>Percentage: </b>19.56<br>"
+        },
+        "325": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>Constituency No.: </b>325<br><b>Constituency Name: </b>Khajani<br><b>Candidate Name: </b>VIDYASAGAR(Bahujan Samaj Party)<br><b>No of votes: </b>46427<br><b>Total Votes: </b>198827<br><b>Winner: </b>SHRIRAM CHAUHAN(Bharatiya Janata Party)<br><b>Percentage: </b>23.35<br>"
+        },
+        "326": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>326<br><b>Constituency Name: </b>Chaura<br><b>Candidate Name: </b>VIRENDRA(Bahujan Samaj Party)<br><b>No of votes: </b>25077<br><b>Total Votes: </b>205952<br><b>Winner: </b>SARVAN KUMAR NISHAD(Bharatiya Janata Party)<br><b>Percentage: </b>12.18<br>"
+        },
+        "327": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>327<br><b>Constituency Name: </b>Bansgaon<br><b>Candidate Name: </b>RAMNAYAN AZAD(Bahujan Samaj Party)<br><b>No of votes: </b>37204<br><b>Total Votes: </b>188542<br><b>Winner: </b>DR. VIMLESH PASWAN(Bharatiya Janata Party)<br><b>Percentage: </b>19.73<br>"
+        },
+        "328": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>Constituency No.: </b>328<br><b>Constituency Name: </b>Chillupar<br><b>Candidate Name: </b>RAJENDRA SEHI(Bahujan Samaj Party)<br><b>No of votes: </b>45729<br><b>Total Votes: </b>227784<br><b>Winner: </b>RAJESH TRIPATHI(Bharatiya Janata Party)<br><b>Percentage: </b>20.08<br>"
+        },
+        "329": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>329<br><b>Constituency Name: </b>Khadda<br><b>Candidate Name: </b>DR. NISAR AHMAD SIDDIQUE(Bahujan Samaj Party)<br><b>No of votes: </b>19997<br><b>Total Votes: </b>204959<br><b>Winner: </b>VIVEKA NAND PANDEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>9.76<br>"
+        },
+        "330": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>Constituency No.: </b>330<br><b>Constituency Name: </b>Padrauna<br><b>Candidate Name: </b>PAWAN KUMAR UPADHYAY(Bahujan Samaj Party)<br><b>No of votes: </b>20983<br><b>Total Votes: </b>229907<br><b>Winner: </b>MANISH KUMAR URF MANTU(Bharatiya Janata Party)<br><b>Percentage: </b>9.13<br>"
+        },
+        "331": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>331<br><b>Constituency Name: </b>Tamkuhi Raj<br><b>Candidate Name: </b>SANJAY(Bahujan Samaj Party)<br><b>No of votes: </b>16854<br><b>Total Votes: </b>226581<br><b>Winner: </b>ASIM KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>7.44<br>"
+        },
+        "332": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>332<br><b>Constituency Name: </b>Fazilnagar<br><b>Candidate Name: </b>Iliyas(Bahujan Samaj Party)<br><b>No of votes: </b>28237<br><b>Total Votes: </b>224836<br><b>Winner: </b>Surendra Kumar Kushwaha(Bharatiya Janata Party)<br><b>Percentage: </b>12.56<br>"
+        },
+        "333": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>333<br><b>Constituency Name: </b>Kushinagar<br><b>Candidate Name: </b>Mukeshwar Prasad Urf Pappu Madheshiya(Bahujan Samaj Party)<br><b>No of votes: </b>16107<br><b>Total Votes: </b>221074<br><b>Winner: </b>Panchanand Pathak (P.N. Pathak)(Bharatiya Janata Party)<br><b>Percentage: </b>7.29<br>"
+        },
+        "334": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>Constituency No.: </b>334<br><b>Constituency Name: </b>Hata<br><b>Candidate Name: </b>Shivang Singh(Bahujan Samaj Party)<br><b>No of votes: </b>21723<br><b>Total Votes: </b>216619<br><b>Winner: </b>MOHAN(Bharatiya Janata Party)<br><b>Percentage: </b>10.03<br>"
+        },
+        "335": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>335<br><b>Constituency Name: </b>Ramkola<br><b>Candidate Name: </b>VIJAY KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>23038<br><b>Total Votes: </b>214152<br><b>Winner: </b>VINAY PRAKASH GOND(Bharatiya Janata Party)<br><b>Percentage: </b>10.76<br>"
+        },
+        "336": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>336<br><b>Constituency Name: </b>Rudrapur<br><b>Candidate Name: </b>SURESH TIWARI(Bahujan Samaj Party)<br><b>No of votes: </b>20093<br><b>Total Votes: </b>181863<br><b>Winner: </b>JAI PRAKASH NISHAD(Bharatiya Janata Party)<br><b>Percentage: </b>11.05<br>"
+        },
+        "337": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>Constituency No.: </b>337<br><b>Constituency Name: </b>Deoria<br><b>Candidate Name: </b>Ramsaran(Bahujan Samaj Party)<br><b>No of votes: </b>17893<br><b>Total Votes: </b>199352<br><b>Winner: </b>SHALABH MANI TRIPATHI(Bharatiya Janata Party)<br><b>Percentage: </b>8.98<br>"
+        },
+        "338": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>338<br><b>Constituency Name: </b>Pathardeva<br><b>Candidate Name: </b>PARVEJ ALAM(Bahujan Samaj Party)<br><b>No of votes: </b>33667<br><b>Total Votes: </b>201183<br><b>Winner: </b>SURYA PRATAP SHAHI(Bharatiya Janata Party)<br><b>Percentage: </b>16.73<br>"
+        },
+        "339": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>Constituency No.: </b>339<br><b>Constituency Name: </b>Rampur Karkhana<br><b>Candidate Name: </b>PUSHPA SHAHI(Bahujan Samaj Party)<br><b>No of votes: </b>30493<br><b>Total Votes: </b>206915<br><b>Winner: </b>SURENDRA CHAURASIA(Bharatiya Janata Party)<br><b>Percentage: </b>14.74<br>"
+        },
+        "340": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>340<br><b>Constituency Name: </b>Bhatpar Rani<br><b>Candidate Name: </b>AJAY(Bahujan Samaj Party)<br><b>No of votes: </b>18576<br><b>Total Votes: </b>194282<br><b>Winner: </b>SABHAKUNWAR(Bharatiya Janata Party)<br><b>Percentage: </b>9.56<br>"
+        },
+        "341": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>341<br><b>Constituency Name: </b>Salempur<br><b>Candidate Name: </b>RAJESH BHARATI(Bahujan Samaj Party)<br><b>No of votes: </b>20657<br><b>Total Votes: </b>177800<br><b>Winner: </b>BIJAYLAXMI GAUTAM(Bharatiya Janata Party)<br><b>Percentage: </b>11.62<br>"
+        },
+        "342": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>342<br><b>Constituency Name: </b>Barhaj<br><b>Candidate Name: </b>VINAY LALSAHAB TIWARI(Bahujan Samaj Party)<br><b>No of votes: </b>23287<br><b>Total Votes: </b>185108<br><b>Winner: </b>DEEPAK KUMAR MISHR(Bharatiya Janata Party)<br><b>Percentage: </b>12.58<br>"
+        },
+        "343": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>Constituency No.: </b>343<br><b>Constituency Name: </b>Atrauliya<br><b>Candidate Name: </b>SAROJ KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>51293<br><b>Total Votes: </b>231341<br><b>Winner: </b>DR. SANGRAM(Samajwadi Party)<br><b>Percentage: </b>22.17<br>"
+        },
+        "344": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>344<br><b>Constituency Name: </b>Gopalpur<br><b>Candidate Name: </b>RAMESH CHAND YADAV(Bahujan Samaj Party)<br><b>No of votes: </b>45211<br><b>Total Votes: </b>206518<br><b>Winner: </b>NAFEES AHMAD(Samajwadi Party)<br><b>Percentage: </b>21.89<br>"
+        },
+        "345": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>Constituency No.: </b>345<br><b>Constituency Name: </b>Sagri<br><b>Candidate Name: </b>SHANKAR YADAV(Bahujan Samaj Party)<br><b>No of votes: </b>41006<br><b>Total Votes: </b>194340<br><b>Winner: </b>HRIDAY NARAYAN SINGH PATEL(Samajwadi Party)<br><b>Percentage: </b>21.1<br>"
+        },
+        "346": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>346<br><b>Constituency Name: </b>Mubarakpur<br><b>Candidate Name: </b>ABDUSSALAM(Bahujan Samaj Party)<br><b>No of votes: </b>48734<br><b>Total Votes: </b>224138<br><b>Winner: </b>AKHILESH(Samajwadi Party)<br><b>Percentage: </b>21.74<br>"
+        },
+        "347": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>Constituency No.: </b>347<br><b>Constituency Name: </b>Azamgarh<br><b>Candidate Name: </b>SUSHIL KUMAR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>39281<br><b>Total Votes: </b>236330<br><b>Winner: </b>DURGA PRASAD YADAV(Samajwadi Party)<br><b>Percentage: </b>16.62<br>"
+        },
+        "348": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>Constituency No.: </b>348<br><b>Constituency Name: </b>Nizamabad<br><b>Candidate Name: </b>PIYUSH KUMAR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>44657<br><b>Total Votes: </b>184712<br><b>Winner: </b>ALAM BADI(Samajwadi Party)<br><b>Percentage: </b>24.18<br>"
+        },
+        "349": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>Constituency No.: </b>349<br><b>Constituency Name: </b>Pawai<br><b>Candidate Name: </b>SHAKEEL AHMAD(Bahujan Samaj Party)<br><b>No of votes: </b>49495<br><b>Total Votes: </b>193244<br><b>Winner: </b>RAMAKANT(Samajwadi Party)<br><b>Percentage: </b>25.61<br>"
+        },
+        "350": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>Constituency No.: </b>350<br><b>Constituency Name: </b>Didarganj<br><b>Candidate Name: </b>BHUPENDRA(Bahujan Samaj Party)<br><b>No of votes: </b>47094<br><b>Total Votes: </b>200957<br><b>Winner: </b>KAMALKANT(Samajwadi Party)<br><b>Percentage: </b>23.43<br>"
+        },
+        "351": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>Constituency No.: </b>351<br><b>Constituency Name: </b>Lalganj<br><b>Candidate Name: </b>AZAD ARIMARDAN(Bahujan Samaj Party)<br><b>No of votes: </b>57809<br><b>Total Votes: </b>218657<br><b>Winner: </b>BECHAI(Samajwadi Party)<br><b>Percentage: </b>26.44<br>"
+        },
+        "352": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>Constituency No.: </b>352<br><b>Constituency Name: </b>Mehnagar<br><b>Candidate Name: </b>PANKAJ KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>50173<br><b>Total Votes: </b>221016<br><b>Winner: </b>PUJA(Samajwadi Party)<br><b>Percentage: </b>22.7<br>"
+        },
+        "353": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>Constituency No.: </b>353<br><b>Constituency Name: </b>Madhuban<br><b>Candidate Name: </b>NEELAM SINGH KUSHWAHA(Bahujan Samaj Party)<br><b>No of votes: </b>51185<br><b>Total Votes: </b>224258<br><b>Winner: </b>RAM BILASH CHAUHAN(Bharatiya Janata Party)<br><b>Percentage: </b>22.82<br>"
+        },
+        "354": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>Constituency No.: </b>354<br><b>Constituency Name: </b>Ghosi<br><b>Candidate Name: </b>VASIM EKBAL ALIAS CHUNNU(Bahujan Samaj Party)<br><b>No of votes: </b>54248<br><b>Total Votes: </b>256855<br><b>Winner: </b>DARA SINGH CHAUHAN(Samajwadi Party)<br><b>Percentage: </b>21.12<br>"
+        },
+        "355": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>Constituency No.: </b>355<br><b>Constituency Name: </b>Gohna<br><b>Candidate Name: </b>DHARM SINGH GAUTAM(Bahujan Samaj Party)<br><b>No of votes: </b>56350<br><b>Total Votes: </b>228291<br><b>Winner: </b>RAJENDRA KUMAR(Samajwadi Party)<br><b>Percentage: </b>24.68<br>"
+        },
+        "356": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>356<br><b>Constituency Name: </b>Mau<br><b>Candidate Name: </b>BHIM(Bahujan Samaj Party)<br><b>No of votes: </b>44516<br><b>Total Votes: </b>278996<br><b>Winner: </b>ABBAS ANSARI(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>15.96<br>"
+        },
+        "357": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>Constituency No.: </b>357<br><b>Constituency Name: </b>Belthara Road<br><b>Candidate Name: </b>PRAVEEN PRAKASH(Bahujan Samaj Party)<br><b>No of votes: </b>38803<br><b>Total Votes: </b>199617<br><b>Winner: </b>Hansu Ram(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>19.44<br>"
+        },
+        "358": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>358<br><b>Constituency Name: </b>Rasara<br><b>Candidate Name: </b>UMASHANKAR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>87887<br><b>Total Votes: </b>200572<br><b>Winner: </b>UMASHANKAR SINGH(Bahujan Samaj Party)<br><b>Percentage: </b>43.82<br>"
+        },
+        "359": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>Constituency No.: </b>359<br><b>Constituency Name: </b>Sikanderpur<br><b>Candidate Name: </b>SANJEEV KUMAR VERMA(Bahujan Samaj Party)<br><b>No of votes: </b>29604<br><b>Total Votes: </b>176471<br><b>Winner: </b>ZIYAUDDIN RIZVI(Samajwadi Party)<br><b>Percentage: </b>16.78<br>"
+        },
+        "360": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>Constituency No.: </b>360<br><b>Constituency Name: </b>Phephana<br><b>Candidate Name: </b>KAMAL DEV(Bahujan Samaj Party)<br><b>No of votes: </b>14154<br><b>Total Votes: </b>189662<br><b>Winner: </b>SANGRAM SINGH(Samajwadi Party)<br><b>Percentage: </b>7.46<br>"
+        },
+        "361": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>361<br><b>Constituency Name: </b>Ballia Nagar<br><b>Candidate Name: </b>Shivdas Prasad Verma(Bahujan Samaj Party)<br><b>No of votes: </b>10023<br><b>Total Votes: </b>202812<br><b>Winner: </b>Daya Shankar Singh(Bharatiya Janata Party)<br><b>Percentage: </b>4.94<br>"
+        },
+        "362": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>Constituency No.: </b>362<br><b>Constituency Name: </b>Bansdih<br><b>Candidate Name: </b>MANTI(Bahujan Samaj Party)<br><b>No of votes: </b>10854<br><b>Total Votes: </b>216698<br><b>Winner: </b>KETAKEE SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>5.01<br>"
+        },
+        "363": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>Constituency No.: </b>363<br><b>Constituency Name: </b>Bairia<br><b>Candidate Name: </b>SUBHASH YADAV(Bahujan Samaj Party)<br><b>No of votes: </b>12695<br><b>Total Votes: </b>176654<br><b>Winner: </b>JAI PRAKASH ANCHAL(Samajwadi Party)<br><b>Percentage: </b>7.19<br>"
+        },
+        "364": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>Constituency No.: </b>364<br><b>Constituency Name: </b>Badlapur<br><b>Candidate Name: </b>MANOJ(Bahujan Samaj Party)<br><b>No of votes: </b>34792<br><b>Total Votes: </b>207419<br><b>Winner: </b>RAMESH CHANDRA MISHRA(Bharatiya Janata Party)<br><b>Percentage: </b>16.77<br>"
+        },
+        "365": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>365<br><b>Constituency Name: </b>Shahganj<br><b>Candidate Name: </b>Indar Dev(Bahujan Samaj Party)<br><b>No of votes: </b>48957<br><b>Total Votes: </b>240920<br><b>Winner: </b>Ramesh(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>20.32<br>"
+        },
+        "366": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>366<br><b>Constituency Name: </b>Jaunpur<br><b>Candidate Name: </b>SALEEM KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>30579<br><b>Total Votes: </b>248447<br><b>Winner: </b>GIRISH CHANDRA YADAV(Bharatiya Janata Party)<br><b>Percentage: </b>12.31<br>"
+        },
+        "367": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>Constituency No.: </b>367<br><b>Constituency Name: </b>Malhani<br><b>Candidate Name: </b>SHAILENDRA YADAV(Bahujan Samaj Party)<br><b>No of votes: </b>24007<br><b>Total Votes: </b>228695<br><b>Winner: </b>LUCKY YADAV(Samajwadi Party)<br><b>Percentage: </b>10.5<br>"
+        },
+        "368": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>Constituency No.: </b>368<br><b>Constituency Name: </b>Mungra Badshahpur<br><b>Candidate Name: </b>DINESH KUMAR SHUKLA(Bahujan Samaj Party)<br><b>No of votes: </b>32597<br><b>Total Votes: </b>219700<br><b>Winner: </b>PANKAJ(Samajwadi Party)<br><b>Percentage: </b>14.84<br>"
+        },
+        "369": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>369<br><b>Constituency Name: </b>Machhlishahr<br><b>Candidate Name: </b>VIJAY KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>35059<br><b>Total Votes: </b>218312<br><b>Winner: </b>DR. RAGINI(Samajwadi Party)<br><b>Percentage: </b>16.06<br>"
+        },
+        "370": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>Constituency No.: </b>370<br><b>Constituency Name: </b>Mariyahu<br><b>Candidate Name: </b>ANAND DUBEY(Bahujan Samaj Party)<br><b>No of votes: </b>32783<br><b>Total Votes: </b>193664<br><b>Winner: </b>DR R.K. PATEL(Apna Dal (Soneylal))<br><b>Percentage: </b>16.93<br>"
+        },
+        "371": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>371<br><b>Constituency Name: </b>Zafrabad<br><b>Candidate Name: </b>Dr. SANTOSH KUMAR MISHRA(Bahujan Samaj Party)<br><b>No of votes: </b>35234<br><b>Total Votes: </b>223351<br><b>Winner: </b>JAGDISH NARAYAN(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>15.78<br>"
+        },
+        "372": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>372<br><b>Constituency Name: </b>Kerakat<br><b>Candidate Name: </b>Lalbahadur(Bahujan Samaj Party)<br><b>No of votes: </b>51633<br><b>Total Votes: </b>240258<br><b>Winner: </b>Tufani Saroj(Samajwadi Party)<br><b>Percentage: </b>21.49<br>"
+        },
+        "373": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>Constituency No.: </b>373<br><b>Constituency Name: </b>Jakhanian<br><b>Candidate Name: </b>VIJAY KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>51585<br><b>Total Votes: </b>254608<br><b>Winner: </b>BEDI(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>20.26<br>"
+        },
+        "374": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>Constituency No.: </b>374<br><b>Constituency Name: </b>Saidpur<br><b>Candidate Name: </b>BINOD KUMAR(Bahujan Samaj Party)<br><b>No of votes: </b>45097<br><b>Total Votes: </b>236636<br><b>Winner: </b>ANKIT BHARTI(Samajwadi Party)<br><b>Percentage: </b>19.06<br>"
+        },
+        "375": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>Constituency No.: </b>375<br><b>Constituency Name: </b>Ghazipur<br><b>Candidate Name: </b>DR. RAJ KUMAR SINGH GAUTAM(Bahujan Samaj Party)<br><b>No of votes: </b>33931<br><b>Total Votes: </b>226595<br><b>Winner: </b>JAIKISHAN(Samajwadi Party)<br><b>Percentage: </b>14.97<br>"
+        },
+        "376": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>376<br><b>Constituency Name: </b>Jangipur<br><b>Candidate Name: </b>DR. MUKESH SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>47857<br><b>Total Votes: </b>230465<br><b>Winner: </b>VIRENDRA KUMAR YADAV(Samajwadi Party)<br><b>Percentage: </b>20.77<br>"
+        },
+        "377": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>377<br><b>Constituency Name: </b>Zahoorabad<br><b>Candidate Name: </b>SAIYYADA SHADAB FATIMA(Bahujan Samaj Party)<br><b>No of votes: </b>53144<br><b>Total Votes: </b>247266<br><b>Winner: </b>OM PRAKASH RAJBHAR(Suheldev Bharatiya Samaj Party)<br><b>Percentage: </b>21.49<br>"
+        },
+        "378": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>378<br><b>Constituency Name: </b>Mohammadabad<br><b>Candidate Name: </b>MADHVENDRA RAI(Bahujan Samaj Party)<br><b>No of votes: </b>32440<br><b>Total Votes: </b>246214<br><b>Winner: </b>SUHAIB Alias MANNU ANSARI(Samajwadi Party)<br><b>Percentage: </b>13.18<br>"
+        },
+        "379": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>Constituency No.: </b>379<br><b>Constituency Name: </b>Zamania<br><b>Candidate Name: </b>MOHAMMAD YUSUFE ALI KHAN(Bahujan Samaj Party)<br><b>No of votes: </b>53303<br><b>Total Votes: </b>233390<br><b>Winner: </b>OM PRAKASH(Samajwadi Party)<br><b>Percentage: </b>22.84<br>"
+        },
+        "380": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>380<br><b>Constituency Name: </b>Mughalsarai<br><b>Candidate Name: </b>IRSHAD AHAMAD(Bahujan Samaj Party)<br><b>No of votes: </b>31602<br><b>Total Votes: </b>241076<br><b>Winner: </b>RAMESH JAISWAL(Bharatiya Janata Party)<br><b>Percentage: </b>13.11<br>"
+        },
+        "381": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>Constituency No.: </b>381<br><b>Constituency Name: </b>Sakaldiha<br><b>Candidate Name: </b>JAYSHYAM(Bahujan Samaj Party)<br><b>No of votes: </b>43756<br><b>Total Votes: </b>212118<br><b>Winner: </b>PRABHU NARAYAN YADAV(Samajwadi Party)<br><b>Percentage: </b>20.63<br>"
+        },
+        "382": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>Constituency No.: </b>382<br><b>Constituency Name: </b>Saiyadraja<br><b>Candidate Name: </b>AMIT KUMAR YADAV URF LALA(Bahujan Samaj Party)<br><b>No of votes: </b>36848<br><b>Total Votes: </b>210031<br><b>Winner: </b>SUSHIL SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>17.54<br>"
+        },
+        "383": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>383<br><b>Constituency Name: </b>Chakia<br><b>Candidate Name: </b>VIKAS AZAD(Bahujan Samaj Party)<br><b>No of votes: </b>44530<br><b>Total Votes: </b>246794<br><b>Winner: </b>KAILASH(Bharatiya Janata Party)<br><b>Percentage: </b>18.04<br>"
+        },
+        "384": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>Constituency No.: </b>384<br><b>Constituency Name: </b>Pindra<br><b>Candidate Name: </b>BABULAL(Bahujan Samaj Party)<br><b>No of votes: </b>48766<br><b>Total Votes: </b>220547<br><b>Winner: </b>AWADHESH KUMAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>22.11<br>"
+        },
+        "385": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>Constituency No.: </b>385<br><b>Constituency Name: </b>Ajagara<br><b>Candidate Name: </b>RAGHUNATH CHAUDHARI(Bahujan Samaj Party)<br><b>No of votes: </b>42301<br><b>Total Votes: </b>245074<br><b>Winner: </b>TRIBHUWAN RAM(Bharatiya Janata Party)<br><b>Percentage: </b>17.26<br>"
+        },
+        "386": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>386<br><b>Constituency Name: </b>Shivpur<br><b>Candidate Name: </b>Ravi Maurya(Bahujan Samaj Party)<br><b>No of votes: </b>40601<br><b>Total Votes: </b>251791<br><b>Winner: </b>Anil Rajbhar(Bharatiya Janata Party)<br><b>Percentage: </b>16.12<br>"
+        },
+        "387": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>Constituency No.: </b>387<br><b>Constituency Name: </b>Rohaniya<br><b>Candidate Name: </b>ARUN SINGH PATEL(Bahujan Samaj Party)<br><b>No of votes: </b>26356<br><b>Total Votes: </b>246793<br><b>Winner: </b>DR. SUNIL PATEL(Apna Dal (Soneylal))<br><b>Percentage: </b>10.68<br>"
+        },
+        "388": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>Constituency No.: </b>388<br><b>Constituency Name: </b>Varanasi North<br><b>Candidate Name: </b>Shyam Prakash(Bahujan Samaj Party)<br><b>No of votes: </b>10457<br><b>Total Votes: </b>246225<br><b>Winner: </b>Ravindra Jaiswal(Bharatiya Janata Party)<br><b>Percentage: </b>4.25<br>"
+        },
+        "389": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>Constituency No.: </b>389<br><b>Constituency Name: </b>Varanasi South<br><b>Candidate Name: </b>Dinesh Kasaudhan(Bahujan Samaj Party)<br><b>No of votes: </b>1855<br><b>Total Votes: </b>195782<br><b>Winner: </b>Dr. Neelkanth Tiwari(Bharatiya Janata Party)<br><b>Percentage: </b>0.95<br>"
+        },
+        "390": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>Constituency No.: </b>390<br><b>Constituency Name: </b>Varanasi Cantt.<br><b>Candidate Name: </b>Kaoshik Kumar Pandey(Bahujan Samaj Party)<br><b>No of votes: </b>7068<br><b>Total Votes: </b>243821<br><b>Winner: </b>Saurabh  Srivastava(Bharatiya Janata Party)<br><b>Percentage: </b>2.9<br>"
+        },
+        "391": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>Constituency No.: </b>391<br><b>Constituency Name: </b>Sevapuri<br><b>Candidate Name: </b>Arvind Kumar Tripathi(Bahujan Samaj Party)<br><b>No of votes: </b>24065<br><b>Total Votes: </b>220910<br><b>Winner: </b>Neel Ratan Singh(Bharatiya Janata Party)<br><b>Percentage: </b>10.89<br>"
+        },
+        "392": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>Constituency No.: </b>392<br><b>Constituency Name: </b>Bhadohi<br><b>Candidate Name: </b>HARISHANKAR (DADA CHAUHAN)(Bahujan Samaj Party)<br><b>No of votes: </b>40758<br><b>Total Votes: </b>250365<br><b>Winner: </b>ZAHID(Samajwadi Party)<br><b>Percentage: </b>16.28<br>"
+        },
+        "393": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>Constituency No.: </b>393<br><b>Constituency Name: </b>Gyanpur<br><b>Candidate Name: </b>UPENDRA KUMAR SINGH(Bahujan Samaj Party)<br><b>No of votes: </b>30753<br><b>Total Votes: </b>215254<br><b>Winner: </b>VIPUL DUBEY(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>14.29<br>"
+        },
+        "394": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>Constituency No.: </b>394<br><b>Constituency Name: </b>Aurai<br><b>Candidate Name: </b>Kamala Shankar(Bahujan Samaj Party)<br><b>No of votes: </b>28413<br><b>Total Votes: </b>224745<br><b>Winner: </b>Dinanath Bhashkar(Bharatiya Janata Party)<br><b>Percentage: </b>12.64<br>"
+        },
+        "395": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>Constituency No.: </b>395<br><b>Constituency Name: </b>Chhanbey<br><b>Candidate Name: </b>DHANESHWAR(Bahujan Samaj Party)<br><b>No of votes: </b>32145<br><b>Total Votes: </b>216739<br><b>Winner: </b>RAHUL PRAKASH KOL(Apna Dal (Soneylal))<br><b>Percentage: </b>14.83<br>"
+        },
+        "396": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>Constituency No.: </b>396<br><b>Constituency Name: </b>Mirzapur<br><b>Candidate Name: </b>RAJESH KUMAR PANDEY(Bahujan Samaj Party)<br><b>No of votes: </b>19529<br><b>Total Votes: </b>227751<br><b>Winner: </b>RATNAKAR MISHRA(Bharatiya Janata Party)<br><b>Percentage: </b>8.57<br>"
+        },
+        "397": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>Constituency No.: </b>397<br><b>Constituency Name: </b>Majhawan<br><b>Candidate Name: </b>PUSPLATA BIND(Bahujan Samaj Party)<br><b>No of votes: </b>52990<br><b>Total Votes: </b>245391<br><b>Winner: </b>DR. VINOD KUMAR BIND(Nirbal Indian Shoshit Hamara Aam Dal)<br><b>Percentage: </b>21.59<br>"
+        },
+        "398": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>Constituency No.: </b>398<br><b>Constituency Name: </b>Chunar<br><b>Candidate Name: </b>VIJAY KUMAR ALIAS A.V.BHAIYA(Bahujan Samaj Party)<br><b>No of votes: </b>29389<br><b>Total Votes: </b>220823<br><b>Winner: </b>ANURAG SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>13.31<br>"
+        },
+        "399": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>Constituency No.: </b>399<br><b>Constituency Name: </b>Marihan<br><b>Candidate Name: </b>NARENDRA SINGH KUSAWAHA(Bahujan Samaj Party)<br><b>No of votes: </b>42466<br><b>Total Votes: </b>236733<br><b>Winner: </b>RAMA SHANKAR SINGH(Bharatiya Janata Party)<br><b>Percentage: </b>17.94<br>"
+        },
+        "400": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>Constituency No.: </b>400<br><b>Constituency Name: </b>Ghorawal<br><b>Candidate Name: </b>Mohan Singh Kushwaha(Bahujan Samaj Party)<br><b>No of votes: </b>46941<br><b>Total Votes: </b>250342<br><b>Winner: </b>Dr. Anil Kumar Maurya(Bharatiya Janata Party)<br><b>Percentage: </b>18.75<br>"
+        },
+        "401": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>Constituency No.: </b>401<br><b>Constituency Name: </b>Robertsganj<br><b>Candidate Name: </b>AVINASH SHUKLA(Bahujan Samaj Party)<br><b>No of votes: </b>32887<br><b>Total Votes: </b>209724<br><b>Winner: </b>Bhupesh Chaubey(Bharatiya Janata Party)<br><b>Percentage: </b>15.68<br>"
+        },
+        "402": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>Constituency No.: </b>402<br><b>Constituency Name: </b>Obra<br><b>Candidate Name: </b>SUBHASH KHARWAR(Bahujan Samaj Party)<br><b>No of votes: </b>20131<br><b>Total Votes: </b>163139<br><b>Winner: </b>SANJEEV KUMAR(Bharatiya Janata Party)<br><b>Percentage: </b>12.34<br>"
+        },
+        "403": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>Constituency No.: </b>403<br><b>Constituency Name: </b>Duddhi<br><b>Candidate Name: </b>HARIRAM(Bahujan Samaj Party)<br><b>No of votes: </b>23879<br><b>Total Votes: </b>204469<br><b>Winner: </b>RAMDULAR(Bharatiya Janata Party)<br><b>Percentage: </b>11.68<br>"
+        }
+    }
+}
