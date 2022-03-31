@@ -1,0 +1,3080 @@
+{
+    "title": "2022 UP RESULTS",
+    "trigger": "sdtcode11",
+    "desc": "<div class=\"col-md-6\"><div style=\"border:2px solid #000;background-color:#fff;font-size:medium\"><div style=\"background-color:#000;border:1% solid #000;font-size:medium;font-weight:700;color:#fff;text-align:center;height:30%;width:100%;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0\">Legend</div><div style=\"margin-top:5%;display:block\">Highest: 93.62529</div><div style=\"background-color:#fff;font-size:small;color:#000;margin-top:5%;margin-bottom:0;margin-right:0;margin-left:30%\"><div title=\"82.56% to 93.62529% (High)\" style=\"background-color:#2c7bb6;color:#2c7bb6;cursor:default;text-align:center;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding:0;width:50%;display:block\">1</div><span id=\"hightxt\"></span><br><div title=\"71.49% to 82.56% (Above Avg)\" style=\"background-color:#abd9e9;text-align:center;cursor:default;color:#abd9e9;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding:0;width:50%;display:block\">2</div><span id=\"abvavgtxt\"></span><br><div title=\"60.43% to 71.49% (Average)\" style=\"background-color:#ffffbf;text-align:center;cursor:default;color:#ffffbf;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding:0;width:50%;display:block\">3</div><span id=\"avgtxt\"></span><br><div title=\"49.36% to 60.43% (Below Avg)\" style=\"background-color:#fdae61;text-align:center;cursor:default;color:#fdae61;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding:0;width:50%;display:block\">4</div><span id=\"blwavgtxt\"></span><br><div title=\"38.29551% to 49.36% (Low)\" style=\"background-color:#d7191c;cursor:default;text-align:center;color:#d7191c;font-size:x-large;margin-bottom:0;margin-left:0;margin-right:0;margin-top:-25%;padding:0;width:50%;display:block\">5</div><span id=\"lowtxt\"></span><br></div><div style=\"margin-top:-5%\" title=\"BIHAR - Lowest\" style=\"display:block;color:#000\">Lowest: 38.29551</div><br><div id=\"divsc\" style=\"display:none\"><div id=\"divsc1\">6</div><br><div id=\"txtscst\">Zero SC</div></div></div></div>",
+    "data": {
+        "00003": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Karnah<br><b>L_Pop: </b>30298<br><b>L_Per: </b>61.43396<br><b>total: </b>49318<br>"
+        },
+        "00002": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Handwara<br><b>L_Pop: </b>140348<br><b>L_Per: </b>64.39252<br><b>total: </b>217957<br>"
+        },
+        "00001": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Kupwara<br><b>L_Pop: </b>269008<br><b>L_Per: </b>64.9337<br><b>total: </b>414281<br>"
+        },
+        "00042": {
+            "color": "rgba(237.3818, 115.1364, 69.7773, 1.0)",
+            "matter": "<b>name: </b>Sonawari<br><b>L_Pop: </b>70366<br><b>L_Per: </b>46.61791<br><b>total: </b>150942<br>"
+        },
+        "00041": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Bandipora<br><b>L_Pop: </b>93132<br><b>L_Per: </b>63.08517<br><b>total: </b>147629<br>"
+        },
+        "00040": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Gurez<br><b>L_Pop: </b>22481<br><b>L_Per: </b>70.45789<br><b>total: </b>31907<br>"
+        },
+        "00038": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Boniyar<br><b>L_Pop: </b>35182<br><b>L_Per: </b>59.72871<br><b>total: </b>58903<br>"
+        },
+        "00034": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Pattan<br><b>L_Pop: </b>113146<br><b>L_Per: </b>60.68437<br><b>total: </b>186450<br>"
+        },
+        "00036": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Kreeri<br><b>L_Pop: </b>35649<br><b>L_Per: </b>61.90675<br><b>total: </b>57585<br>"
+        },
+        "00039": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Tangmarg <br><b>L_Pop: </b>53189<br><b>L_Per: </b>61.91103<br><b>total: </b>85912<br>"
+        },
+        "00037": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Uri<br><b>L_Pop: </b>37913<br><b>L_Per: </b>63.27375<br><b>total: </b>59919<br>"
+        },
+        "00033": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Rafiabad<br><b>L_Pop: </b>50857<br><b>L_Per: </b>64.5836<br><b>total: </b>78746<br>"
+        },
+        "00032": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Sopore<br><b>L_Pop: </b>126806<br><b>L_Per: </b>67.76829<br><b>total: </b>187117<br>"
+        },
+        "00035": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Baramulla<br><b>L_Pop: </b>92407<br><b>L_Per: </b>71.73009<br><b>total: </b>128826<br>"
+        },
+        "00046": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Kangan<br><b>L_Pop: </b>51993<br><b>L_Per: </b>52.84271<br><b>total: </b>98392<br>"
+        },
+        "00047": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Ganderbal<br><b>L_Pop: </b>43864<br><b>L_Per: </b>61.36284<br><b>total: </b>71483<br>"
+        },
+        "00045": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Lar<br><b>L_Pop: </b>47419<br><b>L_Per: </b>61.60152<br><b>total: </b>76977<br>"
+        },
+        "00053": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Pahalgam<br><b>L_Pop: </b>49474<br><b>L_Per: </b>51.16659<br><b>total: </b>96692<br>"
+        },
+        "00057": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Kokernag<br><b>L_Pop: </b>71944<br><b>L_Per: </b>52.85375<br><b>total: </b>136119<br>"
+        },
+        "00054": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Bijbehara<br><b>L_Pop: </b>75673<br><b>L_Per: </b>62.41587<br><b>total: </b>121240<br>"
+        },
+        "00056": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Shangus<br><b>L_Pop: </b>37398<br><b>L_Per: </b>63.55016<br><b>total: </b>58848<br>"
+        },
+        "00058": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Dooru<br><b>L_Pop: </b>99547<br><b>L_Per: </b>64.8671<br><b>total: </b>153463<br>"
+        },
+        "00055": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Anantnag<br><b>L_Pop: </b>211496<br><b>L_Per: </b>69.61869<br><b>total: </b>303792<br>"
+        },
+        "00070": {
+            "color": "rgba(232.7455, 97.2091, 61.4318, 1.0)",
+            "matter": "<b>name: </b>Chhatroo<br><b>L_Pop: </b>16112<br><b>L_Per: </b>45.10512<br><b>total: </b>35721<br>"
+        },
+        "00069": {
+            "color": "rgba(252.7848, 184.1152, 109.2894, 1.0)",
+            "matter": "<b>name: </b>Marwah<br><b>L_Pop: </b>15473<br><b>L_Per: </b>54.06548<br><b>total: </b>28619<br>"
+        },
+        "00071": {
+            "color": "rgba(253.197, 197.303, 124.5379, 1.0)",
+            "matter": "<b>name: </b>Atholi (Paddar)<br><b>L_Pop: </b>10192<br><b>L_Per: </b>56.16046<br><b>total: </b>18148<br>"
+        },
+        "00068": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Kishtwar<br><b>L_Pop: </b>65729<br><b>L_Per: </b>60.40602<br><b>total: </b>108812<br>"
+        },
+        "00043": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Srinagar (North)<br><b>L_Pop: </b>735576<br><b>L_Per: </b>69.37714<br><b>total: </b>1060257<br>"
+        },
+        "00044": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Srinagar (South)<br><b>L_Pop: </b>13008<br><b>L_Per: </b>71.19089<br><b>total: </b>18272<br>"
+        },
+        "00009": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Charar- E- Shrief<br><b>L_Pop: </b>19556<br><b>L_Per: </b>46.58187<br><b>total: </b>41982<br>"
+        },
+        "00004": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Khag<br><b>L_Pop: </b>25898<br><b>L_Per: </b>47.9344<br><b>total: </b>54028<br>"
+        },
+        "00006": {
+            "color": "rgba(248.2, 156.9667, 89.25, 1.0)",
+            "matter": "<b>name: </b>Khansahib<br><b>L_Pop: </b>46428<br><b>L_Per: </b>50.88446<br><b>total: </b>91242<br>"
+        },
+        "00007": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Budgam<br><b>L_Pop: </b>63875<br><b>L_Per: </b>56.79797<br><b>total: </b>112460<br>"
+        },
+        "00005": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Beerwah<br><b>L_Pop: </b>70558<br><b>L_Per: </b>56.89565<br><b>total: </b>124013<br>"
+        },
+        "00008": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Chadoora<br><b>L_Pop: </b>109334<br><b>L_Per: </b>62.54161<br><b>total: </b>174818<br>"
+        },
+        "00051": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Pulwama<br><b>L_Pop: </b>140360<br><b>L_Per: </b>61.13453<br><b>total: </b>229592<br>"
+        },
+        "00050": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Tral<br><b>L_Pop: </b>59574<br><b>L_Per: </b>64.08908<br><b>total: </b>92955<br>"
+        },
+        "00048": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Pampore<br><b>L_Pop: </b>45450<br><b>L_Per: </b>65.75331<br><b>total: </b>69122<br>"
+        },
+        "00049": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Awantipora<br><b>L_Pop: </b>48574<br><b>L_Per: </b>68.03367<br><b>total: </b>71397<br>"
+        },
+        "00017": {
+            "color": "rgba(253.403, 203.897, 132.1621, 1.0)",
+            "matter": "<b>name: </b>Mandi<br><b>L_Pop: </b>36422<br><b>L_Per: </b>57.28441<br><b>total: </b>63581<br>"
+        },
+        "00019": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Surankote<br><b>L_Pop: </b>62587<br><b>L_Per: </b>61.51419<br><b>total: </b>101744<br>"
+        },
+        "00018": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Mendhar<br><b>L_Pop: </b>81221<br><b>L_Per: </b>69.80928<br><b>total: </b>116347<br>"
+        },
+        "00016": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Haveli<br><b>L_Pop: </b>81494<br><b>L_Per: </b>73.75757<br><b>total: </b>110489<br>"
+        },
+        "00052": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Shopian<br><b>L_Pop: </b>136500<br><b>L_Per: </b>60.75632<br><b>total: </b>224668<br>"
+        },
+        "00061": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Damhal Hanjipora<br><b>L_Pop: </b>41740<br><b>L_Per: </b>48.31186<br><b>total: </b>86397<br>"
+        },
+        "00059": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Kulgam<br><b>L_Pop: </b>149164<br><b>L_Per: </b>62.3142<br><b>total: </b>239374<br>"
+        },
+        "00060": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b> Devsar<br><b>L_Pop: </b>18181<br><b>L_Per: </b>66.81489<br><b>total: </b>27211<br>"
+        },
+        "00023": {
+            "color": "rgba(246.6545, 150.9909, 86.4682, 1.0)",
+            "matter": "<b>name: </b>Budhal<br><b>L_Pop: </b>48765<br><b>L_Per: </b>49.97489<br><b>total: </b>97579<br>"
+        },
+        "00024": {
+            "color": "rgba(253.7121, 213.7879, 143.5985, 1.0)",
+            "matter": "<b>name: </b>Kalakote<br><b>L_Pop: </b>35418<br><b>L_Per: </b>59.12953<br><b>total: </b>59899<br>"
+        },
+        "00020": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Thanamandi<br><b>L_Pop: </b>37152<br><b>L_Per: </b>67.19965<br><b>total: </b>55286<br>"
+        },
+        "00021": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Darhal<br><b>L_Pop: </b>21383<br><b>L_Per: </b>70.78354<br><b>total: </b>30209<br>"
+        },
+        "00022": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Rajauri<br><b>L_Pop: </b>115480<br><b>L_Per: </b>72.96945<br><b>total: </b>158258<br>"
+        },
+        "00026": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Sunderbani<br><b>L_Pop: </b>44054<br><b>L_Per: </b>79.13276<br><b>total: </b>55671<br>"
+        },
+        "00025": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Nowshehra<br><b>L_Pop: </b>61857<br><b>L_Per: </b>80.08208<br><b>total: </b>77242<br>"
+        },
+        "00066": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Banihal<br><b>L_Pop: </b>52739<br><b>L_Per: </b>52.89716<br><b>total: </b>99701<br>"
+        },
+        "00067": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Ramban<br><b>L_Pop: </b>71326<br><b>L_Per: </b>55.32578<br><b>total: </b>128920<br>"
+        },
+        "00076": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Gool-Gulabgarh<br><b>L_Pop: </b>57036<br><b>L_Per: </b>48.38316<br><b>total: </b>117884<br>"
+        },
+        "00077": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Reasi<br><b>L_Pop: </b>93506<br><b>L_Per: </b>66.32384<br><b>total: </b>140984<br>"
+        },
+        "00064": {
+            "color": "rgba(253.403, 203.897, 132.1621, 1.0)",
+            "matter": "<b>name: </b>Gandoh<br><b>L_Pop: </b>33194<br><b>L_Per: </b>57.4241<br><b>total: </b>57805<br>"
+        },
+        "00062": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Doda<br><b>L_Pop: </b>105023<br><b>L_Per: </b>62.93815<br><b>total: </b>166867<br>"
+        },
+        "00063": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Thathri<br><b>L_Pop: </b>32134<br><b>L_Per: </b>64.93816<br><b>total: </b>49484<br>"
+        },
+        "00065": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Bhaderwah<br><b>L_Pop: </b>48732<br><b>L_Per: </b>75.50666<br><b>total: </b>64540<br>"
+        },
+        "00078": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Akhnoor<br><b>L_Pop: </b>170595<br><b>L_Per: </b>78.08588<br><b>total: </b>218471<br>"
+        },
+        "00081": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Bishnah<br><b>L_Pop: </b>80624<br><b>L_Per: </b>81.71572<br><b>total: </b>98664<br>"
+        },
+        "00080": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Ranbir Singh Pora<br><b>L_Pop: </b>146568<br><b>L_Per: </b>82.97273<br><b>total: </b>176646<br>"
+        },
+        "00079": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Jammu<br><b>L_Pop: </b>739348<br><b>L_Per: </b>85.09854<br><b>total: </b>868814<br>"
+        },
+        "00029": {
+            "color": "rgba(252.6818, 180.8182, 105.4773, 1.0)",
+            "matter": "<b>name: </b>Bani<br><b>L_Pop: </b>20362<br><b>L_Per: </b>53.73552<br><b>total: </b>37893<br>"
+        },
+        "00027": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Billawar<br><b>L_Pop: </b>85493<br><b>L_Per: </b>66.67005<br><b>total: </b>128233<br>"
+        },
+        "00028": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Bashohli<br><b>L_Pop: </b>41283<br><b>L_Per: </b>68.05301<br><b>total: </b>60663<br>"
+        },
+        "00030": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Kathua<br><b>L_Pop: </b>146088<br><b>L_Per: </b>78.8893<br><b>total: </b>185181<br>"
+        },
+        "00031": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Hiranagar<br><b>L_Pop: </b>95978<br><b>L_Per: </b>79.63063<br><b>total: </b>120529<br>"
+        },
+        "00073": {
+            "color": "rgba(253.403, 203.897, 132.1621, 1.0)",
+            "matter": "<b>name: </b>Chenani<br><b>L_Pop: </b>30641<br><b>L_Per: </b>57.50075<br><b>total: </b>53288<br>"
+        },
+        "00074": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Ramnagar<br><b>L_Pop: </b>86946<br><b>L_Per: </b>62.53129<br><b>total: </b>139044<br>"
+        },
+        "00075": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Majalta<br><b>L_Pop: </b>28079<br><b>L_Per: </b>69.39255<br><b>total: </b>40464<br>"
+        },
+        "00072": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Udhampur<br><b>L_Pop: </b>176688<br><b>L_Per: </b>74.28329<br><b>total: </b>237857<br>"
+        },
+        "00082": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Samba<br><b>L_Pop: </b>228139<br><b>L_Per: </b>81.41163<br><b>total: </b>280229<br>"
+        },
+        "00114": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Udaipur<br><b>L_Pop: </b>5864<br><b>L_Per: </b>73.64984<br><b>total: </b>7962<br>"
+        },
+        "00115": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Lahul<br><b>L_Pop: </b>7255<br><b>L_Per: </b>76.08012<br><b>total: </b>9536<br>"
+        },
+        "00116": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Spiti<br><b>L_Pop: </b>8726<br><b>L_Per: </b>79.75505<br><b>total: </b>10941<br>"
+        },
+        "00084": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Chaurah<br><b>L_Pop: </b>40431<br><b>L_Per: </b>60.43949<br><b>total: </b>66895<br>"
+        },
+        "00086": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Bhalai<br><b>L_Pop: </b>14615<br><b>L_Per: </b>67.47772<br><b>total: </b>21659<br>"
+        },
+        "00085": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Saluni<br><b>L_Pop: </b>28320<br><b>L_Per: </b>69.1744<br><b>total: </b>40940<br>"
+        },
+        "00083": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Pangi<br><b>L_Pop: </b>11768<br><b>L_Per: </b>71.0242<br><b>total: </b>16569<br>"
+        },
+        "00091": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Holi<br><b>L_Pop: </b>9013<br><b>L_Per: </b>72.76177<br><b>total: </b>12387<br>"
+        },
+        "00090": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Chamba<br><b>L_Pop: </b>114414<br><b>L_Per: </b>74.01317<br><b>total: </b>154586<br>"
+        },
+        "00092": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Brahmaur<br><b>L_Pop: </b>16345<br><b>L_Per: </b>74.46809<br><b>total: </b>21949<br>"
+        },
+        "00088": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Bhattiyat<br><b>L_Pop: </b>28407<br><b>L_Per: </b>76.05419<br><b>total: </b>37351<br>"
+        },
+        "00089": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Sihunta<br><b>L_Pop: </b>26702<br><b>L_Per: </b>76.70564<br><b>total: </b>34811<br>"
+        },
+        "00087": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Dalhousie<br><b>L_Pop: </b>33827<br><b>L_Per: </b>81.36576<br><b>total: </b>41574<br>"
+        },
+        "00113": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Multhan<br><b>L_Pop: </b>4415<br><b>L_Per: </b>66.48095<br><b>total: </b>6641<br>"
+        },
+        "00107": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Khundian<br><b>L_Pop: </b>27806<br><b>L_Per: </b>82.68213<br><b>total: </b>33630<br>"
+        },
+        "00098": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Shahpur<br><b>L_Pop: </b>50129<br><b>L_Per: </b>83.28737<br><b>total: </b>60188<br>"
+        },
+        "00112": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Baijnath<br><b>L_Pop: </b>71009<br><b>L_Per: </b>83.44477<br><b>total: </b>85097<br>"
+        },
+        "00094": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Indora<br><b>L_Pop: </b>60415<br><b>L_Per: </b>83.9447<br><b>total: </b>71970<br>"
+        },
+        "00102": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Baroh<br><b>L_Pop: </b>19276<br><b>L_Per: </b>84.19673<br><b>total: </b>22894<br>"
+        },
+        "00095": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Fatehpur<br><b>L_Pop: </b>46375<br><b>L_Per: </b>84.65526<br><b>total: </b>54781<br>"
+        },
+        "00097": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Harchakian<br><b>L_Pop: </b>10415<br><b>L_Per: </b>84.86108<br><b>total: </b>12273<br>"
+        },
+        "00110": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Jaisinghpur<br><b>L_Pop: </b>46287<br><b>L_Per: </b>85.21485<br><b>total: </b>54318<br>"
+        },
+        "00108": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Thural<br><b>L_Pop: </b>14607<br><b>L_Per: </b>85.30631<br><b>total: </b>17123<br>"
+        },
+        "00111": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Palampur<br><b>L_Pop: </b>145085<br><b>L_Per: </b>85.62012<br><b>total: </b>169452<br>"
+        },
+        "00101": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Nagrota Bagwan<br><b>L_Pop: </b>58706<br><b>L_Per: </b>85.62844<br><b>total: </b>68559<br>"
+        },
+        "00099": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Dharmsala<br><b>L_Pop: </b>105117<br><b>L_Per: </b>85.77479<br><b>total: </b>122550<br>"
+        },
+        "00093": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Nurpur<br><b>L_Pop: </b>134597<br><b>L_Per: </b>85.80545<br><b>total: </b>156863<br>"
+        },
+        "00096": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Jawali<br><b>L_Pop: </b>86388<br><b>L_Per: </b>86.28877<br><b>total: </b>100115<br>"
+        },
+        "00109": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>name: </b>Dhira<br><b>L_Pop: </b>17067<br><b>L_Per: </b>86.46773<br><b>total: </b>19738<br>"
+        },
+        "00105": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Jaswan<br><b>L_Pop: </b>25166<br><b>L_Per: </b>87.13385<br><b>total: </b>28882<br>"
+        },
+        "00103": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Dera Gopipur<br><b>L_Pop: </b>94744<br><b>L_Per: </b>87.91315<br><b>total: </b>107770<br>"
+        },
+        "00104": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Jawalamukhi<br><b>L_Pop: </b>34069<br><b>L_Per: </b>88.00858<br><b>total: </b>38711<br>"
+        },
+        "00100": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>name: </b>Kangra<br><b>L_Pop: </b>77596<br><b>L_Per: </b>88.47487<br><b>total: </b>87704<br>"
+        },
+        "00106": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>name: </b>Rakkar<br><b>L_Pop: </b>23371<br><b>L_Per: </b>89.17166<br><b>total: </b>26209<br>"
+        },
+        "00122": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Nermand<br><b>L_Pop: </b>36144<br><b>L_Per: </b>76.49038<br><b>total: </b>47253<br>"
+        },
+        "00119": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Sainj<br><b>L_Pop: </b>17530<br><b>L_Per: </b>78.09855<br><b>total: </b>22446<br>"
+        },
+        "00121": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Ani<br><b>L_Pop: </b>39832<br><b>L_Per: </b>78.41254<br><b>total: </b>50798<br>"
+        },
+        "00118": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Kullu<br><b>L_Pop: </b>146036<br><b>L_Per: </b>80.02411<br><b>total: </b>182490<br>"
+        },
+        "00120": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Banjar<br><b>L_Pop: </b>30642<br><b>L_Per: </b>80.46321<br><b>total: </b>38082<br>"
+        },
+        "00117": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Manali<br><b>L_Pop: </b>37488<br><b>L_Per: </b>80.78788<br><b>total: </b>46403<br>"
+        },
+        "00123": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Padhar<br><b>L_Pop: </b>32301<br><b>L_Per: </b>74.37486<br><b>total: </b>43430<br>"
+        },
+        "00138": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Nihri<br><b>L_Pop: </b>23418<br><b>L_Per: </b>75.29419<br><b>total: </b>31102<br>"
+        },
+        "00135": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Bali Chowki<br><b>L_Pop: </b>25010<br><b>L_Per: </b>75.74886<br><b>total: </b>33017<br>"
+        },
+        "00139": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Karsog<br><b>L_Pop: </b>64690<br><b>L_Per: </b>78.72128<br><b>total: </b>82176<br>"
+        },
+        "00134": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Aut<br><b>L_Pop: </b>21632<br><b>L_Per: </b>79.7258<br><b>total: </b>27133<br>"
+        },
+        "00136": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Thunag<br><b>L_Pop: </b>35427<br><b>L_Per: </b>79.74743<br><b>total: </b>44424<br>"
+        },
+        "00137": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Chachyot<br><b>L_Pop: </b>41001<br><b>L_Per: </b>80.65665<br><b>total: </b>50834<br>"
+        },
+        "00128": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Kotli<br><b>L_Pop: </b>18711<br><b>L_Per: </b>81.38402<br><b>total: </b>22991<br>"
+        },
+        "00127": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Dharmpur<br><b>L_Pop: </b>25288<br><b>L_Per: </b>81.5216<br><b>total: </b>31020<br>"
+        },
+        "00125": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Lad Bharol<br><b>L_Pop: </b>18688<br><b>L_Per: </b>81.58917<br><b>total: </b>22905<br>"
+        },
+        "00124": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Jogindarnagar<br><b>L_Pop: </b>61828<br><b>L_Per: </b>82.00544<br><b>total: </b>75395<br>"
+        },
+        "00126": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Sandhol<br><b>L_Pop: </b>12502<br><b>L_Per: </b>82.15271<br><b>total: </b>15218<br>"
+        },
+        "00132": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Sundarnagar<br><b>L_Pop: </b>82036<br><b>L_Per: </b>82.72927<br><b>total: </b>99162<br>"
+        },
+        "00130": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Bhadrota<br><b>L_Pop: </b>15963<br><b>L_Per: </b>82.9376<br><b>total: </b>19247<br>"
+        },
+        "00133": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Mandi<br><b>L_Pop: </b>161646<br><b>L_Per: </b>84.09777<br><b>total: </b>192212<br>"
+        },
+        "00131": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Baldwara<br><b>L_Pop: </b>33526<br><b>L_Per: </b>84.94907<br><b>total: </b>39466<br>"
+        },
+        "00129": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Sarkaghat<br><b>L_Pop: </b>50080<br><b>L_Per: </b>86.38802<br><b>total: </b>57971<br>"
+        },
+        "00194": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Hangrang<br><b>L_Pop: </b>3220<br><b>L_Per: </b>76.37571<br><b>total: </b>4216<br>"
+        },
+        "00195": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Poo<br><b>L_Pop: </b>6009<br><b>L_Per: </b>79.18039<br><b>total: </b>7589<br>"
+        },
+        "00196": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Morang<br><b>L_Pop: </b>7357<br><b>L_Per: </b>79.20121<br><b>total: </b>9289<br>"
+        },
+        "00198": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Nichar<br><b>L_Pop: </b>19683<br><b>L_Per: </b>79.58515<br><b>total: </b>24732<br>"
+        },
+        "00199": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Sangla<br><b>L_Pop: </b>10182<br><b>L_Per: </b>79.74624<br><b>total: </b>12768<br>"
+        },
+        "00197": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Kalpa<br><b>L_Pop: </b>14248<br><b>L_Per: </b>82.44893<br><b>total: </b>17281<br>"
+        },
+        "00151": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Haroli<br><b>L_Pop: </b>52644<br><b>L_Per: </b>83.55395<br><b>total: </b>63006<br>"
+        },
+        "00150": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Una<br><b>L_Pop: </b>145027<br><b>L_Per: </b>85.91392<br><b>total: </b>168805<br>"
+        },
+        "00149": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>name: </b>Bangana<br><b>L_Pop: </b>55963<br><b>L_Per: </b>86.88827<br><b>total: </b>64408<br>"
+        },
+        "00147": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Bharwain<br><b>L_Pop: </b>13907<br><b>L_Per: </b>87.33358<br><b>total: </b>15924<br>"
+        },
+        "00148": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>name: </b>Amb<br><b>L_Pop: </b>132174<br><b>L_Per: </b>88.23423<br><b>total: </b>149799<br>"
+        },
+        "00193": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Dodra Kwar<br><b>L_Pop: </b>3426<br><b>L_Per: </b>62.56392<br><b>total: </b>5476<br>"
+        },
+        "00186": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Cheta<br><b>L_Pop: </b>11635<br><b>L_Per: </b>69.31371<br><b>total: </b>16786<br>"
+        },
+        "00192": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Chirgaon<br><b>L_Pop: </b>28942<br><b>L_Per: </b>70.68507<br><b>total: </b>40945<br>"
+        },
+        "00187": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Nerua<br><b>L_Pop: </b>23324<br><b>L_Per: </b>73.14121<br><b>total: </b>31889<br>"
+        },
+        "00191": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Rohru<br><b>L_Pop: </b>34704<br><b>L_Per: </b>77.87627<br><b>total: </b>44563<br>"
+        },
+        "00185": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Chaupal<br><b>L_Pop: </b>21555<br><b>L_Per: </b>78.35617<br><b>total: </b>27509<br>"
+        },
+        "00190": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Tikar<br><b>L_Pop: </b>9815<br><b>L_Per: </b>78.45096<br><b>total: </b>12511<br>"
+        },
+        "00178": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Nankhari<br><b>L_Pop: </b>18918<br><b>L_Per: </b>79.02256<br><b>total: </b>23940<br>"
+        },
+        "00177": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Rampur<br><b>L_Pop: </b>56366<br><b>L_Per: </b>80.89265<br><b>total: </b>69680<br>"
+        },
+        "00188": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Jubbal<br><b>L_Pop: </b>27558<br><b>L_Per: </b>81.64366<br><b>total: </b>33754<br>"
+        },
+        "00189": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Kotkhai<br><b>L_Pop: </b>29129<br><b>L_Per: </b>82.774<br><b>total: </b>35191<br>"
+        },
+        "00184": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Theog<br><b>L_Pop: </b>63709<br><b>L_Per: </b>84.14984<br><b>total: </b>75709<br>"
+        },
+        "00179": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Kumharsain<br><b>L_Pop: </b>33118<br><b>L_Per: </b>84.30619<br><b>total: </b>39283<br>"
+        },
+        "00183": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Junga<br><b>L_Pop: </b>10216<br><b>L_Per: </b>85.92817<br><b>total: </b>11889<br>"
+        },
+        "00180": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Seoni<br><b>L_Pop: </b>27171<br><b>L_Per: </b>86.19694<br><b>total: </b>31522<br>"
+        },
+        "00181": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>name: </b>Shimla   ( Rural )<br><b>L_Pop: </b>66994<br><b>L_Per: </b>88.39191<br><b>total: </b>75792<br>"
+        },
+        "00182": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>name: </b>Shimla (urban)<br><b>L_Pop: </b>146062<br><b>L_Per: </b>93.62529<br><b>total: </b>156007<br>"
+        },
+        "00160": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Ramshahr<br><b>L_Pop: </b>22170<br><b>L_Per: </b>77.39571<br><b>total: </b>28645<br>"
+        },
+        "00161": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Nalagarh<br><b>L_Pop: </b>78699<br><b>L_Per: </b>78.82986<br><b>total: </b>99834<br>"
+        },
+        "00162": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Baddi<br><b>L_Pop: </b>64468<br><b>L_Per: </b>81.58338<br><b>total: </b>79021<br>"
+        },
+        "00163": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Krishangarh<br><b>L_Pop: </b>17675<br><b>L_Per: </b>82.1749<br><b>total: </b>21509<br>"
+        },
+        "00159": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Darlaghat<br><b>L_Pop: </b>26718<br><b>L_Per: </b>82.69778<br><b>total: </b>32308<br>"
+        },
+        "00164": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Kasauli<br><b>L_Pop: </b>51029<br><b>L_Per: </b>85.53159<br><b>total: </b>59661<br>"
+        },
+        "00158": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Arki<br><b>L_Pop: </b>43338<br><b>L_Per: </b>85.7482<br><b>total: </b>50541<br>"
+        },
+        "00166": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Kandaghat<br><b>L_Pop: </b>31469<br><b>L_Per: </b>87.12348<br><b>total: </b>36120<br>"
+        },
+        "00165": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>name: </b>Solan<br><b>L_Pop: </b>93012<br><b>L_Per: </b>88.96924<br><b>total: </b>104544<br>"
+        },
+        "00175": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Shalai<br><b>L_Pop: </b>21220<br><b>L_Per: </b>67.96707<br><b>total: </b>31221<br>"
+        },
+        "00174": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Kamrau<br><b>L_Pop: </b>22047<br><b>L_Per: </b>68.31619<br><b>total: </b>32272<br>"
+        },
+        "00176": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Ronhat<br><b>L_Pop: </b>13706<br><b>L_Per: </b>69.74709<br><b>total: </b>19651<br>"
+        },
+        "00170": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Renuka<br><b>L_Pop: </b>28731<br><b>L_Per: </b>72.26652<br><b>total: </b>39757<br>"
+        },
+        "00173": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Paonta Sahib<br><b>L_Pop: </b>107698<br><b>L_Per: </b>78.30019<br><b>total: </b>137545<br>"
+        },
+        "00171": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Dadahu<br><b>L_Pop: </b>11960<br><b>L_Per: </b>79.35244<br><b>total: </b>15072<br>"
+        },
+        "00168": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Nohra<br><b>L_Pop: </b>16691<br><b>L_Per: </b>83.41746<br><b>total: </b>20009<br>"
+        },
+        "00172": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Nahan<br><b>L_Pop: </b>62421<br><b>L_Per: </b>84.58703<br><b>total: </b>73795<br>"
+        },
+        "00169": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Pachhad<br><b>L_Pop: </b>40951<br><b>L_Per: </b>85.62139<br><b>total: </b>47828<br>"
+        },
+        "00167": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Rajgarh<br><b>L_Pop: </b>37220<br><b>L_Per: </b>86.38737<br><b>total: </b>43085<br>"
+        },
+        "00140": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Tira Sujanpur<br><b>L_Pop: </b>35163<br><b>L_Per: </b>86.10995<br><b>total: </b>40835<br>"
+        },
+        "00145": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>name: </b>Dhatwal<br><b>L_Pop: </b>29125<br><b>L_Per: </b>86.92992<br><b>total: </b>33504<br>"
+        },
+        "00142": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Galore<br><b>L_Pop: </b>20875<br><b>L_Per: </b>87.00092<br><b>total: </b>23994<br>"
+        },
+        "00146": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Bhoranj<br><b>L_Pop: </b>70886<br><b>L_Per: </b>87.22069<br><b>total: </b>81272<br>"
+        },
+        "00144": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Barsar<br><b>L_Pop: </b>43819<br><b>L_Per: </b>88.05892<br><b>total: </b>49761<br>"
+        },
+        "00141": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>name: </b>Nadaun<br><b>L_Pop: </b>64564<br><b>L_Per: </b>89.30261<br><b>total: </b>72298<br>"
+        },
+        "00143": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>name: </b>Hamirpur<br><b>L_Pop: </b>93659<br><b>L_Per: </b>89.57783<br><b>total: </b>104556<br>"
+        },
+        "00157": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Namhol<br><b>L_Pop: </b>22899<br><b>L_Per: </b>79.11758<br><b>total: </b>28943<br>"
+        },
+        "00155": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Naina Devi<br><b>L_Pop: </b>32411<br><b>L_Per: </b>79.25225<br><b>total: </b>40896<br>"
+        },
+        "00156": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Bilaspur Sadar<br><b>L_Pop: </b>57295<br><b>L_Per: </b>84.86765<br><b>total: </b>67511<br>"
+        },
+        "00154": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Jhanduta<br><b>L_Pop: </b>69304<br><b>L_Per: </b>85.27834<br><b>total: </b>81268<br>"
+        },
+        "00152": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>name: </b>Ghumarwin<br><b>L_Pop: </b>69724<br><b>L_Per: </b>86.85319<br><b>total: </b>80278<br>"
+        },
+        "00153": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Bharari<br><b>L_Pop: </b>35987<br><b>L_Per: </b>87.55109<br><b>total: </b>41104<br>"
+        },
+        "00204": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Dera Baba Nanak  <br><b>L_Pop: </b>80449<br><b>L_Per: </b>73.6436<br><b>total: </b>109241<br>"
+        },
+        "00203": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Batala <br><b>L_Pop: </b>460274<br><b>L_Per: </b>76.7099<br><b>total: </b>600019<br>"
+        },
+        "00202": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Gurdaspur <br><b>L_Pop: </b>582711<br><b>L_Per: </b>79.70801<br><b>total: </b>731057<br>"
+        },
+        "00200": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Dhar Kalan<br><b>L_Pop: </b>38734<br><b>L_Per: </b>81.03517<br><b>total: </b>47799<br>"
+        },
+        "00201": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Pathankot       <br><b>L_Pop: </b>472551<br><b>L_Per: </b>84.8953<br><b>total: </b>556628<br>"
+        },
+        "00217": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Garhshankar<br><b>L_Pop: </b>243065<br><b>L_Per: </b>82.09243<br><b>total: </b>296087<br>"
+        },
+        "00214": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Dasua<br><b>L_Pop: </b>271527<br><b>L_Per: </b>84.23699<br><b>total: </b>322337<br>"
+        },
+        "00216": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Hoshiarpur <br><b>L_Pop: </b>428578<br><b>L_Per: </b>85.5131<br><b>total: </b>501184<br>"
+        },
+        "00215": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Mukerian <br><b>L_Pop: </b>256529<br><b>L_Per: </b>85.88585<br><b>total: </b>298686<br>"
+        },
+        "00255": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Ajnala<br><b>L_Pop: </b>243765<br><b>L_Per: </b>63.35442<br><b>total: </b>384764<br>"
+        },
+        "00256": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Amritsar -I  <br><b>L_Pop: </b>200375<br><b>L_Per: </b>72.66282<br><b>total: </b>275760<br>"
+        },
+        "00258": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Baba Bakala <br><b>L_Pop: </b>214045<br><b>L_Per: </b>75.31333<br><b>total: </b>284206<br>"
+        },
+        "00257": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Amritsar- II <br><b>L_Pop: </b>1026585<br><b>L_Per: </b>81.20875<br><b>total: </b>1264131<br>"
+        },
+        "00209": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Shahkot<br><b>L_Pop: </b>110923<br><b>L_Per: </b>74.6328<br><b>total: </b>148625<br>"
+        },
+        "00210": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Nakodar<br><b>L_Pop: </b>143703<br><b>L_Per: </b>77.25677<br><b>total: </b>186007<br>"
+        },
+        "00211": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Phillaur<br><b>L_Pop: </b>273339<br><b>L_Per: </b>79.57514<br><b>total: </b>343498<br>"
+        },
+        "00213": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Jalandhar - II<br><b>L_Pop: </b>212580<br><b>L_Per: </b>81.30405<br><b>total: </b>261463<br>"
+        },
+        "00212": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Jalandhar - I<br><b>L_Pop: </b>881992<br><b>L_Per: </b>85.82235<br><b>total: </b>1027695<br>"
+        },
+        "00260": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Patti <br><b>L_Pop: </b>246854<br><b>L_Per: </b>64.50613<br><b>total: </b>382683<br>"
+        },
+        "00259": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Tarn Taran<br><b>L_Pop: </b>302067<br><b>L_Per: </b>69.54397<br><b>total: </b>434354<br>"
+        },
+        "00261": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Khadur Sahib<br><b>L_Pop: </b>117241<br><b>L_Per: </b>70.89746<br><b>total: </b>165367<br>"
+        },
+        "00262": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Anandpur Sahib<br><b>L_Pop: </b>136049<br><b>L_Per: </b>78.89094<br><b>total: </b>172452<br>"
+        },
+        "00265": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Chamkaur Sahib<br><b>L_Pop: </b>129149<br><b>L_Per: </b>81.95202<br><b>total: </b>157591<br>"
+        },
+        "00264": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Rup Nagar<br><b>L_Pop: </b>135672<br><b>L_Per: </b>83.73626<br><b>total: </b>162023<br>"
+        },
+        "00263": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Nangal<br><b>L_Pop: </b>101861<br><b>L_Per: </b>85.14314<br><b>total: </b>119635<br>"
+        },
+        "00219": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Balachaur<br><b>L_Pop: </b>130460<br><b>L_Per: </b>77.45283<br><b>total: </b>168438<br>"
+        },
+        "00218": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Nawanshahr<br><b>L_Pop: </b>307999<br><b>L_Per: </b>80.80718<br><b>total: </b>381153<br>"
+        },
+        "00232": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Bagha Purana<br><b>L_Pop: </b>136707<br><b>L_Per: </b>67.58907<br><b>total: </b>202262<br>"
+        },
+        "00231": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Nihal Singhwala<br><b>L_Pop: </b>105218<br><b>L_Per: </b>68.91994<br><b>total: </b>152667<br>"
+        },
+        "00233": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Moga<br><b>L_Pop: </b>385964<br><b>L_Per: </b>72.34822<br><b>total: </b>533481<br>"
+        },
+        "00230": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Jagraon<br><b>L_Pop: </b>234529<br><b>L_Per: </b>76.6951<br><b>total: </b>305794<br>"
+        },
+        "00224": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Samrala<br><b>L_Pop: </b>156545<br><b>L_Per: </b>78.50724<br><b>total: </b>199402<br>"
+        },
+        "00226": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Payal<br><b>L_Pop: </b>152529<br><b>L_Per: </b>79.13841<br><b>total: </b>192737<br>"
+        },
+        "00229": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Raikot<br><b>L_Pop: </b>143826<br><b>L_Per: </b>79.32995<br><b>total: </b>181301<br>"
+        },
+        "00228": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Ludhiana (West)<br><b>L_Pop: </b>260430<br><b>L_Per: </b>80.7863<br><b>total: </b>322369<br>"
+        },
+        "00225": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Khanna<br><b>L_Pop: </b>162192<br><b>L_Per: </b>81.62534<br><b>total: </b>198703<br>"
+        },
+        "00227": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Ludhiana (East)<br><b>L_Pop: </b>1450174<br><b>L_Per: </b>84.59184<br><b>total: </b>1714319<br>"
+        },
+        "00268": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Dera Bassi<br><b>L_Pop: </b>244625<br><b>L_Per: </b>82.00719<br><b>total: </b>298297<br>"
+        },
+        "00266": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Kharar<br><b>L_Pop: </b>243088<br><b>L_Per: </b>83.21341<br><b>total: </b>292126<br>"
+        },
+        "00267": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>SAS Nagar (Mohali)<br><b>L_Pop: </b>248862<br><b>L_Per: </b>86.24242<br><b>total: </b>288561<br>"
+        },
+        "00243": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Jaitu<br><b>L_Pop: </b>96226<br><b>L_Per: </b>67.21148<br><b>total: </b>143169<br>"
+        },
+        "00242": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Faridkot<br><b>L_Pop: </b>285059<br><b>L_Per: </b>70.38007<br><b>total: </b>405028<br>"
+        },
+        "00222": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Amloh<br><b>L_Pop: </b>146002<br><b>L_Per: </b>78.20726<br><b>total: </b>186686<br>"
+        },
+        "00221": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Fatehgarh Sahib<br><b>L_Pop: </b>143698<br><b>L_Per: </b>79.26897<br><b>total: </b>181279<br>"
+        },
+        "00223": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Khamanon<br><b>L_Pop: </b>65265<br><b>L_Per: </b>79.39202<br><b>total: </b>82206<br>"
+        },
+        "00220": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Bassi Pathana<br><b>L_Pop: </b>71068<br><b>L_Per: </b>81.95016<br><b>total: </b>86721<br>"
+        },
+        "00240": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Gidderbaha<br><b>L_Pop: </b>128153<br><b>L_Per: </b>64.70184<br><b>total: </b>198067<br>"
+        },
+        "00239": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Malout<br><b>L_Pop: </b>201226<br><b>L_Per: </b>65.41914<br><b>total: </b>307595<br>"
+        },
+        "00241": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Muktsar<br><b>L_Pop: </b>195469<br><b>L_Per: </b>66.98388<br><b>total: </b>291815<br>"
+        },
+        "00273": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Lehra<br><b>L_Pop: </b>69588<br><b>L_Per: </b>59.34302<br><b>total: </b>117264<br>"
+        },
+        "00274": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Moonak<br><b>L_Pop: </b>71590<br><b>L_Per: </b>61.05184<br><b>total: </b>117261<br>"
+        },
+        "00272": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Sunam<br><b>L_Pop: </b>186183<br><b>L_Per: </b>62.55119<br><b>total: </b>297649<br>"
+        },
+        "00271": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Sangrur<br><b>L_Pop: </b>229102<br><b>L_Per: </b>70.51831<br><b>total: </b>324883<br>"
+        },
+        "00270": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Dhuri<br><b>L_Pop: </b>167787<br><b>L_Per: </b>71.64231<br><b>total: </b>234201<br>"
+        },
+        "00269": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Malerkotla<br><b>L_Pop: </b>277827<br><b>L_Per: </b>72.61989<br><b>total: </b>382577<br>"
+        },
+        "00276": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Tapa<br><b>L_Pop: </b>116914<br><b>L_Per: </b>63.59344<br><b>total: </b>183846<br>"
+        },
+        "00275": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Barnala<br><b>L_Pop: </b>242917<br><b>L_Per: </b>70.06669<br><b>total: </b>346694<br>"
+        },
+        "00246": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Talwandi Sabo<br><b>L_Pop: </b>177738<br><b>L_Per: </b>62.7194<br><b>total: </b>283386<br>"
+        },
+        "00244": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Rampura Phul<br><b>L_Pop: </b>185614<br><b>L_Per: </b>65.55023<br><b>total: </b>283163<br>"
+        },
+        "00245": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Bathinda<br><b>L_Pop: </b>481516<br><b>L_Per: </b>71.77903<br><b>total: </b>670831<br>"
+        },
+        "00251": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Patran<br><b>L_Pop: </b>107953<br><b>L_Per: </b>63.8624<br><b>total: </b>169040<br>"
+        },
+        "00250": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Samana<br><b>L_Pop: </b>103869<br><b>L_Per: </b>67.56674<br><b>total: </b>153728<br>"
+        },
+        "00252": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Nabha<br><b>L_Pop: </b>186050<br><b>L_Per: </b>75.00262<br><b>total: </b>248058<br>"
+        },
+        "00254": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Rajpura<br><b>L_Pop: </b>266689<br><b>L_Per: </b>77.24988<br><b>total: </b>345229<br>"
+        },
+        "00253": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Patiala<br><b>L_Pop: </b>602230<br><b>L_Per: </b>78.54433<br><b>total: </b>766739<br>"
+        },
+        "00247": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Sardulgarh<br><b>L_Pop: </b>92942<br><b>L_Per: </b>60.36998<br><b>total: </b>153954<br>"
+        },
+        "00248": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Budhlada<br><b>L_Pop: </b>137508<br><b>L_Per: </b>60.61787<br><b>total: </b>226844<br>"
+        },
+        "00249": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Mansa<br><b>L_Pop: </b>193110<br><b>L_Per: </b>63.48335<br><b>total: </b>304190<br>"
+        },
+        "00234": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Zira<br><b>L_Pop: </b>152693<br><b>L_Per: </b>67.2082<br><b>total: </b>227194<br>"
+        },
+        "00236": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Jalalabad <br><b>L_Pop: </b>210835<br><b>L_Per: </b>67.78127<br><b>total: </b>311052<br>"
+        },
+        "00237": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Fazilka<br><b>L_Pop: </b>241295<br><b>L_Per: </b>68.01142<br><b>total: </b>354786<br>"
+        },
+        "00238": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Abohar <br><b>L_Pop: </b>271135<br><b>L_Per: </b>69.63446<br><b>total: </b>389369<br>"
+        },
+        "00235": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Firozpur<br><b>L_Pop: </b>351553<br><b>L_Per: </b>70.51227<br><b>total: </b>498570<br>"
+        },
+        "00207": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Sultanpur Lodhi <br><b>L_Pop: </b>77862<br><b>L_Per: </b>72.17129<br><b>total: </b>107885<br>"
+        },
+        "00206": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Kapurthala <br><b>L_Pop: </b>240053<br><b>L_Per: </b>78.45536<br><b>total: </b>305974<br>"
+        },
+        "00205": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Bhulath<br><b>L_Pop: </b>73402<br><b>L_Per: </b>78.57625<br><b>total: </b>93415<br>"
+        },
+        "00208": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Phagwara <br><b>L_Pop: </b>185250<br><b>L_Per: </b>83.49522<br><b>total: </b>221869<br>"
+        },
+        "00279": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Mori<br><b>L_Pop: </b>21523<br><b>L_Per: </b>63.64362<br><b>total: </b>33818<br>"
+        },
+        "00278": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Puraula<br><b>L_Pop: </b>21319<br><b>L_Per: </b>73.74775<br><b>total: </b>28908<br>"
+        },
+        "00280": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Rajgarhi<br><b>L_Pop: </b>44731<br><b>L_Per: </b>74.42391<br><b>total: </b>60103<br>"
+        },
+        "00282": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Chiniyalisaur<br><b>L_Pop: </b>31917<br><b>L_Per: </b>74.8119<br><b>total: </b>42663<br>"
+        },
+        "00281": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Dunda<br><b>L_Pop: </b>39728<br><b>L_Per: </b>76.09708<br><b>total: </b>52207<br>"
+        },
+        "00283": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Bhatwari<br><b>L_Pop: </b>55908<br><b>L_Per: </b>84.60654<br><b>total: </b>66080<br>"
+        },
+        "00289": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Gairsain<br><b>L_Pop: </b>41592<br><b>L_Per: </b>78.65504<br><b>total: </b>52879<br>"
+        },
+        "00288": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Tharali  <br><b>L_Pop: </b>62490<br><b>L_Per: </b>81.101069999999993<br><b>total: </b>77052<br>"
+        },
+        "00285": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Chamoli<br><b>L_Pop: </b>71449<br><b>L_Per: </b>82.62961<br><b>total: </b>86469<br>"
+        },
+        "00286": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Pokhari <br><b>L_Pop: </b>25940<br><b>L_Per: </b>83.008<br><b>total: </b>31250<br>"
+        },
+        "00287": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Karnaprayag<br><b>L_Pop: </b>41926<br><b>L_Per: </b>85.32818<br><b>total: </b>49135<br>"
+        },
+        "00284": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Joshimath <br><b>L_Pop: </b>37159<br><b>L_Per: </b>87.10706<br><b>total: </b>42659<br>"
+        },
+        "00300": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Chakrata <br><b>L_Pop: </b>26659<br><b>L_Per: </b>63.71502<br><b>total: </b>41841<br>"
+        },
+        "00301": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Tyuni<br><b>L_Pop: </b>18430<br><b>L_Per: </b>65.09377<br><b>total: </b>28313<br>"
+        },
+        "00302": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Kalsi<br><b>L_Pop: </b>27903<br><b>L_Per: </b>68.74861<br><b>total: </b>40587<br>"
+        },
+        "00303": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Vikasnagar<br><b>L_Pop: </b>213722<br><b>L_Per: </b>78.00272<br><b>total: </b>273993<br>"
+        },
+        "00305": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Rishikesh\n<br><b>L_Pop: </b>195362<br><b>L_Per: </b>85.26884<br><b>total: </b>229113<br>"
+        },
+        "00304": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>name: </b>Dehradun \n<br><b>L_Pop: </b>777430<br><b>L_Per: </b>88.22451<br><b>total: </b>881195<br>"
+        },
+        "00293": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Ghansali<br><b>L_Pop: </b>72666<br><b>L_Per: </b>70.65859<br><b>total: </b>102841<br>"
+        },
+        "00298": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Dhanaulti<br><b>L_Pop: </b>47467<br><b>L_Per: </b>75.5447<br><b>total: </b>62833<br>"
+        },
+        "00295": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Pratapnagar<br><b>L_Pop: </b>47609<br><b>L_Per: </b>75.64669<br><b>total: </b>62936<br>"
+        },
+        "00294": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Devprayag<br><b>L_Pop: </b>62440<br><b>L_Per: </b>75.72156<br><b>total: </b>82460<br>"
+        },
+        "00296": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Jakhnidhar<br><b>L_Pop: </b>22188<br><b>L_Per: </b>77.3964<br><b>total: </b>28668<br>"
+        },
+        "00299": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Narendranagar<br><b>L_Pop: </b>72339<br><b>L_Per: </b>78.75518<br><b>total: </b>91853<br>"
+        },
+        "00297": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Tehri   <br><b>L_Pop: </b>83285<br><b>L_Per: </b>81.10885<br><b>total: </b>102683<br>"
+        },
+        "00292": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Jakholi*<br><b>L_Pop: </b>41867<br><b>L_Per: </b>77.26677<br><b>total: </b>54185<br>"
+        },
+        "00291": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Rudraprayag\n<br><b>L_Pop: </b>65908<br><b>L_Per: </b>82.18467<br><b>total: </b>80195<br>"
+        },
+        "00290": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Ukhimath<br><b>L_Pop: </b>63158<br><b>L_Per: </b>83.2571<br><b>total: </b>75859<br>"
+        },
+        "00315": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Munsiari<br><b>L_Pop: </b>30424<br><b>L_Per: </b>75.24547<br><b>total: </b>40433<br>"
+        },
+        "00319": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Gangolihat<br><b>L_Pop: </b>48097<br><b>L_Per: </b>77.83694<br><b>total: </b>61792<br>"
+        },
+        "00316": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Dharchula<br><b>L_Pop: </b>44585<br><b>L_Per: </b>79.10191<br><b>total: </b>56364<br>"
+        },
+        "00318": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Berinag<br><b>L_Pop: </b>37036<br><b>L_Per: </b>81.76439<br><b>total: </b>45296<br>"
+        },
+        "00317": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Didihat<br><b>L_Pop: </b>58479<br><b>L_Per: </b>82.81737<br><b>total: </b>70612<br>"
+        },
+        "00320": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Pithoragarh\n<br><b>L_Pop: </b>126929<br><b>L_Per: </b>87.14718<br><b>total: </b>145649<br>"
+        },
+        "00321": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Kapkot<br><b>L_Pop: </b>41654<br><b>L_Per: </b>75.3305<br><b>total: </b>55295<br>"
+        },
+        "00322": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Kanda<br><b>L_Pop: </b>17970<br><b>L_Per: </b>79.12117<br><b>total: </b>22712<br>"
+        },
+        "00324": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Garud<br><b>L_Pop: </b>47912<br><b>L_Per: </b>81.21091<br><b>total: </b>58997<br>"
+        },
+        "00323": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Bageshwar\n<br><b>L_Pop: </b>71947<br><b>L_Per: </b>82.38143<br><b>total: </b>87334<br>"
+        },
+        "00355": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Laksar\n<br><b>L_Pop: </b>140033<br><b>L_Per: </b>70.7041<br><b>total: </b>198055<br>"
+        },
+        "00353": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Roorkee<br><b>L_Pop: </b>608021<br><b>L_Per: </b>71.99067<br><b>total: </b>844583<br>"
+        },
+        "00354": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Hardwar<br><b>L_Pop: </b>430300<br><b>L_Per: </b>76.55344<br><b>total: </b>562091<br>"
+        },
+        "00308": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>THALISAIN<br><b>L_Pop: </b>58128<br><b>L_Per: </b>73.99468<br><b>total: </b>78557<br>"
+        },
+        "00309": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Dhoomakot<br><b>L_Pop: </b>26458<br><b>L_Per: </b>76.90832<br><b>total: </b>34402<br>"
+        },
+        "00312": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Chaubattakhal<br><b>L_Pop: </b>26862<br><b>L_Per: </b>79.14322<br><b>total: </b>33941<br>"
+        },
+        "00310": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Lansdowne<br><b>L_Pop: </b>54868<br><b>L_Per: </b>80.16364<br><b>total: </b>68445<br>"
+        },
+        "00307": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Pauri<br><b>L_Pop: </b>97811<br><b>L_Per: </b>81.53567<br><b>total: </b>119961<br>"
+        },
+        "00311": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Satpuli<br><b>L_Pop: </b>22736<br><b>L_Per: </b>81.58169<br><b>total: </b>27869<br>"
+        },
+        "00314": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Yamkeshwar<br><b>L_Pop: </b>31574<br><b>L_Per: </b>82.09782<br><b>total: </b>38459<br>"
+        },
+        "00313": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Kotdwara\n<br><b>L_Pop: </b>134107<br><b>L_Per: </b>87.11471<br><b>total: </b>153943<br>"
+        },
+        "00306": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>name: </b>Srinagar<br><b>L_Pop: </b>42345<br><b>L_Per: </b>88.60084<br><b>total: </b>47793<br>"
+        },
+        "00333": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Bhanoli<br><b>L_Pop: </b>35558<br><b>L_Per: </b>72.59105<br><b>total: </b>48984<br>"
+        },
+        "00327": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Sult<br><b>L_Pop: </b>37006<br><b>L_Per: </b>75.05831<br><b>total: </b>49303<br>"
+        },
+        "00332": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Jainti<br><b>L_Pop: </b>19708<br><b>L_Per: </b>75.164<br><b>total: </b>26220<br>"
+        },
+        "00325": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>BHIKIYASAIN<br><b>L_Pop: </b>47823<br><b>L_Per: </b>77.12889<br><b>total: </b>62004<br>"
+        },
+        "00331": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Someshwar<br><b>L_Pop: </b>27569<br><b>L_Per: </b>78.86321<br><b>total: </b>34958<br>"
+        },
+        "00329": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Dwarahat\n<br><b>L_Pop: </b>38379<br><b>L_Per: </b>79.49584<br><b>total: </b>48278<br>"
+        },
+        "00326": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Chaukhutiya<br><b>L_Pop: </b>32377<br><b>L_Per: </b>80.71649<br><b>total: </b>40112<br>"
+        },
+        "00330": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Almora\n<br><b>L_Pop: </b>122825<br><b>L_Per: </b>84.74489<br><b>total: </b>144935<br>"
+        },
+        "00328": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Ranikhet<br><b>L_Pop: </b>75252<br><b>L_Per: </b>85.8747<br><b>total: </b>87630<br>"
+        },
+        "00343": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Ramnagar<br><b>L_Pop: </b>104919<br><b>L_Per: </b>79.01301<br><b>total: </b>132787<br>"
+        },
+        "00341": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Dhari<br><b>L_Pop: </b>52203<br><b>L_Per: </b>79.90907<br><b>total: </b>65328<br>"
+        },
+        "00339": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Betalghat<br><b>L_Pop: </b>14648<br><b>L_Per: </b>80.74972<br><b>total: </b>18140<br>"
+        },
+        "00345": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Lalkuan<br><b>L_Pop: </b>68518<br><b>L_Per: </b>83.15695<br><b>total: </b>82396<br>"
+        },
+        "00344": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Kaladhungi<br><b>L_Pop: </b>43435<br><b>L_Per: </b>83.16261<br><b>total: </b>52229<br>"
+        },
+        "00342": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Haldwani\n<br><b>L_Pop: </b>270832<br><b>L_Per: </b>84.86653<br><b>total: </b>319127<br>"
+        },
+        "00338": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Kosya Kutauli<br><b>L_Pop: </b>23461<br><b>L_Per: </b>85.38725<br><b>total: </b>27476<br>"
+        },
+        "00340": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>name: </b>Nainital<br><b>L_Pop: </b>118484<br><b>L_Per: </b>89.1863<br><b>total: </b>132850<br>"
+        },
+        "00334": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Champawat<br><b>L_Pop: </b>36571<br><b>L_Per: </b>78.8321<br><b>total: </b>46391<br>"
+        },
+        "00336": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Lohaghat<br><b>L_Pop: </b>58706<br><b>L_Per: </b>79.20827<br><b>total: </b>74116<br>"
+        },
+        "00337": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Poornagiri<br><b>L_Pop: </b>51357<br><b>L_Per: </b>80.71066<br><b>total: </b>63631<br>"
+        },
+        "00335": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Pati<br><b>L_Pop: </b>31092<br><b>L_Per: </b>80.79622<br><b>total: </b>38482<br>"
+        },
+        "00348": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Bajpur<br><b>L_Pop: </b>106123<br><b>L_Per: </b>66.43067<br><b>total: </b>159750<br>"
+        },
+        "00350": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Gadarpur<br><b>L_Pop: </b>106615<br><b>L_Per: </b>71.26242<br><b>total: </b>149609<br>"
+        },
+        "00351": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Sitarganj<br><b>L_Pop: </b>134180<br><b>L_Per: </b>71.95024<br><b>total: </b>186490<br>"
+        },
+        "00349": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Kichha<br><b>L_Pop: </b>241522<br><b>L_Per: </b>72.24146<br><b>total: </b>334326<br>"
+        },
+        "00347": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Jaspur<br><b>L_Pop: </b>107739<br><b>L_Per: </b>73.58568<br><b>total: </b>146413<br>"
+        },
+        "00352": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Khatima\n<br><b>L_Pop: </b>151975<br><b>L_Per: </b>76.38777<br><b>total: </b>198952<br>"
+        },
+        "00346": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Kashipur<br><b>L_Pop: </b>189685<br><b>L_Per: </b>77.67609<br><b>total: </b>244200<br>"
+        },
+        "00277": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Chandigarh<br><b>L_Pop: </b>805438<br><b>L_Per: </b>86.0496<br><b>total: </b>936016<br>"
+        },
+        "00410": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Matenhail<br><b>L_Pop: </b>94264<br><b>L_Per: </b>76.82603<br><b>total: </b>122698<br>"
+        },
+        "00407": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Beri<br><b>L_Pop: </b>107950<br><b>L_Per: </b>78.93852<br><b>total: </b>136752<br>"
+        },
+        "00409": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Jhajjar<br><b>L_Pop: </b>181191<br><b>L_Per: </b>80.31374<br><b>total: </b>225604<br>"
+        },
+        "00408": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Bahadurgarh<br><b>L_Pop: </b>292686<br><b>L_Per: </b>82.84348<br><b>total: </b>353300<br>"
+        },
+        "00420": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Sohna<br><b>L_Pop: </b>109221<br><b>L_Per: </b>78.00107<br><b>total: </b>140025<br>"
+        },
+        "00416": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Pataudi<br><b>L_Pop: </b>83306<br><b>L_Per: </b>80.17516<br><b>total: </b>103905<br>"
+        },
+        "00418": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Farrukhnagar<br><b>L_Pop: </b>94233<br><b>L_Per: </b>80.80831<br><b>total: </b>116613<br>"
+        },
+        "00419": {
+            "color": "rgba(136.0773, 191.0182, 218.1409, 1.0)",
+            "matter": "<b>name: </b>Manesar<br><b>L_Pop: </b>83614<br><b>L_Per: </b>83.56887<br><b>total: </b>100054<br>"
+        },
+        "00417": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Gurgaon<br><b>L_Pop: </b>740742<br><b>L_Per: </b>87.01989<br><b>total: </b>851233<br>"
+        },
+        "00426": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Ballabgarh<br><b>L_Pop: </b>135845<br><b>L_Per: </b>75.04917<br><b>total: </b>181008<br>"
+        },
+        "00425": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Faridabad<br><b>L_Pop: </b>1136894<br><b>L_Per: </b>82.5769<br><b>total: </b>1376770<br>"
+        },
+        "00412": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Narnaul<br><b>L_Pop: </b>352786<br><b>L_Per: </b>77.29501<br><b>total: </b>456415<br>"
+        },
+        "00411": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Mahendragarh<br><b>L_Pop: </b>277469<br><b>L_Per: </b>78.27229<br><b>total: </b>354492<br>"
+        },
+        "00415": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Bawal<br><b>L_Pop: </b>86860<br><b>L_Per: </b>77.1739<br><b>total: </b>112551<br>"
+        },
+        "00413": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Kosli<br><b>L_Pop: </b>89302<br><b>L_Per: </b>80.17201<br><b>total: </b>111388<br>"
+        },
+        "00414": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Rewari<br><b>L_Pop: </b>460785<br><b>L_Per: </b>81.91733<br><b>total: </b>562500<br>"
+        },
+        "00424": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Punahana<br><b>L_Pop: </b>110356<br><b>L_Per: </b>49.26079<br><b>total: </b>224024<br>"
+        },
+        "00423": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>name: </b>Ferozepur Jhirka<br><b>L_Pop: </b>136317<br><b>L_Per: </b>51.58677<br><b>total: </b>264248<br>"
+        },
+        "00422": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Nuh<br><b>L_Pop: </b>122562<br><b>L_Per: </b>55.36147<br><b>total: </b>221385<br>"
+        },
+        "00421": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Taoru<br><b>L_Pop: </b>85662<br><b>L_Per: </b>65.15311<br><b>total: </b>131478<br>"
+        },
+        "00428": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>name: </b>Hathin<br><b>L_Pop: </b>125095<br><b>L_Per: </b>58.65872<br><b>total: </b>213259<br>"
+        },
+        "00429": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Hodal<br><b>L_Pop: </b>154825<br><b>L_Per: </b>69.29836<br><b>total: </b>223418<br>"
+        },
+        "00427": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Palwal<br><b>L_Pop: </b>319876<br><b>L_Per: </b>74.64373<br><b>total: </b>428537<br>"
+        },
+        "00363": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Chhachhrauli<br><b>L_Pop: </b>104937<br><b>L_Per: </b>69.93842<br><b>total: </b>150042<br>"
+        },
+        "00362": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Bilaspur<br><b>L_Pop: </b>119214<br><b>L_Per: </b>73.12127<br><b>total: </b>163036<br>"
+        },
+        "00361": {
+            "color": "rgba(161.8348, 210.0788, 228.4439, 1.0)",
+            "matter": "<b>name: </b>Jagadhri<br><b>L_Pop: </b>608306<br><b>L_Per: </b>80.64104<br><b>total: </b>754338<br>"
+        },
+        "00365": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Pehowa<br><b>L_Pop: </b>160388<br><b>L_Per: </b>72.01006<br><b>total: </b>222730<br>"
+        },
+        "00366": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Thanesar<br><b>L_Pop: </b>395370<br><b>L_Per: </b>77.62276<br><b>total: </b>509348<br>"
+        },
+        "00364": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Shahbad<br><b>L_Pop: </b>91135<br><b>L_Per: </b>78.82287<br><b>total: </b>115620<br>"
+        },
+        "00367": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Guhla<br><b>L_Pop: </b>113608<br><b>L_Per: </b>67.15572<br><b>total: </b>169171<br>"
+        },
+        "00368": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Kaithal<br><b>L_Pop: </b>386606<br><b>L_Per: </b>69.17835<br><b>total: </b>558854<br>"
+        },
+        "00369": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Fatehpur Pundri<br><b>L_Pop: </b>146315<br><b>L_Per: </b>70.72252<br><b>total: </b>206886<br>"
+        },
+        "00389": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Dabwali<br><b>L_Pop: </b>159701<br><b>L_Per: </b>66.92579<br><b>total: </b>238624<br>"
+        },
+        "00391": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Rania<br><b>L_Pop: </b>103796<br><b>L_Per: </b>67.63144<br><b>total: </b>153473<br>"
+        },
+        "00392": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Ellenabad<br><b>L_Pop: </b>78391<br><b>L_Per: </b>67.96868<br><b>total: </b>115334<br>"
+        },
+        "00390": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Sirsa<br><b>L_Pop: </b>441009<br><b>L_Per: </b>69.99132<br><b>total: </b>630091<br>"
+        },
+        "00373": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Assandh<br><b>L_Pop: </b>142546<br><b>L_Per: </b>70.40143<br><b>total: </b>202476<br>"
+        },
+        "00374": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Gharaunda<br><b>L_Pop: </b>114552<br><b>L_Per: </b>71.16048<br><b>total: </b>160977<br>"
+        },
+        "00371": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Indri<br><b>L_Pop: </b>105506<br><b>L_Per: </b>74.43839<br><b>total: </b>141736<br>"
+        },
+        "00370": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Nilokheri<br><b>L_Pop: </b>134689<br><b>L_Per: </b>74.62284<br><b>total: </b>180493<br>"
+        },
+        "00372": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Karnal<br><b>L_Pop: </b>480720<br><b>L_Per: </b>77.15816<br><b>total: </b>623032<br>"
+        },
+        "00382": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Narwana<br><b>L_Pop: </b>283050<br><b>L_Per: </b>66.70264<br><b>total: </b>424346<br>"
+        },
+        "00385": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Safidon<br><b>L_Pop: </b>160547<br><b>L_Per: </b>73.04098<br><b>total: </b>219804<br>"
+        },
+        "00384": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Julana<br><b>L_Pop: </b>76509<br><b>L_Per: </b>73.39979<br><b>total: </b>104236<br>"
+        },
+        "00383": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Jind<br><b>L_Pop: </b>312652<br><b>L_Per: </b>74.9384<br><b>total: </b>417212<br>"
+        },
+        "00386": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Ratia<br><b>L_Pop: </b>99098<br><b>L_Per: </b>63.45683<br><b>total: </b>156166<br>"
+        },
+        "00387": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Tohana<br><b>L_Pop: </b>155435<br><b>L_Per: </b>67.64632<br><b>total: </b>229776<br>"
+        },
+        "00388": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Fatehabad<br><b>L_Pop: </b>303045<br><b>L_Per: </b>69.65831<br><b>total: </b>435045<br>"
+        },
+        "00395": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Narnaund<br><b>L_Pop: </b>84824<br><b>L_Per: </b>68.82774<br><b>total: </b>123241<br>"
+        },
+        "00393": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Adampur<br><b>L_Pop: </b>90908<br><b>L_Per: </b>70.58951<br><b>total: </b>128784<br>"
+        },
+        "00396": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Hansi<br><b>L_Pop: </b>245211<br><b>L_Per: </b>72.48287<br><b>total: </b>338302<br>"
+        },
+        "00394": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Hisar<br><b>L_Pop: </b>693368<br><b>L_Per: </b>73.88541<br><b>total: </b>938437<br>"
+        },
+        "00376": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Israna<br><b>L_Pop: </b>67493<br><b>L_Per: </b>72.36148<br><b>total: </b>93272<br>"
+        },
+        "00377": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Samalkha<br><b>L_Pop: </b>190061<br><b>L_Per: </b>72.8284<br><b>total: </b>260971<br>"
+        },
+        "00375": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Panipat<br><b>L_Pop: </b>529045<br><b>L_Per: </b>77.62585<br><b>total: </b>681532<br>"
+        },
+        "00379": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Ganaur<br><b>L_Pop: </b>135805<br><b>L_Per: </b>76.00842<br><b>total: </b>178671<br>"
+        },
+        "00378": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Gohana<br><b>L_Pop: </b>247741<br><b>L_Per: </b>76.53083<br><b>total: </b>323714<br>"
+        },
+        "00381": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Kharkhoda<br><b>L_Pop: </b>110295<br><b>L_Per: </b>78.54986<br><b>total: </b>140414<br>"
+        },
+        "00380": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Sonipat<br><b>L_Pop: </b>504475<br><b>L_Per: </b>81.50628<br><b>total: </b>618940<br>"
+        },
+        "00400": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Siwani<br><b>L_Pop: </b>60431<br><b>L_Per: </b>69.69564<br><b>total: </b>86707<br>"
+        },
+        "00399": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Tosham<br><b>L_Pop: </b>118712<br><b>L_Per: </b>71.71934<br><b>total: </b>165523<br>"
+        },
+        "00397": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Bawani Khera<br><b>L_Pop: </b>80231<br><b>L_Per: </b>72.73296<br><b>total: </b>110309<br>"
+        },
+        "00401": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Loharu<br><b>L_Pop: </b>101446<br><b>L_Per: </b>72.99481<br><b>total: </b>138977<br>"
+        },
+        "00403": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Badhra<br><b>L_Pop: </b>76659<br><b>L_Per: </b>74.14834<br><b>total: </b>103386<br>"
+        },
+        "00398": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Bhiwani<br><b>L_Pop: </b>372286<br><b>L_Per: </b>77.26228<br><b>total: </b>481847<br>"
+        },
+        "00402": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Dadri<br><b>L_Pop: </b>260106<br><b>L_Per: </b>77.48514<br><b>total: </b>335685<br>"
+        },
+        "00404": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Maham<br><b>L_Pop: </b>133251<br><b>L_Per: </b>75.0321<br><b>total: </b>177592<br>"
+        },
+        "00406": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Sampla<br><b>L_Pop: </b>87121<br><b>L_Per: </b>80.17024<br><b>total: </b>108670<br>"
+        },
+        "00405": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Rohtak<br><b>L_Pop: </b>527210<br><b>L_Per: </b>81.6605<br><b>total: </b>645612<br>"
+        },
+        "00356": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Kalka<br><b>L_Pop: </b>120264<br><b>L_Per: </b>81.66503<br><b>total: </b>147265<br>"
+        },
+        "00357": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Panchkula<br><b>L_Pop: </b>285054<br><b>L_Per: </b>81.97661<br><b>total: </b>347726<br>"
+        },
+        "00358": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Naraingarh<br><b>L_Pop: </b>156524<br><b>L_Per: </b>77.70216<br><b>total: </b>201441<br>"
+        },
+        "00360": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Barara<br><b>L_Pop: </b>170314<br><b>L_Per: </b>79.03018<br><b>total: </b>215505<br>"
+        },
+        "00359": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Ambala<br><b>L_Pop: </b>491187<br><b>L_Per: </b>84.14843<br><b>total: </b>583715<br>"
+        },
+        "00434": {
+            "color": "rgba(151.5318, 202.4545, 224.3227, 1.0)",
+            "matter": "<b>name: </b>Sadar Bazar<br><b>L_Pop: </b>94172<br><b>L_Per: </b>81.83248<br><b>total: </b>115079<br>"
+        },
+        "00433": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Civil Lines<br><b>L_Pop: </b>532415<br><b>L_Per: </b>87.6806<br><b>total: </b>607221<br>"
+        },
+        "00435": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Kotwali<br><b>L_Pop: </b>54930<br><b>L_Per: </b>88.06554<br><b>total: </b>62374<br>"
+        },
+        "00438": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Seema Puri<br><b>L_Pop: </b>387379<br><b>L_Per: </b>82.38934<br><b>total: </b>470181<br>"
+        },
+        "00436": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Seelam Pur<br><b>L_Pop: </b>979645<br><b>L_Per: </b>82.60494<br><b>total: </b>1185940<br>"
+        },
+        "00437": {
+            "color": "rgba(110.3197, 171.9576, 207.8379, 1.0)",
+            "matter": "<b>name: </b>Shahdara<br><b>L_Pop: </b>244564<br><b>L_Per: </b>86.24892<br><b>total: </b>283556<br>"
+        },
+        "00450": {
+            "color": "rgba(120.6227, 179.5818, 211.9591, 1.0)",
+            "matter": "<b>name: </b>Punjabi Bagh<br><b>L_Pop: </b>596550<br><b>L_Per: </b>85.11261<br><b>total: </b>700895<br>"
+        },
+        "00449": {
+            "color": "rgba(100.0167, 164.3333, 203.7167, 1.0)",
+            "matter": "<b>name: </b>Rajouri Garden<br><b>L_Pop: </b>379324<br><b>L_Per: </b>87.46754<br><b>total: </b>433674<br>"
+        },
+        "00448": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Patel Nagar<br><b>L_Pop: </b>985305<br><b>L_Per: </b>87.95379<br><b>total: </b>1120253<br>"
+        },
+        "00441": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>name: </b>Preet Vihar<br><b>L_Pop: </b>835392<br><b>L_Per: </b>88.79384<br><b>total: </b>940822<br>"
+        },
+        "00440": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>name: </b>Vivek Vihar<br><b>L_Pop: </b>199028<br><b>L_Per: </b>89.58406<br><b>total: </b>222169<br>"
+        },
+        "00439": {
+            "color": "rgba(69.1076, 141.4606, 191.353, 1.0)",
+            "matter": "<b>name: </b>Gandhi Nagar<br><b>L_Pop: </b>318578<br><b>L_Per: </b>90.50563<br><b>total: </b>351998<br>"
+        },
+        "00452": {
+            "color": "rgba(94.8652, 160.5212, 201.6561, 1.0)",
+            "matter": "<b>name: </b>Delhi Cantonment<br><b>L_Pop: </b>223321<br><b>L_Per: </b>87.61534<br><b>total: </b>254888<br>"
+        },
+        "00453": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>name: </b>Vasant Vihar<br><b>L_Pop: </b>504654<br><b>L_Per: </b>88.26727<br><b>total: </b>571734<br>"
+        },
+        "00451": {
+            "color": "rgba(89.7136, 156.7091, 199.5955, 1.0)",
+            "matter": "<b>name: </b>Najafgarh<br><b>L_Pop: </b>1059714<br><b>L_Per: </b>88.43131<br><b>total: </b>1198347<br>"
+        },
+        "00445": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Darya Ganj<br><b>L_Pop: </b>198753<br><b>L_Per: </b>82.6763<br><b>total: </b>240399<br>"
+        },
+        "00446": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Pahar Ganj<br><b>L_Pop: </b>130916<br><b>L_Per: </b>84.23532<br><b>total: </b>155417<br>"
+        },
+        "00447": {
+            "color": "rgba(63.9561, 137.6485, 189.2924, 1.0)",
+            "matter": "<b>name: </b>Karol Bagh<br><b>L_Pop: </b>112691<br><b>L_Per: </b>91.0524<br><b>total: </b>123765<br>"
+        },
+        "00443": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>name: </b>Chanakya Puri<br><b>L_Pop: </b>48178<br><b>L_Per: </b>86.9796<br><b>total: </b>55390<br>"
+        },
+        "00442": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>name: </b>Connaught Place<br><b>L_Pop: </b>22969<br><b>L_Per: </b>88.84119<br><b>total: </b>25854<br>"
+        },
+        "00444": {
+            "color": "rgba(79.4106, 149.0848, 195.4742, 1.0)",
+            "matter": "<b>name: </b>Parliament Street<br><b>L_Pop: </b>43032<br><b>L_Per: </b>89.65<br><b>total: </b>48000<br>"
+        },
+        "00456": {
+            "color": "rgba(125.7742, 183.3939, 214.0197, 1.0)",
+            "matter": "<b>name: </b>Kalkaji<br><b>L_Pop: </b>630289<br><b>L_Per: </b>84.25974<br><b>total: </b>748031<br>"
+        },
+        "00454": {
+            "color": "rgba(105.1682, 168.1455, 205.7773, 1.0)",
+            "matter": "<b>name: </b>Hauz Khas<br><b>L_Pop: </b>939355<br><b>L_Per: </b>86.87194<br><b>total: </b>1081310<br>"
+        },
+        "00455": {
+            "color": "rgba(84.5621, 152.897, 197.5348, 1.0)",
+            "matter": "<b>name: </b>Defence Colony<br><b>L_Pop: </b>508758<br><b>L_Per: </b>89.01451<br><b>total: </b>571545<br>"
+        },
+        "00430": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Narela<br><b>L_Pop: </b>569830<br><b>L_Per: </b>81.35338<br><b>total: </b>700438<br>"
+        },
+        "00432": {
+            "color": "rgba(130.9258, 187.2061, 216.0803, 1.0)",
+            "matter": "<b>name: </b>Model Town<br><b>L_Pop: </b>441557<br><b>L_Per: </b>83.92897<br><b>total: </b>526108<br>"
+        },
+        "00431": {
+            "color": "rgba(115.4712, 175.7697, 209.8985, 1.0)",
+            "matter": "<b>name: </b>Saraswati Vihar<br><b>L_Pop: </b>1696468<br><b>L_Per: </b>85.67592<br><b>total: </b>1980099<br>"
+        },
+        "00015": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Zanskar<br><b>L_Pop: </b>7099<br><b>L_Per: </b>59.73075<br><b>total: </b>11885<br>"
+        },
+        "00014": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Sanku<br><b>L_Pop: </b>21886<br><b>L_Per: </b>63.9848<br><b>total: </b>34205<br>"
+        },
+        "00013": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Kargil<br><b>L_Pop: </b>57251<br><b>L_Per: </b>76.55515<br><b>total: </b>74784<br>"
+        },
+        "00012": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Khalsi<br><b>L_Pop: </b>10432<br><b>L_Per: </b>68.77637<br><b>total: </b>15168<br>"
+        },
+        "00011": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Nubra<br><b>L_Pop: </b>14493<br><b>L_Per: </b>72.05787<br><b>total: </b>20113<br>"
+        },
+        "00010": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Leh<br><b>L_Pop: </b>68845<br><b>L_Per: </b>79.87586<br><b>total: </b>86190<br>"
+        },
+        "00731": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Hasanpur<br><b>L_Pop: </b>284174<br><b>L_Per: </b>58.04291<br><b>total: </b>489593<br>"
+        },
+        "00730": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Amroha<br><b>L_Pop: </b>429549<br><b>L_Per: </b>65.55428<br><b>total: </b>655257<br>"
+        },
+        "00729": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Dhanaura<br><b>L_Pop: </b>269387<br><b>L_Per: </b>68.17508<br><b>total: </b>395140<br>"
+        },
+        "00785": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Meerganj <br><b>L_Pop: </b>209161<br><b>L_Per: </b>51.45918<br><b>total: </b>406460<br>"
+        },
+        "00786": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Aonla <br><b>L_Pop: </b>304012<br><b>L_Per: </b>52.67068<br><b>total: </b>577194<br>"
+        },
+        "00789": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>name: </b>Faridpur <br><b>L_Pop: </b>217856<br><b>L_Per: </b>55.51688<br><b>total: </b>392414<br>"
+        },
+        "00784": {
+            "color": "rgba(253.197, 197.303, 124.5379, 1.0)",
+            "matter": "<b>name: </b>Baheri<br><b>L_Pop: </b>320359<br><b>L_Per: </b>56.45799<br><b>total: </b>567429<br>"
+        },
+        "00788": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Nawabganj <br><b>L_Pop: </b>246481<br><b>L_Per: </b>61.24238<br><b>total: </b>402468<br>"
+        },
+        "00787": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Bareilly <br><b>L_Pop: </b>893890<br><b>L_Per: </b>63.80471<br><b>total: </b>1400978<br>"
+        },
+        "00792": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>name: </b>Puranpur<br><b>L_Pop: </b>298965<br><b>L_Per: </b>58.44868<br><b>total: </b>511500<br>"
+        },
+        "00790": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Pilibhit <br><b>L_Pop: </b>420935<br><b>L_Per: </b>61.81467<br><b>total: </b>680963<br>"
+        },
+        "00791": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Bisalpur<br><b>L_Pop: </b>341195<br><b>L_Per: </b>63.93922<br><b>total: </b>533624<br>"
+        },
+        "00749": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Debai<br><b>L_Pop: </b>237907<br><b>L_Per: </b>64.97333<br><b>total: </b>366161<br>"
+        },
+        "00748": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Anupshahr<br><b>L_Pop: </b>198774<br><b>L_Per: </b>67.72884<br><b>total: </b>293485<br>"
+        },
+        "00750": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Shikarpur<br><b>L_Pop: </b>248919<br><b>L_Per: </b>67.98669<br><b>total: </b>366129<br>"
+        },
+        "00751": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Khurja <br><b>L_Pop: </b>300164<br><b>L_Per: </b>68.95741<br><b>total: </b>435289<br>"
+        },
+        "00747": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Siana<br><b>L_Pop: </b>302783<br><b>L_Per: </b>69.69565<br><b>total: </b>434436<br>"
+        },
+        "00746": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Bulandshahr<br><b>L_Pop: </b>512943<br><b>L_Per: </b>70.14039<br><b>total: </b>731309<br>"
+        },
+        "00745": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Sikandrabad<br><b>L_Pop: </b>230166<br><b>L_Per: </b>71.3547<br><b>total: </b>322566<br>"
+        },
+        "00744": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Jewar<br><b>L_Pop: </b>128823<br><b>L_Per: </b>69.51869<br><b>total: </b>185307<br>"
+        },
+        "00743": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Gautam Buddha Nagar<br><b>L_Pop: </b>206262<br><b>L_Per: </b>77.45737<br><b>total: </b>266291<br>"
+        },
+        "00742": {
+            "color": "rgba(141.2288, 194.8303, 220.2015, 1.0)",
+            "matter": "<b>name: </b>Dadri<br><b>L_Pop: </b>787862<br><b>L_Per: </b>82.93991<br><b>total: </b>949919<br>"
+        },
+        "00802": {
+            "color": "rgba(240.4727, 127.0879, 75.3409, 1.0)",
+            "matter": "<b>name: </b>Dhaurahara<br><b>L_Pop: </b>230467<br><b>L_Per: </b>47.85544<br><b>total: </b>481590<br>"
+        },
+        "00797": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Nighasan<br><b>L_Pop: </b>170416<br><b>L_Per: </b>49.66948<br><b>total: </b>343100<br>"
+        },
+        "00798": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Palia<br><b>L_Pop: </b>161882<br><b>L_Per: </b>56.84259<br><b>total: </b>284790<br>"
+        },
+        "00800": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Mohammdi<br><b>L_Pop: </b>437279<br><b>L_Per: </b>64.09451<br><b>total: </b>682241<br>"
+        },
+        "00799": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Gola Gokaran Nath<br><b>L_Pop: </b>389298<br><b>L_Per: </b>65.39955<br><b>total: </b>595261<br>"
+        },
+        "00801": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Lakhimpur<br><b>L_Pop: </b>644702<br><b>L_Per: </b>66.32975<br><b>total: </b>971965<br>"
+        },
+        "00781": {
+            "color": "rgba(214.2, 25.5, 28.05, 1.0)",
+            "matter": "<b>name: </b>Sahaswan<br><b>L_Pop: </b>120938<br><b>L_Per: </b>38.29551<br><b>total: </b>315802<br>"
+        },
+        "00778": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Gunnaur <br><b>L_Pop: </b>213767<br><b>L_Per: </b>47.29191<br><b>total: </b>452016<br>"
+        },
+        "00780": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Bilsi<br><b>L_Pop: </b>171801<br><b>L_Per: </b>51.5368<br><b>total: </b>333356<br>"
+        },
+        "00783": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Dataganj<br><b>L_Pop: </b>296329<br><b>L_Per: </b>53.13622<br><b>total: </b>557678<br>"
+        },
+        "00779": {
+            "color": "rgba(252.6818, 180.8182, 105.4773, 1.0)",
+            "matter": "<b>name: </b>Bisauli <br><b>L_Pop: </b>284202<br><b>L_Per: </b>53.64083<br><b>total: </b>529824<br>"
+        },
+        "00782": {
+            "color": "rgba(253.0939, 194.0061, 120.7258, 1.0)",
+            "matter": "<b>name: </b>Budaun<br><b>L_Pop: </b>460440<br><b>L_Per: </b>55.58782<br><b>total: </b>828311<br>"
+        },
+        "00919": {
+            "color": "rgba(229.6545, 85.2576, 55.8682, 1.0)",
+            "matter": "<b>name: </b>Nanpara <br><b>L_Pop: </b>450198<br><b>L_Per: </b>43.85898<br><b>total: </b>1026467<br>"
+        },
+        "00920": {
+            "color": "rgba(238.9273, 121.1121, 72.5591, 1.0)",
+            "matter": "<b>name: </b>Mahasi<br><b>L_Pop: </b>209466<br><b>L_Per: </b>47.55889<br><b>total: </b>440435<br>"
+        },
+        "00922": {
+            "color": "rgba(245.1091, 145.0152, 83.6864, 1.0)",
+            "matter": "<b>name: </b>Kaiserganj<br><b>L_Pop: </b>333061<br><b>L_Per: </b>49.81424<br><b>total: </b>668606<br>"
+        },
+        "00921": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Bahraich<br><b>L_Pop: </b>405643<br><b>L_Per: </b>58.16262<br><b>total: </b>697429<br>"
+        },
+        "00796": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Jalalabad<br><b>L_Pop: </b>264646<br><b>L_Per: </b>54.46355<br><b>total: </b>485914<br>"
+        },
+        "00794": {
+            "color": "rgba(253.197, 197.303, 124.5379, 1.0)",
+            "matter": "<b>name: </b>Tilhar<br><b>L_Pop: </b>340638<br><b>L_Per: </b>56.03161<br><b>total: </b>607939<br>"
+        },
+        "00795": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Shahjahanpur<br><b>L_Pop: </b>525122<br><b>L_Per: </b>62.26118<br><b>total: </b>843418<br>"
+        },
+        "00793": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Powayan<br><b>L_Pop: </b>360524<br><b>L_Per: </b>63.62465<br><b>total: </b>566642<br>"
+        },
+        "00754": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Atrauli<br><b>L_Pop: </b>372310<br><b>L_Per: </b>60.41787<br><b>total: </b>616225<br>"
+        },
+        "00755": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Koil<br><b>L_Pop: </b>1049785<br><b>L_Per: </b>68.24359<br><b>total: </b>1538291<br>"
+        },
+        "00752": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Khair<br><b>L_Pop: </b>253018<br><b>L_Per: </b>70.2697<br><b>total: </b>360067<br>"
+        },
+        "00753": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Gabhana<br><b>L_Pop: </b>184159<br><b>L_Per: </b>71.36978<br><b>total: </b>258035<br>"
+        },
+        "00756": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Iglas<br><b>L_Pop: </b>233295<br><b>L_Per: </b>71.396<br><b>total: </b>326762<br>"
+        },
+        "01011": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Sahawar<br><b>L_Pop: </b>155342<br><b>L_Per: </b>59.50159<br><b>total: </b>261072<br>"
+        },
+        "01012": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Patiyali<br><b>L_Pop: </b>276881<br><b>L_Per: </b>60.2662<br><b>total: </b>459430<br>"
+        },
+        "01010": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Kasganj<br><b>L_Pop: </b>292627<br><b>L_Per: </b>62.59963<br><b>total: </b>467458<br>"
+        },
+        "00761": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Chhata<br><b>L_Pop: </b>299307<br><b>L_Per: </b>64.01549<br><b>total: </b>467554<br>"
+        },
+        "00762": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Mat<br><b>L_Pop: </b>254975<br><b>L_Per: </b>69.18085<br><b>total: </b>368563<br>"
+        },
+        "00763": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Mahavan<br><b>L_Pop: </b>212742<br><b>L_Per: </b>71.56789<br><b>total: </b>297259<br>"
+        },
+        "00764": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Mathura<br><b>L_Pop: </b>740722<br><b>L_Per: </b>73.37281<br><b>total: </b>1009532<br>"
+        },
+        "00923": {
+            "color": "rgba(228.1091, 79.2818, 53.0864, 1.0)",
+            "matter": "<b>name: </b>Bhinga<br><b>L_Pop: </b>239139<br><b>L_Per: </b>43.522710000000004<br><b>total: </b>549458<br>"
+        },
+        "00924": {
+            "color": "rgba(251.2909, 168.9182, 94.8136, 1.0)",
+            "matter": "<b>name: </b>Ikauna<br><b>L_Pop: </b>184174<br><b>L_Per: </b>51.70566<br><b>total: </b>356197<br>"
+        },
+        "00806": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Biswan<br><b>L_Pop: </b>335787<br><b>L_Per: </b>54.4885<br><b>total: </b>616253<br>"
+        },
+        "00805": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Laharpur <br><b>L_Pop: </b>338894<br><b>L_Per: </b>54.60809<br><b>total: </b>620593<br>"
+        },
+        "00807": {
+            "color": "rgba(253.403, 203.897, 132.1621, 1.0)",
+            "matter": "<b>name: </b>Mahmudabad<br><b>L_Pop: </b>280653<br><b>L_Per: </b>57.41521<br><b>total: </b>488813<br>"
+        },
+        "00808": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Sidhauli<br><b>L_Pop: </b>305255<br><b>L_Per: </b>64.11614<br><b>total: </b>476097<br>"
+        },
+        "00803": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Misrikh<br><b>L_Pop: </b>518504<br><b>L_Per: </b>66.25453<br><b>total: </b>782594<br>"
+        },
+        "00804": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Sitapur<br><b>L_Pop: </b>504640<br><b>L_Per: </b>67.09889<br><b>total: </b>752084<br>"
+        },
+        "00758": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Sikandra Rao <br><b>L_Pop: </b>226834<br><b>L_Per: </b>67.06898<br><b>total: </b>338210<br>"
+        },
+        "00760": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Sadabad<br><b>L_Pop: </b>233808<br><b>L_Per: </b>72.629<br><b>total: </b>321921<br>"
+        },
+        "00757": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Sasni<br><b>L_Pop: </b>137014<br><b>L_Per: </b>72.68454<br><b>total: </b>188505<br>"
+        },
+        "00759": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Hathras<br><b>L_Pop: </b>344916<br><b>L_Per: </b>73.70535<br><b>total: </b>467966<br>"
+        },
+        "01009": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Jalesar <br><b>L_Pop: </b>201910<br><b>L_Per: </b>68.73251<br><b>total: </b>293762<br>"
+        },
+        "01007": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Aliganj <br><b>L_Pop: </b>284860<br><b>L_Per: </b>70.22743<br><b>total: </b>405625<br>"
+        },
+        "01008": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Etah<br><b>L_Pop: </b>568432<br><b>L_Per: </b>71.87463<br><b>total: </b>790866<br>"
+        },
+        "00813": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Sandila <br><b>L_Pop: </b>491833<br><b>L_Per: </b>59.93337<br><b>total: </b>820633<br>"
+        },
+        "00809": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Shahabad<br><b>L_Pop: </b>399827<br><b>L_Per: </b>62.78276<br><b>total: </b>636842<br>"
+        },
+        "00811": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Hardoi <br><b>L_Pop: </b>678418<br><b>L_Per: </b>66.94824<br><b>total: </b>1013347<br>"
+        },
+        "00810": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Sawayajpur<br><b>L_Pop: </b>271540<br><b>L_Per: </b>67.01663<br><b>total: </b>405183<br>"
+        },
+        "00812": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Bilgram<br><b>L_Pop: </b>379983<br><b>L_Per: </b>67.3318<br><b>total: </b>564344<br>"
+        },
+        "00830": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Kaimganj<br><b>L_Pop: </b>353826<br><b>L_Per: </b>63.99342<br><b>total: </b>552910<br>"
+        },
+        "00831": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Amritpur<br><b>L_Pop: </b>103314<br><b>L_Per: </b>67.52461<br><b>total: </b>153002<br>"
+        },
+        "00832": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Farrukhabad <br><b>L_Pop: </b>635537<br><b>L_Per: </b>72.49361<br><b>total: </b>876680<br>"
+        },
+        "00772": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Firozabad<br><b>L_Pop: </b>552687<br><b>L_Per: </b>68.27089<br><b>total: </b>809550<br>"
+        },
+        "00773": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Jasrana <br><b>L_Pop: </b>306829<br><b>L_Per: </b>72.07685<br><b>total: </b>425697<br>"
+        },
+        "00771": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Tundla<br><b>L_Pop: </b>228746<br><b>L_Per: </b>74.80126<br><b>total: </b>305805<br>"
+        },
+        "00774": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Shikohabad <br><b>L_Pop: </b>433544<br><b>L_Per: </b>75.42716<br><b>total: </b>574785<br>"
+        },
+        "00935": {
+            "color": "rgba(252.5788, 177.5212, 101.6652, 1.0)",
+            "matter": "<b>name: </b>Itwa<br><b>L_Pop: </b>192477<br><b>L_Per: </b>53.13067<br><b>total: </b>362271<br>"
+        },
+        "00932": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>name: </b>Shohratgarh<br><b>L_Pop: </b>199183<br><b>L_Per: </b>58.58151<br><b>total: </b>340010<br>"
+        },
+        "00936": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Domariyaganj<br><b>L_Pop: </b>234047<br><b>L_Per: </b>60.65264<br><b>total: </b>385881<br>"
+        },
+        "00934": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Bansi<br><b>L_Pop: </b>298806<br><b>L_Per: </b>61.03388<br><b>total: </b>489574<br>"
+        },
+        "00933": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Naugarh<br><b>L_Pop: </b>304413<br><b>L_Per: </b>61.32129<br><b>total: </b>496423<br>"
+        },
+        "00776": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Karhal<br><b>L_Pop: </b>208876<br><b>L_Per: </b>73.96616<br><b>total: </b>282394<br>"
+        },
+        "00777": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Bhogaon <br><b>L_Pop: </b>522056<br><b>L_Per: </b>76.03695<br><b>total: </b>686582<br>"
+        },
+        "00775": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Mainpuri<br><b>L_Pop: </b>472953<br><b>L_Per: </b>76.87743<br><b>total: </b>615204<br>"
+        },
+        "00944": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Nautanwa<br><b>L_Pop: </b>258172<br><b>L_Per: </b>60.71978<br><b>total: </b>425186<br>"
+        },
+        "00945": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Nichlaul<br><b>L_Pop: </b>277186<br><b>L_Per: </b>60.86836<br><b>total: </b>455386<br>"
+        },
+        "00946": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Pharenda<br><b>L_Pop: </b>255385<br><b>L_Per: </b>62.77438<br><b>total: </b>406830<br>"
+        },
+        "00947": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Maharajganj<br><b>L_Pop: </b>628401<br><b>L_Per: </b>64.53319<br><b>total: </b>973764<br>"
+        },
+        "00769": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Fatehabad<br><b>L_Pop: </b>242665<br><b>L_Per: </b>64.2474<br><b>total: </b>377704<br>"
+        },
+        "00768": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Kheragarh<br><b>L_Pop: </b>272525<br><b>L_Per: </b>70.49586<br><b>total: </b>386583<br>"
+        },
+        "00770": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Bah<br><b>L_Pop: </b>254162<br><b>L_Per: </b>70.88765<br><b>total: </b>358542<br>"
+        },
+        "00767": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Kiraoli<br><b>L_Pop: </b>299912<br><b>L_Per: </b>71.15401<br><b>total: </b>421497<br>"
+        },
+        "00766": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Agra<br><b>L_Pop: </b>1382798<br><b>L_Per: </b>73.06908<br><b>total: </b>1892453<br>"
+        },
+        "00765": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Etmadpur<br><b>L_Pop: </b>228448<br><b>L_Per: </b>74.15626<br><b>total: </b>308063<br>"
+        },
+        "00929": {
+            "color": "rgba(253.3, 200.6, 128.35, 1.0)",
+            "matter": "<b>name: </b>Colonelganj <br><b>L_Pop: </b>399511<br><b>L_Per: </b>56.56208<br><b>total: </b>706323<br>"
+        },
+        "00928": {
+            "color": "rgba(253.7121, 213.7879, 143.5985, 1.0)",
+            "matter": "<b>name: </b>Gonda <br><b>L_Pop: </b>576776<br><b>L_Per: </b>59.04811<br><b>total: </b>976790<br>"
+        },
+        "00930": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Tarabganj<br><b>L_Pop: </b>377394<br><b>L_Per: </b>59.40051<br><b>total: </b>635338<br>"
+        },
+        "00931": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Mankapur <br><b>L_Pop: </b>326313<br><b>L_Per: </b>60.0854<br><b>total: </b>543082<br>"
+        },
+        "00899": {
+            "color": "rgba(253.403, 203.897, 132.1621, 1.0)",
+            "matter": "<b>name: </b>Sirauli Gauspur<br><b>L_Pop: </b>154215<br><b>L_Per: </b>57.58481<br><b>total: </b>267805<br>"
+        },
+        "00900": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>name: </b>Ramsanehighat<br><b>L_Pop: </b>216352<br><b>L_Per: </b>58.24573<br><b>total: </b>371447<br>"
+        },
+        "00897": {
+            "color": "rgba(253.7121, 213.7879, 143.5985, 1.0)",
+            "matter": "<b>name: </b>Ramnagar <br><b>L_Pop: </b>150725<br><b>L_Per: </b>58.95641<br><b>total: </b>255655<br>"
+        },
+        "00896": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Fatehpur<br><b>L_Pop: </b>301411<br><b>L_Per: </b>61.34931<br><b>total: </b>491303<br>"
+        },
+        "00901": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Haidergarh<br><b>L_Pop: </b>325055<br><b>L_Per: </b>61.79988<br><b>total: </b>525980<br>"
+        },
+        "00898": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Nawabganj <br><b>L_Pop: </b>544700<br><b>L_Per: </b>65.73406<br><b>total: </b>828642<br>"
+        },
+        "00958": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Tamkuhi Raj<br><b>L_Pop: </b>445962<br><b>L_Per: </b>61.81776<br><b>total: </b>721414<br>"
+        },
+        "00955": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Padrauna<br><b>L_Pop: </b>596934<br><b>L_Per: </b>63.50247<br><b>total: </b>940017<br>"
+        },
+        "00956": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Hata<br><b>L_Pop: </b>550961<br><b>L_Per: </b>67.67881<br><b>total: </b>814082<br>"
+        },
+        "00957": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Kasya<br><b>L_Pop: </b>360963<br><b>L_Per: </b>69.35594<br><b>total: </b>520450<br>"
+        },
+        "00834": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Kannauj<br><b>L_Pop: </b>272282<br><b>L_Per: </b>71.28006<br><b>total: </b>381989<br>"
+        },
+        "00833": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Chhibramau<br><b>L_Pop: </b>472274<br><b>L_Per: </b>72.85717<br><b>total: </b>648219<br>"
+        },
+        "00835": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Tirwa<br><b>L_Pop: </b>272531<br><b>L_Per: </b>73.91152<br><b>total: </b>368726<br>"
+        },
+        "00819": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Malihabad<br><b>L_Pop: </b>205770<br><b>L_Per: </b>65.21284<br><b>total: </b>315536<br>"
+        },
+        "00822": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Mohanlalganj <br><b>L_Pop: </b>272452<br><b>L_Per: </b>66.23185<br><b>total: </b>411361<br>"
+        },
+        "00820": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Bakshi Ka Talab<br><b>L_Pop: </b>203959<br><b>L_Per: </b>68.66035<br><b>total: </b>297055<br>"
+        },
+        "00821": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Lucknow<br><b>L_Pop: </b>2445079<br><b>L_Per: </b>80.90274<br><b>total: </b>3022245<br>"
+        },
+        "00937": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Bhanpur<br><b>L_Pop: </b>191387<br><b>L_Per: </b>64.45548<br><b>total: </b>296929<br>"
+        },
+        "00940": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Rudhauli<br><b>L_Pop: </b>111485<br><b>L_Per: </b>65.58173<br><b>total: </b>169994<br>"
+        },
+        "00938": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Harraiya<br><b>L_Pop: </b>534354<br><b>L_Per: </b>66.56336<br><b>total: </b>802775<br>"
+        },
+        "00939": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Basti<br><b>L_Pop: </b>556557<br><b>L_Per: </b>69.24099<br><b>total: </b>803797<br>"
+        },
+        "00948": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Campierganj<br><b>L_Pop: </b>212025<br><b>L_Per: </b>63.76519<br><b>total: </b>332509<br>"
+        },
+        "00951": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Chauri Chaura<br><b>L_Pop: </b>255816<br><b>L_Per: </b>66.4628<br><b>total: </b>384901<br>"
+        },
+        "00953": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Khajni<br><b>L_Pop: </b>353286<br><b>L_Per: </b>70.62457<br><b>total: </b>500231<br>"
+        },
+        "00949": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Sahjanwa<br><b>L_Pop: </b>238020<br><b>L_Per: </b>70.94021<br><b>total: </b>335522<br>"
+        },
+        "00952": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Bansgaon<br><b>L_Pop: </b>273865<br><b>L_Per: </b>71.34558<br><b>total: </b>383857<br>"
+        },
+        "00954": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Gola <br><b>L_Pop: </b>331717<br><b>L_Per: </b>71.6323<br><b>total: </b>463083<br>"
+        },
+        "00950": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Gorakhpur<br><b>L_Pop: </b>1035599<br><b>L_Per: </b>73.32453<br><b>total: </b>1412350<br>"
+        },
+        "00941": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Mehdawal<br><b>L_Pop: </b>238188<br><b>L_Per: </b>61.0255<br><b>total: </b>390309<br>"
+        },
+        "00943": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Ghanghata<br><b>L_Pop: </b>294084<br><b>L_Per: </b>67.4285<br><b>total: </b>436142<br>"
+        },
+        "00942": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Khalilabad<br><b>L_Pop: </b>422677<br><b>L_Per: </b>69.88476<br><b>total: </b>604820<br>"
+        },
+        "00814": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Safipur<br><b>L_Pop: </b>374553<br><b>L_Per: </b>62.2086<br><b>total: </b>602092<br>"
+        },
+        "00815": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Hasanganj <br><b>L_Pop: </b>382455<br><b>L_Per: </b>62.30167<br><b>total: </b>613876<br>"
+        },
+        "00817": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Purwa <br><b>L_Pop: </b>258143<br><b>L_Per: </b>65.32107<br><b>total: </b>395191<br>"
+        },
+        "00816": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Unnao<br><b>L_Pop: </b>538871<br><b>L_Per: </b>70.70304<br><b>total: </b>762161<br>"
+        },
+        "00818": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Bighapur<br><b>L_Pop: </b>219562<br><b>L_Per: </b>73.3997<br><b>total: </b>299132<br>"
+        },
+        "00837": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Saifai<br><b>L_Pop: </b>60600<br><b>L_Per: </b>75.23744<br><b>total: </b>80545<br>"
+        },
+        "00840": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Chakarnagar<br><b>L_Pop: </b>94706<br><b>L_Per: </b>75.53698<br><b>total: </b>125377<br>"
+        },
+        "00836": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Jaswantnagar<br><b>L_Pop: </b>141113<br><b>L_Per: </b>77.18643<br><b>total: </b>182821<br>"
+        },
+        "00838": {
+            "color": "rgba(175.1, 218.6818, 229.9894, 1.0)",
+            "matter": "<b>name: </b>Etawah<br><b>L_Pop: </b>403682<br><b>L_Per: </b>79.10928<br><b>total: </b>510284<br>"
+        },
+        "00839": {
+            "color": "rgba(171.7, 217.1364, 231.6379, 1.0)",
+            "matter": "<b>name: </b>Bharthana<br><b>L_Pop: </b>361902<br><b>L_Per: </b>79.48422<br><b>total: </b>455313<br>"
+        },
+        "00850": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Ghatampur <br><b>L_Pop: </b>368239<br><b>L_Per: </b>73.43865<br><b>total: </b>501424<br>"
+        },
+        "00848": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Bilhaur <br><b>L_Pop: </b>348339<br><b>L_Per: </b>76.02037<br><b>total: </b>458218<br>"
+        },
+        "00849": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Kanpur <br><b>L_Pop: </b>2526444<br><b>L_Per: </b>81.19171<br><b>total: </b>3111702<br>"
+        },
+        "00841": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Bidhuna<br><b>L_Pop: </b>448633<br><b>L_Per: </b>77.66103<br><b>total: </b>577681<br>"
+        },
+        "00842": {
+            "color": "rgba(166.9864, 213.8909, 230.5045, 1.0)",
+            "matter": "<b>name: </b>Auraiya <br><b>L_Pop: </b>482203<br><b>L_Per: </b>80.18715<br><b>total: </b>601347<br>"
+        },
+        "00902": {
+            "color": "rgba(253.197, 197.303, 124.5379, 1.0)",
+            "matter": "<b>name: </b>Rudauli<br><b>L_Pop: </b>217096<br><b>L_Per: </b>56.1018<br><b>total: </b>386968<br>"
+        },
+        "00903": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Milkipur<br><b>L_Pop: </b>271902<br><b>L_Per: </b>66.80606<br><b>total: </b>407002<br>"
+        },
+        "00906": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Bikapur<br><b>L_Pop: </b>267038<br><b>L_Per: </b>69.22674<br><b>total: </b>385744<br>"
+        },
+        "00904": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Sohawal<br><b>L_Pop: </b>231340<br><b>L_Per: </b>70.49331<br><b>total: </b>328173<br>"
+        },
+        "00905": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Faizabad<br><b>L_Pop: </b>463525<br><b>L_Per: </b>76.86638<br><b>total: </b>603027<br>"
+        },
+        "00846": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Bhognipur<br><b>L_Pop: </b>244359<br><b>L_Per: </b>74.23647<br><b>total: </b>329163<br>"
+        },
+        "00847": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Sikandra<br><b>L_Pop: </b>179439<br><b>L_Per: </b>74.87419<br><b>total: </b>239654<br>"
+        },
+        "00843": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Rasulabad <br><b>L_Pop: </b>208686<br><b>L_Per: </b>75.81001<br><b>total: </b>275275<br>"
+        },
+        "00844": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Derapur<br><b>L_Pop: </b>184780<br><b>L_Per: </b>76.65566<br><b>total: </b>241052<br>"
+        },
+        "00845": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Akbarpur <br><b>L_Pop: </b>352979<br><b>L_Per: </b>76.88918<br><b>total: </b>459075<br>"
+        },
+        "00960": {
+            "color": "rgba(249.9, 252.6818, 193.7227, 1.0)",
+            "matter": "<b>name: </b>Rudrapur<br><b>L_Pop: </b>248638<br><b>L_Per: </b>66.94975<br><b>total: </b>371380<br>"
+        },
+        "00963": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Bhatpar Rani<br><b>L_Pop: </b>267032<br><b>L_Per: </b>70.46443<br><b>total: </b>378960<br>"
+        },
+        "00961": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Barhaj<br><b>L_Pop: </b>223041<br><b>L_Per: </b>70.7292<br><b>total: </b>315345<br>"
+        },
+        "00959": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Deoria<br><b>L_Pop: </b>756673<br><b>L_Per: </b>71.83048<br><b>total: </b>1053415<br>"
+        },
+        "00962": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Salempur<br><b>L_Pop: </b>379855<br><b>L_Per: </b>73.42605<br><b>total: </b>517330<br>"
+        },
+        "00912": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Musafirkhana <br><b>L_Pop: </b>374535<br><b>L_Per: </b>62.75605<br><b>total: </b>596811<br>"
+        },
+        "00913": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Gauriganj<br><b>L_Pop: </b>214282<br><b>L_Per: </b>64.59277<br><b>total: </b>331743<br>"
+        },
+        "00916": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Jaisinghpur<br><b>L_Pop: </b>247551<br><b>L_Per: </b>69.14137<br><b>total: </b>358036<br>"
+        },
+        "00918": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Kadipur <br><b>L_Pop: </b>314076<br><b>L_Per: </b>70.49982<br><b>total: </b>445499<br>"
+        },
+        "00917": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Lambhua<br><b>L_Pop: </b>284788<br><b>L_Per: </b>71.08025<br><b>total: </b>400657<br>"
+        },
+        "00914": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Amethi <br><b>L_Pop: </b>278534<br><b>L_Per: </b>72.16337<br><b>total: </b>385977<br>"
+        },
+        "00915": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Sultanpur<br><b>L_Pop: </b>526136<br><b>L_Per: </b>73.58329<br><b>total: </b>715021<br>"
+        },
+        "00911": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Bhiti<br><b>L_Pop: </b>149124<br><b>L_Per: </b>70.07015<br><b>total: </b>212821<br>"
+        },
+        "00910": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Akbarpur<br><b>L_Pop: </b>342805<br><b>L_Per: </b>71.36849<br><b>total: </b>480331<br>"
+        },
+        "00908": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Allapur<br><b>L_Pop: </b>273720<br><b>L_Per: </b>72.5913<br><b>total: </b>377070<br>"
+        },
+        "00909": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Jalalpur <br><b>L_Pop: </b>342105<br><b>L_Per: </b>72.73228<br><b>total: </b>470362<br>"
+        },
+        "00907": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Tanda<br><b>L_Pop: </b>379185<br><b>L_Per: </b>73.19114<br><b>total: </b>518075<br>"
+        },
+        "00824": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Tiloi<br><b>L_Pop: </b>252591<br><b>L_Per: </b>59.95898<br><b>total: </b>421273<br>"
+        },
+        "00829": {
+            "color": "rgba(254.0212, 223.6788, 155.0348, 1.0)",
+            "matter": "<b>name: </b>Salon<br><b>L_Pop: </b>256030<br><b>L_Per: </b>60.69464<br><b>total: </b>421833<br>"
+        },
+        "00823": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Maharajganj<br><b>L_Pop: </b>244886<br><b>L_Per: </b>66.28214<br><b>total: </b>369460<br>"
+        },
+        "00828": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Unchahar<br><b>L_Pop: </b>185685<br><b>L_Per: </b>66.50823<br><b>total: </b>279191<br>"
+        },
+        "00827": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Dalmau <br><b>L_Pop: </b>175345<br><b>L_Per: </b>69.32386<br><b>total: </b>252936<br>"
+        },
+        "00825": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Rae Bareli <br><b>L_Pop: </b>507346<br><b>L_Per: </b>70.4844<br><b>total: </b>719799<br>"
+        },
+        "00826": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Lalganj <br><b>L_Pop: </b>343960<br><b>L_Per: </b>75.01036<br><b>total: </b>458550<br>"
+        },
+        "00853": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Kalpi <br><b>L_Pop: </b>215635<br><b>L_Per: </b>68.1921<br><b>total: </b>316217<br>"
+        },
+        "00851": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Madhogarh<br><b>L_Pop: </b>211596<br><b>L_Per: </b>73.07324<br><b>total: </b>289567<br>"
+        },
+        "00855": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Konch<br><b>L_Pop: </b>191951<br><b>L_Per: </b>73.80318<br><b>total: </b>260085<br>"
+        },
+        "00854": {
+            "color": "rgba(188.7, 224.8636, 223.3955, 1.0)",
+            "matter": "<b>name: </b>Orai<br><b>L_Pop: </b>267343<br><b>L_Per: </b>76.88921<br><b>total: </b>347699<br>"
+        },
+        "00852": {
+            "color": "rgba(185.3, 223.3182, 225.0439, 1.0)",
+            "matter": "<b>name: </b>Jalaun<br><b>L_Pop: </b>188671<br><b>L_Per: </b>77.19478<br><b>total: </b>244409<br>"
+        },
+        "00965": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Sagri<br><b>L_Pop: </b>530096<br><b>L_Per: </b>69.5207<br><b>total: </b>762501<br>"
+        },
+        "00970": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Mehnagar<br><b>L_Pop: </b>238379<br><b>L_Per: </b>70.30647<br><b>total: </b>339057<br>"
+        },
+        "00964": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Burhanpur<br><b>L_Pop: </b>276584<br><b>L_Per: </b>70.38728<br><b>total: </b>392946<br>"
+        },
+        "00969": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Lalganj<br><b>L_Pop: </b>347803<br><b>L_Per: </b>70.49565<br><b>total: </b>493368<br>"
+        },
+        "00968": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Phulpur <br><b>L_Pop: </b>415895<br><b>L_Per: </b>70.73754<br><b>total: </b>587941<br>"
+        },
+        "00966": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Azamgarh <br><b>L_Pop: </b>600278<br><b>L_Per: </b>72.07966<br><b>total: </b>832798<br>"
+        },
+        "00967": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Nizamabad<br><b>L_Pop: </b>362882<br><b>L_Per: </b>72.69023<br><b>total: </b>499217<br>"
+        },
+        "00971": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Ghosi<br><b>L_Pop: </b>284942<br><b>L_Per: </b>72.19186<br><b>total: </b>394701<br>"
+        },
+        "00972": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Madhuban<br><b>L_Pop: </b>204865<br><b>L_Per: </b>72.31584<br><b>total: </b>283292<br>"
+        },
+        "00974": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Muhammadabad Gohna<br><b>L_Pop: </b>304220<br><b>L_Per: </b>72.81126<br><b>total: </b>417820<br>"
+        },
+        "00973": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Maunath Bhanjan<br><b>L_Pop: </b>569017<br><b>L_Per: </b>73.99701<br><b>total: </b>768973<br>"
+        },
+        "00879": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Khaga <br><b>L_Pop: </b>418131<br><b>L_Per: </b>63.03638<br><b>total: </b>663317<br>"
+        },
+        "00878": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Fatehpur<br><b>L_Pop: </b>631425<br><b>L_Per: </b>67.54314<br><b>total: </b>934847<br>"
+        },
+        "00877": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Bindki<br><b>L_Pop: </b>462610<br><b>L_Per: </b>71.78035<br><b>total: </b>644480<br>"
+        },
+        "00979": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Bansdih<br><b>L_Pop: </b>300437<br><b>L_Per: </b>65.75222<br><b>total: </b>456923<br>"
+        },
+        "00980": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Bairia<br><b>L_Pop: </b>220972<br><b>L_Per: </b>67.72548<br><b>total: </b>326276<br>"
+        },
+        "00976": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Sikanderpur<br><b>L_Pop: </b>240049<br><b>L_Per: </b>71.12226<br><b>total: </b>337516<br>"
+        },
+        "00977": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Rasra<br><b>L_Pop: </b>332985<br><b>L_Per: </b>71.15627<br><b>total: </b>467963<br>"
+        },
+        "00975": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Belthara Road<br><b>L_Pop: </b>246912<br><b>L_Per: </b>73.35429<br><b>total: </b>336602<br>"
+        },
+        "00978": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Ballia<br><b>L_Pop: </b>622235<br><b>L_Per: </b>73.84334<br><b>total: </b>842642<br>"
+        },
+        "00981": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Shahganj<br><b>L_Pop: </b>449501<br><b>L_Per: </b>69.79136<br><b>total: </b>644064<br>"
+        },
+        "00985": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Mariahu <br><b>L_Pop: </b>478920<br><b>L_Per: </b>70.21752<br><b>total: </b>682052<br>"
+        },
+        "00983": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Machhlishahr<br><b>L_Pop: </b>442647<br><b>L_Per: </b>70.80596<br><b>total: </b>625155<br>"
+        },
+        "00986": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Kerakat<br><b>L_Pop: </b>405490<br><b>L_Per: </b>72.09711<br><b>total: </b>562422<br>"
+        },
+        "00982": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Badlapur<br><b>L_Pop: </b>280866<br><b>L_Per: </b>72.26522<br><b>total: </b>388660<br>"
+        },
+        "00984": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Jaunpur <br><b>L_Pop: </b>674253<br><b>L_Per: </b>73.63775<br><b>total: </b>915635<br>"
+        },
+        "00859": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Mauranipur<br><b>L_Pop: </b>233424<br><b>L_Per: </b>69.13297<br><b>total: </b>337645<br>"
+        },
+        "00858": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Tahrauli<br><b>L_Pop: </b>108966<br><b>L_Per: </b>70.7884<br><b>total: </b>153932<br>"
+        },
+        "00857": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Garautha<br><b>L_Pop: </b>149334<br><b>L_Per: </b>73.37559<br><b>total: </b>203520<br>"
+        },
+        "00856": {
+            "color": "rgba(195.5, 227.9545, 220.0985, 1.0)",
+            "matter": "<b>name: </b>Moth<br><b>L_Pop: </b>202810<br><b>L_Per: </b>75.78877<br><b>total: </b>267599<br>"
+        },
+        "00860": {
+            "color": "rgba(178.5, 220.2273, 228.3409, 1.0)",
+            "matter": "<b>name: </b>Jhansi<br><b>L_Pop: </b>609979<br><b>L_Per: </b>78.65277<br><b>total: </b>775534<br>"
+        },
+        "00872": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Baberu<br><b>L_Pop: </b>247757<br><b>L_Per: </b>62.88201<br><b>total: </b>394003<br>"
+        },
+        "00874": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Naraini<br><b>L_Pop: </b>156678<br><b>L_Per: </b>63.4514<br><b>total: </b>246926<br>"
+        },
+        "00873": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Atarra <br><b>L_Pop: </b>195963<br><b>L_Per: </b>65.03571<br><b>total: </b>301316<br>"
+        },
+        "00871": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Banda<br><b>L_Pop: </b>402539<br><b>L_Per: </b>71.60157<br><b>total: </b>562193<br>"
+        },
+        "00990": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Mohammadabad <br><b>L_Pop: </b>540859<br><b>L_Per: </b>70.0975<br><b>total: </b>771581<br>"
+        },
+        "00987": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Jakhania<br><b>L_Pop: </b>325076<br><b>L_Per: </b>70.30738<br><b>total: </b>462364<br>"
+        },
+        "00988": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Saidpur<br><b>L_Pop: </b>361793<br><b>L_Per: </b>71.15061<br><b>total: </b>508489<br>"
+        },
+        "00991": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Zamania<br><b>L_Pop: </b>440459<br><b>L_Per: </b>73.2331<br><b>total: </b>601448<br>"
+        },
+        "00989": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Ghazipur<br><b>L_Pop: </b>529362<br><b>L_Per: </b>73.74507<br><b>total: </b>717827<br>"
+        },
+        "00886": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Manjhanpur <br><b>L_Pop: </b>276718<br><b>L_Per: </b>59.72554<br><b>total: </b>463316<br>"
+        },
+        "00885": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Sirathu<br><b>L_Pop: </b>265525<br><b>L_Per: </b>61.69605<br><b>total: </b>430376<br>"
+        },
+        "00887": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Chail<br><b>L_Pop: </b>271181<br><b>L_Per: </b>62.522710000000004<br><b>total: </b>433732<br>"
+        },
+        "00895": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Koraon<br><b>L_Pop: </b>201763<br><b>L_Per: </b>64.92859<br><b>total: </b>310746<br>"
+        },
+        "00891": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Bara  <br><b>L_Pop: </b>205538<br><b>L_Per: </b>67.57873<br><b>total: </b>304146<br>"
+        },
+        "00888": {
+            "color": "rgba(239.7, 248.0455, 198.6682, 1.0)",
+            "matter": "<b>name: </b>Soraon<br><b>L_Pop: </b>481409<br><b>L_Per: </b>68.60483<br><b>total: </b>701713<br>"
+        },
+        "00892": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Karchhana <br><b>L_Pop: </b>351495<br><b>L_Per: </b>69.00773<br><b>total: </b>509356<br>"
+        },
+        "00893": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Handia<br><b>L_Pop: </b>549924<br><b>L_Per: </b>69.50207<br><b>total: </b>791234<br>"
+        },
+        "00889": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Phulpur <br><b>L_Pop: </b>514974<br><b>L_Per: </b>70.75208<br><b>total: </b>727857<br>"
+        },
+        "00894": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Meja<br><b>L_Pop: </b>343415<br><b>L_Per: </b>70.85016<br><b>total: </b>484706<br>"
+        },
+        "00890": {
+            "color": "rgba(146.3803, 198.6424, 222.2621, 1.0)",
+            "matter": "<b>name: </b>Allahabad<br><b>L_Pop: </b>1017209<br><b>L_Per: </b>82.08078<br><b>total: </b>1239278<br>"
+        },
+        "00995": {
+            "color": "rgba(205.7, 232.5909, 215.153, 1.0)",
+            "matter": "<b>name: </b>Pindra<br><b>L_Pop: </b>396157<br><b>L_Per: </b>73.83591<br><b>total: </b>536537<br>"
+        },
+        "00996": {
+            "color": "rgba(192.1, 226.4091, 221.747, 1.0)",
+            "matter": "<b>name: </b>Varanasi<br><b>L_Pop: </b>2007746<br><b>L_Per: </b>75.96026<br><b>total: </b>2643153<br>"
+        },
+        "00875": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Karwi<br><b>L_Pop: </b>380678<br><b>L_Per: </b>64.77244<br><b>total: </b>587716<br>"
+        },
+        "00876": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Mau<br><b>L_Pop: </b>150394<br><b>L_Per: </b>65.75952<br><b>total: </b>228703<br>"
+        },
+        "00994": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Chakia<br><b>L_Pop: </b>236939<br><b>L_Per: </b>66.48717<br><b>total: </b>356368<br>"
+        },
+        "00993": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Chandauli<br><b>L_Pop: </b>505356<br><b>L_Per: </b>71.71547<br><b>total: </b>704668<br>"
+        },
+        "00992": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Sakaldiha<br><b>L_Pop: </b>432311<br><b>L_Per: </b>74.26455<br><b>total: </b>582123<br>"
+        },
+        "00999": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Aurai<br><b>L_Pop: </b>249444<br><b>L_Per: </b>67.97525<br><b>total: </b>366963<br>"
+        },
+        "00998": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Gyanpur<br><b>L_Pop: </b>329775<br><b>L_Per: </b>69.28221<br><b>total: </b>475988<br>"
+        },
+        "00997": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Bhadohi<br><b>L_Pop: </b>330927<br><b>L_Per: </b>69.42345<br><b>total: </b>476679<br>"
+        },
+        "01001": {
+            "color": "rgba(253.9182, 220.3818, 151.2227, 1.0)",
+            "matter": "<b>name: </b>Lalganj<br><b>L_Pop: </b>179271<br><b>L_Per: </b>60.40087<br><b>total: </b>296802<br>"
+        },
+        "01002": {
+            "color": "rgba(254.1242, 226.9758, 158.847, 1.0)",
+            "matter": "<b>name: </b>Marihan<br><b>L_Pop: </b>121512<br><b>L_Per: </b>61.03248<br><b>total: </b>199094<br>"
+        },
+        "01003": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Chunar<br><b>L_Pop: </b>425057<br><b>L_Per: </b>70.83481<br><b>total: </b>600068<br>"
+        },
+        "01000": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Mirzapur<br><b>L_Pop: </b>702843<br><b>L_Per: </b>70.96664<br><b>total: </b>990385<br>"
+        },
+        "00861": {
+            "color": "rgba(253.6091, 210.4909, 139.7864, 1.0)",
+            "matter": "<b>name: </b>Talbehat<br><b>L_Pop: </b>149074<br><b>L_Per: </b>58.60472<br><b>total: </b>254372<br>"
+        },
+        "00863": {
+            "color": "rgba(254.3303, 233.5697, 166.4712, 1.0)",
+            "matter": "<b>name: </b>Mahroni<br><b>L_Pop: </b>210382<br><b>L_Per: </b>62.48018<br><b>total: </b>336718<br>"
+        },
+        "00862": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Lalitpur <br><b>L_Pop: </b>281735<br><b>L_Per: </b>67.35286<br><b>total: </b>418297<br>"
+        },
+        "01005": {
+            "color": "rgba(254.4333, 236.8667, 170.2833, 1.0)",
+            "matter": "<b>name: </b>Robertsganj<br><b>L_Pop: </b>467564<br><b>L_Per: </b>63.03882<br><b>total: </b>741708<br>"
+        },
+        "01004": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Ghorawal<br><b>L_Pop: </b>151976<br><b>L_Per: </b>63.47249<br><b>total: </b>239436<br>"
+        },
+        "01006": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Dudhi<br><b>L_Pop: </b>366168<br><b>L_Per: </b>65.58354<br><b>total: </b>558323<br>"
+        },
+        "00741": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Garhmukteshwar<br><b>L_Pop: </b>223264<br><b>L_Per: </b>68.91077<br><b>total: </b>323990<br>"
+        },
+        "00740": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Hapur<br><b>L_Pop: </b>590236<br><b>L_Per: </b>73.61249<br><b>total: </b>801815<br>"
+        },
+        "00738": {
+            "color": "rgba(181.9, 221.7727, 226.6924, 1.0)",
+            "matter": "<b>name: </b>Modinagar<br><b>L_Pop: </b>424272<br><b>L_Per: </b>77.81438<br><b>total: </b>545236<br>"
+        },
+        "00739": {
+            "color": "rgba(156.6833, 206.2667, 226.3833, 1.0)",
+            "matter": "<b>name: </b>Ghaziabad<br><b>L_Pop: </b>1885492<br><b>L_Per: </b>80.94419<br><b>total: </b>2329373<br>"
+        },
+        "00868": {
+            "color": "rgba(254.6394, 243.4606, 177.9076, 1.0)",
+            "matter": "<b>name: </b>Kulpahar<br><b>L_Pop: </b>184969<br><b>L_Per: </b>64.10382<br><b>total: </b>288546<br>"
+        },
+        "00870": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Mahoba <br><b>L_Pop: </b>215044<br><b>L_Per: </b>65.95653<br><b>total: </b>326039<br>"
+        },
+        "00869": {
+            "color": "rgba(253.3, 254.2273, 192.0742, 1.0)",
+            "matter": "<b>name: </b>Charkhari<br><b>L_Pop: </b>88093<br><b>L_Per: </b>66.11405<br><b>total: </b>133244<br>"
+        },
+        "00701": {
+            "color": "rgba(254.7424, 246.7576, 181.7197, 1.0)",
+            "matter": "<b>name: </b>Behat<br><b>L_Pop: </b>278708<br><b>L_Per: </b>64.55474<br><b>total: </b>431739<br>"
+        },
+        "00703": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Nakur<br><b>L_Pop: </b>403263<br><b>L_Per: </b>68.02028<br><b>total: </b>592857<br>"
+        },
+        "00704": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Deoband<br><b>L_Pop: </b>309934<br><b>L_Per: </b>70.51711<br><b>total: </b>439516<br>"
+        },
+        "00702": {
+            "color": "rgba(212.5, 235.6818, 211.8561, 1.0)",
+            "matter": "<b>name: </b>Saharanpur<br><b>L_Pop: </b>855176<br><b>L_Per: </b>73.13247<br><b>total: </b>1169352<br>"
+        },
+        "00705": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Rampur Maniharan<br><b>L_Pop: </b>230027<br><b>L_Per: </b>73.41436<br><b>total: </b>313327<br>"
+        },
+        "00714": {
+            "color": "rgba(254.5364, 240.1636, 174.0955, 1.0)",
+            "matter": "<b>name: </b>Nagina<br><b>L_Pop: </b>266417<br><b>L_Per: </b>63.47418<br><b>total: </b>419725<br>"
+        },
+        "00712": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Najibabad<br><b>L_Pop: </b>398482<br><b>L_Per: </b>65.77901<br><b>total: </b>605789<br>"
+        },
+        "00716": {
+            "color": "rgba(232.9, 244.9545, 201.9652, 1.0)",
+            "matter": "<b>name: </b>Chandpur<br><b>L_Pop: </b>417173<br><b>L_Per: </b>69.50659<br><b>total: </b>600192<br>"
+        },
+        "00715": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Dhampur<br><b>L_Pop: </b>676035<br><b>L_Per: </b>70.53478<br><b>total: </b>958442<br>"
+        },
+        "00713": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Bijnor<br><b>L_Pop: </b>377286<br><b>L_Per: </b>70.60851<br><b>total: </b>534335<br>"
+        },
+        "00706": {
+            "color": "rgba(253.8152, 217.0848, 147.4106, 1.0)",
+            "matter": "<b>name: </b>Kairana<br><b>L_Pop: </b>289623<br><b>L_Per: </b>59.75933<br><b>total: </b>484649<br>"
+        },
+        "00709": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Budhana<br><b>L_Pop: </b>298300<br><b>L_Per: </b>67.13826<br><b>total: </b>444307<br>"
+        },
+        "00711": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Jansath<br><b>L_Pop: </b>282998<br><b>L_Per: </b>67.94393<br><b>total: </b>416517<br>"
+        },
+        "00707": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Shamli<br><b>L_Pop: </b>418427<br><b>L_Per: </b>71.41355<br><b>total: </b>585921<br>"
+        },
+        "00708": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Muzaffarnagar<br><b>L_Pop: </b>856268<br><b>L_Per: </b>71.58204<br><b>total: </b>1196205<br>"
+        },
+        "00710": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Khatauli<br><b>L_Pop: </b>271723<br><b>L_Per: </b>73.46823<br><b>total: </b>369851<br>"
+        },
+        "00736": {
+            "color": "rgba(222.7, 240.3182, 206.9106, 1.0)",
+            "matter": "<b>name: </b>Baghpat<br><b>L_Pop: </b>244387<br><b>L_Per: </b>71.38117<br><b>total: </b>342369<br>"
+        },
+        "00735": {
+            "color": "rgba(219.3, 238.7727, 208.5591, 1.0)",
+            "matter": "<b>name: </b>Baraut<br><b>L_Pop: </b>437954<br><b>L_Per: </b>71.94671<br><b>total: </b>608720<br>"
+        },
+        "00737": {
+            "color": "rgba(209.1, 234.1364, 213.5045, 1.0)",
+            "matter": "<b>name: </b>Khekada<br><b>L_Pop: </b>115629<br><b>L_Per: </b>73.65843<br><b>total: </b>156980<br>"
+        },
+        "00732": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Sardhana<br><b>L_Pop: </b>329483<br><b>L_Per: </b>68.73666<br><b>total: </b>479341<br>"
+        },
+        "00733": {
+            "color": "rgba(226.1, 241.8636, 205.2621, 1.0)",
+            "matter": "<b>name: </b>Mawana<br><b>L_Pop: </b>459070<br><b>L_Per: </b>70.40411<br><b>total: </b>652050<br>"
+        },
+        "00734": {
+            "color": "rgba(202.3, 231.0455, 216.8015, 1.0)",
+            "matter": "<b>name: </b>Meerut<br><b>L_Pop: </b>1352935<br><b>L_Per: </b>74.80652<br><b>total: </b>1808579<br>"
+        },
+        "00720": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Bilari<br><b>L_Pop: </b>270509<br><b>L_Per: </b>48.87686<br><b>total: </b>553450<br>"
+        },
+        "00721": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Sambhal<br><b>L_Pop: </b>402537<br><b>L_Per: </b>49.26676<br><b>total: </b>817056<br>"
+        },
+        "00722": {
+            "color": "rgba(252.4758, 174.2242, 97.853, 1.0)",
+            "matter": "<b>name: </b>Chandausi<br><b>L_Pop: </b>281602<br><b>L_Per: </b>52.19192<br><b>total: </b>539551<br>"
+        },
+        "00719": {
+            "color": "rgba(254.2273, 230.2727, 162.6591, 1.0)",
+            "matter": "<b>name: </b>Moradabad<br><b>L_Pop: </b>865244<br><b>L_Per: </b>61.92704<br><b>total: </b>1397199<br>"
+        },
+        "00717": {
+            "color": "rgba(254.8455, 250.0545, 185.5318, 1.0)",
+            "matter": "<b>name: </b>Thakurdwara<br><b>L_Pop: </b>276744<br><b>L_Per: </b>64.97543<br><b>total: </b>425921<br>"
+        },
+        "00718": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Kanth<br><b>L_Pop: </b>167212<br><b>L_Per: </b>65.67378<br><b>total: </b>254610<br>"
+        },
+        "00727": {
+            "color": "rgba(242.0182, 133.0636, 78.1227, 1.0)",
+            "matter": "<b>name: </b>Shahabad <br><b>L_Pop: </b>141254<br><b>L_Per: </b>48.46312<br><b>total: </b>291467<br>"
+        },
+        "00723": {
+            "color": "rgba(249.7455, 162.9424, 92.0318, 1.0)",
+            "matter": "<b>name: </b>Suar<br><b>L_Pop: </b>146652<br><b>L_Per: </b>51.18243<br><b>total: </b>286528<br>"
+        },
+        "00726": {
+            "color": "rgba(252.6818, 180.8182, 105.4773, 1.0)",
+            "matter": "<b>name: </b>Rampur<br><b>L_Pop: </b>303965<br><b>L_Per: </b>53.3431<br><b>total: </b>569830<br>"
+        },
+        "00724": {
+            "color": "rgba(252.8879, 187.4121, 113.1015, 1.0)",
+            "matter": "<b>name: </b>Tanda<br><b>L_Pop: </b>154344<br><b>L_Per: </b>54.71387<br><b>total: </b>282093<br>"
+        },
+        "00725": {
+            "color": "rgba(252.9909, 190.7091, 116.9136, 1.0)",
+            "matter": "<b>name: </b>Bilaspur<br><b>L_Pop: </b>134962<br><b>L_Per: </b>55.07237<br><b>total: </b>245063<br>"
+        },
+        "00728": {
+            "color": "rgba(253.5061, 207.1939, 135.9742, 1.0)",
+            "matter": "<b>name: </b>Milak <br><b>L_Pop: </b>162489<br><b>L_Per: </b>57.69981<br><b>total: </b>281611<br>"
+        },
+        "00926": {
+            "color": "rgba(235.8364, 109.1606, 66.9955, 1.0)",
+            "matter": "<b>name: </b>Tulsipur<br><b>L_Pop: </b>291963<br><b>L_Per: </b>46.38368<br><b>total: </b>629452<br>"
+        },
+        "00925": {
+            "color": "rgba(243.5636, 139.0394, 80.9045, 1.0)",
+            "matter": "<b>name: </b>Balrampur<br><b>L_Pop: </b>268106<br><b>L_Per: </b>49.07445<br><b>total: </b>546325<br>"
+        },
+        "00927": {
+            "color": "rgba(252.6818, 180.8182, 105.4773, 1.0)",
+            "matter": "<b>name: </b>Utraula<br><b>L_Pop: </b>308288<br><b>L_Per: </b>53.3206<br><b>total: </b>578178<br>"
+        },
+        "00866": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Sarila<br><b>L_Pop: </b>96590<br><b>L_Per: </b>65.7634<br><b>total: </b>146875<br>"
+        },
+        "00865": {
+            "color": "rgba(243.1, 249.5909, 197.0197, 1.0)",
+            "matter": "<b>name: </b>Rath<br><b>L_Pop: </b>129900<br><b>L_Per: </b>68.07819<br><b>total: </b>190810<br>"
+        },
+        "00867": {
+            "color": "rgba(236.3, 246.5, 200.3167, 1.0)",
+            "matter": "<b>name: </b>Maudaha<br><b>L_Pop: </b>207752<br><b>L_Per: </b>69.05799<br><b>total: </b>300837<br>"
+        },
+        "00864": {
+            "color": "rgba(229.5, 243.4091, 203.6136, 1.0)",
+            "matter": "<b>name: </b>Hamirpur<br><b>L_Pop: </b>219057<br><b>L_Per: </b>70.34405<br><b>total: </b>311408<br>"
+        },
+        "00881": {
+            "color": "rgba(254.9485, 253.3515, 189.3439, 1.0)",
+            "matter": "<b>name: </b>Kunda<br><b>L_Pop: </b>511701<br><b>L_Per: </b>65.71728<br><b>total: </b>778640<br>"
+        },
+        "00880": {
+            "color": "rgba(246.5, 251.1364, 195.3712, 1.0)",
+            "matter": "<b>name: </b>Lalganj <br><b>L_Pop: </b>354911<br><b>L_Per: </b>67.52814<br><b>total: </b>525575<br>"
+        },
+        "00883": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Patti<br><b>L_Pop: </b>377453<br><b>L_Per: </b>72.13971<br><b>total: </b>523225<br>"
+        },
+        "00884": {
+            "color": "rgba(215.9, 237.2273, 210.2076, 1.0)",
+            "matter": "<b>name: </b>Raniganj<br><b>L_Pop: </b>268618<br><b>L_Per: </b>72.2577<br><b>total: </b>371750<br>"
+        },
+        "00882": {
+            "color": "rgba(198.9, 229.5, 218.45, 1.0)",
+            "matter": "<b>name: </b>Pratapgarh<br><b>L_Pop: </b>418876<br><b>L_Per: </b>75.25566<br><b>total: </b>556604<br>"
+        }
+    },
+    "border":"0,0"
+}
