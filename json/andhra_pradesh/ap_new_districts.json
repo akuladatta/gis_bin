@@ -1,111 +1,111 @@
 {
     "title": "AP NEW DISTRICTS",
     "trigger": "CODE",
-    "desc": "<center><h4>Andhra Pradesh will complete the formation of new districts by March 15 and their administration would start from April 2, Ugadi, the Telugu New Year. The number of districts in the state would double from 13 to 26.Chief Minister Jaganmohan Reddy has called for objections and suggestions from the public vis-à-vis the new districts through officials till March 3. The final notification for new districts will be issued in the third week of March.</h4><center>",
-    "data": {        
-            "1": {
-                "color": "rgba(102.0,102.0,255.0,1)",
-                "matter": "<b>CODE: </b>1<br><b>NAME: </b>Srikakulam<br><b>CAPITAL: </b>Srikakulam<br><b>PARLIAMENT: </b>Srikakulam<br><b>REVENUE DIVISIONS: </b>Srikakulam(16),Tekkali(14)<br><b>POPULATION: </b>21.91 LAKHS<br><b>AREA: </b>4591 sq kms<br>"
-            },
-            "2": {
-                "color": "rgba(0.0,192.01500000000001,255.0,1)",
-                "matter": "<b>CODE: </b>2<br><b>NAME: </b>Vizianagaram<br><b>CAPITAL: </b>Vizianagaram<br><b>PARLIAMENT: </b>Vizianagaram<br><b>REVENUE DIVISIONS: </b>Vizianagaram(15),Bobbili(11)(N)<br><b>POPULATION: </b>18.84 LAKHS<br><b>AREA: </b>3846 sq kms<br>"
-            },
-            "3": {
-                "color": "rgba(149.0,144.0,36.0,0.7)",
-                "matter": "<b>CODE: </b>3<br><b>NAME: </b>Manyam District<br><b>CAPITAL: </b>Parvathipuram<br><b>PARLIAMENT: </b>Araku (ST)<br><b>REVENUE DIVISIONS: </b>Parvathipuram(16),Palakonda(6)(N)<br><b>POPULATION: </b>9.72 LAKHS<br><b>AREA: </b>3935 sq kms<br>"
-            },
-            "4": {
-                "color": "rgba(0.0,128.0,0.0,0.5)",
-                "matter": "<b>CODE: </b>4<br><b>NAME: </b>AlluriSitharama Raju District<br><b>CAPITAL: </b>Paderu<br><b>PARLIAMENT: </b>Araku (ST)<br><b>REVENUE DIVISIONS: </b>Paderu(11)(N),Rampachodavaram(11)<br><b>POPULATION: </b>9.54 LAKHS<br><b>AREA: </b>12251 sq kms<br>"
-            },
-            "5": {
-                "color": "rgba(0,0,0,0.2)",
-                "matter": "<b>CODE: </b>5<br><b>NAME: </b>Visakhapatnam<br><b>CAPITAL: </b>Visakhapatnam<br><b>PARLIAMENT: </b>Visakhapatnam<br><b>REVENUE DIVISIONS: </b>Visakhapatnam(5),Bhimunipatnam(5)(N)<br><b>POPULATION: </b>18.13 LAKHS<br><b>AREA: </b>928 sq kms<br>"
-            },
-            "6": {
-                "color": "rgba(240.0,235.0,215.0,1)",
-                "matter": "<b>CODE: </b>6<br><b>NAME: </b>Anakapalli<br><b>CAPITAL: </b>Anakapalli<br><b>PARLIAMENT: </b>Anakapalli<br><b>REVENUE DIVISIONS: </b>Narsipatnam(10),Anakapalli(15)<br><b>POPULATION: </b>18.73 LAKHS<br><b>AREA: </b>4412 sq kms<br>"
-            },
-            "7": {
-                "color": "rgba(135.0,7.0,80.0,0.5)",
-                "matter": "<b>CODE: </b>7<br><b>NAME: </b>Kakinada<br><b>CAPITAL: </b>Kakinada<br><b>PARLIAMENT: </b>Kakinada<br><b>REVENUE DIVISIONS: </b>Kakinada(7),Peddapuram(12)<br><b>POPULATION: </b>19.37 LAKHS<br><b>AREA: </b>2605 sq kms<br>"
-            },
-            "8": {
-                "color": "rgba(250.0,181.0,5.0,1)",
-                "matter": "<b>CODE: </b>8<br><b>NAME: </b>KonaSeema<br><b>CAPITAL: </b>Amalapuram<br><b>PARLIAMENT: </b>Amalapuram (sc)<br><b>REVENUE DIVISIONS: </b>Ramachandrapuram,Amalapuram<br><b>POPULATION: </b>18.73 LAKHS<br><b>AREA: </b>2615 sq kms<br>"
-            },
-            "9": {
-                "color": "rgba(0.0,255.0,0.0,1)",
-                "matter": "<b>CODE: </b>9<br><b>NAME: </b>East Godavari<br><b>CAPITAL: </b>Rajamahendravaram<br><b>PARLIAMENT: </b>rajahmundry<br><b>REVENUE DIVISIONS: </b>Rajahmundry(10),Kovvur(10)<br><b>POPULATION: </b>19.03 LAKHS<br><b>AREA: </b>2709 sq kms<br>"
-            },
-            "10": {
-                "color": "rgba(226.0,211.0,43.0,1)",
-                "matter": "<b>CODE: </b>10<br><b>NAME: </b>West Godavari<br><b>CAPITAL: </b>Bheemavaram<br><b>PARLIAMENT: </b>narasapuram<br><b>REVENUE DIVISIONS: </b>Bheemavaram(11)(N),Narasapuram(8)<br><b>POPULATION: </b>17.8 LAKHS<br><b>AREA: </b>2178 sq kms<br>"
-            },
-            "11": {
-                "color": "rgba(149.0,144.0,36.0,0.7)",
-                "matter": "<b>CODE: </b>11<br><b>NAME: </b>Eluru<br><b>CAPITAL: </b>Eluru<br><b>PARLIAMENT: </b>Eluru<br><b>REVENUE DIVISIONS: </b>Eluru(12),Jangareddygudem(9),Nuzividu(6)<br><b>POPULATION: </b>20.03 LAKHS<br><b>AREA: </b>6413 sq kms<br>"
-            },
-            "12": {
-                "color": "rgba(0.0,192.01500000000001,255.0,1)",
-                "matter": "<b>CODE: </b>12<br><b>NAME: </b>Krishna<br><b>CAPITAL: </b>Machilipatnam<br><b>PARLIAMENT: </b>Machilipatnam<br><b>REVENUE DIVISIONS: </b>Gudiwada(13),Machilipatnam<br><b>POPULATION: </b>17.35 LAKHS<br><b>AREA: </b>3775 sq kms<br>"
-            },
-            "13": {
-                "color": "rgba(198.0,43.0,41.0,0.5)",
-                "matter": "<b>CODE: </b>13<br><b>NAME: </b>NTR District<br><b>CAPITAL: </b>Vijayawada<br><b>PARLIAMENT: </b>Vijayawada<br><b>REVENUE DIVISIONS: </b>Vijayawada(6),Nandigama(7)(N),Tiruvuru(6)(N)<br><b>POPULATION: </b>22.19 LAKHS<br><b>AREA: </b>3316 sq kms<br>"
-            },
-            "14": {
-                "color": "rgba(0,255,0,1)",
-                "matter": "<b>CODE: </b>14<br><b>NAME: </b>Guntur<br><b>CAPITAL: </b>Guntur<br><b>PARLIAMENT: </b>Guntur<br><b>REVENUE DIVISIONS: </b>Guntur(10),Tenali(8)<br><b>POPULATION: </b>20.91 LAKHS<br><b>AREA: </b>2443 sq kms<br>"
-            },
-            "15": {
-                "color": "rgba(255,0,0,0.7)",
-                "matter": "<b>CODE: </b>15<br><b>NAME: </b>Bapatla<br><b>CAPITAL: </b>Bapatla<br><b>PARLIAMENT: </b>Bapatla (SC)<br><b>REVENUE DIVISIONS: </b>Bapatla(12)(N),Chirala(13)(N)<br><b>POPULATION: </b>15.87 LAKHS<br><b>AREA: </b>3829 sq kms<br>"
-            },
-            "16": {
-                "color": "rgba(255,255,0,1)",
-                "matter": "<b>CODE: </b>16<br><b>NAME: </b>Palnadu<br><b>CAPITAL: </b>Narsaraopeta<br><b>PARLIAMENT: </b>Narsaraopeta<br><b>REVENUE DIVISIONS: </b>Narsaraopeta(14),Gurjala(14)<br><b>POPULATION: </b>20.42 LAKHS<br><b>AREA: </b>7298 sq kms<br>"
-            },
-            "17": {
-                "color": "rgba(0.0,192.01500000000001,255.0,1)",
-                "matter": "<b>CODE: </b>17<br><b>NAME: </b>Prakasam<br><b>CAPITAL: </b>Ongole<br><b>PARLIAMENT: </b>Ongole<br><b>REVENUE DIVISIONS: </b>Ongole(12),Markapuram(13)<br><b>POPULATION: </b>22.88 LAKHS<br><b>AREA: </b>14322 sq kms<br>"
-            },
-            "18": {
-                "color": "rgba(0,0,255,0.5)",
-                "matter": "<b>CODE: </b>18<br><b>NAME: </b>sri potti sriramulu Nellore<br><b>CAPITAL: </b>Nellore<br><b>PARLIAMENT: </b>Nellore<br><b>REVENUE DIVISIONS: </b>Nellore(12),Atmakuru(11),Kavali(12)<br><b>POPULATION: </b>23.37 LAKHS<br><b>AREA: </b>9141 sq kms<br>"
-            },
-            "19": {
-                "color": "rgba(255,255,0,1)",
-                "matter": "<b>CODE: </b>19<br><b>NAME: </b>Kurnool<br><b>CAPITAL: </b>Kurnool<br><b>PARLIAMENT: </b>Kurnool<br><b>REVENUE DIVISIONS: </b>Kurnool(11),Adoni(17)<br><b>POPULATION: </b>23.66 LAKHS<br><b>AREA: </b>8507 sq kms<br>"
-            },
-            "20": {
-                "color": "rgba(128.775,128.775,255,1)",
-                "matter": "<b>CODE: </b>20<br><b>NAME: </b>Nandyal<br><b>CAPITAL: </b>Nandyal<br><b>PARLIAMENT: </b>Nandyal<br><b>REVENUE DIVISIONS: </b>Nandyal(9),Done(8)(N),Atmakuru(10)(N)<br><b>POPULATION: </b>16.87 LAKHS<br><b>AREA: </b>9155 sq kms<br>"
-            },
-            "21": {
-                "color": "rgba(219.0,49.0,235.0,1)",
-                "matter": "<b>CODE: </b>21<br><b>NAME: </b>Ananthapuram<br><b>CAPITAL: </b>Ananthapuram<br><b>PARLIAMENT: </b>Ananthapuram<br><b>REVENUE DIVISIONS: </b>Ananthapuram(14),Kalyanadurgam(12),Guntakal(8)(N)<br><b>POPULATION: </b>23.59 LAKHS<br><b>AREA: </b>11359 sq kms<br>"
-            },
-            "22": {
-                "color": "rgba(127.0,235.0,49.0,1)",
-                "matter": "<b>CODE: </b>22<br><b>NAME: </b>Sri Satyasai District<br><b>CAPITAL: </b>Puttaparthy<br><b>PARLIAMENT: </b>HINDUPUR<br><b>REVENUE DIVISIONS: </b>Puttaparthy(8)(N),Penugonda(13),Kadiri(8)<br><b>POPULATION: </b>17.22 LAKHS<br><b>AREA: </b>7771 sq kms<br>"
-            },
-            "23": {
-                "color": "rgba(255,0,0,0.5)",
-                "matter": "<b>CODE: </b>23<br><b>NAME: </b>YSR Kadapa<br><b>CAPITAL: </b>Kadapa<br><b>PARLIAMENT: </b>Kadapa<br><b>REVENUE DIVISIONS: </b>Kadapa(10),Jammalamadugu(12),Badvel(12)(N)<br><b>POPULATION: </b>19.9 LAKHS<br><b>AREA: </b>10723 sq kms<br>"
-            },
-            "24": {
-                "color": "rgba(240.0,235.0,215.0,1)",
-                "matter": "<b>CODE: </b>24<br><b>NAME: </b>Annamayya District<br><b>CAPITAL: </b>Rayachoty<br><b>PARLIAMENT: </b>RAJAMPET<br><b>REVENUE DIVISIONS: </b>Rayachoty(10)(N),Madanapalle(11)<br><b>POPULATION: </b>17.68 LAKHS<br><b>AREA: </b>8459 sq kms<br>"
-            },
-            "25": {
-                "color": "rgba(52.0,201.0,114.0,1)",
-                "matter": "<b>CODE: </b>25<br><b>NAME: </b>Chittoor<br><b>CAPITAL: </b>Chittoor<br><b>PARLIAMENT: </b>Chittoor (SC)<br><b>REVENUE DIVISIONS: </b>Chittoor(18),Palamaner(15)(N)<br><b>POPULATION: </b>19.85 LAKHS<br><b>AREA: </b>7210 sq kms<br>"
-            },
-            "26": {
-                "color": "rgba(173.0,15.0,180.0,1)",
-                "matter": "<b>CODE: </b>26<br><b>NAME: </b>Sri Balaji Dist.<br><b>CAPITAL: </b>Tirupati<br><b>PARLIAMENT: </b>Tirupati (SC)<br><b>REVENUE DIVISIONS: </b>Tirupati(11),Naidupet(13),Gudur(11)<br><b>POPULATION: </b>22.18 LAKHS<br><b>AREA: </b>9176 sq kms<br>"
-            }
+    "desc": "<center><h4>On 26 January, 2022, the Chief Minister of Andhra Pradesh Y. S. Jagan Mohan Reddy and his cabinet has proposed 13 new districts and notified under AP Districts Formation Act, Section 3(5).After taken into consideration the objections and suggestions received from the public of those districts, the government has published the final notification on 3 April, 2022 i.e., With effect on and from 4 April, 2022 the new districts will be formed as specified in the schedule.</h4><center>",
+    "data": {
+        "SR": {
+            "color": "rgba(102.0,102.0,255.0,1)",
+            "matter": "<b>CODE: </b>SR<br><b>NAME: </b>Srikakulam<br><b>CAPITAL: </b>Srikakulam<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>30<br><b>POPULATION: </b>21,91,471<br><b>AREA: </b>4,591<br><b>DENSITY: </b>477.34<br>"
+        },
+        "PM": {
+            "color": "rgba(149.0,144.0,36.0,0.7)",
+            "matter": "<b>CODE: </b>PM<br><b>NAME: </b>Parvathipuram Manyam<br><b>CAPITAL: </b>Parvathipuram<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>15<br><b>POPULATION: </b>9,25,340<br><b>AREA: </b>3,659<br><b>DENSITY: </b>252.89<br>"
+        },
+        "VZ": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>CODE: </b>VZ<br><b>NAME: </b>Vizianagaram<br><b>CAPITAL: </b>Vizianagaram<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>27<br><b>POPULATION: </b>19,30,811<br><b>AREA: </b>4,122<br><b>DENSITY: </b>468.42<br>"
+        },
+        "VS": {
+            "color": "rgba(0,0,0,0.2)",
+            "matter": "<b>CODE: </b>VS<br><b>NAME: </b>Visakhapatnam<br><b>CAPITAL: </b>Visakhapatnam<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>11<br><b>POPULATION: </b>19,59,544<br><b>AREA: </b>1,048<br><b>DENSITY: </b>1869.79<br>"
+        },
+        "AS": {
+            "color": "rgba(0.0,128.0,0.0,0.5)",
+            "matter": "<b>CODE: </b>AS<br><b>NAME: </b>Alluri Sitharama Raju<br><b>CAPITAL: </b>Paderu<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>22<br><b>POPULATION: </b>9,53,960<br><b>AREA: </b>12,251<br><b>DENSITY: </b>77.87<br>"
+        },
+        "AK": {
+            "color": "rgba(240.0,235.0,215.0,1)",
+            "matter": "<b>CODE: </b>AK<br><b>NAME: </b>Anakapalli<br><b>CAPITAL: </b>Anakapalli<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>24<br><b>POPULATION: </b>17,26,998<br><b>AREA: </b>4,292<br><b>DENSITY: </b>402.38<br>"
+        },
+        "KK": {
+            "color": "rgba(135.0,7.0,80.0,0.5)",
+            "matter": "<b>CODE: </b>KK<br><b>NAME: </b>Kakinada<br><b>CAPITAL: </b>Kakinada<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>21<br><b>POPULATION: </b>20,92,374<br><b>AREA: </b>3,019<br><b>DENSITY: </b>693.07<br>"
+        },
+        "EG": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>CODE: </b>EG<br><b>NAME: </b>East Godavari<br><b>CAPITAL: </b>Rajahmundry<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>20<br><b>POPULATION: </b>18,32,332<br><b>AREA: </b>2,561<br><b>DENSITY: </b>715.48<br>"
+        },
+        "KN": {
+            "color": "rgba(0.0,255.0,0.0,1)",
+            "matter": "<b>CODE: </b>KN<br><b>NAME: </b>Dr. B.R. Ambedkar Konaseema<br><b>CAPITAL: </b>Amalapuram<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>22<br><b>POPULATION: </b>17,19,093<br><b>AREA: </b>2,083<br><b>DENSITY: </b>825.30<br>"
+        },
+        "EL": {
+            "color": "rgba(226.0,211.0,43.0,1)",
+            "matter": "<b>CODE: </b>EL<br><b>NAME: </b>Eluru<br><b>CAPITAL: </b>Eluru<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>28<br><b>POPULATION: </b>20,71,700<br><b>AREA: </b>6,679<br><b>DENSITY: </b>310.18<br>"
+        },
+        "WG": {
+            "color": "rgba(149.0,144.0,36.0,0.7)",
+            "matter": "<b>CODE: </b>WG<br><b>NAME: </b>West Godavari<br><b>CAPITAL: </b>Bhimavaram<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>19<br><b>POPULATION: </b>17,79,935<br><b>AREA: </b>2,178<br><b>DENSITY: </b>817.23<br>"
+        },
+        "NT": {
+            "color": "rgba(198.0,43.0,41.0,0.5)",
+            "matter": "<b>CODE: </b>NT<br><b>NAME: </b>NTR<br><b>CAPITAL: </b>Vijayawada<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>20<br><b>POPULATION: </b>22,18,591<br><b>AREA: </b>3,316<br><b>DENSITY: </b>669.06<br>"
+        },
+        "KR": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>CODE: </b>KR<br><b>NAME: </b>Krishna<br><b>CAPITAL: </b>Machilipatnam<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>25<br><b>POPULATION: </b>17,35,079<br><b>AREA: </b>3,775<br><b>DENSITY: </b>459.62<br>"
+        },
+        "PL": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>CODE: </b>PL<br><b>NAME: </b>Palnadu<br><b>CAPITAL: </b>Narasaraopet<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>28<br><b>POPULATION: </b>20,41,723<br><b>AREA: </b>7,298<br><b>DENSITY: </b>279.76<br>"
+        },
+        "GU": {
+            "color": "rgba(255,0,0,0.7)",
+            "matter": "<b>CODE: </b>GU<br><b>NAME: </b>Guntur<br><b>CAPITAL: </b>Guntur<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>18<br><b>POPULATION: </b>20,91,075<br><b>AREA: </b>2,443<br><b>DENSITY: </b>855.95<br>"
+        },
+        "BP": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>CODE: </b>BP<br><b>NAME: </b>Bapatla<br><b>CAPITAL: </b>Bapatla<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>25<br><b>POPULATION: </b>15,86,918<br><b>AREA: </b>3,829<br><b>DENSITY: </b>414.45<br>"
+        },
+        "PR": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>CODE: </b>PR<br><b>NAME: </b>Prakasam<br><b>CAPITAL: </b>Ongole<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>38<br><b>POPULATION: </b>22,88,026<br><b>AREA: </b>14,322<br><b>DENSITY: </b>159.76<br>"
+        },
+        "NE": {
+            "color": "rgba(0,0,255,0.5)",
+            "matter": "<b>CODE: </b>NE<br><b>NAME: </b>Sri Potti Sriramulu Nellore<br><b>CAPITAL: </b>Nellore<br><b>REVENUE DIVISIONS: </b>4<br><b>MANDALS: </b>38<br><b>POPULATION: </b>24,69,712<br><b>AREA: </b>10,441<br><b>DENSITY: </b>236.54<br>"
+        },
+        "KU": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>CODE: </b>KU<br><b>NAME: </b>Kurnool<br><b>CAPITAL: </b>Kurnool<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>26<br><b>POPULATION: </b>22,71,686<br><b>AREA: </b>7,980<br><b>DENSITY: </b>284.67<br>"
+        },
+        "NN": {
+            "color": "rgba(128.775,128.775,255,1)",
+            "matter": "<b>CODE: </b>NN<br><b>NAME: </b>Nandyal<br><b>CAPITAL: </b>Nandyal<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>29<br><b>POPULATION: </b>17,81,777<br><b>AREA: </b>9,682<br><b>DENSITY: </b>184.03<br>"
+        },
+        "AN": {
+            "color": "rgba(219.0,49.0,235.0,1)",
+            "matter": "<b>CODE: </b>AN<br><b>NAME: </b>Anantapur<br><b>CAPITAL: </b>Anantapur<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>31<br><b>POPULATION: </b>22,41,105<br><b>AREA: </b>10,205<br><b>DENSITY: </b>219.61<br>"
+        },
+        "SS": {
+            "color": "rgba(127.0,235.0,49.0,1)",
+            "matter": "<b>CODE: </b>SS<br><b>NAME: </b>Sri Sathya Sai<br><b>CAPITAL: </b>Puttaparthi<br><b>REVENUE DIVISIONS: </b>4<br><b>MANDALS: </b>32<br><b>POPULATION: </b>18,40,043<br><b>AREA: </b>8,925<br><b>DENSITY: </b>206.17<br>"
+        },
+        "CU": {
+            "color": "rgba(255,0,0,0.5)",
+            "matter": "<b>CODE: </b>CU<br><b>NAME: </b>YSR<br><b>CAPITAL: </b>Kadapa<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>36<br><b>POPULATION: </b>20,60,654<br><b>AREA: </b>11,228<br><b>DENSITY: </b>183.53<br>"
+        },
+        "AM": {
+            "color": "rgba(240.0,235.0,215.0,1)",
+            "matter": "<b>CODE: </b>AM<br><b>NAME: </b>Annamayya<br><b>CAPITAL: </b>Rayachoti<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>30<br><b>POPULATION: </b>16,97,308<br><b>AREA: </b>7,954<br><b>DENSITY: </b>213.39<br>"
+        },
+        "TR": {
+            "color": "rgba(173.0,15.0,180.0,1)",
+            "matter": "<b>CODE: </b>TR<br><b>NAME: </b>Tirupati<br><b>CAPITAL: </b>Tirupati<br><b>REVENUE DIVISIONS: </b>4<br><b>MANDALS: </b>34<br><b>POPULATION: </b>21,96,984<br><b>AREA: </b>8,231<br><b>DENSITY: </b>266.92<br>"
+        },
+        "CH": {
+            "color": "rgba(52.0,201.0,114.0,1)",
+            "matter": "<b>CODE: </b>CH<br><b>NAME: </b>Chittoor<br><b>CAPITAL: </b>Chittoor<br><b>REVENUE DIVISIONS: </b>4<br><b>MANDALS: </b>31<br><b>POPULATION: </b>18,72,951<br><b>AREA: </b>6,855<br><b>DENSITY: </b>273.22<br>"
         }
     }
+}
