@@ -32,11 +32,11 @@
             "matter": "<b>CODE: </b>KK<br><b>NAME: </b>Kakinada<br><b>CAPITAL: </b>Kakinada<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>21<br><b>POPULATION: </b>20,92,374<br><b>AREA: </b>3,019<br><b>DENSITY: </b>693.07<br>"
         },
         "EG": {
-            "color": "rgba(250.0,181.0,5.0,1)",
+            "color": "rgba(0.0,255.0,0.0,1)",
             "matter": "<b>CODE: </b>EG<br><b>NAME: </b>East Godavari<br><b>CAPITAL: </b>Rajahmundry<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>20<br><b>POPULATION: </b>18,32,332<br><b>AREA: </b>2,561<br><b>DENSITY: </b>715.48<br>"
         },
         "KN": {
-            "color": "rgba(0.0,255.0,0.0,1)",
+            "color": "rgba(250.0,181.0,5.0,1)",
             "matter": "<b>CODE: </b>KN<br><b>NAME: </b>Dr. B.R. Ambedkar Konaseema<br><b>CAPITAL: </b>Amalapuram<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>22<br><b>POPULATION: </b>17,19,093<br><b>AREA: </b>2,083<br><b>DENSITY: </b>825.30<br>"
         },
         "EL": {
