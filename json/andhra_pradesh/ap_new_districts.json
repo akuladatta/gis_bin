@@ -56,15 +56,15 @@
             "matter": "<b>CODE: </b>KR<br><b>NAME: </b>Krishna<br><b>CAPITAL: </b>Machilipatnam<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>25<br><b>POPULATION: </b>17,35,079<br><b>AREA: </b>3,775<br><b>DENSITY: </b>459.62<br>"
         },
         "PL": {
-            "color": "rgba(0,255,0,1)",
+            "color": "rgba(255,255,0,1)",
             "matter": "<b>CODE: </b>PL<br><b>NAME: </b>Palnadu<br><b>CAPITAL: </b>Narasaraopet<br><b>REVENUE DIVISIONS: </b>3<br><b>MANDALS: </b>28<br><b>POPULATION: </b>20,41,723<br><b>AREA: </b>7,298<br><b>DENSITY: </b>279.76<br>"
         },
         "GU": {
-            "color": "rgba(255,0,0,0.7)",
+            "color": "rgba(0,255,0,1)",
             "matter": "<b>CODE: </b>GU<br><b>NAME: </b>Guntur<br><b>CAPITAL: </b>Guntur<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>18<br><b>POPULATION: </b>20,91,075<br><b>AREA: </b>2,443<br><b>DENSITY: </b>855.95<br>"
         },
         "BP": {
-            "color": "rgba(255,255,0,1)",
+            "color": "rgba(255,0,0,0.7)",
             "matter": "<b>CODE: </b>BP<br><b>NAME: </b>Bapatla<br><b>CAPITAL: </b>Bapatla<br><b>REVENUE DIVISIONS: </b>2<br><b>MANDALS: </b>25<br><b>POPULATION: </b>15,86,918<br><b>AREA: </b>3,829<br><b>DENSITY: </b>414.45<br>"
         },
         "PR": {

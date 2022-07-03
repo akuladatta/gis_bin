@@ -1,0 +1,483 @@
+{
+    "title": "2019 TELANAGANA PARLIAMENT ELECTIONS ASSEMBLY WISE",
+    "trigger": "AC_NO",
+    "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>TRS</td><td>71</td><td style=\"background-color: rgba(248.0,71.0,151.0,1);\">  </td></tr><tr><td>2</td><td>INC</td><td>21</td><td style=\"background-color: rgba(0.0,192.01500000000001,255.0,1);\">  </td></tr><tr><td>3</td><td>BJP</td><td>21</td><td style=\"background-color: rgba(250.0,181.0,5.0,1);\">  </td></tr><tr><td>4</td><td>AIMIM</td><td>6</td><td style=\"background-color: rgba(0,255,0,1);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">There are 17 Lok Sabha constituencies in Telangana. In the 2014 general elections, BJP had won 4 seats, INC 3, TRS 9, and AIMIM 1. BJP had registered a historic mandate in the last elections, winning 282 seats - an absolute majority in the Lok Sabha. The Congress was reduced to its worst-ever tally, winning only 44 constituencies. Riding on Modi wave and a strong anti-incumbency against the Manmohan Singh-led United Progressive Alliance (UPA) government, the saffron party came back to power after 2004, when the party had faced a crushing defeat.</td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Sirpur (Adilabad )<br><b>AC NO:  </b>1<hr><b>WINNER:  </b>Godam Nagesh<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RATHOD RAMESH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>13385.0<br>"
+        },
+        "2": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Chennur (SC) (Peddapalle )<br><b>AC NO:  </b>2<hr><b>WINNER:  </b>Venkatesh Netha Borlakunta<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Agam Chandrasekhar<br><b>LOST BY:  </b>INC<br><b>margin:  </b>31723.0<br>"
+        },
+        "3": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Bellampalle (SC) (Peddapalle )<br><b>AC NO:  </b>3<hr><b>WINNER:  </b>Venkatesh Netha Borlakunta<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Agam Chandrasekhar<br><b>LOST BY:  </b>INC<br><b>margin:  </b>20118.0<br>"
+        },
+        "4": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mancherial (Peddapalle )<br><b>AC NO:  </b>4<hr><b>WINNER:  </b>Venkatesh Netha Borlakunta<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Agam Chandrasekhar<br><b>LOST BY:  </b>INC<br><b>margin:  </b>15158.0<br>"
+        },
+        "5": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Asifabad (ST) (Adilabad )<br><b>AC NO:  </b>5<hr><b>WINNER:  </b>Godam Nagesh<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>SOYAM BAPU RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>2527.0<br>"
+        },
+        "6": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Khanapur (ST) (Adilabad )<br><b>AC NO:  </b>6<hr><b>WINNER:  </b>RATHOD RAMESH<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>SOYAM BAPU RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>13428.0<br>"
+        },
+        "7": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Adilabad (Adilabad )<br><b>AC NO:  </b>7<hr><b>WINNER:  </b>SOYAM BAPU RAO<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Godam Nagesh<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>15575.0<br>"
+        },
+        "8": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Boath (ST) (Adilabad )<br><b>AC NO:  </b>8<hr><b>WINNER:  </b>SOYAM BAPU RAO<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Godam Nagesh<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>18244.0<br>"
+        },
+        "9": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Nirmal (Adilabad )<br><b>AC NO:  </b>9<hr><b>WINNER:  </b>SOYAM BAPU RAO<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>RATHOD RAMESH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>14555.0<br>"
+        },
+        "10": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mudhole (Adilabad )<br><b>AC NO:  </b>10<hr><b>WINNER:  </b>SOYAM BAPU RAO<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>Godam Nagesh<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>31004.0<br>"
+        },
+        "11": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Armur (Nizamabad)<br><b>AC NO:  </b>11<hr><b>WINNER:  </b>ARVIND DHARMAPURI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KALVAKUNTLA KAVITHA<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>31588.0<br>"
+        },
+        "12": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Bodhan (Nizamabad)<br><b>AC NO:  </b>12<hr><b>WINNER:  </b>KALVAKUNTLA KAVITHA<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ARVIND DHARMAPURI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>6634.0<br>"
+        },
+        "13": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Jukkal (SC) (Zahirabad)<br><b>AC NO:  </b>13<hr><b>WINNER:  </b>B.B.PATIL<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>MADAN MOHAN RAO<br><b>LOST BY:  </b>INC<br><b>margin:  </b>15780.0<br>"
+        },
+        "14": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Banswada (Zahirabad)<br><b>AC NO:  </b>14<hr><b>WINNER:  </b>B.B.PATIL<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>MADAN MOHAN RAO<br><b>LOST BY:  </b>INC<br><b>margin:  </b>20060.0<br>"
+        },
+        "15": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Yellareddy (Zahirabad)<br><b>AC NO:  </b>15<hr><b>WINNER:  </b>MADAN MOHAN RAO<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>B.B.PATIL<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>8837.0<br>"
+        },
+        "16": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kamareddy (Zahirabad)<br><b>AC NO:  </b>16<hr><b>WINNER:  </b>MADAN MOHAN RAO<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>B.B.PATIL<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>16421.0<br>"
+        },
+        "17": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Nizamabad (Urban) (Nizamabad)<br><b>AC NO:  </b>17<hr><b>WINNER:  </b>KALVAKUNTLA KAVITHA<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ARVIND DHARMAPURI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>7149.0<br>"
+        },
+        "18": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Nizamabad (Rural) (Nizamabad)<br><b>AC NO:  </b>18<hr><b>WINNER:  </b>ARVIND DHARMAPURI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KALVAKUNTLA KAVITHA<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>13185.0<br>"
+        },
+        "19": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Balkonda (Nizamabad)<br><b>AC NO:  </b>19<hr><b>WINNER:  </b>ARVIND DHARMAPURI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KALVAKUNTLA KAVITHA<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>11562.0<br>"
+        },
+        "20": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Koratla (Nizamabad)<br><b>AC NO:  </b>20<hr><b>WINNER:  </b>ARVIND DHARMAPURI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KALVAKUNTLA KAVITHA<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>19949.0<br>"
+        },
+        "21": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Jagtial (Nizamabad)<br><b>AC NO:  </b>21<hr><b>WINNER:  </b>ARVIND DHARMAPURI<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>KALVAKUNTLA KAVITHA<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>7766.0<br>"
+        },
+        "22": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Dharmapuri  (SC) (Peddapalle )<br><b>AC NO:  </b>22<hr><b>WINNER:  </b>Venkatesh Netha Borlakunta<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Agam Chandrasekhar<br><b>LOST BY:  </b>INC<br><b>margin:  </b>24872.0<br>"
+        },
+        "23": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Ramagundam (Peddapalle )<br><b>AC NO:  </b>23<hr><b>WINNER:  </b>Agam Chandrasekhar<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Venkatesh Netha Borlakunta<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>2140.0<br>"
+        },
+        "24": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Manthani (Peddapalle )<br><b>AC NO:  </b>24<hr><b>WINNER:  </b>Agam Chandrasekhar<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Venkatesh Netha Borlakunta<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>8046.0<br>"
+        },
+        "25": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Peddapalle (Peddapalle )<br><b>AC NO:  </b>25<hr><b>WINNER:  </b>Venkatesh Netha Borlakunta<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Agam Chandrasekhar<br><b>LOST BY:  </b>INC<br><b>margin:  </b>13367.0<br>"
+        },
+        "26": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Karimnagar (Karimnagar )<br><b>AC NO:  </b>26<hr><b>WINNER:  </b>BANDI SANJAY KUMAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BOIANAPALLI VINOD KUMAR<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>52181.0<br>"
+        },
+        "27": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Choppadandi (SC) (Karimnagar )<br><b>AC NO:  </b>27<hr><b>WINNER:  </b>BANDI SANJAY KUMAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BOIANAPALLI VINOD KUMAR<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>56045.0<br>"
+        },
+        "28": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Vemulawada (Karimnagar )<br><b>AC NO:  </b>28<hr><b>WINNER:  </b>BANDI SANJAY KUMAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BOIANAPALLI VINOD KUMAR<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>25891.0<br>"
+        },
+        "29": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Sircilla (Karimnagar )<br><b>AC NO:  </b>29<hr><b>WINNER:  </b>BOIANAPALLI VINOD KUMAR<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>BANDI SANJAY KUMAR<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>5713.0<br>"
+        },
+        "30": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Manakondur  (SC) (Karimnagar )<br><b>AC NO:  </b>30<hr><b>WINNER:  </b>BANDI SANJAY KUMAR<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>BOIANAPALLI VINOD KUMAR<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>35274.0<br>"
+        },
+        "31": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Huzurabad (Karimnagar )<br><b>AC NO:  </b>31<hr><b>WINNER:  </b>BOIANAPALLI VINOD KUMAR<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Ponnam Prabhaker<br><b>LOST BY:  </b>INC<br><b>margin:  </b>30522.0<br>"
+        },
+        "32": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Husnabad (Karimnagar )<br><b>AC NO:  </b>32<hr><b>WINNER:  </b>BOIANAPALLI VINOD KUMAR<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Ponnam Prabhaker<br><b>LOST BY:  </b>INC<br><b>margin:  </b>22762.0<br>"
+        },
+        "33": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Siddipet (Medak)<br><b>AC NO:  </b>33<hr><b>WINNER:  </b>Kotha Prabhakar Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Madavaneni Raghunandan Rao<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>47107.0<br>"
+        },
+        "34": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Medak (Medak)<br><b>AC NO:  </b>34<hr><b>WINNER:  </b>Kotha Prabhakar Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Anil Kumar Gali<br><b>LOST BY:  </b>INC<br><b>margin:  </b>24476.0<br>"
+        },
+        "35": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Narayankhed (Zahirabad)<br><b>AC NO:  </b>35<hr><b>WINNER:  </b>B.B.PATIL<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>MADAN MOHAN RAO<br><b>LOST BY:  </b>INC<br><b>margin:  </b>9365.0<br>"
+        },
+        "36": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Andole (SC) (Zahirabad)<br><b>AC NO:  </b>36<hr><b>WINNER:  </b>B.B.PATIL<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>MADAN MOHAN RAO<br><b>LOST BY:  </b>INC<br><b>margin:  </b>9778.0<br>"
+        },
+        "37": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Narsapur (Medak)<br><b>AC NO:  </b>37<hr><b>WINNER:  </b>Kotha Prabhakar Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Anil Kumar Gali<br><b>LOST BY:  </b>INC<br><b>margin:  </b>49884.0<br>"
+        },
+        "38": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Zaheerabad (SC) (Zahirabad)<br><b>AC NO:  </b>38<hr><b>WINNER:  </b>MADAN MOHAN RAO<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>B.B.PATIL<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>23559.0<br>"
+        },
+        "39": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Sangareddy (Medak)<br><b>AC NO:  </b>39<hr><b>WINNER:  </b>Kotha Prabhakar Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Anil Kumar Gali<br><b>LOST BY:  </b>INC<br><b>margin:  </b>12371.0<br>"
+        },
+        "40": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Patancheru (Medak)<br><b>AC NO:  </b>40<hr><b>WINNER:  </b>Kotha Prabhakar Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Anil Kumar Gali<br><b>LOST BY:  </b>INC<br><b>margin:  </b>35486.0<br>"
+        },
+        "41": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Dubbak (Medak)<br><b>AC NO:  </b>41<hr><b>WINNER:  </b>Kotha Prabhakar Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Madavaneni Raghunandan Rao<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>52478.0<br>"
+        },
+        "42": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Gajwel (Medak)<br><b>AC NO:  </b>42<hr><b>WINNER:  </b>Kotha Prabhakar Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Anil Kumar Gali<br><b>LOST BY:  </b>INC<br><b>margin:  </b>84187.0<br>"
+        },
+        "43": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Medchal (Malkajgiri)<br><b>AC NO:  </b>43<hr><b>WINNER:  </b>RAJASHEKAR REDDY MARRI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ANUMULA REVANTH REDDY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>8087.0<br>"
+        },
+        "44": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Malkajgiri (Malkajgiri)<br><b>AC NO:  </b>44<hr><b>WINNER:  </b>ANUMULA REVANTH REDDY<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>RAJASHEKAR REDDY MARRI<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>9841.0<br>"
+        },
+        "45": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Quthbullapur (Malkajgiri)<br><b>AC NO:  </b>45<hr><b>WINNER:  </b>RAJASHEKAR REDDY MARRI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ANUMULA REVANTH REDDY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>8774.0<br>"
+        },
+        "46": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Kukatpally (Malkajgiri)<br><b>AC NO:  </b>46<hr><b>WINNER:  </b>RAJASHEKAR REDDY MARRI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ANUMULA REVANTH REDDY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>5542.0<br>"
+        },
+        "47": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Uppal (Malkajgiri)<br><b>AC NO:  </b>47<hr><b>WINNER:  </b>ANUMULA REVANTH REDDY<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>RAJASHEKAR REDDY MARRI<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>7884.0<br>"
+        },
+        "48": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Ibrahimpatnam (Bhongir )<br><b>AC NO:  </b>48<hr><b>WINNER:  </b>Komati Reddy Venkat Reddy<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Dr. Boora Narsaiah Goud<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>5624.0<br>"
+        },
+        "49": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Lal Bahadur Nagar (Malkajgiri)<br><b>AC NO:  </b>49<hr><b>WINNER:  </b>ANUMULA REVANTH REDDY<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>RAJASHEKAR REDDY MARRI<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>27404.0<br>"
+        },
+        "50": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Maheswaram (CHEVELLA)<br><b>AC NO:  </b>50<hr><b>WINNER:  </b>Dr. G. Ranjith Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Konda Vishweshwar Reddy<br><b>LOST BY:  </b>INC<br><b>margin:  </b>17813.0<br>"
+        },
+        "51": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Rajendranagar (CHEVELLA)<br><b>AC NO:  </b>51<hr><b>WINNER:  </b>Dr. G. Ranjith Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Konda Vishweshwar Reddy<br><b>LOST BY:  </b>INC<br><b>margin:  </b>28586.0<br>"
+        },
+        "52": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Serilingampally (CHEVELLA)<br><b>AC NO:  </b>52<hr><b>WINNER:  </b>Dr. G. Ranjith Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Konda Vishweshwar Reddy<br><b>LOST BY:  </b>INC<br><b>margin:  </b>10164.0<br>"
+        },
+        "53": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Chevella (SC) (CHEVELLA)<br><b>AC NO:  </b>53<hr><b>WINNER:  </b>Konda Vishweshwar Reddy<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Dr. G. Ranjith Reddy<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>15831.0<br>"
+        },
+        "54": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Pargi (CHEVELLA)<br><b>AC NO:  </b>54<hr><b>WINNER:  </b>Konda Vishweshwar Reddy<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Dr. G. Ranjith Reddy<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>6574.0<br>"
+        },
+        "55": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Vicarabad (SC) (CHEVELLA)<br><b>AC NO:  </b>55<hr><b>WINNER:  </b>Konda Vishweshwar Reddy<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Dr. G. Ranjith Reddy<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>20659.0<br>"
+        },
+        "56": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Tandur (CHEVELLA)<br><b>AC NO:  </b>56<hr><b>WINNER:  </b>Dr. G. Ranjith Reddy<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Konda Vishweshwar Reddy<br><b>LOST BY:  </b>INC<br><b>margin:  </b>1199.0<br>"
+        },
+        "57": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Musheerabad (Secundrabad)<br><b>AC NO:  </b>57<hr><b>WINNER:  </b>G . KISHAN REDDY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>TALASANI SAI KIRAN YADAV<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>24395.0<br>"
+        },
+        "58": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Malakpet (Hyderabad)<br><b>AC NO:  </b>58<hr><b>WINNER:  </b>ASADUDDIN OWAISI<br><b>WON BY:  </b>AIMIM<br><b>RUNNER:  </b>Dr. BHAGAVANTH RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>30933.0<br>"
+        },
+        "59": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Amberpet  (Secundrabad)<br><b>AC NO:  </b>59<hr><b>WINNER:  </b>G . KISHAN REDDY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>TALASANI SAI KIRAN YADAV<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>45390.0<br>"
+        },
+        "60": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Khairatabad  (Secundrabad)<br><b>AC NO:  </b>60<hr><b>WINNER:  </b>G . KISHAN REDDY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>TALASANI SAI KIRAN YADAV<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>13615.0<br>"
+        },
+        "61": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Jubilee Hills (Secundrabad)<br><b>AC NO:  </b>61<hr><b>WINNER:  </b>TALASANI SAI KIRAN YADAV<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>G . KISHAN REDDY<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>17480.0<br>"
+        },
+        "62": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Sanathnagar (Secundrabad)<br><b>AC NO:  </b>62<hr><b>WINNER:  </b>G . KISHAN REDDY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>TALASANI SAI KIRAN YADAV<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>15225.0<br>"
+        },
+        "63": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Nampally (Secundrabad)<br><b>AC NO:  </b>63<hr><b>WINNER:  </b>TALASANI SAI KIRAN YADAV<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>G . KISHAN REDDY<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>28233.0<br>"
+        },
+        "64": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Karwan (Hyderabad)<br><b>AC NO:  </b>64<hr><b>WINNER:  </b>ASADUDDIN OWAISI<br><b>WON BY:  </b>AIMIM<br><b>RUNNER:  </b>Dr. BHAGAVANTH RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>50659.0<br>"
+        },
+        "65": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Goshamahal (Hyderabad)<br><b>AC NO:  </b>65<hr><b>WINNER:  </b>Dr. BHAGAVANTH RAO<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>ASADUDDIN OWAISI<br><b>LOST BY:  </b>AIMIM<br><b>margin:  </b>54750.0<br>"
+        },
+        "66": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Charminar (Hyderabad)<br><b>AC NO:  </b>66<hr><b>WINNER:  </b>ASADUDDIN OWAISI<br><b>WON BY:  </b>AIMIM<br><b>RUNNER:  </b>Dr. BHAGAVANTH RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>29380.0<br>"
+        },
+        "67": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Chandrayangutta (Hyderabad)<br><b>AC NO:  </b>67<hr><b>WINNER:  </b>ASADUDDIN OWAISI<br><b>WON BY:  </b>AIMIM<br><b>RUNNER:  </b>Dr. BHAGAVANTH RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>80583.0<br>"
+        },
+        "68": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Yakutpura (Hyderabad)<br><b>AC NO:  </b>68<hr><b>WINNER:  </b>ASADUDDIN OWAISI<br><b>WON BY:  </b>AIMIM<br><b>RUNNER:  </b>Dr. BHAGAVANTH RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>55844.0<br>"
+        },
+        "69": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Bahadurpura (Hyderabad)<br><b>AC NO:  </b>69<hr><b>WINNER:  </b>ASADUDDIN OWAISI<br><b>WON BY:  </b>AIMIM<br><b>RUNNER:  </b>Dr. BHAGAVANTH RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>89534.0<br>"
+        },
+        "70": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Secunderabad (Secundrabad)<br><b>AC NO:  </b>70<hr><b>WINNER:  </b>G . KISHAN REDDY<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>TALASANI SAI KIRAN YADAV<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>8854.0<br>"
+        },
+        "71": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Secunderabad Cantt. (SC) (Malkajgiri)<br><b>AC NO:  </b>71<hr><b>WINNER:  </b>RAJASHEKAR REDDY MARRI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RAMCHANDER RAO NARAPARAJU<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>11752.0<br>"
+        },
+        "72": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Kodangal (Mahbubnagar)<br><b>AC NO:  </b>72<hr><b>WINNER:  </b>MANNE SRINIVAS REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ARUNA D.K<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>22348.0<br>"
+        },
+        "73": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Narayanpet (Mahbubnagar)<br><b>AC NO:  </b>73<hr><b>WINNER:  </b>MANNE SRINIVAS REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ARUNA D.K<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>1211.0<br>"
+        },
+        "74": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Mahbubnagar (Mahbubnagar)<br><b>AC NO:  </b>74<hr><b>WINNER:  </b>ARUNA D.K<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>MANNE SRINIVAS REDDY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>4561.0<br>"
+        },
+        "75": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Jadcherla (Mahbubnagar)<br><b>AC NO:  </b>75<hr><b>WINNER:  </b>MANNE SRINIVAS REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ARUNA D.K<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>20526.0<br>"
+        },
+        "76": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Devarkadra (Mahbubnagar)<br><b>AC NO:  </b>76<hr><b>WINNER:  </b>MANNE SRINIVAS REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ARUNA D.K<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>13248.0<br>"
+        },
+        "77": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Makthal (Mahbubnagar)<br><b>AC NO:  </b>77<hr><b>WINNER:  </b>ARUNA D.K<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>MANNE SRINIVAS REDDY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>2054.0<br>"
+        },
+        "78": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Wanaparthy (Nagarkurnool)<br><b>AC NO:  </b>78<hr><b>WINNER:  </b>POTHUGANTI RAMULU<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DR MALLU RAVI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>27441.0<br>"
+        },
+        "79": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Gadwal (Nagarkurnool)<br><b>AC NO:  </b>79<hr><b>WINNER:  </b>POTHUGANTI RAMULU<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>SHRUTHI BANGARU ALIAS BANGARU SHRUTHI<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>48017.0<br>"
+        },
+        "80": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Alampur (SC) (Nagarkurnool)<br><b>AC NO:  </b>80<hr><b>WINNER:  </b>POTHUGANTI RAMULU<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DR MALLU RAVI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>14487.0<br>"
+        },
+        "81": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Nagarkurnool (Nagarkurnool)<br><b>AC NO:  </b>81<hr><b>WINNER:  </b>POTHUGANTI RAMULU<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DR MALLU RAVI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>12376.0<br>"
+        },
+        "82": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Achampet (SC) (Nagarkurnool)<br><b>AC NO:  </b>82<hr><b>WINNER:  </b>POTHUGANTI RAMULU<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DR MALLU RAVI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>27247.0<br>"
+        },
+        "83": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Kalwakurthy (Nagarkurnool)<br><b>AC NO:  </b>83<hr><b>WINNER:  </b>POTHUGANTI RAMULU<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DR MALLU RAVI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>29587.0<br>"
+        },
+        "84": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Shadnagar (Mahbubnagar)<br><b>AC NO:  </b>84<hr><b>WINNER:  </b>MANNE SRINIVAS REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>ARUNA D.K<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>27402.0<br>"
+        },
+        "85": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Kollapur (Nagarkurnool)<br><b>AC NO:  </b>85<hr><b>WINNER:  </b>POTHUGANTI RAMULU<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DR MALLU RAVI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>24952.0<br>"
+        },
+        "86": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Devarakonda (ST) (Nalgonda)<br><b>AC NO:  </b>86<hr><b>WINNER:  </b>UTTAM KUMAR REDDY NALAMADA<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>VEMIREDDY NARASIMHA REDDY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>4567.0<br>"
+        },
+        "87": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nagarjuna Sagar (Nalgonda)<br><b>AC NO:  </b>87<hr><b>WINNER:  </b>UTTAM KUMAR REDDY NALAMADA<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>VEMIREDDY NARASIMHA REDDY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>3695.0<br>"
+        },
+        "88": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Miryalaguda (Nalgonda)<br><b>AC NO:  </b>88<hr><b>WINNER:  </b>UTTAM KUMAR REDDY NALAMADA<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>VEMIREDDY NARASIMHA REDDY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>7186.0<br>"
+        },
+        "89": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Huzurnagar (Nalgonda)<br><b>AC NO:  </b>89<hr><b>WINNER:  </b>UTTAM KUMAR REDDY NALAMADA<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>VEMIREDDY NARASIMHA REDDY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>12993.0<br>"
+        },
+        "90": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Kodad (Nalgonda)<br><b>AC NO:  </b>90<hr><b>WINNER:  </b>UTTAM KUMAR REDDY NALAMADA<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>VEMIREDDY NARASIMHA REDDY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>11930.0<br>"
+        },
+        "91": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Suryapet (Nalgonda)<br><b>AC NO:  </b>91<hr><b>WINNER:  </b>VEMIREDDY NARASIMHA REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>UTTAM KUMAR REDDY NALAMADA<br><b>LOST BY:  </b>INC<br><b>margin:  </b>11499.0<br>"
+        },
+        "92": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Nalgonda (Nalgonda)<br><b>AC NO:  </b>92<hr><b>WINNER:  </b>VEMIREDDY NARASIMHA REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>UTTAM KUMAR REDDY NALAMADA<br><b>LOST BY:  </b>INC<br><b>margin:  </b>3484.0<br>"
+        },
+        "93": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Munugode (Bhongir )<br><b>AC NO:  </b>93<hr><b>WINNER:  </b>Komati Reddy Venkat Reddy<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Dr. Boora Narsaiah Goud<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>4710.0<br>"
+        },
+        "94": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Bhongir (Bhongir )<br><b>AC NO:  </b>94<hr><b>WINNER:  </b>Komati Reddy Venkat Reddy<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Dr. Boora Narsaiah Goud<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>2740.0<br>"
+        },
+        "95": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nakrekal (SC) (Bhongir )<br><b>AC NO:  </b>95<hr><b>WINNER:  </b>Komati Reddy Venkat Reddy<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>Dr. Boora Narsaiah Goud<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>11300.0<br>"
+        },
+        "96": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Thungathurthi (SC) (Bhongir )<br><b>AC NO:  </b>96<hr><b>WINNER:  </b>Dr. Boora Narsaiah Goud<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Komati Reddy Venkat Reddy<br><b>LOST BY:  </b>INC<br><b>margin:  </b>3582.0<br>"
+        },
+        "97": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Alair (Bhongir )<br><b>AC NO:  </b>97<hr><b>WINNER:  </b>Dr. Boora Narsaiah Goud<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Komati Reddy Venkat Reddy<br><b>LOST BY:  </b>INC<br><b>margin:  </b>10160.0<br>"
+        },
+        "98": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Jangoan (Bhongir )<br><b>AC NO:  </b>98<hr><b>WINNER:  </b>Dr. Boora Narsaiah Goud<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Komati Reddy Venkat Reddy<br><b>LOST BY:  </b>INC<br><b>margin:  </b>5836.0<br>"
+        },
+        "99": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Ghanpur (Station) (SC) (Warangal)<br><b>AC NO:  </b>99<hr><b>WINNER:  </b>DAYAKAR PASUNOORI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DOMMATI SAMBAIAH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>51640.0<br>"
+        },
+        "100": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Palakurthi (Warangal)<br><b>AC NO:  </b>100<hr><b>WINNER:  </b>DAYAKAR PASUNOORI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DOMMATI SAMBAIAH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>52692.0<br>"
+        },
+        "101": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Dornakal (ST) (Mahabubabad  )<br><b>AC NO:  </b>101<hr><b>WINNER:  </b>Kavitha Malothu<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Balaram Naik Porika<br><b>LOST BY:  </b>INC<br><b>margin:  </b>25347.0<br>"
+        },
+        "102": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mahabubabad (ST) (Mahabubabad  )<br><b>AC NO:  </b>102<hr><b>WINNER:  </b>Kavitha Malothu<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Balaram Naik Porika<br><b>LOST BY:  </b>INC<br><b>margin:  </b>28246.0<br>"
+        },
+        "103": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Narsampet (Mahabubabad  )<br><b>AC NO:  </b>103<hr><b>WINNER:  </b>Kavitha Malothu<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Balaram Naik Porika<br><b>LOST BY:  </b>INC<br><b>margin:  </b>25800.0<br>"
+        },
+        "104": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Parkal (Warangal)<br><b>AC NO:  </b>104<hr><b>WINNER:  </b>DAYAKAR PASUNOORI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DOMMATI SAMBAIAH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>48134.0<br>"
+        },
+        "105": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Warangal West (Warangal)<br><b>AC NO:  </b>105<hr><b>WINNER:  </b>DAYAKAR PASUNOORI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DOMMATI SAMBAIAH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>29252.0<br>"
+        },
+        "106": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Warangal East (Warangal)<br><b>AC NO:  </b>106<hr><b>WINNER:  </b>DAYAKAR PASUNOORI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DOMMATI SAMBAIAH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>56897.0<br>"
+        },
+        "107": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Waradhanapet (SC) (Warangal)<br><b>AC NO:  </b>107<hr><b>WINNER:  </b>DAYAKAR PASUNOORI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DOMMATI SAMBAIAH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>63680.0<br>"
+        },
+        "108": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Bhupalpalle (Warangal)<br><b>AC NO:  </b>108<hr><b>WINNER:  </b>DAYAKAR PASUNOORI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DOMMATI SAMBAIAH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>47916.0<br>"
+        },
+        "109": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mulug (ST) (Mahabubabad  )<br><b>AC NO:  </b>109<hr><b>WINNER:  </b>Kavitha Malothu<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Balaram Naik Porika<br><b>LOST BY:  </b>INC<br><b>margin:  </b>30783.0<br>"
+        },
+        "110": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Pinapaka (ST) (Mahabubabad  )<br><b>AC NO:  </b>110<hr><b>WINNER:  </b>Kavitha Malothu<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Balaram Naik Porika<br><b>LOST BY:  </b>INC<br><b>margin:  </b>25474.0<br>"
+        },
+        "111": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Yellandu (ST) (Mahabubabad  )<br><b>AC NO:  </b>111<hr><b>WINNER:  </b>Kavitha Malothu<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Balaram Naik Porika<br><b>LOST BY:  </b>INC<br><b>margin:  </b>149.0<br>"
+        },
+        "112": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Khammam (Khammam )<br><b>AC NO:  </b>112<hr><b>WINNER:  </b>NAMA NAGESWR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RENUKA CHOWDHURY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>25022.0<br>"
+        },
+        "113": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Palair (Khammam )<br><b>AC NO:  </b>113<hr><b>WINNER:  </b>NAMA NAGESWR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RENUKA CHOWDHURY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>34874.0<br>"
+        },
+        "114": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Madhira (SC) (Khammam )<br><b>AC NO:  </b>114<hr><b>WINNER:  </b>NAMA NAGESWR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RENUKA CHOWDHURY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>18798.0<br>"
+        },
+        "115": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Wyra (ST) (Khammam )<br><b>AC NO:  </b>115<hr><b>WINNER:  </b>NAMA NAGESWR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RENUKA CHOWDHURY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>7680.0<br>"
+        },
+        "116": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Sathupalle (SC) (Khammam )<br><b>AC NO:  </b>116<hr><b>WINNER:  </b>NAMA NAGESWR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RENUKA CHOWDHURY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>31937.0<br>"
+        },
+        "117": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Kothagudem (Khammam )<br><b>AC NO:  </b>117<hr><b>WINNER:  </b>NAMA NAGESWR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RENUKA CHOWDHURY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>18049.0<br>"
+        },
+        "118": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Aswaraopeta (ST) (Khammam )<br><b>AC NO:  </b>118<hr><b>WINNER:  </b>NAMA NAGESWR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RENUKA CHOWDHURY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>31253.0<br>"
+        },
+        "119": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Bhadrachalam (ST) (Mahabubabad  )<br><b>AC NO:  </b>119<hr><b>WINNER:  </b>Kavitha Malothu<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>Balaram Naik Porika<br><b>LOST BY:  </b>INC<br><b>margin:  </b>10763.0<br>"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "title": "2014 TELANAGANA PARLIAMENT ELECTIONS",
+    "trigger": "PC_NO",
+    "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>TRS</td><td>11</td><td style=\"background-color: rgba(248.0,71.0,151.0,1);\">  </td></tr><tr><td>2</td><td>INC</td><td>2</td><td style=\"background-color: rgba(0.0,192.01500000000001,255.0,1);\">  </td></tr><tr><td>3</td><td>YSRCP</td><td>1</td><td style=\"background-color: rgba(102.0,102.0,255.0,1);\">  </td></tr><tr><td>4</td><td>AIMIM</td><td>1</td><td style=\"background-color: rgba(0,255,0,1);\">  </td></tr><tr><td>5</td><td>TDP</td><td>1</td><td style=\"background-color: rgba(255,255,0,1);\">  </td></tr><tr><td>6</td><td>BJP</td><td>1</td><td style=\"background-color: rgba(250.0,181.0,5.0,1);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">The 2014 general election was the last election that a united Andhra Pradesh took part in, as the state was bifurcated into Andhra Pradesh and Telangana states less than a month after the polls. In Andhra Pradesh there are 25 Lok sabha constituencies and were scheduled to go for voting on 7 May 2014 and results are announced on 16 May 2014,and the new state of Telangana was carved out from Andhra Pradesh on 2 June 2014.</td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Adilabad <br><b>AC NO:  </b>1<hr><b>WINNER:  </b>GODAM NAGESH<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>NARESH<br><b>LOST BY:  </b>INC<br><b>margin:  </b>171290<br>"
+        },
+        "14": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Bhongir <br><b>AC NO:  </b>14<hr><b>WINNER:  </b>DR. BOORA NARSAIAH GOUD<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>KOMATIREDDY RAJGOPAL REDDY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>30544<br>"
+        },
+        "12": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nagarkurnool<br><b>AC NO:  </b>12<hr><b>WINNER:  </b>YELLAIAH NANDI<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>DR. MANDA JAGANNATH<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>16676<br>"
+        },
+        "13": {
+            "color": "rgba(0.0,192.01500000000001,255.0,1)",
+            "matter": "<b>AC NAME: </b>Nalgonda<br><b>AC NO:  </b>13<hr><b>WINNER:  </b>GUTHA SUKHENDER REDDY<br><b>WON BY:  </b>INC<br><b>RUNNER:  </b>TERA CHINNAPA REDDY<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>193156<br>"
+        },
+        "17": {
+            "color": "rgba(102.0,102.0,255.0,1)",
+            "matter": "<b>AC NAME: </b>Khammam <br><b>AC NO:  </b>17<hr><b>WINNER:  </b>PONGULETI  SRINIVASA REDDY<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>NAMA NAGESWARA RAO<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>12204<br>"
+        },
+        "6": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Medak<br><b>AC NO:  </b>6<hr><b>WINNER:  </b>KALVAKUNTLA CHANDRASEKHAR RAO<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>DR.P. SHRAVAN KUMAR REDDY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>397029<br>"
+        },
+        "2": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Peddapalle <br><b>AC NO:  </b>2<hr><b>WINNER:  </b>BALKA SUMAN<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>G. VIVEKANAND<br><b>LOST BY:  </b>INC<br><b>margin:  </b>291158<br>"
+        },
+        "9": {
+            "color": "rgba(0,255,0,1)",
+            "matter": "<b>AC NAME: </b>Hyderabad<br><b>AC NO:  </b>9<hr><b>WINNER:  </b>ASADUDDIN OWAISI<br><b>WON BY:  </b>AIMIM<br><b>RUNNER:  </b>DR.BHAGAVANTH RAO<br><b>LOST BY:  </b>BJP<br><b>margin:  </b>202454<br>"
+        },
+        "7": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC NAME: </b>Malkajgiri<br><b>AC NO:  </b>7<hr><b>WINNER:  </b>CH.MALLA REDDY<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>HANUMANTH RAO MYNAMPALLY<br><b>LOST BY:  </b>TRS<br><b>margin:  </b>28166<br>"
+        },
+        "15": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Warangal<br><b>AC NO:  </b>15<hr><b>WINNER:  </b>KADIYAM SRIHARI<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>RAJAIAH SIRICILLA<br><b>LOST BY:  </b>INC<br><b>margin:  </b>392574<br>"
+        },
+        "10": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>CHELVELLA<br><b>AC NO:  </b>10<hr><b>WINNER:  </b>KONDA VISHWESHWAR REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>PATLOLLA KARTIK REDDY<br><b>LOST BY:  </b>INC<br><b>margin:  </b>73023<br>"
+        },
+        "4": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Nizamabad<br><b>AC NO:  </b>4<hr><b>WINNER:  </b>KALVAKUNTLA KAVITHA<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>MADHU YASKHI GOUD<br><b>LOST BY:  </b>INC<br><b>margin:  </b>167184<br>"
+        },
+        "5": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Zahirabad<br><b>AC NO:  </b>5<hr><b>WINNER:  </b>B.B. PATIL<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>SURESH KUMAR SHETKAR<br><b>LOST BY:  </b>INC<br><b>margin:  </b>144631<br>"
+        },
+        "3": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Karimnagar <br><b>AC NO:  </b>3<hr><b>WINNER:  </b>VINOD KUMAR BOINAPALLY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>PONNAM PRABHAKAR<br><b>LOST BY:  </b>INC<br><b>margin:  </b>204652<br>"
+        },
+        "11": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mahbubnagar<br><b>AC NO:  </b>11<hr><b>WINNER:  </b>AP JITHENDER REDDY<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>JAIPAL REDDY SUDINI<br><b>LOST BY:  </b>INC<br><b>margin:  </b>2590<br>"
+        },
+        "8": {
+            "color": "rgba(250.0,181.0,5.0,1)",
+            "matter": "<b>AC NAME: </b>Secundrabad<br><b>AC NO:  </b>8<hr><b>WINNER:  </b>BANDARU DATTATREYA<br><b>WON BY:  </b>BJP<br><b>RUNNER:  </b>M.ANJAN KUMAR YADAV<br><b>LOST BY:  </b>INC<br><b>margin:  </b>254735<br>"
+        },
+        "16": {
+            "color": "rgba(248.0,71.0,151.0,1)",
+            "matter": "<b>AC NAME: </b>Mahabubabad  <br><b>AC NO:  </b>16<hr><b>WINNER:  </b>PROF. AZMEERA SEETARAM NAIK<br><b>WON BY:  </b>TRS<br><b>RUNNER:  </b>P. BALRAM<br><b>LOST BY:  </b>INC<br><b>margin:  </b>34992<br>"
+        }
+    }
+}
