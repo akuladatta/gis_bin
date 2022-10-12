@@ -3,105 +3,105 @@
     "trigger": "objectid",
     "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>YSRCP</td><td>22</td><td style=\"background-color: rgba(0.0,215.0,255.0,1);\">  </td></tr><tr><td>2</td><td>TDP</td><td>3</td><td style=\"background-color: rgba(255,255,0,1);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">General Elections were held in Andhra Pradesh on 11 April 2019 to elect representatives for 17th Lok Sabha</td></tr></tfoot></table>",
     "data": {
-        "10": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Eluru <br><b>AC NO:  </b>10<hr><b>WINNER:  </b>KOTAGIRI SRIDHAR<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>MAGANTTI VENKATESWARA RAO BABU<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>165925<br>"
-        },
-        "8": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Rajahmundry<br><b>AC NO:  </b>8<hr><b>WINNER:  </b>MARGANI BHARAT<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>MAGANTI ROOPA<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>121634<br>"
-        },
-        "6": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Kakinada<br><b>AC NO:  </b>6<hr><b>WINNER:  </b>VANGA GEETHAVISWANATH<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>CHALAMALASETTY SUNIL<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>25738<br>"
-        },
-        "9": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Narsapuram<br><b>AC NO:  </b>9<hr><b>WINNER:  </b>KANUMURU RAGHU RAMA KRISHNA RAJU<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>V.V. SIVA RAMA RAJU (KALAVAPUDI SIVA)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>32676<br>"
-        },
-        "20": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Hindupur<br><b>AC NO:  </b>20<hr><b>WINNER:  </b>KURUVA GORANTLA MADHAV<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>KRISTAPPA . NIMMALA<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>140748<br>"
-        },
-        "16": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Ongole <br><b>AC NO:  </b>16<hr><b>WINNER:  </b>MAGUNTA SREENIVASULU REDDY<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>SIDDA RAGHAVA RAO<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>214851<br>"
-        },
         "1": {
             "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Aruku <br><b>AC NO:  </b>1<hr><b>WINNER:  </b>GODDETI. MADHAVI<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>KISHORE CHANDRA DEO<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>224089<br>"
+            "matter": "<b>AC Name: </b>Aruku<br><b>AC no: </b>1<br><hr><b>Winner: </b>GODDETI. MADHAVI<br><b>Won By: </b>YSRCP (562190 votes)<br><b>Runner: </b>KISHORE CHANDRA DEO<br><b>Lost By: </b>TDP (338101 votes)<br><b>Margin: </b>224089<br><b>Polling percentage: </b>74.03% (1074538 voters)<br><b>Total no of voters: </b>1451418<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 52vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(52.3%)</td><td style=\"border: 1px solid white;width: 31vw;background-color: rgba(255,255,0,1);\">TDP <br>(31.5%)</td><td style=\"border: 1px solid white;width: 16vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(16.2%)</td></tr></table><br>"
         },
         "2": {
             "color": "rgba(255,255,0,1)",
-            "matter": "<b>AC NAME: </b>Srikakulam<br><b>AC NO:  </b>2<hr><b>WINNER:  </b>KINJARAPU RAM MOHAN NAIDU<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>DUVVADA SRINIVAS<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>6653<br>"
-        },
-        "13": {
-            "color": "rgba(255,255,0,1)",
-            "matter": "<b>AC NAME: </b>Guntur<br><b>AC NO:  </b>13<hr><b>WINNER:  </b>Jayadev Galla<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>Modugula Venugopala Reddy<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>4205<br>"
-        },
-        "5": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Anakapalli<br><b>AC NO:  </b>5<hr><b>WINNER:  </b>Dr.Beesetti Venkata Satyavathi<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>ADARI ANAND KUMAR<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>89192<br>"
-        },
-        "18": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Kurnool<br><b>AC NO:  </b>18<hr><b>WINNER:  </b>AYUSHMAN DOCTOR SANJEEV KUMAR<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>KOTLA JAYA SURYA PRAKASH REDDY<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>149067<br>"
-        },
-        "14": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Narasaraopet<br><b>AC NO:  </b>14<hr><b>WINNER:  </b>LAVU SRI KRISHNA DEVARAYALU<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>RAYAPATI SAMBASIVARAO<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>154002<br>"
-        },
-        "11": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Machilipatnam <br><b>AC NO:  </b>11<hr><b>WINNER:  </b>BALASHOWRY VALLABHANENI<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>KONAKALLA NARAYANA RAO<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>60238<br>"
+            "matter": "<b>AC Name: </b>Srikakulam<br><b>AC no: </b>2<br><hr><b>Winner: </b>KINJARAPU RAM MOHAN NAIDU<br><b>Won By: </b>TDP (534544 votes)<br><b>Runner: </b>DUVVADA SRINIVAS<br><b>Lost By: </b>YSRCP (527891 votes)<br><b>Margin: </b>6653<br><b>Polling percentage: </b>74.48% (1157329 voters)<br><b>Total no of voters: </b>1553860<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 46vw;background-color: rgba(255,255,0,1);\">TDP <br>(46.2%)</td><td style=\"border: 1px solid white;width: 45vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(45.6%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(8.2%)</td></tr></table><br>"
         },
         "3": {
             "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Vizianagaram<br><b>AC NO:  </b>3<hr><b>WINNER:  </b>Bellana Chandra Sekhar<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Ashok Gajapathi Raju Pusapati<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>48036<br>"
-        },
-        "21": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Kadapa<br><b>AC NO:  </b>21<hr><b>WINNER:  </b>Y.S.Avinash Reddy<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Adi Narayana Reddy Chadipirala<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>380726<br>"
-        },
-        "22": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Nellore<br><b>AC NO:  </b>22<hr><b>WINNER:  </b>Adala Prabhakara Reddy<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Beeda Masthan Rao<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>148571<br>"
-        },
-        "12": {
-            "color": "rgba(255,255,0,1)",
-            "matter": "<b>AC NAME: </b>Vijayawada<br><b>AC NO:  </b>12<hr><b>WINNER:  </b>KESINENI SRINIVAS (NANI)<br><b>WON BY:  </b>TDP<br><b>RUNNER:  </b>POTLURI.V.PRASAD ( P V P )<br><b>LOST BY:  </b>YSRCP<br><b>margin:  </b>8726<br>"
-        },
-        "24": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Rajampet<br><b>AC NO:  </b>24<hr><b>WINNER:  </b>P.V.MIDHUN REDDY<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>D A SATHYA PRABHA<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>268284<br>"
-        },
-        "23": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Tirupati <br><b>AC NO:  </b>23<hr><b>WINNER:  </b>Balli Durga Prasad Rao<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>Panabaka Lakshmi<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>228376<br>"
-        },
-        "7": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Amalapuram <br><b>AC NO:  </b>7<hr><b>WINNER:  </b>CHINTA ANURADHA<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>GANTI HARISH MADHUR (BALAYOGI)<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>39795<br>"
-        },
-        "15": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Bapatla <br><b>AC NO:  </b>15<hr><b>WINNER:  </b>NANDIGAM SURESH<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>MALYADRI SRIRAM<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>16065<br>"
-        },
-        "19": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Anantapur<br><b>AC NO:  </b>19<hr><b>WINNER:  </b>TALARI RANGAIAH<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>J.C. PAVAN REDDY<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>141428<br>"
-        },
-        "25": {
-            "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Chittoor <br><b>AC NO:  </b>25<hr><b>WINNER:  </b>N. REDDEPPA<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>NARAMALLI SIVA PRASAD<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>137271<br>"
+            "matter": "<b>AC Name: </b>Vizianagaram<br><b>AC no: </b>3<br><hr><b>Winner: </b>Bellana Chandra Sekhar<br><b>Won By: </b>YSRCP (578418 votes)<br><b>Runner: </b>Ashok Gajapathi Raju Pusapati<br><b>Lost By: </b>TDP (530382 votes)<br><b>Margin: </b>48036<br><b>Polling percentage: </b>80.98% (1217890 voters)<br><b>Total no of voters: </b>1503980<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 47vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(47.5%)</td><td style=\"border: 1px solid white;width: 43vw;background-color: rgba(255,255,0,1);\">TDP <br>(43.5%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(9.0%)</td></tr></table><br>"
         },
         "4": {
             "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Visakhapatnam<br><b>AC NO:  </b>4<hr><b>WINNER:  </b>M V V SATYANARAYANA<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>BHARAT MATHUKUMILLI<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>4414<br>"
+            "matter": "<b>AC Name: </b>Visakhapatnam<br><b>AC no: </b>4<br><hr><b>Winner: </b>M V V SATYANARAYANA<br><b>Won By: </b>YSRCP (436906 votes)<br><b>Runner: </b>BHARAT MATHUKUMILLI<br><b>Lost By: </b>TDP (432492 votes)<br><b>Margin: </b>4414<br><b>Polling percentage: </b>67.77% (1239754 voters)<br><b>Total no of voters: </b>1829300<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 35vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(35.2%)</td><td style=\"border: 1px solid white;width: 34vw;background-color: rgba(255,255,0,1);\">TDP <br>(34.9%)</td><td style=\"border: 1px solid white;width: 23vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(23.3%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(6.6%)</td></tr></table><br>"
+        },
+        "5": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Anakapalli<br><b>AC no: </b>5<br><hr><b>Winner: </b>Dr.Beesetti Venkata Satyavathi<br><b>Won By: </b>YSRCP (586226 votes)<br><b>Runner: </b>ADARI ANAND KUMAR<br><b>Lost By: </b>TDP (497034 votes)<br><b>Margin: </b>89192<br><b>Polling percentage: </b>81.41% (1238491 voters)<br><b>Total no of voters: </b>1521363<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 47vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(47.3%)</td><td style=\"border: 1px solid white;width: 40vw;background-color: rgba(255,255,0,1);\">TDP <br>(40.1%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(6.7%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.9%)</td></tr></table><br>"
+        },
+        "6": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Kakinada<br><b>AC no: </b>6<br><hr><b>Winner: </b>VANGA GEETHAVISWANATH<br><b>Won By: </b>YSRCP (537630 votes)<br><b>Runner: </b>CHALAMALASETTY SUNIL<br><b>Lost By: </b>TDP (511892 votes)<br><b>Margin: </b>25738<br><b>Polling percentage: </b>78.95% (1234655 voters)<br><b>Total no of voters: </b>1563930<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 43vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(43.5%)</td><td style=\"border: 1px solid white;width: 41vw;background-color: rgba(255,255,0,1);\">TDP <br>(41.5%)</td><td style=\"border: 1px solid white;width: 10vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(10.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.3%)</td></tr></table><br>"
+        },
+        "7": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Amalapuram<br><b>AC no: </b>7<br><hr><b>Winner: </b>CHINTA ANURADHA<br><b>Won By: </b>YSRCP (485958 votes)<br><b>Runner: </b>GANTI HARISH MADHUR (BALAYOGI)<br><b>Lost By: </b>TDP (446163 votes)<br><b>Margin: </b>39795<br><b>Polling percentage: </b>84.47% (1232895 voters)<br><b>Total no of voters: </b>1459556<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 39vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(39.4%)</td><td style=\"border: 1px solid white;width: 36vw;background-color: rgba(255,255,0,1);\">TDP <br>(36.2%)</td><td style=\"border: 1px solid white;width: 20vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(20.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.7%)</td></tr></table><br>"
+        },
+        "8": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Rajahmundry<br><b>AC no: </b>8<br><hr><b>Winner: </b>MARGANI BHARAT<br><b>Won By: </b>YSRCP (582024 votes)<br><b>Runner: </b>MAGANTI ROOPA<br><b>Lost By: </b>TDP (460390 votes)<br><b>Margin: </b>121634<br><b>Polling percentage: </b>81.5% (1250427 voters)<br><b>Total no of voters: </b>1534256<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 46vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(46.5%)</td><td style=\"border: 1px solid white;width: 36vw;background-color: rgba(255,255,0,1);\">TDP <br>(36.8%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(12.5%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.2%)</td></tr></table><br>"
+        },
+        "9": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Narsapuram<br><b>AC no: </b>9<br><hr><b>Winner: </b>KANUMURU RAGHU RAMA KRISHNA RAJU<br><b>Won By: </b>YSRCP (449234 votes)<br><b>Runner: </b>V.V. SIVA RAMA RAJU (KALAVAPUDI SIVA)<br><b>Lost By: </b>TDP (416558 votes)<br><b>Margin: </b>32676<br><b>Polling percentage: </b>81.8% (1177738 voters)<br><b>Total no of voters: </b>1439691<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 38vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(38.1%)</td><td style=\"border: 1px solid white;width: 35vw;background-color: rgba(255,255,0,1);\">TDP <br>(35.4%)</td><td style=\"border: 1px solid white;width: 21vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(21.3%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.2%)</td></tr></table><br>"
+        },
+        "10": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Eluru<br><b>AC no: </b>10<br><hr><b>Winner: </b>KOTAGIRI SRIDHAR<br><b>Won By: </b>YSRCP (676809 votes)<br><b>Runner: </b>MAGANTTI VENKATESWARA RAO BABU<br><b>Lost By: </b>TDP (510884 votes)<br><b>Margin: </b>165925<br><b>Polling percentage: </b>83.26% (1327923 voters)<br><b>Total no of voters: </b>1594950<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 51vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(51.0%)</td><td style=\"border: 1px solid white;width: 38vw;background-color: rgba(255,255,0,1);\">TDP <br>(38.5%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(5.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.7%)</td></tr></table><br>"
+        },
+        "11": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Machilipatnam<br><b>AC no: </b>11<br><hr><b>Winner: </b>BALASHOWRY VALLABHANENI<br><b>Won By: </b>YSRCP (572850 votes)<br><b>Runner: </b>KONAKALLA NARAYANA RAO<br><b>Lost By: </b>TDP (512612 votes)<br><b>Margin: </b>60238<br><b>Polling percentage: </b>84.47% (1244570 voters)<br><b>Total no of voters: </b>1473347<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 46vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(46.0%)</td><td style=\"border: 1px solid white;width: 41vw;background-color: rgba(255,255,0,1);\">TDP <br>(41.2%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(9.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.7%)</td></tr></table><br>"
+        },
+        "12": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC Name: </b>Vijayawada<br><b>AC no: </b>12<br><hr><b>Winner: </b>KESINENI SRINIVAS (NANI)<br><b>Won By: </b>TDP (575498 votes)<br><b>Runner: </b>POTLURI.V.PRASAD ( P V P )<br><b>Lost By: </b>YSRCP (566772 votes)<br><b>Margin: </b>8726<br><b>Polling percentage: </b>77.3% (1277711 voters)<br><b>Total no of voters: </b>1652994<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 45vw;background-color: rgba(255,255,0,1);\">TDP <br>(45.0%)</td><td style=\"border: 1px solid white;width: 44vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(44.4%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(6.4%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.2%)</td></tr></table><br>"
+        },
+        "13": {
+            "color": "rgba(255,255,0,1)",
+            "matter": "<b>AC Name: </b>Guntur<br><b>AC no: </b>13<br><hr><b>Winner: </b>Jayadev Galla<br><b>Won By: </b>TDP (587918 votes)<br><b>Runner: </b>Modugula Venugopala Reddy<br><b>Lost By: </b>YSRCP (583713 votes)<br><b>Margin: </b>4205<br><b>Polling percentage: </b>79.21% (1351474 voters)<br><b>Total no of voters: </b>1706119<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 43vw;background-color: rgba(255,255,0,1);\">TDP <br>(43.5%)</td><td style=\"border: 1px solid white;width: 43vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(43.2%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(255,128.775,128.775,1);\">JnP <br>(9.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.7%)</td></tr></table><br>"
+        },
+        "14": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Narasaraopet<br><b>AC no: </b>14<br><hr><b>Winner: </b>LAVU SRI KRISHNA DEVARAYALU<br><b>Won By: </b>YSRCP (745557 votes)<br><b>Runner: </b>RAYAPATI SAMBASIVARAO<br><b>Lost By: </b>TDP (591555 votes)<br><b>Margin: </b>154002<br><b>Polling percentage: </b>86.05% (1437420 voters)<br><b>Total no of voters: </b>1670391<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 51vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(51.9%)</td><td style=\"border: 1px solid white;width: 41vw;background-color: rgba(255,255,0,1);\">TDP <br>(41.2%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(6.9%)</td></tr></table><br>"
+        },
+        "15": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Bapatla<br><b>AC no: </b>15<br><hr><b>Winner: </b>NANDIGAM SURESH<br><b>Won By: </b>YSRCP (598257 votes)<br><b>Runner: </b>MALYADRI SRIRAM<br><b>Lost By: </b>TDP (582192 votes)<br><b>Margin: </b>16065<br><b>Polling percentage: </b>86.23% (1266492 voters)<br><b>Total no of voters: </b>1468671<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 47vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(47.2%)</td><td style=\"border: 1px solid white;width: 46vw;background-color: rgba(255,255,0,1);\">TDP <br>(46.0%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(6.8%)</td></tr></table><br>"
+        },
+        "16": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Ongole<br><b>AC no: </b>16<br><hr><b>Winner: </b>MAGUNTA SREENIVASULU REDDY<br><b>Won By: </b>YSRCP (739202 votes)<br><b>Runner: </b>SIDDA RAGHAVA RAO<br><b>Lost By: </b>TDP (524351 votes)<br><b>Margin: </b>214851<br><b>Polling percentage: </b>86.24% (1342368 voters)<br><b>Total no of voters: </b>1556469<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 55vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(55.1%)</td><td style=\"border: 1px solid white;width: 39vw;background-color: rgba(255,255,0,1);\">TDP <br>(39.1%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.8%)</td></tr></table><br>"
         },
         "17": {
             "color": "rgba(0.0,215.0,255.0,1)",
-            "matter": "<b>AC NAME: </b>Nandyal<br><b>AC NO:  </b>17<hr><b>WINNER:  </b>POCHA . BRAHMANANDA REDDY<br><b>WON BY:  </b>YSRCP<br><b>RUNNER:  </b>MANDRA SIVANANDA REDDY<br><b>LOST BY:  </b>TDP<br><b>margin:  </b>250119<br>"
+            "matter": "<b>AC Name: </b>Nandyal<br><b>AC no: </b>17<br><hr><b>Winner: </b>POCHA . BRAHMANANDA REDDY<br><b>Won By: </b>YSRCP (720888 votes)<br><b>Runner: </b>MANDRA SIVANANDA REDDY<br><b>Lost By: </b>TDP (470769 votes)<br><b>Margin: </b>250119<br><b>Polling percentage: </b>81.03% (1299093 voters)<br><b>Total no of voters: </b>1603220<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 55vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(55.5%)</td><td style=\"border: 1px solid white;width: 36vw;background-color: rgba(255,255,0,1);\">TDP <br>(36.2%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(8.3%)</td></tr></table><br>"
+        },
+        "18": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Kurnool<br><b>AC no: </b>18<br><hr><b>Winner: </b>AYUSHMAN DOCTOR SANJEEV KUMAR<br><b>Won By: </b>YSRCP (605462 votes)<br><b>Runner: </b>KOTLA JAYA SURYA PRAKASH REDDY<br><b>Lost By: </b>TDP (456395 votes)<br><b>Margin: </b>149067<br><b>Polling percentage: </b>75.54% (1188327 voters)<br><b>Total no of voters: </b>1573009<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 51vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(51.0%)</td><td style=\"border: 1px solid white;width: 38vw;background-color: rgba(255,255,0,1);\">TDP <br>(38.4%)</td><td style=\"border: 1px solid white;width: 10vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(10.6%)</td></tr></table><br>"
+        },
+        "19": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Anantapur<br><b>AC no: </b>19<br><hr><b>Winner: </b>TALARI RANGAIAH<br><b>Won By: </b>YSRCP (695208 votes)<br><b>Runner: </b>J.C. PAVAN REDDY<br><b>Lost By: </b>TDP (553780 votes)<br><b>Margin: </b>141428<br><b>Polling percentage: </b>80.66% (1342306 voters)<br><b>Total no of voters: </b>1664160<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 51vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(51.8%)</td><td style=\"border: 1px solid white;width: 41vw;background-color: rgba(255,255,0,1);\">TDP <br>(41.3%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(6.9%)</td></tr></table><br>"
+        },
+        "20": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Hindupur<br><b>AC no: </b>20<br><hr><b>Winner: </b>KURUVA GORANTLA MADHAV<br><b>Won By: </b>YSRCP (706602 votes)<br><b>Runner: </b>KRISTAPPA . NIMMALA<br><b>Lost By: </b>TDP (565854 votes)<br><b>Margin: </b>140748<br><b>Polling percentage: </b>84.81% (1338514 voters)<br><b>Total no of voters: </b>1578218<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 52vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(52.8%)</td><td style=\"border: 1px solid white;width: 42vw;background-color: rgba(255,255,0,1);\">TDP <br>(42.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(4.9%)</td></tr></table><br>"
+        },
+        "21": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Kadapa<br><b>AC no: </b>21<br><hr><b>Winner: </b>Y.S.Avinash Reddy<br><b>Won By: </b>YSRCP (783499 votes)<br><b>Runner: </b>Adi Narayana Reddy Chadipirala<br><b>Lost By: </b>TDP (402773 votes)<br><b>Margin: </b>380726<br><b>Polling percentage: </b>78.22% (1228242 voters)<br><b>Total no of voters: </b>1570330<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 63vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(63.8%)</td><td style=\"border: 1px solid white;width: 32vw;background-color: rgba(255,255,0,1);\">TDP <br>(32.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(3.4%)</td></tr></table><br>"
+        },
+        "22": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Nellore<br><b>AC no: </b>22<br><hr><b>Winner: </b>Adala Prabhakara Reddy<br><b>Won By: </b>YSRCP (683830 votes)<br><b>Runner: </b>Beeda Masthan Rao<br><b>Lost By: </b>TDP (535259 votes)<br><b>Margin: </b>148571<br><b>Polling percentage: </b>76.94% (1287036 voters)<br><b>Total no of voters: </b>1672845<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 53vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(53.1%)</td><td style=\"border: 1px solid white;width: 41vw;background-color: rgba(255,255,0,1);\">TDP <br>(41.6%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(5.3%)</td></tr></table><br>"
+        },
+        "23": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Tirupati<br><b>AC no: </b>23<br><hr><b>Winner: </b>Balli Durga Prasad Rao<br><b>Won By: </b>YSRCP (722877 votes)<br><b>Runner: </b>Panabaka Lakshmi<br><b>Lost By: </b>TDP (494501 votes)<br><b>Margin: </b>228376<br><b>Polling percentage: </b>79.59% (1313515 voters)<br><b>Total no of voters: </b>1650453<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 55vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(55.0%)</td><td style=\"border: 1px solid white;width: 37vw;background-color: rgba(255,255,0,1);\">TDP <br>(37.6%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(7.4%)</td></tr></table><br>"
+        },
+        "24": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Rajampet<br><b>AC no: </b>24<br><hr><b>Winner: </b>P.V.MIDHUN REDDY<br><b>Won By: </b>YSRCP (702211 votes)<br><b>Runner: </b>D A SATHYA PRABHA<br><b>Lost By: </b>TDP (433927 votes)<br><b>Margin: </b>268284<br><b>Polling percentage: </b>79.15% (1224354 voters)<br><b>Total no of voters: </b>1546938<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 57vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(57.4%)</td><td style=\"border: 1px solid white;width: 35vw;background-color: rgba(255,255,0,1);\">TDP <br>(35.4%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(7.2%)</td></tr></table><br>"
+        },
+        "25": {
+            "color": "rgba(0.0,215.0,255.0,1)",
+            "matter": "<b>AC Name: </b>Chittoor<br><b>AC no: </b>25<br><hr><b>Winner: </b>N. REDDEPPA<br><b>Won By: </b>YSRCP (686792 votes)<br><b>Runner: </b>NARAMALLI SIVA PRASAD<br><b>Lost By: </b>TDP (549521 votes)<br><b>Margin: </b>137271<br><b>Polling percentage: </b>84.23% (1319472 voters)<br><b>Total no of voters: </b>1566499<br><hr><table style=\"border: 2px solid white;\"><tr><td style=\"border: 1px solid white;width: 52vw;background-color: rgba(0.0,215.0,255.0,1);\">YSRCP <br>(52.1%)</td><td style=\"border: 1px solid white;width: 41vw;background-color: rgba(255,255,0,1);\">TDP <br>(41.6%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(191.25,191.25,191.25,1);\">Others <br>(6.3%)</td></tr></table><br>"
         }
     }
 }
