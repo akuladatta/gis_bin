@@ -1,0 +1,904 @@
+{
+  "title": "BJP in KAR 2018",
+  "trigger": "AC_CODE",
+  "desc": "<table class='col-md-12'><caption>Index</caption><thead><tr><th>Color</th><th>Percentage</th><th>Count</th></tr></thead><tbody><tr><td style=\"background-color: #2c7bb6;\"></td><td>0.91% to 14.17%</td><td>33</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>14.17% to 27.43%</td><td>24</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>27.43% to 40.7%</td><td>49</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>40.7% to 53.96%</td><td>95</td></tr><tr><td style=\"background-color: #ff0000;\"></td><td>53.96% to 67.22%</td><td>23</td></tr><tr><td></td><td></td><td>224</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+  "data": {
+    "001": {
+      "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+      "matter": "<b>AC NO: </b>1<br><b>AC Name: </b>Nippani<br><b>Candidate Name: </b>JOLLE SHASHIKALA ANNASAHEB<br><b>Gender: </b>F<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>86862<br><b>Postal Votes: </b>144<br><b>Total Votes: </b>87006<br><b>Total Voters: </b>212456<br><b>Percenatge: </b>50.51<br><b>Position: </b>1<br>"
+    },
+    "002": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>2<br><b>AC Name: </b>Chikkodi-Sadalga<br><b>Candidate Name: </b>ANNASAHEB SHANKAR JOLLE<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>80596<br><b>Postal Votes: </b>302<br><b>Total Votes: </b>80898<br><b>Total Voters: </b>211083<br><b>Percenatge: </b>45.14<br><b>Position: </b>2<br>"
+    },
+    "003": {
+      "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+      "matter": "<b>AC NO: </b>3<br><b>AC Name: </b>Athani<br><b>Candidate Name: </b>LAXMAN SANGAPPA SAVADI<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>79421<br><b>Postal Votes: </b>342<br><b>Total Votes: </b>79763<br><b>Total Voters: </b>214688<br><b>Percenatge: </b>46.76<br><b>Position: </b>2<br>"
+    },
+    "004": {
+      "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+      "matter": "<b>AC NO: </b>4<br><b>AC Name: </b>Kagwad<br><b>Candidate Name: </b>BHARAMAGOUDA ALAGOUDA KAGE<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>49896<br><b>Postal Votes: </b>222<br><b>Total Votes: </b>50118<br><b>Total Voters: </b>182173<br><b>Percenatge: </b>34.39<br><b>Position: </b>2<br>"
+    },
+    "005": {
+      "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+      "matter": "<b>AC NO: </b>5<br><b>AC Name: </b>Kudachi  (SC)<br><b>Candidate Name: </b>P.RAJEEV<br><b>Gender: </b>M<br><b>Age: </b>40<br><b>Category: </b>SC<br><b>General Votes: </b>67504<br><b>Postal Votes: </b>277<br><b>Total Votes: </b>67781<br><b>Total Voters: </b>180509<br><b>Percenatge: </b>49.6<br><b>Position: </b>1<br>"
+    },
+    "006": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>6<br><b>AC Name: </b>Raybag  (SC)<br><b>Candidate Name: </b>AIHOLE DURYODHAN MAHALINGAPPA<br><b>Gender: </b>M<br><b>Age: </b>61<br><b>Category: </b>SC<br><b>General Votes: </b>67237<br><b>Postal Votes: </b>265<br><b>Total Votes: </b>67502<br><b>Total Voters: </b>195850<br><b>Percenatge: </b>44.88<br><b>Position: </b>1<br>"
+    },
+    "007": {
+      "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+      "matter": "<b>AC NO: </b>7<br><b>AC Name: </b>Hukkeri<br><b>Candidate Name: </b>UMESH VISHWANATH KATTI<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>83217<br><b>Postal Votes: </b>371<br><b>Total Votes: </b>83588<br><b>Total Voters: </b>194888<br><b>Percenatge: </b>52.94<br><b>Position: </b>1<br>"
+    },
+    "008": {
+      "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+      "matter": "<b>AC NO: </b>8<br><b>AC Name: </b>Arabhavi<br><b>Candidate Name: </b>BALACHANDRA LAKSHMANARAO JARAKIHOLI<br><b>Gender: </b>M<br><b>Age: </b>51<br><b>Category: </b>ST<br><b>General Votes: </b>95783<br><b>Postal Votes: </b>361<br><b>Total Votes: </b>96144<br><b>Total Voters: </b>231864<br><b>Percenatge: </b>54.34<br><b>Position: </b>1<br>"
+    },
+    "009": {
+      "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+      "matter": "<b>AC NO: </b>9<br><b>AC Name: </b>Gokak<br><b>Candidate Name: </b>ASHOK NINGAYYASWAMI PUJARI<br><b>Gender: </b>M<br><b>Age: </b>60<br><b>Category: </b>GEN<br><b>General Votes: </b>75651<br><b>Postal Votes: </b>318<br><b>Total Votes: </b>75969<br><b>Total Voters: </b>242402<br><b>Percenatge: </b>43.67<br><b>Position: </b>2<br>"
+    },
+    "010": {
+      "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+      "matter": "<b>AC NO: </b>10<br><b>AC Name: </b>Yemkanmardi  (ST)<br><b>Candidate Name: </b>ASTAGI MARUTI MALLAPPA<br><b>Gender: </b>M<br><b>Age: </b>39<br><b>Category: </b>ST<br><b>General Votes: </b>70506<br><b>Postal Votes: </b>156<br><b>Total Votes: </b>70662<br><b>Total Voters: </b>188279<br><b>Percenatge: </b>47.26<br><b>Position: </b>2<br>"
+    },
+    "011": {
+      "color": "rgba(242.8788, 83.2323, 63.8384, 1.0)",
+      "matter": "<b>AC NO: </b>11<br><b>AC Name: </b>Belgaum Uttar<br><b>Candidate Name: </b>ANIL S BENAKE<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>78618<br><b>Postal Votes: </b>442<br><b>Total Votes: </b>79060<br><b>Total Voters: </b>235098<br><b>Percenatge: </b>53.63<br><b>Position: </b>1<br>"
+    },
+    "012": {
+      "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+      "matter": "<b>AC NO: </b>12<br><b>AC Name: </b>Belgaum Dakshin<br><b>Candidate Name: </b>ABHAY  PATIL<br><b>Gender: </b>M<br><b>Age: </b>48<br><b>Category: </b>GEN<br><b>General Votes: </b>84229<br><b>Postal Votes: </b>269<br><b>Total Votes: </b>84498<br><b>Total Voters: </b>234896<br><b>Percenatge: </b>57.59<br><b>Position: </b>1<br>"
+    },
+    "013": {
+      "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+      "matter": "<b>AC NO: </b>13<br><b>AC Name: </b>Belgaum Rural<br><b>Candidate Name: </b>SANJAY B PATIL<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>50111<br><b>Postal Votes: </b>205<br><b>Total Votes: </b>50316<br><b>Total Voters: </b>240389<br><b>Percenatge: </b>26.99<br><b>Position: </b>2<br>"
+    },
+    "014": {
+      "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+      "matter": "<b>AC NO: </b>14<br><b>AC Name: </b>Khanapur<br><b>Candidate Name: </b>VITHAL HALAGEKAR<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>31391<br><b>Postal Votes: </b>125<br><b>Total Votes: </b>31516<br><b>Total Voters: </b>206576<br><b>Percenatge: </b>20.44<br><b>Position: </b>2<br>"
+    },
+    "015": {
+      "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+      "matter": "<b>AC NO: </b>15<br><b>AC Name: </b>Kittur<br><b>Candidate Name: </b>DODDAGOUDAR MAHANTESH BASAVANTARAY<br><b>Gender: </b>M<br><b>Age: </b>44<br><b>Category: </b>GEN<br><b>General Votes: </b>72637<br><b>Postal Votes: </b>518<br><b>Total Votes: </b>73155<br><b>Total Voters: </b>188915<br><b>Percenatge: </b>49.26<br><b>Position: </b>1<br>"
+    },
+    "016": {
+      "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+      "matter": "<b>AC NO: </b>16<br><b>AC Name: </b>Bailhongal<br><b>Candidate Name: </b>VISHWANATH IRANAGOUDA PATIL<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>37013<br><b>Postal Votes: </b>485<br><b>Total Votes: </b>37498<br><b>Total Voters: </b>184815<br><b>Percenatge: </b>25.9<br><b>Position: </b>3<br>"
+    },
+    "017": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>17<br><b>AC Name: </b>Saundatti yellamma<br><b>Candidate Name: </b>ANAND @ VISHWANATH CHANDRASHEKHAR MAMANI<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>62008<br><b>Postal Votes: </b>472<br><b>Total Votes: </b>62480<br><b>Total Voters: </b>191740<br><b>Percenatge: </b>40.65<br><b>Position: </b>1<br>"
+    },
+    "018": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>18<br><b>AC Name: </b>Ramdurg<br><b>Candidate Name: </b>MAHADEVAPPA SHIVALINGAPPA YADAWAD<br><b>Gender: </b>M<br><b>Age: </b>65<br><b>Category: </b>GEN<br><b>General Votes: </b>67970<br><b>Postal Votes: </b>379<br><b>Total Votes: </b>68349<br><b>Total Voters: </b>200580<br><b>Percenatge: </b>45.17<br><b>Position: </b>1<br>"
+    },
+    "019": {
+      "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+      "matter": "<b>AC NO: </b>19<br><b>AC Name: </b>Mudhol  (SC)<br><b>Candidate Name: </b>GOVIND MAKTHAPPA KARAJOL<br><b>Gender: </b>M<br><b>Age: </b>67<br><b>Category: </b>SC<br><b>General Votes: </b>75990<br><b>Postal Votes: </b>441<br><b>Total Votes: </b>76431<br><b>Total Voters: </b>196118<br><b>Percenatge: </b>51.63<br><b>Position: </b>1<br>"
+    },
+    "020": {
+      "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+      "matter": "<b>AC NO: </b>20<br><b>AC Name: </b>Terdal<br><b>Candidate Name: </b>SIDDU SAVADI<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>87124<br><b>Postal Votes: </b>459<br><b>Total Votes: </b>87583<br><b>Total Voters: </b>220421<br><b>Percenatge: </b>50.45<br><b>Position: </b>1<br>"
+    },
+    "021": {
+      "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+      "matter": "<b>AC NO: </b>21<br><b>AC Name: </b>Jamkhandi<br><b>Candidate Name: </b>KULKARNI SHRIKANT SUBRAO<br><b>Gender: </b>M<br><b>Age: </b>67<br><b>Category: </b>GEN<br><b>General Votes: </b>46148<br><b>Postal Votes: </b>302<br><b>Total Votes: </b>46450<br><b>Total Voters: </b>203821<br><b>Percenatge: </b>30.24<br><b>Position: </b>2<br>"
+    },
+    "022": {
+      "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+      "matter": "<b>AC NO: </b>22<br><b>AC Name: </b>Bilgi<br><b>Candidate Name: </b>MURUGESH RUDRAPPA NIRANI<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>84674<br><b>Postal Votes: </b>461<br><b>Total Votes: </b>85135<br><b>Total Voters: </b>218220<br><b>Percenatge: </b>49.12<br><b>Position: </b>1<br>"
+    },
+    "023": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>23<br><b>AC Name: </b>Badami<br><b>Candidate Name: </b>B SREERAMULU<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>ST<br><b>General Votes: </b>65058<br><b>Postal Votes: </b>845<br><b>Total Votes: </b>65903<br><b>Total Voters: </b>217721<br><b>Percenatge: </b>40.2<br><b>Position: </b>2<br>"
+    },
+    "024": {
+      "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+      "matter": "<b>AC NO: </b>24<br><b>AC Name: </b>Bagalkot<br><b>Candidate Name: </b>VEERABHADRAYYA (VEERANNA) CHARANTIMATH<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>84647<br><b>Postal Votes: </b>1006<br><b>Total Votes: </b>85653<br><b>Total Voters: </b>230918<br><b>Percenatge: </b>53.03<br><b>Position: </b>1<br>"
+    },
+    "025": {
+      "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+      "matter": "<b>AC NO: </b>25<br><b>AC Name: </b>Hungund<br><b>Candidate Name: </b>DODDANAGOUDA G PATIL<br><b>Gender: </b>M<br><b>Age: </b>61<br><b>Category: </b>GEN<br><b>General Votes: </b>64284<br><b>Postal Votes: </b>728<br><b>Total Votes: </b>65012<br><b>Total Voters: </b>214145<br><b>Percenatge: </b>41.53<br><b>Position: </b>1<br>"
+    },
+    "026": {
+      "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+      "matter": "<b>AC NO: </b>26<br><b>AC Name: </b>Muddebihal<br><b>Candidate Name: </b>AMEENAPPA GOUDA S PATIL (NADAHALLI)<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>63057<br><b>Postal Votes: </b>455<br><b>Total Votes: </b>63512<br><b>Total Voters: </b>205694<br><b>Percenatge: </b>45.76<br><b>Position: </b>1<br>"
+    },
+    "027": {
+      "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+      "matter": "<b>AC NO: </b>27<br><b>AC Name: </b>Devar Hippargi<br><b>Candidate Name: </b>SOMANAGOUDA B PATIL (SASANUR)<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>48016<br><b>Postal Votes: </b>229<br><b>Total Votes: </b>48245<br><b>Total Voters: </b>208670<br><b>Percenatge: </b>34.69<br><b>Position: </b>1<br>"
+    },
+    "028": {
+      "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+      "matter": "<b>AC NO: </b>28<br><b>AC Name: </b>Basavana Bagevadi<br><b>Candidate Name: </b>SANGARAJ DESAI<br><b>Gender: </b>M<br><b>Age: </b>43<br><b>Category: </b>GEN<br><b>General Votes: </b>25349<br><b>Postal Votes: </b>152<br><b>Total Votes: </b>25501<br><b>Total Voters: </b>201271<br><b>Percenatge: </b>17.3<br><b>Position: </b>3<br>"
+    },
+    "029": {
+      "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+      "matter": "<b>AC NO: </b>29<br><b>AC Name: </b>Babaleshwar<br><b>Candidate Name: </b>VIJAYAKUMAR SIDRAMGOUDA PATIL<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>68402<br><b>Postal Votes: </b>222<br><b>Total Votes: </b>68624<br><b>Total Voters: </b>211779<br><b>Percenatge: </b>39.98<br><b>Position: </b>2<br>"
+    },
+    "030": {
+      "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+      "matter": "<b>AC NO: </b>30<br><b>AC Name: </b>Bijapur City<br><b>Candidate Name: </b>BASANAGOUD .R. PATIL (YATNAL)<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>76173<br><b>Postal Votes: </b>135<br><b>Total Votes: </b>76308<br><b>Total Voters: </b>247287<br><b>Percenatge: </b>50.3<br><b>Position: </b>1<br>"
+    },
+    "031": {
+      "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+      "matter": "<b>AC NO: </b>31<br><b>AC Name: </b>Nagthan  (SC)<br><b>Candidate Name: </b>GOPAL GOVIND KARJOL<br><b>Gender: </b>M<br><b>Age: </b>43<br><b>Category: </b>SC<br><b>General Votes: </b>53480<br><b>Postal Votes: </b>82<br><b>Total Votes: </b>53562<br><b>Total Voters: </b>260452<br><b>Percenatge: </b>30.5<br><b>Position: </b>3<br>"
+    },
+    "032": {
+      "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+      "matter": "<b>AC NO: </b>32<br><b>AC Name: </b>Indi<br><b>Candidate Name: </b>DAYASAGAR BAPURAYA PATIL<br><b>Gender: </b>M<br><b>Age: </b>46<br><b>Category: </b>GEN<br><b>General Votes: </b>38696<br><b>Postal Votes: </b>245<br><b>Total Votes: </b>38941<br><b>Total Voters: </b>232095<br><b>Percenatge: </b>23.16<br><b>Position: </b>3<br>"
+    },
+    "033": {
+      "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+      "matter": "<b>AC NO: </b>33<br><b>AC Name: </b>Sindgi<br><b>Candidate Name: </b>BHUSANUR RAMESH BALAPPA<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>61155<br><b>Postal Votes: </b>405<br><b>Total Votes: </b>61560<br><b>Total Voters: </b>224963<br><b>Percenatge: </b>38.36<br><b>Position: </b>2<br>"
+    },
+    "034": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>34<br><b>AC Name: </b>Afzalpur<br><b>Candidate Name: </b>MALIKAYYA GUTTEDAR<br><b>Gender: </b>M<br><b>Age: </b>63<br><b>Category: </b>GEN<br><b>General Votes: </b>60426<br><b>Postal Votes: </b>715<br><b>Total Votes: </b>61141<br><b>Total Voters: </b>220007<br><b>Percenatge: </b>40.84<br><b>Position: </b>2<br>"
+    },
+    "035": {
+      "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+      "matter": "<b>AC NO: </b>35<br><b>AC Name: </b>Jevargi<br><b>Candidate Name: </b>DODDAPPAGOWDA S. PATIL NARIBOL<br><b>Gender: </b>M<br><b>Age: </b>46<br><b>Category: </b>GEN<br><b>General Votes: </b>52040<br><b>Postal Votes: </b>412<br><b>Total Votes: </b>52452<br><b>Total Voters: </b>234403<br><b>Percenatge: </b>32.43<br><b>Position: </b>2<br>"
+    },
+    "036": {
+      "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+      "matter": "<b>AC NO: </b>36<br><b>AC Name: </b>Shorapur  (ST)<br><b>Candidate Name: </b>NARASIMHANAYAK (RAJUGOUDA)<br><b>Gender: </b>M<br><b>Age: </b>39<br><b>Category: </b>ST<br><b>General Votes: </b>103923<br><b>Postal Votes: </b>503<br><b>Total Votes: </b>104426<br><b>Total Voters: </b>275668<br><b>Percenatge: </b>52.96<br><b>Position: </b>1<br>"
+    },
+    "037": {
+      "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+      "matter": "<b>AC NO: </b>37<br><b>AC Name: </b>Shahapur<br><b>Candidate Name: </b>GURU PATIL SIRWAL<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>GEN<br><b>General Votes: </b>47367<br><b>Postal Votes: </b>301<br><b>Total Votes: </b>47668<br><b>Total Voters: </b>225803<br><b>Percenatge: </b>30.47<br><b>Position: </b>2<br>"
+    },
+    "038": {
+      "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+      "matter": "<b>AC NO: </b>38<br><b>AC Name: </b>Yadgir<br><b>Candidate Name: </b>VENKATREDDY MUDNAL<br><b>Gender: </b>M<br><b>Age: </b>63<br><b>Category: </b>GEN<br><b>General Votes: </b>61833<br><b>Postal Votes: </b>394<br><b>Total Votes: </b>62227<br><b>Total Voters: </b>235682<br><b>Percenatge: </b>43.08<br><b>Position: </b>1<br>"
+    },
+    "039": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b>AC NO: </b>39<br><b>AC Name: </b>Gurmitkal<br><b>Candidate Name: </b>SAYIBANNA<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>8954<br><b>Postal Votes: </b>41<br><b>Total Votes: </b>8995<br><b>Total Voters: </b>245215<br><b>Percenatge: </b>5.92<br><b>Position: </b>3<br>"
+    },
+    "040": {
+      "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+      "matter": "<b>AC NO: </b>40<br><b>AC Name: </b>Chittapur  (SC)<br><b>Candidate Name: </b>VALMIK NAIK<br><b>Gender: </b>M<br><b>Age: </b>70<br><b>Category: </b>SC<br><b>General Votes: </b>65056<br><b>Postal Votes: </b>251<br><b>Total Votes: </b>65307<br><b>Total Voters: </b>231920<br><b>Percenatge: </b>46.53<br><b>Position: </b>2<br>"
+    },
+    "041": {
+      "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+      "matter": "<b>AC NO: </b>41<br><b>AC Name: </b>Sedam<br><b>Candidate Name: </b>RAJKUMAR PATIL<br><b>Gender: </b>M<br><b>Age: </b>43<br><b>Category: </b>GEN<br><b>General Votes: </b>80224<br><b>Postal Votes: </b>444<br><b>Total Votes: </b>80668<br><b>Total Voters: </b>215147<br><b>Percenatge: </b>50.87<br><b>Position: </b>1<br>"
+    },
+    "042": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>42<br><b>AC Name: </b>Chincholi  (SC)<br><b>Candidate Name: </b>SUNIL Y VALLYAPURE<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>SC<br><b>General Votes: </b>54507<br><b>Postal Votes: </b>186<br><b>Total Votes: </b>54693<br><b>Total Voters: </b>193648<br><b>Percenatge: </b>41.12<br><b>Position: </b>2<br>"
+    },
+    "043": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>43<br><b>AC Name: </b>Gulbarga Rural  (SC)<br><b>Candidate Name: </b>BASAWARAJ MATTIMUD<br><b>Gender: </b>M<br><b>Age: </b>38<br><b>Category: </b>SC<br><b>General Votes: </b>61186<br><b>Postal Votes: </b>564<br><b>Total Votes: </b>61750<br><b>Total Voters: </b>250497<br><b>Percenatge: </b>40.49<br><b>Position: </b>1<br>"
+    },
+    "044": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>44<br><b>AC Name: </b>Gulbarga Dakshin<br><b>Candidate Name: </b>DATTATRAYA  C PATIL REVOOR  APPU GOUDA<br><b>Gender: </b>M<br><b>Age: </b>35<br><b>Category: </b>GEN<br><b>General Votes: </b>63105<br><b>Postal Votes: </b>1683<br><b>Total Votes: </b>64788<br><b>Total Voters: </b>263662<br><b>Percenatge: </b>44.88<br><b>Position: </b>1<br>"
+    },
+    "045": {
+      "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+      "matter": "<b>AC NO: </b>45<br><b>AC Name: </b>Gulbarga Uttar<br><b>Candidate Name: </b>CHANDRAKANT B PATIL (CHANDU PATIL)<br><b>Gender: </b>M<br><b>Age: </b>37<br><b>Category: </b>GEN<br><b>General Votes: </b>57406<br><b>Postal Votes: </b>965<br><b>Total Votes: </b>58371<br><b>Total Voters: </b>274281<br><b>Percenatge: </b>39.29<br><b>Position: </b>2<br>"
+    },
+    "046": {
+      "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+      "matter": "<b>AC NO: </b>46<br><b>AC Name: </b>Aland<br><b>Candidate Name: </b>GUTTEDAR SUBHASH RUKMAYYA<br><b>Gender: </b>M<br><b>Age: </b>66<br><b>Category: </b>GEN<br><b>General Votes: </b>76193<br><b>Postal Votes: </b>622<br><b>Total Votes: </b>76815<br><b>Total Voters: </b>233841<br><b>Percenatge: </b>47.83<br><b>Position: </b>1<br>"
+    },
+    "047": {
+      "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+      "matter": "<b>AC NO: </b>47<br><b>AC Name: </b>Basavakalyan<br><b>Candidate Name: </b>MALLIKARJUN SON OF SIDRAMAPPA KHUBA<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>GEN<br><b>General Votes: </b>43844<br><b>Postal Votes: </b>309<br><b>Total Votes: </b>44153<br><b>Total Voters: </b>224318<br><b>Percenatge: </b>30.38<br><b>Position: </b>2<br>"
+    },
+    "048": {
+      "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+      "matter": "<b>AC NO: </b>48<br><b>AC Name: </b>Humnabad<br><b>Candidate Name: </b>SUBHASH<br><b>Gender: </b>M<br><b>Age: </b>68<br><b>Category: </b>GEN<br><b>General Votes: </b>42850<br><b>Postal Votes: </b>281<br><b>Total Votes: </b>43131<br><b>Total Voters: </b>238628<br><b>Percenatge: </b>27.07<br><b>Position: </b>2<br>"
+    },
+    "049": {
+      "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+      "matter": "<b>AC NO: </b>49<br><b>AC Name: </b>Bidar South<br><b>Candidate Name: </b>DR SHAILENDRA BELDALE<br><b>Gender: </b>M<br><b>Age: </b>44<br><b>Category: </b>GEN<br><b>General Votes: </b>42181<br><b>Postal Votes: </b>184<br><b>Total Votes: </b>42365<br><b>Total Voters: </b>199222<br><b>Percenatge: </b>30.5<br><b>Position: </b>2<br>"
+    },
+    "050": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>50<br><b>AC Name: </b>Bidar<br><b>Candidate Name: </b>SURAYAKANTH NAGMARPALLI<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>61858<br><b>Postal Votes: </b>1167<br><b>Total Votes: </b>63025<br><b>Total Voters: </b>216853<br><b>Percenatge: </b>44.82<br><b>Position: </b>2<br>"
+    },
+    "051": {
+      "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+      "matter": "<b>AC NO: </b>51<br><b>AC Name: </b>Bhalki<br><b>Candidate Name: </b>D K SIDRAM<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>62909<br><b>Postal Votes: </b>326<br><b>Total Votes: </b>63235<br><b>Total Voters: </b>224708<br><b>Percenatge: </b>37.85<br><b>Position: </b>2<br>"
+    },
+    "052": {
+      "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+      "matter": "<b>AC NO: </b>52<br><b>AC Name: </b>Aurad  (SC)<br><b>Candidate Name: </b>PRABHU CHAUHAN<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>SC<br><b>General Votes: </b>74468<br><b>Postal Votes: </b>593<br><b>Total Votes: </b>75061<br><b>Total Voters: </b>214461<br><b>Percenatge: </b>50.92<br><b>Position: </b>1<br>"
+    },
+    "053": {
+      "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+      "matter": "<b>AC NO: </b>53<br><b>AC Name: </b>Raichur Rural  (ST)<br><b>Candidate Name: </b>TIPPARAJU HAWALDAR<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>ST<br><b>General Votes: </b>56618<br><b>Postal Votes: </b>74<br><b>Total Votes: </b>56692<br><b>Total Voters: </b>233464<br><b>Percenatge: </b>35.06<br><b>Position: </b>2<br>"
+    },
+    "054": {
+      "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+      "matter": "<b>AC NO: </b>54<br><b>AC Name: </b>Raichur<br><b>Candidate Name: </b>DR. SHIVARAJ PATIL<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>GEN<br><b>General Votes: </b>56246<br><b>Postal Votes: </b>265<br><b>Total Votes: </b>56511<br><b>Total Voters: </b>228286<br><b>Percenatge: </b>45.61<br><b>Position: </b>1<br>"
+    },
+    "055": {
+      "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+      "matter": "<b>AC NO: </b>55<br><b>AC Name: </b>Manvi  (ST)<br><b>Candidate Name: </b>SHARANAPPA K GUDADINNI<br><b>Gender: </b>M<br><b>Age: </b>44<br><b>Category: </b>ST<br><b>General Votes: </b>30131<br><b>Postal Votes: </b>119<br><b>Total Votes: </b>30250<br><b>Total Voters: </b>244675<br><b>Percenatge: </b>19.64<br><b>Position: </b>3<br>"
+    },
+    "056": {
+      "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+      "matter": "<b>AC NO: </b>56<br><b>AC Name: </b>Devadurga  (ST)<br><b>Candidate Name: </b>SHIVANA GOUDA NAYAK<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>ST<br><b>General Votes: </b>66873<br><b>Postal Votes: </b>130<br><b>Total Votes: </b>67003<br><b>Total Voters: </b>227846<br><b>Percenatge: </b>42.58<br><b>Position: </b>1<br>"
+    },
+    "057": {
+      "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+      "matter": "<b>AC NO: </b>57<br><b>AC Name: </b>Lingsugur  (SC)<br><b>Candidate Name: </b>MANAPPA D VAJJAL<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>SC<br><b>General Votes: </b>47034<br><b>Postal Votes: </b>351<br><b>Total Votes: </b>47385<br><b>Total Voters: </b>240984<br><b>Percenatge: </b>28.87<br><b>Position: </b>3<br>"
+    },
+    "058": {
+      "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+      "matter": "<b>AC NO: </b>58<br><b>AC Name: </b>Sindhanur<br><b>Candidate Name: </b>KOLLA SHESHAGIRIRAO<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>14740<br><b>Postal Votes: </b>55<br><b>Total Votes: </b>14795<br><b>Total Voters: </b>234521<br><b>Percenatge: </b>9.05<br><b>Position: </b>3<br>"
+    },
+    "059": {
+      "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+      "matter": "<b>AC NO: </b>59<br><b>AC Name: </b>Maski  (ST)<br><b>Candidate Name: </b>BASANAGOWDA-TURVIHAL<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>ST<br><b>General Votes: </b>59984<br><b>Postal Votes: </b>190<br><b>Total Votes: </b>60174<br><b>Total Voters: </b>198451<br><b>Percenatge: </b>44.01<br><b>Position: </b>2<br>"
+    },
+    "060": {
+      "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+      "matter": "<b>AC NO: </b>60<br><b>AC Name: </b>Kushtagi<br><b>Candidate Name: </b>DODDANAGOUDA HANAMAGOUDA PATIL<br><b>Gender: </b>M<br><b>Age: </b>45<br><b>Category: </b>GEN<br><b>General Votes: </b>68948<br><b>Postal Votes: </b>587<br><b>Total Votes: </b>69535<br><b>Total Voters: </b>224827<br><b>Percenatge: </b>41.87<br><b>Position: </b>2<br>"
+    },
+    "061": {
+      "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+      "matter": "<b>AC NO: </b>61<br><b>AC Name: </b>Kanakagiri  (SC)<br><b>Candidate Name: </b>BASAVARAJ  DADESUGUR<br><b>Gender: </b>M<br><b>Age: </b>38<br><b>Category: </b>SC<br><b>General Votes: </b>87439<br><b>Postal Votes: </b>296<br><b>Total Votes: </b>87735<br><b>Total Voters: </b>211567<br><b>Percenatge: </b>52.38<br><b>Position: </b>1<br>"
+    },
+    "062": {
+      "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+      "matter": "<b>AC NO: </b>62<br><b>AC Name: </b>Gangawati<br><b>Candidate Name: </b>PARANNA ESHWARAPPA MUNAVALLI<br><b>Gender: </b>M<br><b>Age: </b>64<br><b>Category: </b>GEN<br><b>General Votes: </b>67052<br><b>Postal Votes: </b>565<br><b>Total Votes: </b>67617<br><b>Total Voters: </b>194079<br><b>Percenatge: </b>45.91<br><b>Position: </b>1<br>"
+    },
+    "063": {
+      "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+      "matter": "<b>AC NO: </b>63<br><b>AC Name: </b>Yelburga<br><b>Candidate Name: </b>ACHAR HALAPPA BASAPPA<br><b>Gender: </b>M<br><b>Age: </b>66<br><b>Category: </b>GEN<br><b>General Votes: </b>78251<br><b>Postal Votes: </b>821<br><b>Total Votes: </b>79072<br><b>Total Voters: </b>207232<br><b>Percenatge: </b>48.02<br><b>Position: </b>1<br>"
+    },
+    "064": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>64<br><b>AC Name: </b>Koppal<br><b>Candidate Name: </b>AMARESH SANGANNA KARADI<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>GEN<br><b>General Votes: </b>71435<br><b>Postal Votes: </b>997<br><b>Total Votes: </b>72432<br><b>Total Voters: </b>241032<br><b>Percenatge: </b>40.07<br><b>Position: </b>2<br>"
+    },
+    "065": {
+      "color": "rgba(245.9091, 62.4242, 47.8788, 1.0)",
+      "matter": "<b>AC NO: </b>65<br><b>AC Name: </b>Shirahatti  (SC)<br><b>Candidate Name: </b>RAMAPPA SOBEPPA LAMANI<br><b>Gender: </b>M<br><b>Age: </b>66<br><b>Category: </b>SC<br><b>General Votes: </b>91166<br><b>Postal Votes: </b>801<br><b>Total Votes: </b>91967<br><b>Total Voters: </b>212260<br><b>Percenatge: </b>57.26<br><b>Position: </b>1<br>"
+    },
+    "066": {
+      "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+      "matter": "<b>AC NO: </b>66<br><b>AC Name: </b>Gadag<br><b>Candidate Name: </b>ANIL  MENSINAKAI<br><b>Gender: </b>M<br><b>Age: </b>43<br><b>Category: </b>GEN<br><b>General Votes: </b>74863<br><b>Postal Votes: </b>968<br><b>Total Votes: </b>75831<br><b>Total Voters: </b>219575<br><b>Percenatge: </b>47.25<br><b>Position: </b>2<br>"
+    },
+    "067": {
+      "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+      "matter": "<b>AC NO: </b>67<br><b>AC Name: </b>Ron<br><b>Candidate Name: </b>KALAKAPPA BANDI<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>83061<br><b>Postal Votes: </b>674<br><b>Total Votes: </b>83735<br><b>Total Voters: </b>224989<br><b>Percenatge: </b>49.09<br><b>Position: </b>1<br>"
+    },
+    "068": {
+      "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+      "matter": "<b>AC NO: </b>68<br><b>AC Name: </b>Nargund<br><b>Candidate Name: </b>CHANDRAKANTAGOUDA CHANNAPPAGOUDA PATIL<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>72374<br><b>Postal Votes: </b>671<br><b>Total Votes: </b>73045<br><b>Total Voters: </b>187655<br><b>Percenatge: </b>50.52<br><b>Position: </b>1<br>"
+    },
+    "069": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>69<br><b>AC Name: </b>Navalgund<br><b>Candidate Name: </b>SHANKAR  B. PATIL MUNENAKOPPA<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>65369<br><b>Postal Votes: </b>349<br><b>Total Votes: </b>65718<br><b>Total Voters: </b>204041<br><b>Percenatge: </b>41.19<br><b>Position: </b>1<br>"
+    },
+    "070": {
+      "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+      "matter": "<b>AC NO: </b>70<br><b>AC Name: </b>Kundgol<br><b>Candidate Name: </b>CHIKKANAGOUDRA SIDDANAGOUD ISHWARAGOD<br><b>Gender: </b>M<br><b>Age: </b>65<br><b>Category: </b>GEN<br><b>General Votes: </b>63985<br><b>Postal Votes: </b>252<br><b>Total Votes: </b>64237<br><b>Total Voters: </b>187513<br><b>Percenatge: </b>43.54<br><b>Position: </b>2<br>"
+    },
+    "071": {
+      "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+      "matter": "<b>AC NO: </b>71<br><b>AC Name: </b>Dharwad<br><b>Candidate Name: </b>AMRUT AYYAPPA DESAI<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>GEN<br><b>General Votes: </b>84742<br><b>Postal Votes: </b>381<br><b>Total Votes: </b>85123<br><b>Total Voters: </b>207025<br><b>Percenatge: </b>54.7<br><b>Position: </b>1<br>"
+    },
+    "072": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>72<br><b>AC Name: </b>Hubli-dharwad-East  (SC)<br><b>Candidate Name: </b>CHANDRASHEKAR  GOKAK<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>SC<br><b>General Votes: </b>55570<br><b>Postal Votes: </b>43<br><b>Total Votes: </b>55613<br><b>Total Voters: </b>194209<br><b>Percenatge: </b>40.86<br><b>Position: </b>2<br>"
+    },
+    "073": {
+      "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+      "matter": "<b>AC NO: </b>73<br><b>AC Name: </b>Hubli-Dharwad Central<br><b>Candidate Name: </b>JAGADISH SHETTAR<br><b>Gender: </b>M<br><b>Age: </b>62<br><b>Category: </b>GEN<br><b>General Votes: </b>75591<br><b>Postal Votes: </b>203<br><b>Total Votes: </b>75794<br><b>Total Voters: </b>242736<br><b>Percenatge: </b>51.31<br><b>Position: </b>1<br>"
+    },
+    "074": {
+      "color": "rgba(249.5455, 37.4545, 28.7273, 1.0)",
+      "matter": "<b>AC NO: </b>74<br><b>AC Name: </b>Hubli-dharwad- West<br><b>Candidate Name: </b>ARVIND BELLAD<br><b>Gender: </b>M<br><b>Age: </b>48<br><b>Category: </b>GEN<br><b>General Votes: </b>95516<br><b>Postal Votes: </b>946<br><b>Total Votes: </b>96462<br><b>Total Voters: </b>255252<br><b>Percenatge: </b>61.16<br><b>Position: </b>1<br>"
+    },
+    "075": {
+      "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+      "matter": "<b>AC NO: </b>75<br><b>AC Name: </b>Kalghatgi<br><b>Candidate Name: </b>C M NIMBANNAVAR<br><b>Gender: </b>M<br><b>Age: </b>71<br><b>Category: </b>GEN<br><b>General Votes: </b>83063<br><b>Postal Votes: </b>204<br><b>Total Votes: </b>83267<br><b>Total Voters: </b>189693<br><b>Percenatge: </b>54.82<br><b>Position: </b>1<br>"
+    },
+    "076": {
+      "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+      "matter": "<b>AC NO: </b>76<br><b>AC Name: </b>Haliyal<br><b>Candidate Name: </b>SUNIL HEGADE<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>56224<br><b>Postal Votes: </b>213<br><b>Total Votes: </b>56437<br><b>Total Voters: </b>172196<br><b>Percenatge: </b>42.53<br><b>Position: </b>2<br>"
+    },
+    "077": {
+      "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+      "matter": "<b>AC NO: </b>77<br><b>AC Name: </b>Karwar<br><b>Candidate Name: </b>ROOPALI SANTOSH NAIK<br><b>Gender: </b>F<br><b>Age: </b>45<br><b>Category: </b>GEN<br><b>General Votes: </b>59776<br><b>Postal Votes: </b>563<br><b>Total Votes: </b>60339<br><b>Total Voters: </b>217910<br><b>Percenatge: </b>37.69<br><b>Position: </b>1<br>"
+    },
+    "078": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>78<br><b>AC Name: </b>Kumta<br><b>Candidate Name: </b>DINAKAR KESHAV SHETTY<br><b>Gender: </b>M<br><b>Age: </b>60<br><b>Category: </b>GEN<br><b>General Votes: </b>58756<br><b>Postal Votes: </b>636<br><b>Total Votes: </b>59392<br><b>Total Voters: </b>180394<br><b>Percenatge: </b>40.63<br><b>Position: </b>1<br>"
+    },
+    "079": {
+      "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+      "matter": "<b>AC NO: </b>79<br><b>AC Name: </b>Bhatkal<br><b>Candidate Name: </b>SUNIL BILIYA NAIK<br><b>Gender: </b>M<br><b>Age: </b>39<br><b>Category: </b>GEN<br><b>General Votes: </b>82738<br><b>Postal Votes: </b>434<br><b>Total Votes: </b>83172<br><b>Total Voters: </b>214750<br><b>Percenatge: </b>50.14<br><b>Position: </b>1<br>"
+    },
+    "080": {
+      "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+      "matter": "<b>AC NO: </b>80<br><b>AC Name: </b>Sirsi<br><b>Candidate Name: </b>KAGERI  VISHWESHWAR HEGDE<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>69776<br><b>Postal Votes: </b>819<br><b>Total Votes: </b>70595<br><b>Total Voters: </b>190834<br><b>Percenatge: </b>45.52<br><b>Position: </b>1<br>"
+    },
+    "081": {
+      "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+      "matter": "<b>AC NO: </b>81<br><b>AC Name: </b>Yellapur<br><b>Candidate Name: </b>ANDALAGI VEERABHADRAGOUDA SHIVANAGOUDA PATIL<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>64386<br><b>Postal Votes: </b>421<br><b>Total Votes: </b>64807<br><b>Total Voters: </b>170510<br><b>Percenatge: </b>46.2<br><b>Position: </b>2<br>"
+    },
+    "082": {
+      "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+      "matter": "<b>AC NO: </b>82<br><b>AC Name: </b>Hangal<br><b>Candidate Name: </b>C M UDASI<br><b>Gender: </b>M<br><b>Age: </b>81<br><b>Category: </b>GEN<br><b>General Votes: </b>80053<br><b>Postal Votes: </b>476<br><b>Total Votes: </b>80529<br><b>Total Voters: </b>194354<br><b>Percenatge: </b>49.1<br><b>Position: </b>1<br>"
+    },
+    "083": {
+      "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+      "matter": "<b>AC NO: </b>83<br><b>AC Name: </b>Shiggaon<br><b>Candidate Name: </b>BASAVARAJ BOMMAI<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>83479<br><b>Postal Votes: </b>389<br><b>Total Votes: </b>83868<br><b>Total Voters: </b>213210<br><b>Percenatge: </b>49.02<br><b>Position: </b>1<br>"
+    },
+    "084": {
+      "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+      "matter": "<b>AC NO: </b>84<br><b>AC Name: </b>Haveri  (SC)<br><b>Candidate Name: </b>NEHARU OLEKAR<br><b>Gender: </b>M<br><b>Age: </b>61<br><b>Category: </b>SC<br><b>General Votes: </b>86021<br><b>Postal Votes: </b>544<br><b>Total Votes: </b>86565<br><b>Total Voters: </b>221791<br><b>Percenatge: </b>50.74<br><b>Position: </b>1<br>"
+    },
+    "085": {
+      "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+      "matter": "<b>AC NO: </b>85<br><b>AC Name: </b>Byadgi<br><b>Candidate Name: </b>BALLARY VIRUPAKSHAPPA RUDRAPPA<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>91109<br><b>Postal Votes: </b>612<br><b>Total Votes: </b>91721<br><b>Total Voters: </b>200878<br><b>Percenatge: </b>54.98<br><b>Position: </b>1<br>"
+    },
+    "086": {
+      "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+      "matter": "<b>AC NO: </b>86<br><b>AC Name: </b>Hirekerur<br><b>Candidate Name: </b>UJANESHWARA BANAKAR<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>71287<br><b>Postal Votes: </b>619<br><b>Total Votes: </b>71906<br><b>Total Voters: </b>179355<br><b>Percenatge: </b>47.73<br><b>Position: </b>2<br>"
+    },
+    "087": {
+      "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+      "matter": "<b>AC NO: </b>87<br><b>AC Name: </b>Ranibennur<br><b>Candidate Name: </b>BASAVARAJ DR.KELAGAR<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>48664<br><b>Postal Votes: </b>309<br><b>Total Votes: </b>48973<br><b>Total Voters: </b>230349<br><b>Percenatge: </b>27.31<br><b>Position: </b>3<br>"
+    },
+    "088": {
+      "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+      "matter": "<b>AC NO: </b>88<br><b>AC Name: </b>Hadagalli  (SC)<br><b>Candidate Name: </b>CHANDRANAIK. B<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>SC<br><b>General Votes: </b>28035<br><b>Postal Votes: </b>220<br><b>Total Votes: </b>28255<br><b>Total Voters: </b>182959<br><b>Percenatge: </b>20.18<br><b>Position: </b>3<br>"
+    },
+    "089": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>89<br><b>AC Name: </b>Hagaribommanahalli  (SC)<br><b>Candidate Name: </b>K.NEMIRAJA NAIK<br><b>Gender: </b>M<br><b>Age: </b>46<br><b>Category: </b>SC<br><b>General Votes: </b>69957<br><b>Postal Votes: </b>1148<br><b>Total Votes: </b>71105<br><b>Total Voters: </b>221213<br><b>Percenatge: </b>40.36<br><b>Position: </b>2<br>"
+    },
+    "090": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>90<br><b>AC Name: </b>Vijayanagara<br><b>Candidate Name: </b>H.R.GAVIYAPPA<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>74619<br><b>Postal Votes: </b>367<br><b>Total Votes: </b>74986<br><b>Total Voters: </b>229253<br><b>Percenatge: </b>45.14<br><b>Position: </b>2<br>"
+    },
+    "091": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>91<br><b>AC Name: </b>Kampli  (ST)<br><b>Candidate Name: </b>T H SURESH BABU<br><b>Gender: </b>M<br><b>Age: </b>35<br><b>Category: </b>ST<br><b>General Votes: </b>74650<br><b>Postal Votes: </b>387<br><b>Total Votes: </b>75037<br><b>Total Voters: </b>212841<br><b>Percenatge: </b>45.27<br><b>Position: </b>2<br>"
+    },
+    "092": {
+      "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+      "matter": "<b>AC NO: </b>92<br><b>AC Name: </b>Siruguppa  (ST)<br><b>Candidate Name: </b>M.S. SOMALINGAPPA<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>ST<br><b>General Votes: </b>82110<br><b>Postal Votes: </b>436<br><b>Total Votes: </b>82546<br><b>Total Voters: </b>203092<br><b>Percenatge: </b>54.25<br><b>Position: </b>1<br>"
+    },
+    "093": {
+      "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+      "matter": "<b>AC NO: </b>93<br><b>AC Name: </b>Bellary  (ST)<br><b>Candidate Name: </b>SANNA PAKKIRAPPA<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>ST<br><b>General Votes: </b>76344<br><b>Postal Votes: </b>163<br><b>Total Votes: </b>76507<br><b>Total Voters: </b>219291<br><b>Percenatge: </b>46.9<br><b>Position: </b>2<br>"
+    },
+    "094": {
+      "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+      "matter": "<b>AC NO: </b>94<br><b>AC Name: </b>Bellary City<br><b>Candidate Name: </b>G. SOMASEKHARA REDDY<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>75978<br><b>Postal Votes: </b>611<br><b>Total Votes: </b>76589<br><b>Total Voters: </b>233284<br><b>Percenatge: </b>50.63<br><b>Position: </b>1<br>"
+    },
+    "095": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>95<br><b>AC Name: </b>Sandur  (ST)<br><b>Candidate Name: </b>D RAGHAVENDRA (MANJU)<br><b>Gender: </b>M<br><b>Age: </b>34<br><b>Category: </b>ST<br><b>General Votes: </b>63897<br><b>Postal Votes: </b>199<br><b>Total Votes: </b>64096<br><b>Total Voters: </b>211504<br><b>Percenatge: </b>40.64<br><b>Position: </b>2<br>"
+    },
+    "096": {
+      "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+      "matter": "<b>AC NO: </b>96<br><b>AC Name: </b>Kudligi  (ST)<br><b>Candidate Name: </b>N.Y. GOPALAKRISHNA<br><b>Gender: </b>M<br><b>Age: </b>68<br><b>Category: </b>ST<br><b>General Votes: </b>49887<br><b>Postal Votes: </b>198<br><b>Total Votes: </b>50085<br><b>Total Voters: </b>198220<br><b>Percenatge: </b>32.93<br><b>Position: </b>1<br>"
+    },
+    "097": {
+      "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+      "matter": "<b>AC NO: </b>97<br><b>AC Name: </b>Molakalmuru  (ST)<br><b>Candidate Name: </b>B. SREERAMULU<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>ST<br><b>General Votes: </b>83527<br><b>Postal Votes: </b>491<br><b>Total Votes: </b>84018<br><b>Total Voters: </b>231151<br><b>Percenatge: </b>43.63<br><b>Position: </b>1<br>"
+    },
+    "098": {
+      "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+      "matter": "<b>AC NO: </b>98<br><b>AC Name: </b>Challakere  (ST)<br><b>Candidate Name: </b>K T KUMARASWAMY<br><b>Gender: </b>M<br><b>Age: </b>34<br><b>Category: </b>ST<br><b>General Votes: </b>33102<br><b>Postal Votes: </b>369<br><b>Total Votes: </b>33471<br><b>Total Voters: </b>208942<br><b>Percenatge: </b>19.81<br><b>Position: </b>3<br>"
+    },
+    "099": {
+      "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+      "matter": "<b>AC NO: </b>99<br><b>AC Name: </b>Chitradurga<br><b>Candidate Name: </b>G H THIPPAREDDY<br><b>Gender: </b>M<br><b>Age: </b>70<br><b>Category: </b>GEN<br><b>General Votes: </b>81632<br><b>Postal Votes: </b>1264<br><b>Total Votes: </b>82896<br><b>Total Voters: </b>251003<br><b>Percenatge: </b>43.78<br><b>Position: </b>1<br>"
+    },
+    "100": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>100<br><b>AC Name: </b>Hiriyur<br><b>Candidate Name: </b>K POORNIMA<br><b>Gender: </b>F<br><b>Age: </b>42<br><b>Category: </b>GEN<br><b>General Votes: </b>77158<br><b>Postal Votes: </b>575<br><b>Total Votes: </b>77733<br><b>Total Voters: </b>235486<br><b>Percenatge: </b>41.17<br><b>Position: </b>1<br>"
+    },
+    "101": {
+      "color": "rgba(245.9091, 62.4242, 47.8788, 1.0)",
+      "matter": "<b>AC NO: </b>101<br><b>AC Name: </b>Hosadurga<br><b>Candidate Name: </b>GULIHATTI D SHEKAR<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>SC<br><b>General Votes: </b>89403<br><b>Postal Votes: </b>1159<br><b>Total Votes: </b>90562<br><b>Total Voters: </b>187137<br><b>Percenatge: </b>56.66<br><b>Position: </b>1<br>"
+    },
+    "102": {
+      "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+      "matter": "<b>AC NO: </b>102<br><b>AC Name: </b>Holalkere  (SC)<br><b>Candidate Name: </b>M. CHANDRAPPA<br><b>Gender: </b>M<br><b>Age: </b>66<br><b>Category: </b>SC<br><b>General Votes: </b>107026<br><b>Postal Votes: </b>950<br><b>Total Votes: </b>107976<br><b>Total Voters: </b>224444<br><b>Percenatge: </b>57.29<br><b>Position: </b>1<br>"
+    },
+    "103": {
+      "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+      "matter": "<b>AC NO: </b>103<br><b>AC Name: </b>Jagalur  (ST)<br><b>Candidate Name: </b>S.V.RAMACHANDRA<br><b>Gender: </b>M<br><b>Age: </b>60<br><b>Category: </b>ST<br><b>General Votes: </b>78332<br><b>Postal Votes: </b>616<br><b>Total Votes: </b>78948<br><b>Total Voters: </b>190117<br><b>Percenatge: </b>53.22<br><b>Position: </b>1<br>"
+    },
+    "104": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>104<br><b>AC Name: </b>Harapanahalli<br><b>Candidate Name: </b>G KARUNAKARA REDDY<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>67061<br><b>Postal Votes: </b>542<br><b>Total Votes: </b>67603<br><b>Total Voters: </b>203812<br><b>Percenatge: </b>40.14<br><b>Position: </b>1<br>"
+    },
+    "105": {
+      "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+      "matter": "<b>AC NO: </b>105<br><b>AC Name: </b>Harihar<br><b>Candidate Name: </b>HARISH B.P.<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>57203<br><b>Postal Votes: </b>338<br><b>Total Votes: </b>57541<br><b>Total Voters: </b>212182<br><b>Percenatge: </b>34.89<br><b>Position: </b>2<br>"
+    },
+    "106": {
+      "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+      "matter": "<b>AC NO: </b>106<br><b>AC Name: </b>Davanagere North<br><b>Candidate Name: </b>S.A. RAVINDRANATH<br><b>Gender: </b>M<br><b>Age: </b>72<br><b>Category: </b>GEN<br><b>General Votes: </b>75698<br><b>Postal Votes: </b>842<br><b>Total Votes: </b>76540<br><b>Total Voters: </b>240405<br><b>Percenatge: </b>48.65<br><b>Position: </b>1<br>"
+    },
+    "107": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>107<br><b>AC Name: </b>Davanagere South<br><b>Candidate Name: </b>YASHAVANTHA RAO JADHAV<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>55296<br><b>Postal Votes: </b>189<br><b>Total Votes: </b>55485<br><b>Total Voters: </b>206760<br><b>Percenatge: </b>40.78<br><b>Position: </b>2<br>"
+    },
+    "108": {
+      "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+      "matter": "<b>AC NO: </b>108<br><b>AC Name: </b>Mayakonda  (SC)<br><b>Candidate Name: </b>N. LINGANNA.<br><b>Gender: </b>M<br><b>Age: </b>65<br><b>Category: </b>SC<br><b>General Votes: </b>50275<br><b>Postal Votes: </b>281<br><b>Total Votes: </b>50556<br><b>Total Voters: </b>190528<br><b>Percenatge: </b>32.58<br><b>Position: </b>1<br>"
+    },
+    "109": {
+      "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+      "matter": "<b>AC NO: </b>109<br><b>AC Name: </b>Channagiri<br><b>Candidate Name: </b>K MADALU VIRUPAKSHAPPA<br><b>Gender: </b>M<br><b>Age: </b>70<br><b>Category: </b>GEN<br><b>General Votes: </b>73130<br><b>Postal Votes: </b>664<br><b>Total Votes: </b>73794<br><b>Total Voters: </b>196265<br><b>Percenatge: </b>46.68<br><b>Position: </b>1<br>"
+    },
+    "110": {
+      "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+      "matter": "<b>AC NO: </b>110<br><b>AC Name: </b>Honnali<br><b>Candidate Name: </b>M P RENUKACHARYA<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>79918<br><b>Postal Votes: </b>706<br><b>Total Votes: </b>80624<br><b>Total Voters: </b>193335<br><b>Percenatge: </b>49.81<br><b>Position: </b>1<br>"
+    },
+    "111": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>111<br><b>AC Name: </b>Shimoga Rural  (SC)<br><b>Candidate Name: </b>K.B. ASHOK NAIK<br><b>Gender: </b>M<br><b>Age: </b>51<br><b>Category: </b>SC<br><b>General Votes: </b>68965<br><b>Postal Votes: </b>361<br><b>Total Votes: </b>69326<br><b>Total Voters: </b>211546<br><b>Percenatge: </b>40.25<br><b>Position: </b>1<br>"
+    },
+    "112": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b>AC NO: </b>112<br><b>AC Name: </b>Bhadravati<br><b>Candidate Name: </b>PRAVEEN PATEL.G.R.<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>GEN<br><b>General Votes: </b>8866<br><b>Postal Votes: </b>108<br><b>Total Votes: </b>8974<br><b>Total Voters: </b>207749<br><b>Percenatge: </b>5.87<br><b>Position: </b>3<br>"
+    },
+    "113": {
+      "color": "rgba(248.9394, 41.6162, 31.9192, 1.0)",
+      "matter": "<b>AC NO: </b>113<br><b>AC Name: </b>Shimoga<br><b>Candidate Name: </b>K.S. ESHWARAPPA<br><b>Gender: </b>M<br><b>Age: </b>70<br><b>Category: </b>GEN<br><b>General Votes: </b>102943<br><b>Postal Votes: </b>1084<br><b>Total Votes: </b>104027<br><b>Total Voters: </b>256373<br><b>Percenatge: </b>60.36<br><b>Position: </b>1<br>"
+    },
+    "114": {
+      "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+      "matter": "<b>AC NO: </b>114<br><b>AC Name: </b>Tirthahalli<br><b>Candidate Name: </b>ARAGA JNANENDRA<br><b>Gender: </b>M<br><b>Age: </b>65<br><b>Category: </b>GEN<br><b>General Votes: </b>67206<br><b>Postal Votes: </b>321<br><b>Total Votes: </b>67527<br><b>Total Voters: </b>184189<br><b>Percenatge: </b>43.03<br><b>Position: </b>1<br>"
+    },
+    "115": {
+      "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+      "matter": "<b>AC NO: </b>115<br><b>AC Name: </b>Shikaripura<br><b>Candidate Name: </b>B S YADIYURAPPA<br><b>Gender: </b>M<br><b>Age: </b>75<br><b>Category: </b>GEN<br><b>General Votes: </b>86228<br><b>Postal Votes: </b>755<br><b>Total Votes: </b>86983<br><b>Total Voters: </b>188266<br><b>Percenatge: </b>56.16<br><b>Position: </b>1<br>"
+    },
+    "116": {
+      "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+      "matter": "<b>AC NO: </b>116<br><b>AC Name: </b>Sorab<br><b>Candidate Name: </b>S.KUMARA BANGARAPPA<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>71703<br><b>Postal Votes: </b>388<br><b>Total Votes: </b>72091<br><b>Total Voters: </b>184621<br><b>Percenatge: </b>46.15<br><b>Position: </b>1<br>"
+    },
+    "117": {
+      "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+      "matter": "<b>AC NO: </b>117<br><b>AC Name: </b>Sagar<br><b>Candidate Name: </b>H HALAPPA HARATHALU<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>77767<br><b>Postal Votes: </b>708<br><b>Total Votes: </b>78475<br><b>Total Voters: </b>193884<br><b>Percenatge: </b>50.65<br><b>Position: </b>1<br>"
+    },
+    "118": {
+      "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+      "matter": "<b>AC NO: </b>118<br><b>AC Name: </b>Byndoor<br><b>Candidate Name: </b>B. M. SUKUMAR SHETTY<br><b>Gender: </b>M<br><b>Age: </b>66<br><b>Category: </b>GEN<br><b>General Votes: </b>95319<br><b>Postal Votes: </b>710<br><b>Total Votes: </b>96029<br><b>Total Voters: </b>222468<br><b>Percenatge: </b>54.34<br><b>Position: </b>1<br>"
+    },
+    "119": {
+      "color": "rgba(253.1818, 12.4848, 9.5758, 1.0)",
+      "matter": "<b>AC NO: </b>119<br><b>AC Name: </b>Kundapura<br><b>Candidate Name: </b>HALADY SRINIVAS SHETTY<br><b>Gender: </b>M<br><b>Age: </b>67<br><b>Category: </b>GEN<br><b>General Votes: </b>102664<br><b>Postal Votes: </b>770<br><b>Total Votes: </b>103434<br><b>Total Voters: </b>199617<br><b>Percenatge: </b>65.2<br><b>Position: </b>1<br>"
+    },
+    "120": {
+      "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+      "matter": "<b>AC NO: </b>120<br><b>AC Name: </b>Udupi<br><b>Candidate Name: </b>K RAGHUPATHI BHAT<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>84291<br><b>Postal Votes: </b>655<br><b>Total Votes: </b>84946<br><b>Total Voters: </b>207458<br><b>Percenatge: </b>52.31<br><b>Position: </b>1<br>"
+    },
+    "121": {
+      "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+      "matter": "<b>AC NO: </b>121<br><b>AC Name: </b>Kapu<br><b>Candidate Name: </b>LALAJI .R. MENDON<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>75475<br><b>Postal Votes: </b>418<br><b>Total Votes: </b>75893<br><b>Total Voters: </b>183004<br><b>Percenatge: </b>52.54<br><b>Position: </b>1<br>"
+    },
+    "122": {
+      "color": "rgba(250.7576, 29.1313, 22.3434, 1.0)",
+      "matter": "<b>AC NO: </b>122<br><b>AC Name: </b>Karkal<br><b>Candidate Name: </b>V. SUNIL KUMAR<br><b>Gender: </b>M<br><b>Age: </b>42<br><b>Category: </b>GEN<br><b>General Votes: </b>90706<br><b>Postal Votes: </b>539<br><b>Total Votes: </b>91245<br><b>Total Voters: </b>181031<br><b>Percenatge: </b>62.52<br><b>Position: </b>1<br>"
+    },
+    "123": {
+      "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+      "matter": "<b>AC NO: </b>123<br><b>AC Name: </b>Sringeri<br><b>Candidate Name: </b>D N JEEVARAJ<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>60386<br><b>Postal Votes: </b>405<br><b>Total Votes: </b>60791<br><b>Total Voters: </b>166026<br><b>Percenatge: </b>44.36<br><b>Position: </b>2<br>"
+    },
+    "124": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>124<br><b>AC Name: </b>Mudigere  (SC)<br><b>Candidate Name: </b>M.P.KUMARASWAMY<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>SC<br><b>General Votes: </b>58599<br><b>Postal Votes: </b>184<br><b>Total Votes: </b>58783<br><b>Total Voters: </b>170221<br><b>Percenatge: </b>44.76<br><b>Position: </b>1<br>"
+    },
+    "125": {
+      "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+      "matter": "<b>AC NO: </b>125<br><b>AC Name: </b>Chikmagalur<br><b>Candidate Name: </b>C T RAVI<br><b>Gender: </b>M<br><b>Age: </b>50<br><b>Category: </b>GEN<br><b>General Votes: </b>69863<br><b>Postal Votes: </b>1000<br><b>Total Votes: </b>70863<br><b>Total Voters: </b>216230<br><b>Percenatge: </b>43.98<br><b>Position: </b>1<br>"
+    },
+    "126": {
+      "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+      "matter": "<b>AC NO: </b>126<br><b>AC Name: </b>Tarikere<br><b>Candidate Name: </b>D S SURESH<br><b>Gender: </b>M<br><b>Age: </b>50<br><b>Category: </b>GEN<br><b>General Votes: </b>44334<br><b>Postal Votes: </b>606<br><b>Total Votes: </b>44940<br><b>Total Voters: </b>182919<br><b>Percenatge: </b>30.04<br><b>Position: </b>1<br>"
+    },
+    "127": {
+      "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+      "matter": "<b>AC NO: </b>127<br><b>AC Name: </b>Kadur<br><b>Candidate Name: </b>K S PRAKASH<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>61264<br><b>Postal Votes: </b>968<br><b>Total Votes: </b>62232<br><b>Total Voters: </b>201915<br><b>Percenatge: </b>38.97<br><b>Position: </b>1<br>"
+    },
+    "128": {
+      "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+      "matter": "<b>AC NO: </b>128<br><b>AC Name: </b>Chiknayakanhalli<br><b>Candidate Name: </b>J.C. MADHU SWAMY<br><b>Gender: </b>M<br><b>Age: </b>65<br><b>Category: </b>GEN<br><b>General Votes: </b>69177<br><b>Postal Votes: </b>435<br><b>Total Votes: </b>69612<br><b>Total Voters: </b>212217<br><b>Percenatge: </b>38.53<br><b>Position: </b>1<br>"
+    },
+    "129": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>129<br><b>AC Name: </b>Tiptur<br><b>Candidate Name: </b>B.C. NAGESH<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>61102<br><b>Postal Votes: </b>281<br><b>Total Votes: </b>61383<br><b>Total Voters: </b>181513<br><b>Percenatge: </b>40.5<br><b>Position: </b>1<br>"
+    },
+    "130": {
+      "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+      "matter": "<b>AC NO: </b>130<br><b>AC Name: </b>Turuvekere<br><b>Candidate Name: </b>JAYARAM A S<br><b>Gender: </b>M<br><b>Age: </b>50<br><b>Category: </b>GEN<br><b>General Votes: </b>60380<br><b>Postal Votes: </b>330<br><b>Total Votes: </b>60710<br><b>Total Voters: </b>181202<br><b>Percenatge: </b>39.54<br><b>Position: </b>1<br>"
+    },
+    "131": {
+      "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+      "matter": "<b>AC NO: </b>131<br><b>AC Name: </b>Kunigal<br><b>Candidate Name: </b>D KRISHNA KUMAR<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>52930<br><b>Postal Votes: </b>167<br><b>Total Votes: </b>53097<br><b>Total Voters: </b>190424<br><b>Percenatge: </b>32.79<br><b>Position: </b>2<br>"
+    },
+    "132": {
+      "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+      "matter": "<b>AC NO: </b>132<br><b>AC Name: </b>Tumkur City<br><b>Candidate Name: </b>G.B. JYOTHI GANESH<br><b>Gender: </b>M<br><b>Age: </b>42<br><b>Category: </b>GEN<br><b>General Votes: </b>59723<br><b>Postal Votes: </b>698<br><b>Total Votes: </b>60421<br><b>Total Voters: </b>259542<br><b>Percenatge: </b>35.57<br><b>Position: </b>1<br>"
+    },
+    "133": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>133<br><b>AC Name: </b>Tumkur Rural<br><b>Candidate Name: </b>B SURESH GOWDA<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>76546<br><b>Postal Votes: </b>554<br><b>Total Votes: </b>77100<br><b>Total Voters: </b>201767<br><b>Percenatge: </b>44.74<br><b>Position: </b>2<br>"
+    },
+    "134": {
+      "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+      "matter": "<b>AC NO: </b>134<br><b>AC Name: </b>Koratagere  (SC)<br><b>Candidate Name: </b>Y.H. HUCHHAIAH<br><b>Gender: </b>M<br><b>Age: </b>64<br><b>Category: </b>SC<br><b>General Votes: </b>12146<br><b>Postal Votes: </b>44<br><b>Total Votes: </b>12190<br><b>Total Voters: </b>202298<br><b>Percenatge: </b>7.12<br><b>Position: </b>3<br>"
+    },
+    "135": {
+      "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+      "matter": "<b>AC NO: </b>135<br><b>AC Name: </b>Gubbi<br><b>Candidate Name: </b>G N BETTASWAMY<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>46313<br><b>Postal Votes: </b>178<br><b>Total Votes: </b>46491<br><b>Total Voters: </b>182902<br><b>Percenatge: </b>29.91<br><b>Position: </b>2<br>"
+    },
+    "136": {
+      "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+      "matter": "<b>AC NO: </b>136<br><b>AC Name: </b>Sira<br><b>Candidate Name: </b>S R GOWDA<br><b>Gender: </b>M<br><b>Age: </b>44<br><b>Category: </b>GEN<br><b>General Votes: </b>16862<br><b>Postal Votes: </b>97<br><b>Total Votes: </b>16959<br><b>Total Voters: </b>212652<br><b>Percenatge: </b>9.41<br><b>Position: </b>3<br>"
+    },
+    "137": {
+      "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+      "matter": "<b>AC NO: </b>137<br><b>AC Name: </b>Pavagada  (SC)<br><b>Candidate Name: </b>G.V.BALARAM<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>SC<br><b>General Votes: </b>14039<br><b>Postal Votes: </b>35<br><b>Total Votes: </b>14074<br><b>Total Voters: </b>197250<br><b>Percenatge: </b>8.64<br><b>Position: </b>3<br>"
+    },
+    "138": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b>AC NO: </b>138<br><b>AC Name: </b>Madhugiri<br><b>Candidate Name: </b>RAMESH REDDY S.E.<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>2904<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>2911<br><b>Total Voters: </b>193354<br><b>Percenatge: </b>1.75<br><b>Position: </b>3<br>"
+    },
+    "139": {
+      "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+      "matter": "<b>AC NO: </b>139<br><b>AC Name: </b>Gauribidanur<br><b>Candidate Name: </b>K.JAIPAL REDDY<br><b>Gender: </b>M<br><b>Age: </b>40<br><b>Category: </b>GEN<br><b>General Votes: </b>34503<br><b>Postal Votes: </b>256<br><b>Total Votes: </b>34759<br><b>Total Voters: </b>203048<br><b>Percenatge: </b>20.61<br><b>Position: </b>3<br>"
+    },
+    "140": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b>AC NO: </b>140<br><b>AC Name: </b>Bagepalli<br><b>Candidate Name: </b>SAIKUMAR. P.<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>4124<br><b>Postal Votes: </b>16<br><b>Total Votes: </b>4140<br><b>Total Voters: </b>197982<br><b>Percenatge: </b>2.52<br><b>Position: </b>4<br>"
+    },
+    "141": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b>AC NO: </b>141<br><b>AC Name: </b>Chikkaballapur<br><b>Candidate Name: </b>DR. G.V. MANJUNATHA<br><b>Gender: </b>M<br><b>Age: </b>62<br><b>Category: </b>GEN<br><b>General Votes: </b>5528<br><b>Postal Votes: </b>48<br><b>Total Votes: </b>5576<br><b>Total Voters: </b>197826<br><b>Percenatge: </b>3.21<br><b>Position: </b>4<br>"
+    },
+    "142": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b>AC NO: </b>142<br><b>AC Name: </b>Sidlaghatta<br><b>Candidate Name: </b>SURESH.H.<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>3579<br><b>Postal Votes: </b>17<br><b>Total Votes: </b>3596<br><b>Total Voters: </b>198207<br><b>Percenatge: </b>2.11<br><b>Position: </b>5<br>"
+    },
+    "143": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b>AC NO: </b>143<br><b>AC Name: </b>Chintamani<br><b>Candidate Name: </b>NAA SHANKAR<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>1933<br><b>Postal Votes: </b>29<br><b>Total Votes: </b>1962<br><b>Total Voters: </b>214487<br><b>Percenatge: </b>1.09<br><b>Position: </b>4<br>"
+    },
+    "144": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b>AC NO: </b>144<br><b>AC Name: </b>Srinivaspur<br><b>Candidate Name: </b>DR VENU GOPAL K N<br><b>Gender: </b>M<br><b>Age: </b>46<br><b>Category: </b>GEN<br><b>General Votes: </b>4147<br><b>Postal Votes: </b>61<br><b>Total Votes: </b>4208<br><b>Total Voters: </b>206007<br><b>Percenatge: </b>2.28<br><b>Position: </b>3<br>"
+    },
+    "145": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b>AC NO: </b>145<br><b>AC Name: </b>Mulbagal  (SC)<br><b>Candidate Name: </b>AMARESH<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>SC<br><b>General Votes: </b>8246<br><b>Postal Votes: </b>165<br><b>Total Votes: </b>8411<br><b>Total Voters: </b>203419<br><b>Percenatge: </b>5.11<br><b>Position: </b>3<br>"
+    },
+    "146": {
+      "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+      "matter": "<b>AC NO: </b>146<br><b>AC Name: </b>Kolar gold field  (SC)<br><b>Candidate Name: </b>ASHWINI SAMPANGI<br><b>Gender: </b>F<br><b>Age: </b>26<br><b>Category: </b>SC<br><b>General Votes: </b>29947<br><b>Postal Votes: </b>377<br><b>Total Votes: </b>30324<br><b>Total Voters: </b>190668<br><b>Percenatge: </b>21.73<br><b>Position: </b>2<br>"
+    },
+    "147": {
+      "color": "rgba(254.4591, 237.6909, 171.2364, 1.0)",
+      "matter": "<b>AC NO: </b>147<br><b>AC Name: </b>Bangarapet  (SC)<br><b>Candidate Name: </b>VENKATAMUNIYAPPA B.P.<br><b>Gender: </b>M<br><b>Age: </b>64<br><b>Category: </b>SC<br><b>General Votes: </b>33136<br><b>Postal Votes: </b>418<br><b>Total Votes: </b>33554<br><b>Total Voters: </b>193234<br><b>Percenatge: </b>21.35<br><b>Position: </b>3<br>"
+    },
+    "148": {
+      "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+      "matter": "<b>AC NO: </b>148<br><b>AC Name: </b>Kolar<br><b>Candidate Name: </b>R.VENKATACHALAPATHI (OM SHAKTHI CHALAPATHI)<br><b>Gender: </b>M<br><b>Age: </b>42<br><b>Category: </b>GEN<br><b>General Votes: </b>12230<br><b>Postal Votes: </b>228<br><b>Total Votes: </b>12458<br><b>Total Voters: </b>225183<br><b>Percenatge: </b>6.96<br><b>Position: </b>4<br>"
+    },
+    "149": {
+      "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+      "matter": "<b>AC NO: </b>149<br><b>AC Name: </b>Malur<br><b>Candidate Name: </b>ES.EN.KRISSHNAIAH SETTY MALUR<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>23660<br><b>Postal Votes: </b>229<br><b>Total Votes: </b>23889<br><b>Total Voters: </b>181112<br><b>Percenatge: </b>14.8<br><b>Position: </b>3<br>"
+    },
+    "150": {
+      "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+      "matter": "<b>AC NO: </b>150<br><b>AC Name: </b>Yelahanka<br><b>Candidate Name: </b>S.R.VISHWANATH<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>119688<br><b>Postal Votes: </b>422<br><b>Total Votes: </b>120110<br><b>Total Voters: </b>387663<br><b>Percenatge: </b>49.0<br><b>Position: </b>1<br>"
+    },
+    "151": {
+      "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+      "matter": "<b>AC NO: </b>151<br><b>AC Name: </b>K.R.Pura<br><b>Candidate Name: </b>N.S.NANDIESHA REDDY<br><b>Gender: </b>M<br><b>Age: </b>46<br><b>Category: </b>GEN<br><b>General Votes: </b>102468<br><b>Postal Votes: </b>207<br><b>Total Votes: </b>102675<br><b>Total Voters: </b>465508<br><b>Percenatge: </b>40.42<br><b>Position: </b>2<br>"
+    },
+    "152": {
+      "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+      "matter": "<b>AC NO: </b>152<br><b>AC Name: </b>Byatarayanapura<br><b>Candidate Name: </b>A RAVI<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>108981<br><b>Postal Votes: </b>312<br><b>Total Votes: </b>109293<br><b>Total Voters: </b>440396<br><b>Percenatge: </b>43.08<br><b>Position: </b>2<br>"
+    },
+    "153": {
+      "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+      "matter": "<b>AC NO: </b>153<br><b>AC Name: </b>Yeshvanthapura<br><b>Candidate Name: </b>JAGGESH<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>59148<br><b>Postal Votes: </b>160<br><b>Total Votes: </b>59308<br><b>Total Voters: </b>474817<br><b>Percenatge: </b>20.65<br><b>Position: </b>3<br>"
+    },
+    "154": {
+      "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+      "matter": "<b>AC NO: </b>154<br><b>AC Name: </b>Rajarajeshwarinagar<br><b>Candidate Name: </b>MUNIRAJU GOWDA P M<br><b>Gender: </b>M<br><b>Age: </b>39<br><b>Category: </b>GEN<br><b>General Votes: </b>82383<br><b>Postal Votes: </b>190<br><b>Total Votes: </b>82573<br><b>Total Voters: </b>471900<br><b>Percenatge: </b>32.2<br><b>Position: </b>2<br>"
+    },
+    "155": {
+      "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+      "matter": "<b>AC NO: </b>155<br><b>AC Name: </b>Dasarahalli<br><b>Candidate Name: </b>S MUNIRAJU<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>83200<br><b>Postal Votes: </b>169<br><b>Total Votes: </b>83369<br><b>Total Voters: </b>449950<br><b>Percenatge: </b>38.55<br><b>Position: </b>2<br>"
+    },
+    "156": {
+      "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+      "matter": "<b>AC NO: </b>156<br><b>AC Name: </b>Mahalakshmi Layout<br><b>Candidate Name: </b>N.L. NARENDRA BABU<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>47029<br><b>Postal Votes: </b>89<br><b>Total Votes: </b>47118<br><b>Total Voters: </b>292364<br><b>Percenatge: </b>29.47<br><b>Position: </b>2<br>"
+    },
+    "157": {
+      "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+      "matter": "<b>AC NO: </b>157<br><b>AC Name: </b>Malleshwaram<br><b>Candidate Name: </b>DR. ASHWATH NARAYAN.C.N.<br><b>Gender: </b>M<br><b>Age: </b>50<br><b>Category: </b>GEN<br><b>General Votes: </b>82810<br><b>Postal Votes: </b>320<br><b>Total Votes: </b>83130<br><b>Total Voters: </b>218931<br><b>Percenatge: </b>67.22<br><b>Position: </b>1<br>"
+    },
+    "158": {
+      "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+      "matter": "<b>AC NO: </b>158<br><b>AC Name: </b>Hebbal<br><b>Candidate Name: </b>Y A NARAYANASWAMY<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>53154<br><b>Postal Votes: </b>159<br><b>Total Votes: </b>53313<br><b>Total Voters: </b>265312<br><b>Percenatge: </b>36.34<br><b>Position: </b>2<br>"
+    },
+    "159": {
+      "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+      "matter": "<b>AC NO: </b>159<br><b>AC Name: </b>Pulakeshinagar  (SC)<br><b>Candidate Name: </b>SUSHEELA DEVARAJ<br><b>Gender: </b>F<br><b>Age: </b>64<br><b>Category: </b>SC<br><b>General Votes: </b>9462<br><b>Postal Votes: </b>17<br><b>Total Votes: </b>9479<br><b>Total Voters: </b>237288<br><b>Percenatge: </b>7.5<br><b>Position: </b>3<br>"
+    },
+    "160": {
+      "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+      "matter": "<b>AC NO: </b>160<br><b>AC Name: </b>Sarvagnanagar<br><b>Candidate Name: </b>M.N.REDDY<br><b>Gender: </b>M<br><b>Age: </b>68<br><b>Category: </b>GEN<br><b>General Votes: </b>56600<br><b>Postal Votes: </b>51<br><b>Total Votes: </b>56651<br><b>Total Voters: </b>347559<br><b>Percenatge: </b>31.81<br><b>Position: </b>2<br>"
+    },
+    "161": {
+      "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+      "matter": "<b>AC NO: </b>161<br><b>AC Name: </b>C.V. Raman Nagar  (SC)<br><b>Candidate Name: </b>S. RAGHU<br><b>Gender: </b>M<br><b>Age: </b>48<br><b>Category: </b>SC<br><b>General Votes: </b>58792<br><b>Postal Votes: </b>95<br><b>Total Votes: </b>58887<br><b>Total Voters: </b>269010<br><b>Percenatge: </b>44.61<br><b>Position: </b>1<br>"
+    },
+    "162": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>162<br><b>AC Name: </b>Shivajinagar<br><b>Candidate Name: </b>KATTA SUBRAMANYA NAIDU<br><b>Gender: </b>M<br><b>Age: </b>67<br><b>Category: </b>GEN<br><b>General Votes: </b>44646<br><b>Postal Votes: </b>56<br><b>Total Votes: </b>44702<br><b>Total Voters: </b>196776<br><b>Percenatge: </b>41.19<br><b>Position: </b>2<br>"
+    },
+    "163": {
+      "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+      "matter": "<b>AC NO: </b>163<br><b>AC Name: </b>Shanti Nagar<br><b>Candidate Name: </b>K VASUDEVAMURTHY<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>41749<br><b>Postal Votes: </b>55<br><b>Total Votes: </b>41804<br><b>Total Voters: </b>226046<br><b>Percenatge: </b>34.43<br><b>Position: </b>2<br>"
+    },
+    "164": {
+      "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+      "matter": "<b>AC NO: </b>164<br><b>AC Name: </b>Gandhi Nagar<br><b>Candidate Name: </b>A.R. SAPTHAGIRI GOWDA<br><b>Gender: </b>M<br><b>Age: </b>39<br><b>Category: </b>GEN<br><b>General Votes: </b>37256<br><b>Postal Votes: </b>28<br><b>Total Votes: </b>37284<br><b>Total Voters: </b>229803<br><b>Percenatge: </b>29.4<br><b>Position: </b>2<br>"
+    },
+    "165": {
+      "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+      "matter": "<b>AC NO: </b>165<br><b>AC Name: </b>Rajaji Nagar<br><b>Candidate Name: </b>S SURESH KUMAR<br><b>Gender: </b>M<br><b>Age: </b>62<br><b>Category: </b>GEN<br><b>General Votes: </b>56101<br><b>Postal Votes: </b>170<br><b>Total Votes: </b>56271<br><b>Total Voters: </b>211132<br><b>Percenatge: </b>46.86<br><b>Position: </b>1<br>"
+    },
+    "166": {
+      "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+      "matter": "<b>AC NO: </b>166<br><b>AC Name: </b>Govindraj Nagar<br><b>Candidate Name: </b>V SOMANNA<br><b>Gender: </b>M<br><b>Age: </b>67<br><b>Category: </b>GEN<br><b>General Votes: </b>78948<br><b>Postal Votes: </b>187<br><b>Total Votes: </b>79135<br><b>Total Voters: </b>292976<br><b>Percenatge: </b>50.33<br><b>Position: </b>1<br>"
+    },
+    "167": {
+      "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+      "matter": "<b>AC NO: </b>167<br><b>AC Name: </b>Vijay Nagar<br><b>Candidate Name: </b>H. RAVINDRA<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>70431<br><b>Postal Votes: </b>147<br><b>Total Votes: </b>70578<br><b>Total Voters: </b>312449<br><b>Percenatge: </b>45.13<br><b>Position: </b>2<br>"
+    },
+    "168": {
+      "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+      "matter": "<b>AC NO: </b>168<br><b>AC Name: </b>Chamrajpet<br><b>Candidate Name: </b>M LAKSHMINARAYANA<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>32132<br><b>Postal Votes: </b>70<br><b>Total Votes: </b>32202<br><b>Total Voters: </b>220951<br><b>Percenatge: </b>26.79<br><b>Position: </b>2<br>"
+    },
+    "169": {
+      "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+      "matter": "<b>AC NO: </b>169<br><b>AC Name: </b>Chickpet<br><b>Candidate Name: </b>UDAY B.GARUDACHAR<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>57264<br><b>Postal Votes: </b>48<br><b>Total Votes: </b>57312<br><b>Total Voters: </b>223686<br><b>Percenatge: </b>44.46<br><b>Position: </b>1<br>"
+    },
+    "170": {
+      "color": "rgba(247.1212, 54.101, 41.4949, 1.0)",
+      "matter": "<b>AC NO: </b>170<br><b>AC Name: </b>Basavanagudi<br><b>Candidate Name: </b>RAVISUBRAMANYA.L.A<br><b>Gender: </b>M<br><b>Age: </b>60<br><b>Category: </b>GEN<br><b>General Votes: </b>75793<br><b>Postal Votes: </b>225<br><b>Total Votes: </b>76018<br><b>Total Voters: </b>245328<br><b>Percenatge: </b>58.46<br><b>Position: </b>1<br>"
+    },
+    "171": {
+      "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+      "matter": "<b>AC NO: </b>171<br><b>AC Name: </b>Padmanaba Nagar<br><b>Candidate Name: </b>R ASHOKA<br><b>Gender: </b>M<br><b>Age: </b>60<br><b>Category: </b>GEN<br><b>General Votes: </b>77758<br><b>Postal Votes: </b>110<br><b>Total Votes: </b>77868<br><b>Total Voters: </b>278223<br><b>Percenatge: </b>48.18<br><b>Position: </b>1<br>"
+    },
+    "172": {
+      "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+      "matter": "<b>AC NO: </b>172<br><b>AC Name: </b>B.T.M.Layout<br><b>Candidate Name: </b>LALLESH REDDY<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>GEN<br><b>General Votes: </b>46434<br><b>Postal Votes: </b>173<br><b>Total Votes: </b>46607<br><b>Total Voters: </b>270500<br><b>Percenatge: </b>34.29<br><b>Position: </b>2<br>"
+    },
+    "174": {
+      "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+      "matter": "<b>AC NO: </b>174<br><b>AC Name: </b>Mahadevapura  (SC)<br><b>Candidate Name: </b>ARAVIND LIMBAVALI<br><b>Gender: </b>M<br><b>Age: </b>51<br><b>Category: </b>SC<br><b>General Votes: </b>141598<br><b>Postal Votes: </b>84<br><b>Total Votes: </b>141682<br><b>Total Voters: </b>504890<br><b>Percenatge: </b>49.83<br><b>Position: </b>1<br>"
+    },
+    "175": {
+      "color": "rgba(245.9091, 62.4242, 47.8788, 1.0)",
+      "matter": "<b>AC NO: </b>175<br><b>AC Name: </b>Bommanahalli<br><b>Candidate Name: </b>SATHISH REDDY M<br><b>Gender: </b>M<br><b>Age: </b>45<br><b>Category: </b>GEN<br><b>General Votes: </b>111785<br><b>Postal Votes: </b>78<br><b>Total Votes: </b>111863<br><b>Total Voters: </b>414080<br><b>Percenatge: </b>57.22<br><b>Position: </b>1<br>"
+    },
+    "176": {
+      "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+      "matter": "<b>AC NO: </b>176<br><b>AC Name: </b>Bangalore South<br><b>Candidate Name: </b>M KRISHNAPPA<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>152214<br><b>Postal Votes: </b>213<br><b>Total Votes: </b>152427<br><b>Total Voters: </b>603939<br><b>Percenatge: </b>47.74<br><b>Position: </b>1<br>"
+    },
+    "177": {
+      "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+      "matter": "<b>AC NO: </b>177<br><b>AC Name: </b>Anekal  (SC)<br><b>Candidate Name: </b>A.NARAYANASWAMY<br><b>Gender: </b>M<br><b>Age: </b>60<br><b>Category: </b>SC<br><b>General Votes: </b>105100<br><b>Postal Votes: </b>167<br><b>Total Votes: </b>105267<br><b>Total Voters: </b>359550<br><b>Percenatge: </b>46.24<br><b>Position: </b>2<br>"
+    },
+    "178": {
+      "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+      "matter": "<b>AC NO: </b>178<br><b>AC Name: </b>Hosakote<br><b>Candidate Name: </b>SHARATH KUMAR BACHEGOWDA<br><b>Gender: </b>M<br><b>Age: </b>36<br><b>Category: </b>GEN<br><b>General Votes: </b>90833<br><b>Postal Votes: </b>394<br><b>Total Votes: </b>91227<br><b>Total Voters: </b>213750<br><b>Percenatge: </b>47.25<br><b>Position: </b>2<br>"
+    },
+    "179": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b>AC NO: </b>179<br><b>AC Name: </b>Devanahalli  (SC)<br><b>Candidate Name: </b>K NAGESH<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>SC<br><b>General Votes: </b>9799<br><b>Postal Votes: </b>21<br><b>Total Votes: </b>9820<br><b>Total Voters: </b>202254<br><b>Percenatge: </b>5.74<br><b>Position: </b>3<br>"
+    },
+    "180": {
+      "color": "rgba(240.0348, 245.6242, 190.5288, 1.0)",
+      "matter": "<b>AC NO: </b>180<br><b>AC Name: </b>Doddaballapur<br><b>Candidate Name: </b>J NARASIMHASWAMY<br><b>Gender: </b>M<br><b>Age: </b>71<br><b>Category: </b>GEN<br><b>General Votes: </b>27585<br><b>Postal Votes: </b>27<br><b>Total Votes: </b>27612<br><b>Total Voters: </b>203231<br><b>Percenatge: </b>16.36<br><b>Position: </b>3<br>"
+    },
+    "181": {
+      "color": "rgba(253.6348, 211.3152, 140.7394, 1.0)",
+      "matter": "<b>AC NO: </b>181<br><b>AC Name: </b>Nelamangala  (SC)<br><b>Candidate Name: </b>M V NAGARAJU<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>SC<br><b>General Votes: </b>42386<br><b>Postal Votes: </b>303<br><b>Total Votes: </b>42689<br><b>Total Voters: </b>203761<br><b>Percenatge: </b>26.44<br><b>Position: </b>3<br>"
+    },
+    "182": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b>AC NO: </b>182<br><b>AC Name: </b>Magadi<br><b>Candidate Name: </b>M.C.HANUMANTHARAJ<br><b>Gender: </b>M<br><b>Age: </b>60<br><b>Category: </b>GEN<br><b>General Votes: </b>4379<br><b>Postal Votes: </b>31<br><b>Total Votes: </b>4410<br><b>Total Voters: </b>224869<br><b>Percenatge: </b>2.27<br><b>Position: </b>3<br>"
+    },
+    "183": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b>AC NO: </b>183<br><b>AC Name: </b>Ramanagaram<br><b>Candidate Name: </b>LEELAVATHI<br><b>Gender: </b>F<br><b>Age: </b>39<br><b>Category: </b>GEN<br><b>General Votes: </b>4837<br><b>Postal Votes: </b>34<br><b>Total Votes: </b>4871<br><b>Total Voters: </b>206999<br><b>Percenatge: </b>2.84<br><b>Position: </b>3<br>"
+    },
+    "184": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b>AC NO: </b>184<br><b>AC Name: </b>Kanakapura<br><b>Candidate Name: </b>NANDINI GOWDA<br><b>Gender: </b>F<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>6249<br><b>Postal Votes: </b>24<br><b>Total Votes: </b>6273<br><b>Total Voters: </b>222602<br><b>Percenatge: </b>3.37<br><b>Position: </b>3<br>"
+    },
+    "185": {
+      "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+      "matter": "<b>AC NO: </b>185<br><b>AC Name: </b>Channapatna<br><b>Candidate Name: </b>C P YOGEESHWARA<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>66057<br><b>Postal Votes: </b>408<br><b>Total Votes: </b>66465<br><b>Total Voters: </b>217606<br><b>Percenatge: </b>35.16<br><b>Position: </b>2<br>"
+    },
+    "186": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b>AC NO: </b>186<br><b>AC Name: </b>Malavalli  (SC)<br><b>Candidate Name: </b>B.SOMASHEKHAR<br><b>Gender: </b>M<br><b>Age: </b>67<br><b>Category: </b>SC<br><b>General Votes: </b>10725<br><b>Postal Votes: </b>83<br><b>Total Votes: </b>10808<br><b>Total Voters: </b>238777<br><b>Percenatge: </b>5.55<br><b>Position: </b>3<br>"
+    },
+    "187": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b>AC NO: </b>187<br><b>AC Name: </b>Maddur<br><b>Candidate Name: </b>MADDURU SATHISHA<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>4135<br><b>Postal Votes: </b>24<br><b>Total Votes: </b>4159<br><b>Total Voters: </b>205471<br><b>Percenatge: </b>2.42<br><b>Position: </b>3<br>"
+    },
+    "188": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b>AC NO: </b>188<br><b>AC Name: </b>Melukote<br><b>Candidate Name: </b>SUNDAHALLI SOMASHEKARA<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>1587<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>1595<br><b>Total Voters: </b>195487<br><b>Percenatge: </b>0.91<br><b>Position: </b>3<br>"
+    },
+    "189": {
+      "color": "rgba(254.7682, 247.5818, 182.6727, 1.0)",
+      "matter": "<b>AC NO: </b>189<br><b>AC Name: </b>Mandya<br><b>Candidate Name: </b>N SHIVANNA<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>31710<br><b>Postal Votes: </b>354<br><b>Total Votes: </b>32064<br><b>Total Voters: </b>227644<br><b>Percenatge: </b>19.39<br><b>Position: </b>3<br>"
+    },
+    "190": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b>AC NO: </b>190<br><b>AC Name: </b>Shrirangapattana<br><b>Candidate Name: </b>NANJUNDEGOWDA.K. S<br><b>Gender: </b>M<br><b>Age: </b>61<br><b>Category: </b>GEN<br><b>General Votes: </b>11241<br><b>Postal Votes: </b>85<br><b>Total Votes: </b>11326<br><b>Total Voters: </b>208945<br><b>Percenatge: </b>6.41<br><b>Position: </b>3<br>"
+    },
+    "191": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b>AC NO: </b>191<br><b>AC Name: </b>Nagamangala<br><b>Candidate Name: </b>GOWDA DR. PARTHASARATHY V.<br><b>Gender: </b>M<br><b>Age: </b>46<br><b>Category: </b>GEN<br><b>General Votes: </b>1907<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>1915<br><b>Total Voters: </b>206678<br><b>Percenatge: </b>1.06<br><b>Position: </b>3<br>"
+    },
+    "192": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b>AC NO: </b>192<br><b>AC Name: </b>Krishnarajapete<br><b>Candidate Name: </b>B C MANJU<br><b>Gender: </b>M<br><b>Age: </b>43<br><b>Category: </b>GEN<br><b>General Votes: </b>9719<br><b>Postal Votes: </b>100<br><b>Total Votes: </b>9819<br><b>Total Voters: </b>205554<br><b>Percenatge: </b>5.64<br><b>Position: </b>3<br>"
+    },
+    "193": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b>AC NO: </b>193<br><b>AC Name: </b>Shravanabelagola<br><b>Candidate Name: </b>SHIVANANJEGOWDA<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>7484<br><b>Postal Votes: </b>22<br><b>Total Votes: </b>7506<br><b>Total Voters: </b>202255<br><b>Percenatge: </b>4.49<br><b>Position: </b>3<br>"
+    },
+    "194": {
+      "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+      "matter": "<b>AC NO: </b>194<br><b>AC Name: </b>Arsikere<br><b>Candidate Name: </b>G. MARISWAMY<br><b>Gender: </b>M<br><b>Age: </b>51<br><b>Category: </b>GEN<br><b>General Votes: </b>25126<br><b>Postal Votes: </b>132<br><b>Total Votes: </b>25258<br><b>Total Voters: </b>208389<br><b>Percenatge: </b>14.6<br><b>Position: </b>3<br>"
+    },
+    "195": {
+      "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+      "matter": "<b>AC NO: </b>195<br><b>AC Name: </b>Belur<br><b>Candidate Name: </b>H.K. SURESH<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>GEN<br><b>General Votes: </b>44132<br><b>Postal Votes: </b>446<br><b>Total Votes: </b>44578<br><b>Total Voters: </b>190544<br><b>Percenatge: </b>29.27<br><b>Position: </b>2<br>"
+    },
+    "196": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>196<br><b>AC Name: </b>Hassan<br><b>Candidate Name: </b>PREETHAM J GOWDA<br><b>Gender: </b>M<br><b>Age: </b>37<br><b>Category: </b>GEN<br><b>General Votes: </b>62069<br><b>Postal Votes: </b>1279<br><b>Total Votes: </b>63348<br><b>Total Voters: </b>212952<br><b>Percenatge: </b>41.02<br><b>Position: </b>1<br>"
+    },
+    "197": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b>AC NO: </b>197<br><b>AC Name: </b>Holenarasipur<br><b>Candidate Name: </b>M N RAJU<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>3660<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>3667<br><b>Total Voters: </b>209086<br><b>Percenatge: </b>2.03<br><b>Position: </b>3<br>"
+    },
+    "198": {
+      "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+      "matter": "<b>AC NO: </b>198<br><b>AC Name: </b>Arkalgud<br><b>Candidate Name: </b>H. YOGARAMESHA<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>22594<br><b>Postal Votes: </b>85<br><b>Total Votes: </b>22679<br><b>Total Voters: </b>215604<br><b>Percenatge: </b>12.01<br><b>Position: </b>3<br>"
+    },
+    "199": {
+      "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+      "matter": "<b>AC NO: </b>199<br><b>AC Name: </b>Sakleshpur  (SC)<br><b>Candidate Name: </b>SOMASHEKAR JAYARAJ<br><b>Gender: </b>M<br><b>Age: </b>45<br><b>Category: </b>SC<br><b>General Votes: </b>57150<br><b>Postal Votes: </b>170<br><b>Total Votes: </b>57320<br><b>Total Voters: </b>195717<br><b>Percenatge: </b>35.6<br><b>Position: </b>2<br>"
+    },
+    "200": {
+      "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+      "matter": "<b>AC NO: </b>200<br><b>AC Name: </b>Belthangady<br><b>Candidate Name: </b>HARISH POONJA<br><b>Gender: </b>M<br><b>Age: </b>36<br><b>Category: </b>GEN<br><b>General Votes: </b>97694<br><b>Postal Votes: </b>723<br><b>Total Votes: </b>98417<br><b>Total Voters: </b>218935<br><b>Percenatge: </b>54.81<br><b>Position: </b>1<br>"
+    },
+    "201": {
+      "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+      "matter": "<b>AC NO: </b>201<br><b>AC Name: </b>Moodabidri<br><b>Candidate Name: </b>UMANATHA. A. KOTIAN<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>GEN<br><b>General Votes: </b>87027<br><b>Postal Votes: </b>417<br><b>Total Votes: </b>87444<br><b>Total Voters: </b>200066<br><b>Percenatge: </b>57.44<br><b>Position: </b>1<br>"
+    },
+    "202": {
+      "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+      "matter": "<b>AC NO: </b>202<br><b>AC Name: </b>Mangalore City North<br><b>Candidate Name: </b>DR.BHARATH SHETTY. Y<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>GEN<br><b>General Votes: </b>97979<br><b>Postal Votes: </b>669<br><b>Total Votes: </b>98648<br><b>Total Voters: </b>234856<br><b>Percenatge: </b>56.02<br><b>Position: </b>1<br>"
+    },
+    "203": {
+      "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+      "matter": "<b>AC NO: </b>203<br><b>AC Name: </b>Mangalore City South<br><b>Candidate Name: </b>D. VEDAVYASA KAMATH<br><b>Gender: </b>M<br><b>Age: </b>40<br><b>Category: </b>GEN<br><b>General Votes: </b>85740<br><b>Postal Votes: </b>805<br><b>Total Votes: </b>86545<br><b>Total Voters: </b>240092<br><b>Percenatge: </b>52.97<br><b>Position: </b>1<br>"
+    },
+    "204": {
+      "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+      "matter": "<b>AC NO: </b>204<br><b>AC Name: </b>Mangalore<br><b>Candidate Name: </b>SANTHOSH KUMAR RAI BOLIYARU<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>60478<br><b>Postal Votes: </b>596<br><b>Total Votes: </b>61074<br><b>Total Voters: </b>195746<br><b>Percenatge: </b>40.89<br><b>Position: </b>2<br>"
+    },
+    "205": {
+      "color": "rgba(242.8788, 83.2323, 63.8384, 1.0)",
+      "matter": "<b>AC NO: </b>205<br><b>AC Name: </b>Bantval<br><b>Candidate Name: </b>RAJESH NAIK U.<br><b>Gender: </b>M<br><b>Age: </b>59<br><b>Category: </b>GEN<br><b>General Votes: </b>97164<br><b>Postal Votes: </b>638<br><b>Total Votes: </b>97802<br><b>Total Voters: </b>221765<br><b>Percenatge: </b>53.57<br><b>Position: </b>1<br>"
+    },
+    "206": {
+      "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+      "matter": "<b>AC NO: </b>206<br><b>AC Name: </b>Puttur<br><b>Candidate Name: </b>SANJEEVA MATANDOOR<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>89145<br><b>Postal Votes: </b>928<br><b>Total Votes: </b>90073<br><b>Total Voters: </b>201948<br><b>Percenatge: </b>54.17<br><b>Position: </b>1<br>"
+    },
+    "207": {
+      "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+      "matter": "<b>AC NO: </b>207<br><b>AC Name: </b>Sullia  (SC)<br><b>Candidate Name: </b>ANGARA.S<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>SC<br><b>General Votes: </b>94164<br><b>Postal Votes: </b>1041<br><b>Total Votes: </b>95205<br><b>Total Voters: </b>198823<br><b>Percenatge: </b>56.53<br><b>Position: </b>1<br>"
+    },
+    "208": {
+      "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+      "matter": "<b>AC NO: </b>208<br><b>AC Name: </b>Madikeri<br><b>Candidate Name: </b>APPACHU RANJAN M P<br><b>Gender: </b>M<br><b>Age: </b>61<br><b>Category: </b>GEN<br><b>General Votes: </b>69954<br><b>Postal Votes: </b>677<br><b>Total Votes: </b>70631<br><b>Total Voters: </b>217386<br><b>Percenatge: </b>41.68<br><b>Position: </b>1<br>"
+    },
+    "209": {
+      "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+      "matter": "<b>AC NO: </b>209<br><b>AC Name: </b>Virajpet<br><b>Candidate Name: </b>K G BOPAIAH<br><b>Gender: </b>M<br><b>Age: </b>65<br><b>Category: </b>GEN<br><b>General Votes: </b>77431<br><b>Postal Votes: </b>513<br><b>Total Votes: </b>77944<br><b>Total Voters: </b>217457<br><b>Percenatge: </b>49.4<br><b>Position: </b>1<br>"
+    },
+    "210": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b>AC NO: </b>210<br><b>AC Name: </b>Periyapatna<br><b>Candidate Name: </b>MANJUNATHA S<br><b>Gender: </b>M<br><b>Age: </b>31<br><b>Category: </b>GEN<br><b>General Votes: </b>3974<br><b>Postal Votes: </b>73<br><b>Total Votes: </b>4047<br><b>Total Voters: </b>180460<br><b>Percenatge: </b>2.6<br><b>Position: </b>3<br>"
+    },
+    "211": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b>AC NO: </b>211<br><b>AC Name: </b>Krishnarajanagara<br><b>Candidate Name: </b>H. G. SHWETHA GOPALA<br><b>Gender: </b>F<br><b>Age: </b>42<br><b>Category: </b>GEN<br><b>General Votes: </b>2695<br><b>Postal Votes: </b>21<br><b>Total Votes: </b>2716<br><b>Total Voters: </b>204182<br><b>Percenatge: </b>1.55<br><b>Position: </b>3<br>"
+    },
+    "212": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b>AC NO: </b>212<br><b>AC Name: </b>Hunasuru<br><b>Candidate Name: </b>J S RAMESH KUMAR<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>6363<br><b>Postal Votes: </b>43<br><b>Total Votes: </b>6406<br><b>Total Voters: </b>224619<br><b>Percenatge: </b>3.44<br><b>Position: </b>3<br>"
+    },
+    "213": {
+      "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+      "matter": "<b>AC NO: </b>213<br><b>AC Name: </b>Heggadadevankote  (ST)<br><b>Candidate Name: </b>SIDDARAJU<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>ST<br><b>General Votes: </b>34226<br><b>Postal Votes: </b>199<br><b>Total Votes: </b>34425<br><b>Total Voters: </b>214900<br><b>Percenatge: </b>20.13<br><b>Position: </b>3<br>"
+    },
+    "214": {
+      "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+      "matter": "<b>AC NO: </b>214<br><b>AC Name: </b>Nanjangud  (SC)<br><b>Candidate Name: </b>B. HARSHAVARDHAN<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>SC<br><b>General Votes: </b>77781<br><b>Postal Votes: </b>249<br><b>Total Votes: </b>78030<br><b>Total Voters: </b>209121<br><b>Percenatge: </b>47.59<br><b>Position: </b>1<br>"
+    },
+    "215": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b>AC NO: </b>215<br><b>AC Name: </b>Chamundeshwari<br><b>Candidate Name: </b>S.R.GOPALRAO<br><b>Gender: </b>M<br><b>Age: </b>61<br><b>Category: </b>GEN<br><b>General Votes: </b>11964<br><b>Postal Votes: </b>100<br><b>Total Votes: </b>12064<br><b>Total Voters: </b>295843<br><b>Percenatge: </b>5.33<br><b>Position: </b>3<br>"
+    },
+    "216": {
+      "color": "rgba(242.8788, 83.2323, 63.8384, 1.0)",
+      "matter": "<b>AC NO: </b>216<br><b>AC Name: </b>Krishnaraja<br><b>Candidate Name: </b>S A RAMADAS<br><b>Gender: </b>M<br><b>Age: </b>61<br><b>Category: </b>GEN<br><b>General Votes: </b>77505<br><b>Postal Votes: </b>1068<br><b>Total Votes: </b>78573<br><b>Total Voters: </b>247135<br><b>Percenatge: </b>53.48<br><b>Position: </b>1<br>"
+    },
+    "217": {
+      "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+      "matter": "<b>AC NO: </b>217<br><b>AC Name: </b>Chamaraja<br><b>Candidate Name: </b>L. NAGENDRA<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>51285<br><b>Postal Votes: </b>398<br><b>Total Votes: </b>51683<br><b>Total Voters: </b>235672<br><b>Percenatge: </b>36.77<br><b>Position: </b>1<br>"
+    },
+    "218": {
+      "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+      "matter": "<b>AC NO: </b>218<br><b>AC Name: </b>Narasimharaja<br><b>Candidate Name: </b>S.SATHEESH (SANDESH SWAMY)<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>GEN<br><b>General Votes: </b>43629<br><b>Postal Votes: </b>512<br><b>Total Votes: </b>44141<br><b>Total Voters: </b>262066<br><b>Percenatge: </b>27.27<br><b>Position: </b>2<br>"
+    },
+    "219": {
+      "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+      "matter": "<b>AC NO: </b>219<br><b>AC Name: </b>Varuna<br><b>Candidate Name: </b>T BASAVARAJU<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>37692<br><b>Postal Votes: </b>127<br><b>Total Votes: </b>37819<br><b>Total Voters: </b>221053<br><b>Percenatge: </b>21.6<br><b>Position: </b>2<br>"
+    },
+    "220": {
+      "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+      "matter": "<b>AC NO: </b>220<br><b>AC Name: </b>T.Narasipur  (SC)<br><b>Candidate Name: </b>S. SHANKAR<br><b>Gender: </b>M<br><b>Age: </b>50<br><b>Category: </b>SC<br><b>General Votes: </b>11726<br><b>Postal Votes: </b>86<br><b>Total Votes: </b>11812<br><b>Total Voters: </b>198441<br><b>Percenatge: </b>7.61<br><b>Position: </b>3<br>"
+    },
+    "221": {
+      "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+      "matter": "<b>AC NO: </b>221<br><b>AC Name: </b>Hanur<br><b>Candidate Name: </b>DR. PREETHAN NAGAPPA<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>GEN<br><b>General Votes: </b>56613<br><b>Postal Votes: </b>318<br><b>Total Votes: </b>56931<br><b>Total Voters: </b>207662<br><b>Percenatge: </b>33.42<br><b>Position: </b>2<br>"
+    },
+    "222": {
+      "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+      "matter": "<b>AC NO: </b>222<br><b>AC Name: </b>Kollegal  (SC)<br><b>Candidate Name: </b>G.N. NANJUNDA SWAMY<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>SC<br><b>General Votes: </b>39433<br><b>Postal Votes: </b>257<br><b>Total Votes: </b>39690<br><b>Total Voters: </b>211555<br><b>Percenatge: </b>23.5<br><b>Position: </b>3<br>"
+    },
+    "223": {
+      "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+      "matter": "<b>AC NO: </b>223<br><b>AC Name: </b>Chamarajanagar<br><b>Candidate Name: </b>K R MALLIKARJUNAPPA<br><b>Gender: </b>M<br><b>Age: </b>65<br><b>Category: </b>GEN<br><b>General Votes: </b>70503<br><b>Postal Votes: </b>547<br><b>Total Votes: </b>71050<br><b>Total Voters: </b>206162<br><b>Percenatge: </b>42.52<br><b>Position: </b>2<br>"
+    },
+    "224": {
+      "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+      "matter": "<b>AC NO: </b>224<br><b>AC Name: </b>Gundlupet<br><b>Candidate Name: </b>C S NIRANJAN KUMAR<br><b>Gender: </b>M<br><b>Age: </b>44<br><b>Category: </b>GEN<br><b>General Votes: </b>93697<br><b>Postal Votes: </b>454<br><b>Total Votes: </b>94151<br><b>Total Voters: </b>205646<br><b>Percenatge: </b>51.48<br><b>Position: </b>1<br>"
+    },
+    "173": {
+      "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+      "matter": "<b>AC NO: </b>173<br><b>AC Name: </b>Jayanagar<br><b>Candidate Name: </b>B.N.PRAHLAD<br><b>Gender: </b>M<br><b>Age: </b>57<br><b>Category: </b>GEN<br><b>General Votes: </b>51568<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>51571<br><b>Total Voters: </b>111584<br><b>Percenatge: </b>48.3<br><b>Position: </b>2<br>"
+    }
+  },
+  "border": "0,0"
+}
