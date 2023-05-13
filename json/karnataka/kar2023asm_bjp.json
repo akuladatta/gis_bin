@@ -1,0 +1,904 @@
+{
+    "title": "BJP in KAR 2023",
+    "trigger": "AC_CODE",
+    "desc": "<table class='col-md-12'><caption>Index</caption><thead><tr><th>Color</th><th>Percentage</th><th>Count</th></tr></thead><tbody><tr><td style=\"background-color: #2c7bb6;\"></td><td>1.24% to 13.74%</td><td>28</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>13.74% to 26.23%</td><td>22</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>26.23% to 38.73%</td><td>58</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>38.73% to 51.22%</td><td>84</td></tr><tr><td style=\"background-color: #ff0000;\"></td><td>51.22% to 63.72%</td><td>32</td></tr><tr><td></td><td></td><td>224</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "001": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC NO: </b>1<br><b>AC Name: </b>Nippani <br><b>Candidate Name: </b>JOLLE SHASHIKALA ANNASAHEB<br><b>General Votes: </b>72952<br><b>Postal Votes: </b>396<br><b>Total Votes: </b>73348<br><b>Total Voters: </b>187412<br><b>Percenatge: </b>39.14<br><b>Position: </b>1<br>"
+        },
+        "002": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>2<br><b>AC Name: </b>Chikkodi<br><b>Candidate Name: </b>KATTI RAMESH VISHWANATH<br><b>General Votes: </b>49575<br><b>Postal Votes: </b>265<br><b>Total Votes: </b>49840<br><b>Total Voters: </b>183835<br><b>Percenatge: </b>27.11<br><b>Position: </b>2<br>"
+        },
+        "003": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>3<br><b>AC Name: </b>Athani <br><b>Candidate Name: </b>MAHESH. IRANGOUDA. KUMATHALLI.<br><b>General Votes: </b>54805<br><b>Postal Votes: </b>477<br><b>Total Votes: </b>55282<br><b>Total Voters: </b>192279<br><b>Percenatge: </b>28.75<br><b>Position: </b>2<br>"
+        },
+        "004": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>4<br><b>AC Name: </b>Kagwad <br><b>Candidate Name: </b>SHRIMANT  BALASAHEB  PATIL<br><b>General Votes: </b>73948<br><b>Postal Votes: </b>612<br><b>Total Votes: </b>74560<br><b>Total Voters: </b>162078<br><b>Percenatge: </b>46.0<br><b>Position: </b>2<br>"
+        },
+        "005": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC NO: </b>5<br><b>AC Name: </b>Kudachi <br><b>Candidate Name: </b>P. RAJEEV<br><b>General Votes: </b>59612<br><b>Postal Votes: </b>466<br><b>Total Votes: </b>60078<br><b>Total Voters: </b>150040<br><b>Percenatge: </b>40.04<br><b>Position: </b>2<br>"
+        },
+        "006": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>6<br><b>AC Name: </b>Raybag <br><b>Candidate Name: </b>AIHOLE DURYODHAN MAHALINGAPPA<br><b>General Votes: </b>57164<br><b>Postal Votes: </b>336<br><b>Total Votes: </b>57500<br><b>Total Voters: </b>165288<br><b>Percenatge: </b>34.79<br><b>Position: </b>1<br>"
+        },
+        "007": {
+            "color": "rgba(253.1818, 12.4848, 9.5758, 1.0)",
+            "matter": "<b>AC NO: </b>7<br><b>AC Name: </b>Hukkeri <br><b>Candidate Name: </b>KATTI NIKHIL UMESH<br><b>General Votes: </b>103104<br><b>Postal Votes: </b>470<br><b>Total Votes: </b>103574<br><b>Total Voters: </b>167903<br><b>Percenatge: </b>61.69<br><b>Position: </b>1<br>"
+        },
+        "008": {
+            "color": "rgba(252.5758, 16.6465, 12.7677, 1.0)",
+            "matter": "<b>AC NO: </b>8<br><b>AC Name: </b>Arabhavi <br><b>Candidate Name: </b>BALACHANDRA LAXMANRAO JARKIHOLI<br><b>General Votes: </b>114242<br><b>Postal Votes: </b>1160<br><b>Total Votes: </b>115402<br><b>Total Voters: </b>190105<br><b>Percenatge: </b>60.7<br><b>Position: </b>1<br>"
+        },
+        "009": {
+            "color": "rgba(247.1212, 54.101, 41.4949, 1.0)",
+            "matter": "<b>AC NO: </b>9<br><b>AC Name: </b>Gokak <br><b>Candidate Name: </b>JARKIHOLI RAMESH LAXMANRAO<br><b>General Votes: </b>104068<br><b>Postal Votes: </b>1245<br><b>Total Votes: </b>105313<br><b>Total Voters: </b>190390<br><b>Percenatge: </b>55.31<br><b>Position: </b>1<br>"
+        },
+        "010": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC NO: </b>10<br><b>AC Name: </b>Yemkanmardi <br><b>Candidate Name: </b>BASAVARAJ HUNDRI<br><b>General Votes: </b>42941<br><b>Postal Votes: </b>138<br><b>Total Votes: </b>43079<br><b>Total Voters: </b>166446<br><b>Percenatge: </b>25.88<br><b>Position: </b>2<br>"
+        },
+        "011": {
+            "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+            "matter": "<b>AC NO: </b>11<br><b>AC Name: </b>Belgaum Uttar <br><b>Candidate Name: </b>DR. RAVI B. PATIL<br><b>General Votes: </b>64312<br><b>Postal Votes: </b>641<br><b>Total Votes: </b>64953<br><b>Total Voters: </b>149478<br><b>Percenatge: </b>43.45<br><b>Position: </b>2<br>"
+        },
+        "012": {
+            "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+            "matter": "<b>AC NO: </b>12<br><b>AC Name: </b>Belgaum Dakshin <br><b>Candidate Name: </b>ABHAY PATIL<br><b>General Votes: </b>76249<br><b>Postal Votes: </b>845<br><b>Total Votes: </b>77094<br><b>Total Voters: </b>159111<br><b>Percenatge: </b>48.45<br><b>Position: </b>1<br>"
+        },
+        "013": {
+            "color": "rgba(253.6348, 211.3152, 140.7394, 1.0)",
+            "matter": "<b>AC NO: </b>13<br><b>AC Name: </b>Belgaum Rural <br><b>Candidate Name: </b>Nagesh Annappa Manolkar<br><b>General Votes: </b>51259<br><b>Postal Votes: </b>344<br><b>Total Votes: </b>51603<br><b>Total Voters: </b>204562<br><b>Percenatge: </b>25.23<br><b>Position: </b>2<br>"
+        },
+        "014": {
+            "color": "rgba(248.9394, 41.6162, 31.9192, 1.0)",
+            "matter": "<b>AC NO: </b>14<br><b>AC Name: </b>Khanapur <br><b>Candidate Name: </b>Vithal Somanna Halagekar<br><b>General Votes: </b>91237<br><b>Postal Votes: </b>597<br><b>Total Votes: </b>91834<br><b>Total Voters: </b>161013<br><b>Percenatge: </b>57.04<br><b>Position: </b>1<br>"
+        },
+        "015": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC NO: </b>15<br><b>AC Name: </b>Kittur <br><b>Candidate Name: </b>DODDAGOUDAR MAHANTESH BASAVANTARAY<br><b>General Votes: </b>73523<br><b>Postal Votes: </b>1020<br><b>Total Votes: </b>74543<br><b>Total Voters: </b>156660<br><b>Percenatge: </b>47.58<br><b>Position: </b>2<br>"
+        },
+        "016": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>16<br><b>AC Name: </b>Bailhongal <br><b>Candidate Name: </b>JAGDISH CHANNAPPA METGUD<br><b>General Votes: </b>54746<br><b>Postal Votes: </b>884<br><b>Total Votes: </b>55630<br><b>Total Voters: </b>152596<br><b>Percenatge: </b>36.46<br><b>Position: </b>2<br>"
+        },
+        "017": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>17<br><b>AC Name: </b>Saundatti Yellamma <br><b>Candidate Name: </b>MAMANI RATNA ANAND @ VISHWANATH<br><b>General Votes: </b>55867<br><b>Postal Votes: </b>662<br><b>Total Votes: </b>56529<br><b>Total Voters: </b>163317<br><b>Percenatge: </b>34.61<br><b>Position: </b>2<br>"
+        },
+        "018": {
+            "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+            "matter": "<b>AC NO: </b>18<br><b>AC Name: </b>Ramdurg <br><b>Candidate Name: </b>CHIKKAREVANNA<br><b>General Votes: </b>67964<br><b>Postal Votes: </b>600<br><b>Total Votes: </b>68564<br><b>Total Voters: </b>154029<br><b>Percenatge: </b>44.51<br><b>Position: </b>2<br>"
+        },
+        "019": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>19<br><b>AC Name: </b>Mudhol <br><b>Candidate Name: </b>GOVIND MAKTHAPPA KARJOL<br><b>General Votes: </b>59401<br><b>Postal Votes: </b>562<br><b>Total Votes: </b>59963<br><b>Total Voters: </b>158767<br><b>Percenatge: </b>37.77<br><b>Position: </b>2<br>"
+        },
+        "020": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>20<br><b>AC Name: </b>Terdal <br><b>Candidate Name: </b>SIDDU SAVADI<br><b>General Votes: </b>76628<br><b>Postal Votes: </b>637<br><b>Total Votes: </b>77265<br><b>Total Voters: </b>179661<br><b>Percenatge: </b>43.01<br><b>Position: </b>1<br>"
+        },
+        "021": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>21<br><b>AC Name: </b>Jamkhandi <br><b>Candidate Name: </b>JAGADEESH SHIVAYYA GUDAGUNTI<br><b>General Votes: </b>81063<br><b>Postal Votes: </b>874<br><b>Total Votes: </b>81937<br><b>Total Voters: </b>167688<br><b>Percenatge: </b>48.86<br><b>Position: </b>1<br>"
+        },
+        "022": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>22<br><b>AC Name: </b>Bilgi <br><b>Candidate Name: </b>NIRANI MURAGESH RUDRAPPA<br><b>General Votes: </b>83513<br><b>Postal Votes: </b>1010<br><b>Total Votes: </b>84523<br><b>Total Voters: </b>184837<br><b>Percenatge: </b>45.73<br><b>Position: </b>2<br>"
+        },
+        "023": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC NO: </b>23<br><b>AC Name: </b>Badami <br><b>Candidate Name: </b>SHANTHAGOUDA THIRTHGOUDA  PATIL.<br><b>General Votes: </b>55196<br><b>Postal Votes: </b>924<br><b>Total Votes: </b>56120<br><b>Total Voters: </b>169038<br><b>Percenatge: </b>33.2<br><b>Position: </b>2<br>"
+        },
+        "024": {
+            "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+            "matter": "<b>AC NO: </b>24<br><b>AC Name: </b>Bagalkot <br><b>Candidate Name: </b>VEERABHADRAYYA (VEERANNA) CHARANTIMATH<br><b>General Votes: </b>72157<br><b>Postal Votes: </b>1301<br><b>Total Votes: </b>73458<br><b>Total Voters: </b>170370<br><b>Percenatge: </b>43.12<br><b>Position: </b>2<br>"
+        },
+        "025": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>25<br><b>AC Name: </b>Hungund <br><b>Candidate Name: </b>DODDANAGOUDA G PATIL<br><b>General Votes: </b>47683<br><b>Postal Votes: </b>744<br><b>Total Votes: </b>48427<br><b>Total Voters: </b>165361<br><b>Percenatge: </b>29.29<br><b>Position: </b>2<br>"
+        },
+        "026": {
+            "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+            "matter": "<b>AC NO: </b>26<br><b>AC Name: </b>Muddebihal <br><b>Candidate Name: </b>A. S. PATIL (NADAHALLI)<br><b>General Votes: </b>70754<br><b>Postal Votes: </b>1092<br><b>Total Votes: </b>71846<br><b>Total Voters: </b>155021<br><b>Percenatge: </b>46.35<br><b>Position: </b>2<br>"
+        },
+        "027": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>27<br><b>AC Name: </b>Devar Hippargi <br><b>Candidate Name: </b>SOMANAGOUDA B. PATIL (SASANUR)<br><b>General Votes: </b>45272<br><b>Postal Votes: </b>505<br><b>Total Votes: </b>45777<br><b>Total Voters: </b>151983<br><b>Percenatge: </b>30.12<br><b>Position: </b>2<br>"
+        },
+        "028": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>28<br><b>AC Name: </b>Basavana  Bagevadi <br><b>Candidate Name: </b>BELLUBBI SANGAPPA KALLAPPA<br><b>General Votes: </b>42698<br><b>Postal Votes: </b>565<br><b>Total Votes: </b>43263<br><b>Total Voters: </b>158446<br><b>Percenatge: </b>27.3<br><b>Position: </b>2<br>"
+        },
+        "029": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>29<br><b>AC Name: </b>Babaleshwar <br><b>Candidate Name: </b>VIJAYAKUMAR (VIJAYAGOUDA) PATIL<br><b>General Votes: </b>78071<br><b>Postal Votes: </b>636<br><b>Total Votes: </b>78707<br><b>Total Voters: </b>179186<br><b>Percenatge: </b>43.92<br><b>Position: </b>2<br>"
+        },
+        "030": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC NO: </b>30<br><b>AC Name: </b>Bijapur City <br><b>Candidate Name: </b>BASANAGOUDA R PATIL (YATNAL)<br><b>General Votes: </b>93326<br><b>Postal Votes: </b>885<br><b>Total Votes: </b>94211<br><b>Total Voters: </b>183057<br><b>Percenatge: </b>51.47<br><b>Position: </b>1<br>"
+        },
+        "031": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>31<br><b>AC Name: </b>Nagthan <br><b>Candidate Name: </b>SANJEEV MALASIDDAPPA AIHOLE<br><b>General Votes: </b>47693<br><b>Postal Votes: </b>482<br><b>Total Votes: </b>48175<br><b>Total Voters: </b>180540<br><b>Percenatge: </b>26.68<br><b>Position: </b>2<br>"
+        },
+        "032": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC NO: </b>32<br><b>AC Name: </b>Indi <br><b>Candidate Name: </b>KASUGOUDA IRAPPAGOUDA BIRADAR<br><b>General Votes: </b>39367<br><b>Postal Votes: </b>495<br><b>Total Votes: </b>39862<br><b>Total Voters: </b>180859<br><b>Percenatge: </b>22.04<br><b>Position: </b>3<br>"
+        },
+        "033": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>33<br><b>AC Name: </b>Sindgi <br><b>Candidate Name: </b>BHUSANUR RAMESH BALAPPA<br><b>General Votes: </b>78691<br><b>Postal Votes: </b>1122<br><b>Total Votes: </b>79813<br><b>Total Voters: </b>173399<br><b>Percenatge: </b>46.03<br><b>Position: </b>2<br>"
+        },
+        "034": {
+            "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+            "matter": "<b>AC NO: </b>34<br><b>AC Name: </b>Afzalpur <br><b>Candidate Name: </b>MALIKAYYA. V. GUTTEDAR.<br><b>General Votes: </b>31131<br><b>Postal Votes: </b>263<br><b>Total Votes: </b>31394<br><b>Total Voters: </b>160322<br><b>Percenatge: </b>19.58<br><b>Position: </b>3<br>"
+        },
+        "035": {
+            "color": "rgba(254.8712, 250.8788, 186.4848, 1.0)",
+            "matter": "<b>AC NO: </b>35<br><b>AC Name: </b>Jewargi <br><b>Candidate Name: </b>SHIVARAJ<br><b>General Votes: </b>29305<br><b>Postal Votes: </b>259<br><b>Total Votes: </b>29564<br><b>Total Voters: </b>167404<br><b>Percenatge: </b>17.66<br><b>Position: </b>3<br>"
+        },
+        "036": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>36<br><b>AC Name: </b>Shorapur <br><b>Candidate Name: </b>NARASIMHANAYAK (RAJUGOUDA)<br><b>General Votes: </b>87746<br><b>Postal Votes: </b>590<br><b>Total Votes: </b>88336<br><b>Total Voters: </b>207530<br><b>Percenatge: </b>42.57<br><b>Position: </b>2<br>"
+        },
+        "037": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>37<br><b>AC Name: </b>Shahapur <br><b>Candidate Name: </b>AMEENRADDI YALAGI<br><b>General Votes: </b>51856<br><b>Postal Votes: </b>470<br><b>Total Votes: </b>52326<br><b>Total Voters: </b>166714<br><b>Percenatge: </b>31.39<br><b>Position: </b>2<br>"
+        },
+        "038": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>38<br><b>AC Name: </b>Yadgir <br><b>Candidate Name: </b>VENKATREDDY MUDNAL<br><b>General Votes: </b>49768<br><b>Postal Votes: </b>361<br><b>Total Votes: </b>50129<br><b>Total Voters: </b>155002<br><b>Percenatge: </b>32.34<br><b>Position: </b>2<br>"
+        },
+        "039": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC NO: </b>39<br><b>AC Name: </b>Gurmitkal <br><b>Candidate Name: </b>ANPUR LALITA MOULALI<br><b>General Votes: </b>14488<br><b>Postal Votes: </b>83<br><b>Total Votes: </b>14571<br><b>Total Voters: </b>162330<br><b>Percenatge: </b>8.98<br><b>Position: </b>3<br>"
+        },
+        "040": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>40<br><b>AC Name: </b>Chittapur <br><b>Candidate Name: </b>MANIKANTA RATHOD<br><b>General Votes: </b>67450<br><b>Postal Votes: </b>233<br><b>Total Votes: </b>67683<br><b>Total Voters: </b>153195<br><b>Percenatge: </b>44.18<br><b>Position: </b>2<br>"
+        },
+        "041": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC NO: </b>41<br><b>AC Name: </b>Sedam <br><b>Candidate Name: </b>RAJKUMAR PATIL TELKUR<br><b>General Votes: </b>49544<br><b>Postal Votes: </b>272<br><b>Total Votes: </b>49816<br><b>Total Voters: </b>175997<br><b>Percenatge: </b>28.31<br><b>Position: </b>2<br>"
+        },
+        "042": {
+            "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+            "matter": "<b>AC NO: </b>42<br><b>AC Name: </b>Chincholi <br><b>Candidate Name: </b>AVINASH UMESH JADHAV<br><b>General Votes: </b>69586<br><b>Postal Votes: </b>377<br><b>Total Votes: </b>69963<br><b>Total Voters: </b>149940<br><b>Percenatge: </b>46.66<br><b>Position: </b>1<br>"
+        },
+        "043": {
+            "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+            "matter": "<b>AC NO: </b>43<br><b>AC Name: </b>Gulbarga Rural <br><b>Candidate Name: </b>BASAWARAJ MATTIMUDU<br><b>General Votes: </b>83759<br><b>Postal Votes: </b>707<br><b>Total Votes: </b>84466<br><b>Total Voters: </b>162119<br><b>Percenatge: </b>52.1<br><b>Position: </b>1<br>"
+        },
+        "044": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC NO: </b>44<br><b>AC Name: </b>Gulbarga Dakshin <br><b>Candidate Name: </b>DATTATREYA.C. PATIL REVOOR APPUGOUDA<br><b>General Votes: </b>65137<br><b>Postal Votes: </b>1160<br><b>Total Votes: </b>66297<br><b>Total Voters: </b>159567<br><b>Percenatge: </b>41.55<br><b>Position: </b>2<br>"
+        },
+        "045": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>45<br><b>AC Name: </b>Gulbarga Uttar <br><b>Candidate Name: </b>CHANDRAKANT B. PATIL (CHANDU PATIL)<br><b>General Votes: </b>77559<br><b>Postal Votes: </b>702<br><b>Total Votes: </b>78261<br><b>Total Voters: </b>178845<br><b>Percenatge: </b>43.76<br><b>Position: </b>2<br>"
+        },
+        "046": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>46<br><b>AC Name: </b>Aland <br><b>Candidate Name: </b>Subhash Guttedar<br><b>General Votes: </b>78701<br><b>Postal Votes: </b>459<br><b>Total Votes: </b>79160<br><b>Total Voters: </b>174588<br><b>Percenatge: </b>45.34<br><b>Position: </b>2<br>"
+        },
+        "047": {
+            "color": "rgba(244.697, 70.7475, 54.2626, 1.0)",
+            "matter": "<b>AC NO: </b>47<br><b>AC Name: </b>Basavakalyan <br><b>Candidate Name: </b>SHARANU SALAGAR<br><b>General Votes: </b>92346<br><b>Postal Votes: </b>574<br><b>Total Votes: </b>92920<br><b>Total Voters: </b>175991<br><b>Percenatge: </b>52.8<br><b>Position: </b>1<br>"
+        },
+        "048": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC NO: </b>48<br><b>AC Name: </b>Homnabad <br><b>Candidate Name: </b>SIDDU PATIL<br><b>General Votes: </b>74933<br><b>Postal Votes: </b>582<br><b>Total Votes: </b>75515<br><b>Total Voters: </b>178807<br><b>Percenatge: </b>42.23<br><b>Position: </b>1<br>"
+        },
+        "049": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>49<br><b>AC Name: </b>Bidar South <br><b>Candidate Name: </b>DR. SHAILENDRA BELDALE<br><b>General Votes: </b>49593<br><b>Postal Votes: </b>279<br><b>Total Votes: </b>49872<br><b>Total Voters: </b>153384<br><b>Percenatge: </b>32.51<br><b>Position: </b>1<br>"
+        },
+        "050": {
+            "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+            "matter": "<b>AC NO: </b>50<br><b>AC Name: </b>Bidar <br><b>Candidate Name: </b>ISHWAR SINGH THAKUR<br><b>General Votes: </b>17505<br><b>Postal Votes: </b>274<br><b>Total Votes: </b>17779<br><b>Total Voters: </b>150277<br><b>Percenatge: </b>11.83<br><b>Position: </b>3<br>"
+        },
+        "051": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>51<br><b>AC Name: </b>Bhalki <br><b>Candidate Name: </b>PRAKASH KHANDRE<br><b>General Votes: </b>71270<br><b>Postal Votes: </b>475<br><b>Total Votes: </b>71745<br><b>Total Voters: </b>174778<br><b>Percenatge: </b>41.05<br><b>Position: </b>2<br>"
+        },
+        "052": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC NO: </b>52<br><b>AC Name: </b>Aurad <br><b>Candidate Name: </b>PRABHU B CHAVAN<br><b>General Votes: </b>80533<br><b>Postal Votes: </b>849<br><b>Total Votes: </b>81382<br><b>Total Voters: </b>158603<br><b>Percenatge: </b>51.31<br><b>Position: </b>1<br>"
+        },
+        "053": {
+            "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+            "matter": "<b>AC NO: </b>53<br><b>AC Name: </b>Raichur Rural <br><b>Candidate Name: </b>Tipparaju Hawaldar<br><b>General Votes: </b>74893<br><b>Postal Votes: </b>390<br><b>Total Votes: </b>75283<br><b>Total Voters: </b>173361<br><b>Percenatge: </b>43.43<br><b>Position: </b>2<br>"
+        },
+        "054": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC NO: </b>54<br><b>AC Name: </b>Raichur <br><b>Candidate Name: </b>Dr. Shivaraj Patil<br><b>General Votes: </b>69143<br><b>Postal Votes: </b>512<br><b>Total Votes: </b>69655<br><b>Total Voters: </b>145243<br><b>Percenatge: </b>47.96<br><b>Position: </b>1<br>"
+        },
+        "055": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>55<br><b>AC Name: </b>Manvi <br><b>Candidate Name: </b>A Bhagavantaray<br><b>General Votes: </b>58802<br><b>Postal Votes: </b>401<br><b>Total Votes: </b>59203<br><b>Total Voters: </b>157730<br><b>Percenatge: </b>37.53<br><b>Position: </b>2<br>"
+        },
+        "056": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC NO: </b>56<br><b>AC Name: </b>Devadurga <br><b>Candidate Name: </b>Shivanagouda<br><b>General Votes: </b>64784<br><b>Postal Votes: </b>504<br><b>Total Votes: </b>65288<br><b>Total Voters: </b>175406<br><b>Percenatge: </b>37.22<br><b>Position: </b>2<br>"
+        },
+        "057": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>57<br><b>AC Name: </b>Lingsugur <br><b>Candidate Name: </b>MANAPPA D VAJJAL<br><b>General Votes: </b>58331<br><b>Postal Votes: </b>438<br><b>Total Votes: </b>58769<br><b>Total Voters: </b>174238<br><b>Percenatge: </b>33.73<br><b>Position: </b>1<br>"
+        },
+        "058": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC NO: </b>58<br><b>AC Name: </b>Sindhanur <br><b>Candidate Name: </b>K. KARIYAPPA<br><b>General Votes: </b>51192<br><b>Postal Votes: </b>511<br><b>Total Votes: </b>51703<br><b>Total Voters: </b>175431<br><b>Percenatge: </b>29.47<br><b>Position: </b>2<br>"
+        },
+        "059": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>59<br><b>AC Name: </b>Maski <br><b>Candidate Name: </b>PRATAPGOUDA PATIL<br><b>General Votes: </b>66063<br><b>Postal Votes: </b>450<br><b>Total Votes: </b>66513<br><b>Total Voters: </b>150798<br><b>Percenatge: </b>44.11<br><b>Position: </b>2<br>"
+        },
+        "060": {
+            "color": "rgba(242.8788, 83.2323, 63.8384, 1.0)",
+            "matter": "<b>AC NO: </b>60<br><b>AC Name: </b>Kushtagi <br><b>Candidate Name: </b>DODDANAGOUDA HANAMAGOUDA PATIL<br><b>General Votes: </b>91960<br><b>Postal Votes: </b>955<br><b>Total Votes: </b>92915<br><b>Total Voters: </b>183082<br><b>Percenatge: </b>50.75<br><b>Position: </b>1<br>"
+        },
+        "061": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>61<br><b>AC Name: </b>Kanakagiri <br><b>Candidate Name: </b>BASAVARAJ DADESUGUR<br><b>General Votes: </b>63214<br><b>Postal Votes: </b>318<br><b>Total Votes: </b>63532<br><b>Total Voters: </b>176553<br><b>Percenatge: </b>35.98<br><b>Position: </b>2<br>"
+        },
+        "062": {
+            "color": "rgba(254.7682, 247.5818, 182.6727, 1.0)",
+            "matter": "<b>AC NO: </b>62<br><b>AC Name: </b>Gangawati <br><b>Candidate Name: </b>PARANNA ISHWARAPPA MUNAVALLI<br><b>General Votes: </b>28918<br><b>Postal Votes: </b>249<br><b>Total Votes: </b>29167<br><b>Total Voters: </b>159859<br><b>Percenatge: </b>18.25<br><b>Position: </b>3<br>"
+        },
+        "063": {
+            "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+            "matter": "<b>AC NO: </b>63<br><b>AC Name: </b>Yelburga <br><b>Candidate Name: </b>ACHAR HALAPPA BASAPPA<br><b>General Votes: </b>76488<br><b>Postal Votes: </b>661<br><b>Total Votes: </b>77149<br><b>Total Voters: </b>176998<br><b>Percenatge: </b>43.59<br><b>Position: </b>2<br>"
+        },
+        "064": {
+            "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+            "matter": "<b>AC NO: </b>64<br><b>AC Name: </b>Koppal <br><b>Candidate Name: </b>KARADI MANJULA<br><b>General Votes: </b>53397<br><b>Postal Votes: </b>773<br><b>Total Votes: </b>54170<br><b>Total Voters: </b>194749<br><b>Percenatge: </b>27.82<br><b>Position: </b>2<br>"
+        },
+        "065": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>65<br><b>AC Name: </b>Shirahatti <br><b>Candidate Name: </b>DR.CHANDRU LAMANI<br><b>General Votes: </b>73600<br><b>Postal Votes: </b>889<br><b>Total Votes: </b>74489<br><b>Total Voters: </b>163974<br><b>Percenatge: </b>45.43<br><b>Position: </b>1<br>"
+        },
+        "066": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>66<br><b>AC Name: </b>Gadag <br><b>Candidate Name: </b>ANIL. P.  MENASINAKAI<br><b>General Votes: </b>73820<br><b>Postal Votes: </b>1008<br><b>Total Votes: </b>74828<br><b>Total Voters: </b>170232<br><b>Percenatge: </b>43.96<br><b>Position: </b>2<br>"
+        },
+        "067": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC NO: </b>67<br><b>AC Name: </b>Ron <br><b>Candidate Name: </b>KALAKAPPA GURUSHANTAPPA BANDI<br><b>General Votes: </b>69519<br><b>Postal Votes: </b>658<br><b>Total Votes: </b>70177<br><b>Total Voters: </b>178196<br><b>Percenatge: </b>39.38<br><b>Position: </b>2<br>"
+        },
+        "068": {
+            "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+            "matter": "<b>AC NO: </b>68<br><b>AC Name: </b>Nargund <br><b>Candidate Name: </b>C. C. PATIl<br><b>General Votes: </b>72154<br><b>Postal Votes: </b>681<br><b>Total Votes: </b>72835<br><b>Total Voters: </b>150236<br><b>Percenatge: </b>48.48<br><b>Position: </b>1<br>"
+        },
+        "069": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC NO: </b>69<br><b>AC Name: </b>Navalgund <br><b>Candidate Name: </b>SHANKAR BASANAGOUDA PATIL MUNENAKOPPA<br><b>General Votes: </b>63368<br><b>Postal Votes: </b>514<br><b>Total Votes: </b>63882<br><b>Total Voters: </b>161914<br><b>Percenatge: </b>39.45<br><b>Position: </b>2<br>"
+        },
+        "070": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>70<br><b>AC Name: </b>Kundgol <br><b>Candidate Name: </b>M R PATIL<br><b>General Votes: </b>75839<br><b>Postal Votes: </b>266<br><b>Total Votes: </b>76105<br><b>Total Voters: </b>155086<br><b>Percenatge: </b>49.07<br><b>Position: </b>1<br>"
+        },
+        "071": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>71<br><b>AC Name: </b>Dharwad <br><b>Candidate Name: </b>AMRUT AYYAPPA DESAI<br><b>General Votes: </b>70546<br><b>Postal Votes: </b>750<br><b>Total Votes: </b>71296<br><b>Total Voters: </b>165663<br><b>Percenatge: </b>43.04<br><b>Position: </b>2<br>"
+        },
+        "072": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>72<br><b>AC Name: </b>Hubli<br><b>Candidate Name: </b>Dr. KRANTHI KIRAN<br><b>General Votes: </b>52877<br><b>Postal Votes: </b>179<br><b>Total Votes: </b>53056<br><b>Total Voters: </b>148640<br><b>Percenatge: </b>35.69<br><b>Position: </b>2<br>"
+        },
+        "073": {
+            "color": "rgba(250.7576, 29.1313, 22.3434, 1.0)",
+            "matter": "<b>AC NO: </b>73<br><b>AC Name: </b>Hubli<br><b>Candidate Name: </b>MAHESH TENGINAKAI<br><b>General Votes: </b>94408<br><b>Postal Votes: </b>656<br><b>Total Votes: </b>95064<br><b>Total Voters: </b>160401<br><b>Percenatge: </b>59.27<br><b>Position: </b>1<br>"
+        },
+        "074": {
+            "color": "rgba(251.3636, 24.9697, 19.1515, 1.0)",
+            "matter": "<b>AC NO: </b>74<br><b>AC Name: </b>Hubli<br><b>Candidate Name: </b>ARVIND BELLAD<br><b>General Votes: </b>100276<br><b>Postal Votes: </b>1134<br><b>Total Votes: </b>101410<br><b>Total Voters: </b>170567<br><b>Percenatge: </b>59.45<br><b>Position: </b>1<br>"
+        },
+        "075": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>75<br><b>AC Name: </b>Kalghatgi <br><b>Candidate Name: </b>CHABBI NAGARAJ<br><b>General Votes: </b>71157<br><b>Postal Votes: </b>247<br><b>Total Votes: </b>71404<br><b>Total Voters: </b>162253<br><b>Percenatge: </b>44.01<br><b>Position: </b>2<br>"
+        },
+        "076": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>76<br><b>AC Name: </b>Haliyal <br><b>Candidate Name: </b>SUNIL HEGADE<br><b>General Votes: </b>53328<br><b>Postal Votes: </b>289<br><b>Total Votes: </b>53617<br><b>Total Voters: </b>142827<br><b>Percenatge: </b>37.54<br><b>Position: </b>2<br>"
+        },
+        "077": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>77<br><b>AC Name: </b>Karwar <br><b>Candidate Name: </b>ROOPALI SANTOSH NAIK<br><b>General Votes: </b>73890<br><b>Postal Votes: </b>1417<br><b>Total Votes: </b>75307<br><b>Total Voters: </b>164267<br><b>Percenatge: </b>45.84<br><b>Position: </b>2<br>"
+        },
+        "078": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC NO: </b>78<br><b>AC Name: </b>Kumta <br><b>Candidate Name: </b>DINAKAR KESHAV SHETTY<br><b>General Votes: </b>59096<br><b>Postal Votes: </b>869<br><b>Total Votes: </b>59965<br><b>Total Voters: </b>148530<br><b>Percenatge: </b>40.37<br><b>Position: </b>1<br>"
+        },
+        "079": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC NO: </b>79<br><b>AC Name: </b>Bhatkal <br><b>Candidate Name: </b>SUNIL B. NAIK<br><b>General Votes: </b>66946<br><b>Postal Votes: </b>825<br><b>Total Votes: </b>67771<br><b>Total Voters: </b>174848<br><b>Percenatge: </b>38.76<br><b>Position: </b>2<br>"
+        },
+        "080": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC NO: </b>80<br><b>AC Name: </b>Sirsi <br><b>Candidate Name: </b>KAGERI VISHWESHWAR HEGDE<br><b>General Votes: </b>66954<br><b>Postal Votes: </b>1221<br><b>Total Votes: </b>68175<br><b>Total Voters: </b>160538<br><b>Percenatge: </b>42.47<br><b>Position: </b>2<br>"
+        },
+        "081": {
+            "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+            "matter": "<b>AC NO: </b>81<br><b>AC Name: </b>Yellapur <br><b>Candidate Name: </b>ARABAIL HEBBAR SHIVARAM<br><b>General Votes: </b>73952<br><b>Postal Votes: </b>747<br><b>Total Votes: </b>74699<br><b>Total Voters: </b>150338<br><b>Percenatge: </b>49.69<br><b>Position: </b>1<br>"
+        },
+        "082": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC NO: </b>82<br><b>AC Name: </b>Hangal <br><b>Candidate Name: </b>SHIVARAJ SAJJANAR<br><b>General Votes: </b>72033<br><b>Postal Votes: </b>612<br><b>Total Votes: </b>72645<br><b>Total Voters: </b>179272<br><b>Percenatge: </b>40.52<br><b>Position: </b>2<br>"
+        },
+        "083": {
+            "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+            "matter": "<b>AC NO: </b>83<br><b>AC Name: </b>Shiggaon <br><b>Candidate Name: </b>BASAVARAJ\u00a0BOMMAI<br><b>General Votes: </b>99073<br><b>Postal Votes: </b>943<br><b>Total Votes: </b>100016<br><b>Total Voters: </b>182027<br><b>Percenatge: </b>54.95<br><b>Position: </b>1<br>"
+        },
+        "084": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>84<br><b>AC Name: </b>Haveri <br><b>Candidate Name: </b>GAVISIDDAPPA DYAMANNAVAR<br><b>General Votes: </b>81080<br><b>Postal Votes: </b>832<br><b>Total Votes: </b>81912<br><b>Total Voters: </b>181383<br><b>Percenatge: </b>45.16<br><b>Position: </b>2<br>"
+        },
+        "085": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC NO: </b>85<br><b>AC Name: </b>Byadgi <br><b>Candidate Name: </b>Ballari Virupakshappa Rudrappa<br><b>General Votes: </b>73270<br><b>Postal Votes: </b>629<br><b>Total Votes: </b>73899<br><b>Total Voters: </b>175863<br><b>Percenatge: </b>42.02<br><b>Position: </b>2<br>"
+        },
+        "086": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>86<br><b>AC Name: </b>Hirekerur <br><b>Candidate Name: </b>Basavanagouda Patil<br><b>General Votes: </b>69507<br><b>Postal Votes: </b>851<br><b>Total Votes: </b>70358<br><b>Total Voters: </b>159497<br><b>Percenatge: </b>44.11<br><b>Position: </b>2<br>"
+        },
+        "087": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>87<br><b>AC Name: </b>Ranibennur <br><b>Candidate Name: </b>ARUNKUMAR GUTTUR<br><b>General Votes: </b>61251<br><b>Postal Votes: </b>779<br><b>Total Votes: </b>62030<br><b>Total Voters: </b>193020<br><b>Percenatge: </b>32.14<br><b>Position: </b>2<br>"
+        },
+        "088": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>88<br><b>AC Name: </b>Hadagalli <br><b>Candidate Name: </b>KRISHNA NAYAKA.<br><b>General Votes: </b>71833<br><b>Postal Votes: </b>1367<br><b>Total Votes: </b>73200<br><b>Total Voters: </b>149956<br><b>Percenatge: </b>48.81<br><b>Position: </b>1<br>"
+        },
+        "089": {
+            "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+            "matter": "<b>AC NO: </b>89<br><b>AC Name: </b>Hagaribommanahalli <br><b>Candidate Name: </b>Ramanna B<br><b>General Votes: </b>26696<br><b>Postal Votes: </b>330<br><b>Total Votes: </b>27026<br><b>Total Voters: </b>189065<br><b>Percenatge: </b>14.29<br><b>Position: </b>3<br>"
+        },
+        "090": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC NO: </b>90<br><b>AC Name: </b>Vijayanagara <br><b>Candidate Name: </b>SIDDHARTH SINGH A THAKUR<br><b>General Votes: </b>70397<br><b>Postal Votes: </b>743<br><b>Total Votes: </b>71140<br><b>Total Voters: </b>180837<br><b>Percenatge: </b>39.34<br><b>Position: </b>2<br>"
+        },
+        "091": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC NO: </b>91<br><b>AC Name: </b>Kampli <br><b>Candidate Name: </b>T H SURESH BABU<br><b>General Votes: </b>75870<br><b>Postal Votes: </b>463<br><b>Total Votes: </b>76333<br><b>Total Voters: </b>181884<br><b>Percenatge: </b>41.97<br><b>Position: </b>2<br>"
+        },
+        "092": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>92<br><b>AC Name: </b>Siruguppa <br><b>Candidate Name: </b>M. S. SOMALINGAPPA<br><b>General Votes: </b>53580<br><b>Postal Votes: </b>250<br><b>Total Votes: </b>53830<br><b>Total Voters: </b>168106<br><b>Percenatge: </b>32.02<br><b>Position: </b>2<br>"
+        },
+        "093": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>93<br><b>AC Name: </b>Bellary <br><b>Candidate Name: </b>B Sreeramulu<br><b>General Votes: </b>74031<br><b>Postal Votes: </b>505<br><b>Total Votes: </b>74536<br><b>Total Voters: </b>182692<br><b>Percenatge: </b>40.8<br><b>Position: </b>2<br>"
+        },
+        "094": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC NO: </b>94<br><b>AC Name: </b>Bellary City <br><b>Candidate Name: </b>G. SOMASEKHARA REDDY<br><b>General Votes: </b>36751<br><b>Postal Votes: </b>404<br><b>Total Votes: </b>37155<br><b>Total Voters: </b>178350<br><b>Percenatge: </b>20.83<br><b>Position: </b>3<br>"
+        },
+        "095": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>95<br><b>AC Name: </b>Sandur <br><b>Candidate Name: </b>SHILPA RAGHAVENDRA<br><b>General Votes: </b>49449<br><b>Postal Votes: </b>252<br><b>Total Votes: </b>49701<br><b>Total Voters: </b>172833<br><b>Percenatge: </b>28.76<br><b>Position: </b>2<br>"
+        },
+        "096": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>96<br><b>AC Name: </b>Kudligi <br><b>Candidate Name: </b>LOKESH. V. NAYAKA<br><b>General Votes: </b>49870<br><b>Postal Votes: </b>533<br><b>Total Votes: </b>50403<br><b>Total Voters: </b>163810<br><b>Percenatge: </b>30.77<br><b>Position: </b>2<br>"
+        },
+        "097": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>97<br><b>AC Name: </b>Molakalmuru <br><b>Candidate Name: </b>S.THIPPESWAMY<br><b>General Votes: </b>86673<br><b>Postal Votes: </b>637<br><b>Total Votes: </b>87310<br><b>Total Voters: </b>203405<br><b>Percenatge: </b>42.92<br><b>Position: </b>2<br>"
+        },
+        "098": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC NO: </b>98<br><b>AC Name: </b>Challakere <br><b>Candidate Name: </b>ANIL KUMAR. R<br><b>General Votes: </b>22737<br><b>Postal Votes: </b>157<br><b>Total Votes: </b>22894<br><b>Total Voters: </b>178061<br><b>Percenatge: </b>12.86<br><b>Position: </b>4<br>"
+        },
+        "099": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC NO: </b>99<br><b>AC Name: </b>Chitradurga <br><b>Candidate Name: </b>G.H.THIPPA REDDY<br><b>General Votes: </b>67437<br><b>Postal Votes: </b>1284<br><b>Total Votes: </b>68721<br><b>Total Voters: </b>203906<br><b>Percenatge: </b>33.7<br><b>Position: </b>2<br>"
+        },
+        "100": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>100<br><b>AC Name: </b>Hiriyur <br><b>Candidate Name: </b>K.POORNIMA<br><b>General Votes: </b>61235<br><b>Postal Votes: </b>493<br><b>Total Votes: </b>61728<br><b>Total Voters: </b>200016<br><b>Percenatge: </b>30.86<br><b>Position: </b>2<br>"
+        },
+        "101": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>101<br><b>AC Name: </b>Hosadurga <br><b>Candidate Name: </b>S. LINGAMURTHY<br><b>General Votes: </b>47527<br><b>Postal Votes: </b>707<br><b>Total Votes: </b>48234<br><b>Total Voters: </b>167580<br><b>Percenatge: </b>28.78<br><b>Position: </b>2<br>"
+        },
+        "102": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>102<br><b>AC Name: </b>Holalkere <br><b>Candidate Name: </b>M.CHANDRAPPA<br><b>General Votes: </b>87987<br><b>Postal Votes: </b>745<br><b>Total Votes: </b>88732<br><b>Total Voters: </b>197079<br><b>Percenatge: </b>45.02<br><b>Position: </b>1<br>"
+        },
+        "103": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>103<br><b>AC Name: </b>Jagalur <br><b>Candidate Name: </b>S.V.RAMACHANDRA<br><b>General Votes: </b>49491<br><b>Postal Votes: </b>400<br><b>Total Votes: </b>49891<br><b>Total Voters: </b>156483<br><b>Percenatge: </b>31.88<br><b>Position: </b>2<br>"
+        },
+        "104": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>104<br><b>AC Name: </b>Harapanahalli <br><b>Candidate Name: </b>G Karunakara Reddy<br><b>General Votes: </b>55690<br><b>Postal Votes: </b>659<br><b>Total Votes: </b>56349<br><b>Total Voters: </b>177425<br><b>Percenatge: </b>31.76<br><b>Position: </b>2<br>"
+        },
+        "105": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>105<br><b>AC Name: </b>Harihar <br><b>Candidate Name: </b>B P HARISH<br><b>General Votes: </b>63331<br><b>Postal Votes: </b>593<br><b>Total Votes: </b>63924<br><b>Total Voters: </b>168473<br><b>Percenatge: </b>37.94<br><b>Position: </b>1<br>"
+        },
+        "106": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC NO: </b>106<br><b>AC Name: </b>Davanagere North <br><b>Candidate Name: </b>LOKIKERE NAGARAJ<br><b>General Votes: </b>68523<br><b>Postal Votes: </b>1024<br><b>Total Votes: </b>69547<br><b>Total Voters: </b>167891<br><b>Percenatge: </b>41.42<br><b>Position: </b>2<br>"
+        },
+        "107": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>107<br><b>AC Name: </b>Davanagere South <br><b>Candidate Name: </b>AJAY KUMAR. B.G<br><b>General Votes: </b>56052<br><b>Postal Votes: </b>358<br><b>Total Votes: </b>56410<br><b>Total Voters: </b>146382<br><b>Percenatge: </b>38.54<br><b>Position: </b>2<br>"
+        },
+        "108": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC NO: </b>108<br><b>AC Name: </b>Mayakonda <br><b>Candidate Name: </b>M. BASAVARAJA NAIK<br><b>General Votes: </b>34248<br><b>Postal Votes: </b>382<br><b>Total Votes: </b>34630<br><b>Total Voters: </b>161790<br><b>Percenatge: </b>21.4<br><b>Position: </b>3<br>"
+        },
+        "109": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC NO: </b>109<br><b>AC Name: </b>Channagiri <br><b>Candidate Name: </b>H. S. SHIVAKUMAR<br><b>General Votes: </b>21229<br><b>Postal Votes: </b>238<br><b>Total Votes: </b>21467<br><b>Total Voters: </b>166402<br><b>Percenatge: </b>12.9<br><b>Position: </b>3<br>"
+        },
+        "110": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>110<br><b>AC Name: </b>Honnali <br><b>Candidate Name: </b>M.P. RENUKACHARYA<br><b>General Votes: </b>73649<br><b>Postal Votes: </b>1183<br><b>Total Votes: </b>74832<br><b>Total Voters: </b>170124<br><b>Percenatge: </b>43.99<br><b>Position: </b>2<br>"
+        },
+        "111": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC NO: </b>111<br><b>AC Name: </b>Shimoga Rural <br><b>Candidate Name: </b>K.B.ASHOK NAIK<br><b>General Votes: </b>70610<br><b>Postal Votes: </b>588<br><b>Total Votes: </b>71198<br><b>Total Voters: </b>180848<br><b>Percenatge: </b>39.37<br><b>Position: </b>2<br>"
+        },
+        "112": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>112<br><b>AC Name: </b>Bhadravati <br><b>Candidate Name: </b>MANGOTE RUDRESH<br><b>General Votes: </b>21014<br><b>Postal Votes: </b>265<br><b>Total Votes: </b>21279<br><b>Total Voters: </b>155311<br><b>Percenatge: </b>13.7<br><b>Position: </b>3<br>"
+        },
+        "113": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC NO: </b>113<br><b>AC Name: </b>Shimoga <br><b>Candidate Name: </b>CHANNABASAPPA (CHENNI)<br><b>General Votes: </b>95399<br><b>Postal Votes: </b>1091<br><b>Total Votes: </b>96490<br><b>Total Voters: </b>179829<br><b>Percenatge: </b>53.66<br><b>Position: </b>1<br>"
+        },
+        "114": {
+            "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+            "matter": "<b>AC NO: </b>114<br><b>AC Name: </b>Tirthahalli <br><b>Candidate Name: </b>ARAGA JNANENDRA<br><b>General Votes: </b>83879<br><b>Postal Votes: </b>684<br><b>Total Votes: </b>84563<br><b>Total Voters: </b>161756<br><b>Percenatge: </b>52.28<br><b>Position: </b>1<br>"
+        },
+        "115": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>115<br><b>AC Name: </b>Shikaripura <br><b>Candidate Name: </b>VIJAYENDRA YEDIYURAPPA<br><b>General Votes: </b>81015<br><b>Postal Votes: </b>795<br><b>Total Votes: </b>81810<br><b>Total Voters: </b>166729<br><b>Percenatge: </b>49.07<br><b>Position: </b>1<br>"
+        },
+        "116": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC NO: </b>116<br><b>AC Name: </b>Sorab <br><b>Candidate Name: </b>S. KUMARA BANGARAPPA<br><b>General Votes: </b>54311<br><b>Postal Votes: </b>339<br><b>Total Votes: </b>54650<br><b>Total Voters: </b>164036<br><b>Percenatge: </b>33.32<br><b>Position: </b>2<br>"
+        },
+        "117": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>117<br><b>AC Name: </b>Sagar <br><b>Candidate Name: </b>H.HALAPPA HARATHALU<br><b>General Votes: </b>72263<br><b>Postal Votes: </b>703<br><b>Total Votes: </b>72966<br><b>Total Voters: </b>166465<br><b>Percenatge: </b>43.83<br><b>Position: </b>2<br>"
+        },
+        "118": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC NO: </b>118<br><b>AC Name: </b>Byndoor <br><b>Candidate Name: </b>GURURAJ SHETTY GANTIHOLE<br><b>General Votes: </b>97447<br><b>Postal Votes: </b>1181<br><b>Total Votes: </b>98628<br><b>Total Voters: </b>185683<br><b>Percenatge: </b>53.12<br><b>Position: </b>1<br>"
+        },
+        "119": {
+            "color": "rgba(252.5758, 16.6465, 12.7677, 1.0)",
+            "matter": "<b>AC NO: </b>119<br><b>AC Name: </b>Kundapura <br><b>Candidate Name: </b>A KIRAN KUMAR KODGI<br><b>General Votes: </b>101102<br><b>Postal Votes: </b>1322<br><b>Total Votes: </b>102424<br><b>Total Voters: </b>167471<br><b>Percenatge: </b>61.16<br><b>Position: </b>1<br>"
+        },
+        "120": {
+            "color": "rgba(250.1515, 33.2929, 25.5354, 1.0)",
+            "matter": "<b>AC NO: </b>120<br><b>AC Name: </b>Udupi <br><b>Candidate Name: </b>YASHPAL A SUVARNA<br><b>General Votes: </b>96122<br><b>Postal Votes: </b>957<br><b>Total Votes: </b>97079<br><b>Total Voters: </b>166060<br><b>Percenatge: </b>58.46<br><b>Position: </b>1<br>"
+        },
+        "121": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC NO: </b>121<br><b>AC Name: </b>Kapu <br><b>Candidate Name: </b>GURME SURESH SHETTY<br><b>General Votes: </b>79793<br><b>Postal Votes: </b>766<br><b>Total Votes: </b>80559<br><b>Total Voters: </b>151355<br><b>Percenatge: </b>53.23<br><b>Position: </b>1<br>"
+        },
+        "122": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>122<br><b>AC Name: </b>Karkal <br><b>Candidate Name: </b>V SUNILL KUMAR<br><b>General Votes: </b>76019<br><b>Postal Votes: </b>1009<br><b>Total Votes: </b>77028<br><b>Total Voters: </b>156843<br><b>Percenatge: </b>49.11<br><b>Position: </b>1<br>"
+        },
+        "123": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC NO: </b>123<br><b>AC Name: </b>Sringeri <br><b>Candidate Name: </b>D.N.JEEVARAJA.<br><b>General Votes: </b>58278<br><b>Postal Votes: </b>692<br><b>Total Votes: </b>58970<br><b>Total Voters: </b>141580<br><b>Percenatge: </b>41.65<br><b>Position: </b>2<br>"
+        },
+        "124": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC NO: </b>124<br><b>AC Name: </b>Mudigere <br><b>Candidate Name: </b>DEEPAK DODDAIAH<br><b>General Votes: </b>49865<br><b>Postal Votes: </b>256<br><b>Total Votes: </b>50121<br><b>Total Voters: </b>133811<br><b>Percenatge: </b>37.46<br><b>Position: </b>2<br>"
+        },
+        "125": {
+            "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+            "matter": "<b>AC NO: </b>125<br><b>AC Name: </b>Chikmagalur <br><b>Candidate Name: </b>C. T. RAVI<br><b>General Votes: </b>77979<br><b>Postal Votes: </b>1149<br><b>Total Votes: </b>79128<br><b>Total Voters: </b>170072<br><b>Percenatge: </b>46.53<br><b>Position: </b>2<br>"
+        },
+        "126": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>126<br><b>AC Name: </b>Tarikere <br><b>Candidate Name: </b>D.S. SURESH<br><b>General Votes: </b>50385<br><b>Postal Votes: </b>570<br><b>Total Votes: </b>50955<br><b>Total Voters: </b>154149<br><b>Percenatge: </b>33.06<br><b>Position: </b>2<br>"
+        },
+        "127": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>127<br><b>AC Name: </b>Kadur <br><b>Candidate Name: </b>BELLI PRAKASH<br><b>General Votes: </b>62030<br><b>Postal Votes: </b>1439<br><b>Total Votes: </b>63469<br><b>Total Voters: </b>169229<br><b>Percenatge: </b>37.5<br><b>Position: </b>2<br>"
+        },
+        "128": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>128<br><b>AC Name: </b>Chikkanayakanahalli <br><b>Candidate Name: </b>J C MADHU SWAMY<br><b>General Votes: </b>60304<br><b>Postal Votes: </b>690<br><b>Total Votes: </b>60994<br><b>Total Voters: </b>188657<br><b>Percenatge: </b>32.33<br><b>Position: </b>2<br>"
+        },
+        "129": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>129<br><b>AC Name: </b>Tiptur <br><b>Candidate Name: </b>B.C. Nagesh<br><b>General Votes: </b>53753<br><b>Postal Votes: </b>594<br><b>Total Votes: </b>54347<br><b>Total Voters: </b>156069<br><b>Percenatge: </b>34.82<br><b>Position: </b>2<br>"
+        },
+        "130": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>130<br><b>AC Name: </b>Turuvekere <br><b>Candidate Name: </b>MASALA JAYARAM<br><b>General Votes: </b>57636<br><b>Postal Votes: </b>604<br><b>Total Votes: </b>58240<br><b>Total Voters: </b>160338<br><b>Percenatge: </b>36.32<br><b>Position: </b>2<br>"
+        },
+        "131": {
+            "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+            "matter": "<b>AC NO: </b>131<br><b>AC Name: </b>Kunigal <br><b>Candidate Name: </b>D KRISHNAKUMAR<br><b>General Votes: </b>47855<br><b>Postal Votes: </b>296<br><b>Total Votes: </b>48151<br><b>Total Voters: </b>174277<br><b>Percenatge: </b>27.63<br><b>Position: </b>2<br>"
+        },
+        "132": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>132<br><b>AC Name: </b>Tumkur City <br><b>Candidate Name: </b>G B JYOTHI GANESH<br><b>General Votes: </b>58126<br><b>Postal Votes: </b>1039<br><b>Total Votes: </b>59165<br><b>Total Voters: </b>175085<br><b>Percenatge: </b>33.79<br><b>Position: </b>1<br>"
+        },
+        "133": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>133<br><b>AC Name: </b>Tumkur Rural <br><b>Candidate Name: </b>B.SURESH GOWDA<br><b>General Votes: </b>88052<br><b>Postal Votes: </b>1139<br><b>Total Votes: </b>89191<br><b>Total Voters: </b>182389<br><b>Percenatge: </b>48.9<br><b>Position: </b>1<br>"
+        },
+        "134": {
+            "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+            "matter": "<b>AC NO: </b>134<br><b>AC Name: </b>Koratagere <br><b>Candidate Name: </b>B. H. ANIL KUMAR<br><b>General Votes: </b>23804<br><b>Postal Votes: </b>287<br><b>Total Votes: </b>24091<br><b>Total Voters: </b>174578<br><b>Percenatge: </b>13.8<br><b>Position: </b>3<br>"
+        },
+        "135": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>135<br><b>AC Name: </b>Gubbi <br><b>Candidate Name: </b>S D DILIPKUMAR<br><b>General Votes: </b>51505<br><b>Postal Votes: </b>474<br><b>Total Votes: </b>51979<br><b>Total Voters: </b>160136<br><b>Percenatge: </b>32.46<br><b>Position: </b>2<br>"
+        },
+        "136": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC NO: </b>136<br><b>AC Name: </b>Sira <br><b>Candidate Name: </b>C M Rajesh Gowda<br><b>General Votes: </b>41398<br><b>Postal Votes: </b>931<br><b>Total Votes: </b>42329<br><b>Total Voters: </b>190706<br><b>Percenatge: </b>22.2<br><b>Position: </b>3<br>"
+        },
+        "137": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>137<br><b>AC Name: </b>Pavagada <br><b>Candidate Name: </b>KRISHNA NAIK<br><b>General Votes: </b>7098<br><b>Postal Votes: </b>108<br><b>Total Votes: </b>7206<br><b>Total Voters: </b>167390<br><b>Percenatge: </b>4.3<br><b>Position: </b>3<br>"
+        },
+        "138": {
+            "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+            "matter": "<b>AC NO: </b>138<br><b>AC Name: </b>Madhugiri <br><b>Candidate Name: </b>L. C. NAGARAJA<br><b>General Votes: </b>15461<br><b>Postal Votes: </b>151<br><b>Total Votes: </b>15612<br><b>Total Voters: </b>166615<br><b>Percenatge: </b>9.37<br><b>Position: </b>3<br>"
+        },
+        "139": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC NO: </b>139<br><b>AC Name: </b>Gauribidanur <br><b>Candidate Name: </b>Dr. H.S. SHASHIDHARA KUMAR<br><b>General Votes: </b>8024<br><b>Postal Votes: </b>108<br><b>Total Votes: </b>8132<br><b>Total Voters: </b>180815<br><b>Percenatge: </b>4.5<br><b>Position: </b>5<br>"
+        },
+        "140": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>140<br><b>AC Name: </b>Bagepalli <br><b>Candidate Name: </b>C. MUNIRAJU<br><b>General Votes: </b>62225<br><b>Postal Votes: </b>724<br><b>Total Votes: </b>62949<br><b>Total Voters: </b>173372<br><b>Percenatge: </b>36.31<br><b>Position: </b>2<br>"
+        },
+        "141": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>141<br><b>AC Name: </b>Chikkaballapur <br><b>Candidate Name: </b>DR. K. SUDHAKAR<br><b>General Votes: </b>74596<br><b>Postal Votes: </b>986<br><b>Total Votes: </b>75582<br><b>Total Voters: </b>184817<br><b>Percenatge: </b>40.9<br><b>Position: </b>2<br>"
+        },
+        "142": {
+            "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+            "matter": "<b>AC NO: </b>142<br><b>AC Name: </b>Sidlaghatta <br><b>Candidate Name: </b>SEEKAL RAMACHANDRA  GOWDA<br><b>General Votes: </b>15349<br><b>Postal Votes: </b>97<br><b>Total Votes: </b>15446<br><b>Total Voters: </b>177260<br><b>Percenatge: </b>8.71<br><b>Position: </b>4<br>"
+        },
+        "143": {
+            "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+            "matter": "<b>AC NO: </b>143<br><b>AC Name: </b>Chintamani <br><b>Candidate Name: </b>G.N. VENUGOPAL (GOPI)<br><b>General Votes: </b>21462<br><b>Postal Votes: </b>249<br><b>Total Votes: </b>21711<br><b>Total Voters: </b>190632<br><b>Percenatge: </b>11.39<br><b>Position: </b>3<br>"
+        },
+        "144": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>144<br><b>AC Name: </b>Srinivaspur <br><b>Candidate Name: </b>GUNJURU R. SRINIVASAREDDY<br><b>General Votes: </b>6524<br><b>Postal Votes: </b>120<br><b>Total Votes: </b>6644<br><b>Total Voters: </b>190972<br><b>Percenatge: </b>3.48<br><b>Position: </b>3<br>"
+        },
+        "145": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC NO: </b>145<br><b>AC Name: </b>Mulbagal <br><b>Candidate Name: </b>K.SUNDER RAJ [SHEEGEHALLI SUNDER]<br><b>General Votes: </b>9036<br><b>Postal Votes: </b>127<br><b>Total Votes: </b>9163<br><b>Total Voters: </b>176501<br><b>Percenatge: </b>5.19<br><b>Position: </b>3<br>"
+        },
+        "146": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC NO: </b>146<br><b>AC Name: </b>Kolar Gold Field <br><b>Candidate Name: </b>ASHWINI SAMPANGI<br><b>General Votes: </b>30750<br><b>Postal Votes: </b>352<br><b>Total Votes: </b>31102<br><b>Total Voters: </b>148051<br><b>Percenatge: </b>21.01<br><b>Position: </b>2<br>"
+        },
+        "147": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC NO: </b>147<br><b>AC Name: </b>Bangarapet <br><b>Candidate Name: </b>M. NARAYANASWAMY<br><b>General Votes: </b>8617<br><b>Postal Votes: </b>355<br><b>Total Votes: </b>8972<br><b>Total Voters: </b>164294<br><b>Percenatge: </b>5.46<br><b>Position: </b>3<br>"
+        },
+        "148": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>148<br><b>AC Name: </b>Kolar <br><b>Candidate Name: </b>R. VARTHURU PRAKASH<br><b>General Votes: </b>50278<br><b>Postal Votes: </b>636<br><b>Total Votes: </b>50914<br><b>Total Voters: </b>192818<br><b>Percenatge: </b>26.41<br><b>Position: </b>3<br>"
+        },
+        "149": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>149<br><b>AC Name: </b>Malur <br><b>Candidate Name: </b>K.S.MANJUNATHAGOWDA<br><b>General Votes: </b>50274<br><b>Postal Votes: </b>433<br><b>Total Votes: </b>50707<br><b>Total Voters: </b>173292<br><b>Percenatge: </b>29.26<br><b>Position: </b>2<br>"
+        },
+        "150": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC NO: </b>150<br><b>AC Name: </b>Yelahanka <br><b>Candidate Name: </b>S R VISHWANATH<br><b>General Votes: </b>140526<br><b>Postal Votes: </b>1012<br><b>Total Votes: </b>141538<br><b>Total Voters: </b>274807<br><b>Percenatge: </b>51.5<br><b>Position: </b>1<br>"
+        },
+        "151": {
+            "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+            "matter": "<b>AC NO: </b>151<br><b>AC Name: </b>K.R. Pura <br><b>Candidate Name: </b>B. A. BASAVARAJA<br><b>General Votes: </b>139328<br><b>Postal Votes: </b>597<br><b>Total Votes: </b>139925<br><b>Total Voters: </b>269462<br><b>Percenatge: </b>51.93<br><b>Position: </b>1<br>"
+        },
+        "152": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC NO: </b>152<br><b>AC Name: </b>Byatarayanapura <br><b>Candidate Name: </b>THAMMESH GOWDA H C<br><b>General Votes: </b>121531<br><b>Postal Votes: </b>447<br><b>Total Votes: </b>121978<br><b>Total Voters: </b>294274<br><b>Percenatge: </b>41.45<br><b>Position: </b>2<br>"
+        },
+        "153": {
+            "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+            "matter": "<b>AC NO: </b>153<br><b>AC Name: </b>Yeshvanthapura <br><b>Candidate Name: </b>S.T. SOMASHEKAR<br><b>General Votes: </b>168485<br><b>Postal Votes: </b>664<br><b>Total Votes: </b>169149<br><b>Total Voters: </b>357911<br><b>Percenatge: </b>47.26<br><b>Position: </b>1<br>"
+        },
+        "154": {
+            "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+            "matter": "<b>AC NO: </b>154<br><b>AC Name: </b>Rajarajeshwarinagar <br><b>Candidate Name: </b>MUNIRATHNA<br><b>General Votes: </b>127247<br><b>Postal Votes: </b>733<br><b>Total Votes: </b>127980<br><b>Total Voters: </b>262701<br><b>Percenatge: </b>48.72<br><b>Position: </b>1<br>"
+        },
+        "155": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC NO: </b>155<br><b>AC Name: </b>Dasarahalli <br><b>Candidate Name: </b>S. MUNIRAJU<br><b>General Votes: </b>90901<br><b>Postal Votes: </b>388<br><b>Total Votes: </b>91289<br><b>Total Voters: </b>229641<br><b>Percenatge: </b>39.75<br><b>Position: </b>1<br>"
+        },
+        "156": {
+            "color": "rgba(252.5758, 16.6465, 12.7677, 1.0)",
+            "matter": "<b>AC NO: </b>156<br><b>AC Name: </b>Mahalakshmi Layout <br><b>Candidate Name: </b>K. GOPALAIAH<br><b>General Votes: </b>95967<br><b>Postal Votes: </b>457<br><b>Total Votes: </b>96424<br><b>Total Voters: </b>159103<br><b>Percenatge: </b>60.6<br><b>Position: </b>1<br>"
+        },
+        "157": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC NO: </b>157<br><b>AC Name: </b>Malleshwaram <br><b>Candidate Name: </b>DR ASHWATH NARAYAN C N<br><b>General Votes: </b>79788<br><b>Postal Votes: </b>818<br><b>Total Votes: </b>80606<br><b>Total Voters: </b>126493<br><b>Percenatge: </b>63.72<br><b>Position: </b>1<br>"
+        },
+        "158": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>158<br><b>AC Name: </b>Hebbal <br><b>Candidate Name: </b>Jagdeesha Katta K S<br><b>General Votes: </b>60651<br><b>Postal Votes: </b>433<br><b>Total Votes: </b>61084<br><b>Total Voters: </b>159132<br><b>Percenatge: </b>38.39<br><b>Position: </b>2<br>"
+        },
+        "159": {
+            "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+            "matter": "<b>AC NO: </b>159<br><b>AC Name: </b>Pulakeshinagar <br><b>Candidate Name: </b>A MURALI<br><b>General Votes: </b>10585<br><b>Postal Votes: </b>39<br><b>Total Votes: </b>10624<br><b>Total Voters: </b>130869<br><b>Percenatge: </b>8.12<br><b>Position: </b>3<br>"
+        },
+        "160": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>160<br><b>AC Name: </b>Sarvagnanagar <br><b>Candidate Name: </b>PADMANABHA REDDY<br><b>General Votes: </b>62821<br><b>Postal Votes: </b>194<br><b>Total Votes: </b>63015<br><b>Total Voters: </b>194604<br><b>Percenatge: </b>32.38<br><b>Position: </b>2<br>"
+        },
+        "161": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC NO: </b>161<br><b>AC Name: </b>C.V. Raman Nagar <br><b>Candidate Name: </b>S. RAGHU<br><b>General Votes: </b>68848<br><b>Postal Votes: </b>380<br><b>Total Votes: </b>69228<br><b>Total Voters: </b>129325<br><b>Percenatge: </b>53.53<br><b>Position: </b>1<br>"
+        },
+        "162": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>162<br><b>AC Name: </b>Shivajinagar <br><b>Candidate Name: </b>CHANDRA.N.<br><b>General Votes: </b>41531<br><b>Postal Votes: </b>188<br><b>Total Votes: </b>41719<br><b>Total Voters: </b>110447<br><b>Percenatge: </b>37.77<br><b>Position: </b>2<br>"
+        },
+        "163": {
+            "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+            "matter": "<b>AC NO: </b>163<br><b>AC Name: </b>Shanti Nagar <br><b>Candidate Name: </b>K SHIVAKUMAR<br><b>General Votes: </b>53717<br><b>Postal Votes: </b>188<br><b>Total Votes: </b>53905<br><b>Total Voters: </b>119970<br><b>Percenatge: </b>44.93<br><b>Position: </b>2<br>"
+        },
+        "164": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>164<br><b>AC Name: </b>Gandhi Nagar <br><b>Candidate Name: </b>SAPTHAGIRI GOWDA A R<br><b>General Votes: </b>53867<br><b>Postal Votes: </b>146<br><b>Total Votes: </b>54013<br><b>Total Voters: </b>132609<br><b>Percenatge: </b>40.73<br><b>Position: </b>2<br>"
+        },
+        "165": {
+            "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+            "matter": "<b>AC NO: </b>165<br><b>AC Name: </b>Rajaji Nagar <br><b>Candidate Name: </b>S.SURESH KUMAR<br><b>General Votes: </b>58220<br><b>Postal Votes: </b>404<br><b>Total Votes: </b>58624<br><b>Total Voters: </b>118187<br><b>Percenatge: </b>49.6<br><b>Position: </b>1<br>"
+        },
+        "166": {
+            "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+            "matter": "<b>AC NO: </b>166<br><b>AC Name: </b>Govindraj Nagar <br><b>Candidate Name: </b>K. UMESH SHETTY<br><b>General Votes: </b>69147<br><b>Postal Votes: </b>471<br><b>Total Votes: </b>69618<br><b>Total Voters: </b>161453<br><b>Percenatge: </b>43.12<br><b>Position: </b>2<br>"
+        },
+        "167": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>167<br><b>AC Name: </b>Vijay Nagar <br><b>Candidate Name: </b>H RAVINDRA<br><b>General Votes: </b>72605<br><b>Postal Votes: </b>228<br><b>Total Votes: </b>72833<br><b>Total Voters: </b>158713<br><b>Percenatge: </b>45.89<br><b>Position: </b>2<br>"
+        },
+        "168": {
+            "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+            "matter": "<b>AC NO: </b>168<br><b>AC Name: </b>Chamrajpet <br><b>Candidate Name: </b>BHASKAR RAO<br><b>General Votes: </b>23549<br><b>Postal Votes: </b>129<br><b>Total Votes: </b>23678<br><b>Total Voters: </b>124767<br><b>Percenatge: </b>18.98<br><b>Position: </b>2<br>"
+        },
+        "169": {
+            "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+            "matter": "<b>AC NO: </b>169<br><b>AC Name: </b>Chickpet <br><b>Candidate Name: </b>UDAY B. GARUDACHAR<br><b>General Votes: </b>57136<br><b>Postal Votes: </b>163<br><b>Total Votes: </b>57299<br><b>Total Voters: </b>128828<br><b>Percenatge: </b>44.48<br><b>Position: </b>1<br>"
+        },
+        "170": {
+            "color": "rgba(253.1818, 12.4848, 9.5758, 1.0)",
+            "matter": "<b>AC NO: </b>170<br><b>AC Name: </b>Basavanagudi <br><b>Candidate Name: </b>RAVI SUBRAMANYA  L.A.<br><b>General Votes: </b>78356<br><b>Postal Votes: </b>498<br><b>Total Votes: </b>78854<br><b>Total Voters: </b>128286<br><b>Percenatge: </b>61.47<br><b>Position: </b>1<br>"
+        },
+        "171": {
+            "color": "rgba(253.1818, 12.4848, 9.5758, 1.0)",
+            "matter": "<b>AC NO: </b>171<br><b>AC Name: </b>Padmanaba Nagar <br><b>Candidate Name: </b>R. ASHOKA<br><b>General Votes: </b>98174<br><b>Postal Votes: </b>576<br><b>Total Votes: </b>98750<br><b>Total Voters: </b>159991<br><b>Percenatge: </b>61.72<br><b>Position: </b>1<br>"
+        },
+        "172": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>172<br><b>AC Name: </b>B.T.M Layout <br><b>Candidate Name: </b>K.R.SRIDHARA<br><b>General Votes: </b>58843<br><b>Postal Votes: </b>492<br><b>Total Votes: </b>59335<br><b>Total Voters: </b>135231<br><b>Percenatge: </b>43.88<br><b>Position: </b>2<br>"
+        },
+        "173": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC NO: </b>173<br><b>AC Name: </b>Jayanagar <br><b>Candidate Name: </b>C K Ramamurthy<br><b>General Votes: </b>57297<br><b>Postal Votes: </b>0<br><b>Total Votes: </b>57297<br><b>Total Voters: </b>119993<br><b>Percenatge: </b>47.75<br><b>Position: </b>2<br>"
+        },
+        "174": {
+            "color": "rgba(245.9091, 62.4242, 47.8788, 1.0)",
+            "matter": "<b>AC NO: </b>174<br><b>AC Name: </b>Mahadevapura <br><b>Candidate Name: </b>MANJULA S<br><b>General Votes: </b>181268<br><b>Postal Votes: </b>463<br><b>Total Votes: </b>181731<br><b>Total Voters: </b>334616<br><b>Percenatge: </b>54.31<br><b>Position: </b>1<br>"
+        },
+        "175": {
+            "color": "rgba(244.697, 70.7475, 54.2626, 1.0)",
+            "matter": "<b>AC NO: </b>175<br><b>AC Name: </b>Bommanahalli <br><b>Candidate Name: </b>SATHISH REDDY .M<br><b>General Votes: </b>113195<br><b>Postal Votes: </b>379<br><b>Total Votes: </b>113574<br><b>Total Voters: </b>215037<br><b>Percenatge: </b>52.82<br><b>Position: </b>1<br>"
+        },
+        "176": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC NO: </b>176<br><b>AC Name: </b>Bangalore South <br><b>Candidate Name: </b>M Krishnappa<br><b>General Votes: </b>195564<br><b>Postal Votes: </b>656<br><b>Total Votes: </b>196220<br><b>Total Voters: </b>382112<br><b>Percenatge: </b>51.35<br><b>Position: </b>1<br>"
+        },
+        "177": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>177<br><b>AC Name: </b>Anekal <br><b>Candidate Name: </b>SRINIVAS. C. HULLAHALLI<br><b>General Votes: </b>103031<br><b>Postal Votes: </b>441<br><b>Total Votes: </b>103472<br><b>Total Voters: </b>251702<br><b>Percenatge: </b>41.11<br><b>Position: </b>2<br>"
+        },
+        "178": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC NO: </b>178<br><b>AC Name: </b>Hosakote <br><b>Candidate Name: </b>N NAGARAJU<br><b>General Votes: </b>101597<br><b>Postal Votes: </b>548<br><b>Total Votes: </b>102145<br><b>Total Voters: </b>213896<br><b>Percenatge: </b>47.75<br><b>Position: </b>2<br>"
+        },
+        "179": {
+            "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+            "matter": "<b>AC NO: </b>179<br><b>AC Name: </b>Devanahalli <br><b>Candidate Name: </b>PILLA MUNISHAMAPPA<br><b>General Votes: </b>34310<br><b>Postal Votes: </b>94<br><b>Total Votes: </b>34404<br><b>Total Voters: </b>180569<br><b>Percenatge: </b>19.05<br><b>Position: </b>3<br>"
+        },
+        "180": {
+            "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+            "matter": "<b>AC NO: </b>180<br><b>AC Name: </b>Doddaballapur <br><b>Candidate Name: </b>DHEERAJ MUNIRAJ<br><b>General Votes: </b>84445<br><b>Postal Votes: </b>699<br><b>Total Votes: </b>85144<br><b>Total Voters: </b>182365<br><b>Percenatge: </b>46.69<br><b>Position: </b>1<br>"
+        },
+        "181": {
+            "color": "rgba(254.8712, 250.8788, 186.4848, 1.0)",
+            "matter": "<b>AC NO: </b>181<br><b>AC Name: </b>Nelamangala <br><b>Candidate Name: </b>SAPTHAGIRI MEGHAVATH SHANKAR NAYAK<br><b>General Votes: </b>30386<br><b>Postal Votes: </b>196<br><b>Total Votes: </b>30582<br><b>Total Voters: </b>172882<br><b>Percenatge: </b>17.69<br><b>Position: </b>3<br>"
+        },
+        "182": {
+            "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+            "matter": "<b>AC NO: </b>182<br><b>AC Name: </b>Magadi <br><b>Candidate Name: </b>PRASAD GAWDA. K.R<br><b>General Votes: </b>20073<br><b>Postal Votes: </b>124<br><b>Total Votes: </b>20197<br><b>Total Voters: </b>202508<br><b>Percenatge: </b>9.97<br><b>Position: </b>3<br>"
+        },
+        "183": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC NO: </b>183<br><b>AC Name: </b>Ramanagaram <br><b>Candidate Name: </b>GAUTHAM MARILINGEGOWDA<br><b>General Votes: </b>12821<br><b>Postal Votes: </b>91<br><b>Total Votes: </b>12912<br><b>Total Voters: </b>182750<br><b>Percenatge: </b>7.07<br><b>Position: </b>3<br>"
+        },
+        "184": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>184<br><b>AC Name: </b>Kanakapura <br><b>Candidate Name: </b>R ASHOKA<br><b>General Votes: </b>19602<br><b>Postal Votes: </b>151<br><b>Total Votes: </b>19753<br><b>Total Voters: </b>190623<br><b>Percenatge: </b>10.36<br><b>Position: </b>3<br>"
+        },
+        "185": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>185<br><b>AC Name: </b>Channapatna <br><b>Candidate Name: </b>C.P. YOGESHWARA<br><b>General Votes: </b>79918<br><b>Postal Votes: </b>759<br><b>Total Votes: </b>80677<br><b>Total Voters: </b>197796<br><b>Percenatge: </b>40.79<br><b>Position: </b>2<br>"
+        },
+        "186": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC NO: </b>186<br><b>AC Name: </b>Malavalli <br><b>Candidate Name: </b>G. Muniraju<br><b>General Votes: </b>24910<br><b>Postal Votes: </b>206<br><b>Total Votes: </b>25116<br><b>Total Voters: </b>197983<br><b>Percenatge: </b>12.69<br><b>Position: </b>3<br>"
+        },
+        "187": {
+            "color": "rgba(240.0348, 245.6242, 190.5288, 1.0)",
+            "matter": "<b>AC NO: </b>187<br><b>AC Name: </b>Maddur <br><b>Candidate Name: </b>S.P.SWAMY<br><b>General Votes: </b>28650<br><b>Postal Votes: </b>346<br><b>Total Votes: </b>28996<br><b>Total Voters: </b>183390<br><b>Percenatge: </b>15.81<br><b>Position: </b>3<br>"
+        },
+        "188": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>188<br><b>AC Name: </b>Melukote <br><b>Candidate Name: </b>DR.INDRESH N.S.<br><b>General Votes: </b>6378<br><b>Postal Votes: </b>92<br><b>Total Votes: </b>6470<br><b>Total Voters: </b>183883<br><b>Percenatge: </b>3.52<br><b>Position: </b>3<br>"
+        },
+        "189": {
+            "color": "rgba(254.8712, 250.8788, 186.4848, 1.0)",
+            "matter": "<b>AC NO: </b>189<br><b>AC Name: </b>Mandya <br><b>Candidate Name: </b>ASHOK S.D JAYARAM<br><b>General Votes: </b>30240<br><b>Postal Votes: </b>421<br><b>Total Votes: </b>30661<br><b>Total Voters: </b>174546<br><b>Percenatge: </b>17.57<br><b>Position: </b>3<br>"
+        },
+        "190": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>190<br><b>AC Name: </b>Srirangapatna <br><b>Candidate Name: </b>S. SACCHIDANANDA<br><b>General Votes: </b>42079<br><b>Postal Votes: </b>227<br><b>Total Votes: </b>42306<br><b>Total Voters: </b>185194<br><b>Percenatge: </b>22.84<br><b>Position: </b>3<br>"
+        },
+        "191": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>191<br><b>AC Name: </b>Nagamangala <br><b>Candidate Name: </b>SUDHA SHIVARAMEGOWDA<br><b>General Votes: </b>7683<br><b>Postal Votes: </b>86<br><b>Total Votes: </b>7769<br><b>Total Voters: </b>192146<br><b>Percenatge: </b>4.04<br><b>Position: </b>3<br>"
+        },
+        "192": {
+            "color": "rgba(254.4591, 237.6909, 171.2364, 1.0)",
+            "matter": "<b>AC NO: </b>192<br><b>AC Name: </b>Krishnarajpet <br><b>Candidate Name: </b>NARAYANGOWDA<br><b>General Votes: </b>37793<br><b>Postal Votes: </b>358<br><b>Total Votes: </b>38151<br><b>Total Voters: </b>189545<br><b>Percenatge: </b>20.13<br><b>Position: </b>3<br>"
+        },
+        "193": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>193<br><b>AC Name: </b>Shravanabelagola <br><b>Candidate Name: </b>CHIDHANANDA C.R<br><b>General Votes: </b>5585<br><b>Postal Votes: </b>63<br><b>Total Votes: </b>5648<br><b>Total Voters: </b>175067<br><b>Percenatge: </b>3.23<br><b>Position: </b>3<br>"
+        },
+        "194": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>194<br><b>AC Name: </b>Arsikere <br><b>Candidate Name: </b>G.V.T. BASAVARAJA<br><b>General Votes: </b>6456<br><b>Postal Votes: </b>82<br><b>Total Votes: </b>6538<br><b>Total Voters: </b>186111<br><b>Percenatge: </b>3.51<br><b>Position: </b>3<br>"
+        },
+        "195": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC NO: </b>195<br><b>AC Name: </b>Belur <br><b>Candidate Name: </b>H.K. SURESH (HULLALLI SURESH)<br><b>General Votes: </b>62628<br><b>Postal Votes: </b>943<br><b>Total Votes: </b>63571<br><b>Total Voters: </b>164021<br><b>Percenatge: </b>38.76<br><b>Position: </b>1<br>"
+        },
+        "196": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>196<br><b>AC Name: </b>Hassan <br><b>Candidate Name: </b>Preetham J. Gowda<br><b>General Votes: </b>75110<br><b>Postal Votes: </b>2212<br><b>Total Votes: </b>77322<br><b>Total Voters: </b>171038<br><b>Percenatge: </b>45.21<br><b>Position: </b>2<br>"
+        },
+        "197": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC NO: </b>197<br><b>AC Name: </b>Holenarasipur <br><b>Candidate Name: </b>G. DEVARAJEGOWDA<br><b>General Votes: </b>4764<br><b>Postal Votes: </b>86<br><b>Total Votes: </b>4850<br><b>Total Voters: </b>185444<br><b>Percenatge: </b>2.62<br><b>Position: </b>3<br>"
+        },
+        "198": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>198<br><b>AC Name: </b>Arkalgud <br><b>Candidate Name: </b>H. YOGARAMESHA<br><b>General Votes: </b>19385<br><b>Postal Votes: </b>190<br><b>Total Votes: </b>19575<br><b>Total Voters: </b>193941<br><b>Percenatge: </b>10.09<br><b>Position: </b>4<br>"
+        },
+        "199": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>199<br><b>AC Name: </b>Sakleshpur <br><b>Candidate Name: </b>CEMENT MANJU<br><b>General Votes: </b>58073<br><b>Postal Votes: </b>531<br><b>Total Votes: </b>58604<br><b>Total Voters: </b>164898<br><b>Percenatge: </b>35.54<br><b>Position: </b>1<br>"
+        },
+        "200": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC NO: </b>200<br><b>AC Name: </b>Belthangady <br><b>Candidate Name: </b>HARISH POONJA<br><b>General Votes: </b>99489<br><b>Postal Votes: </b>1515<br><b>Total Votes: </b>101004<br><b>Total Voters: </b>189007<br><b>Percenatge: </b>53.44<br><b>Position: </b>1<br>"
+        },
+        "201": {
+            "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+            "matter": "<b>AC NO: </b>201<br><b>AC Name: </b>Moodabidri <br><b>Candidate Name: </b>UMANATHA KOTIAN<br><b>General Votes: </b>85858<br><b>Postal Votes: </b>1067<br><b>Total Votes: </b>86925<br><b>Total Voters: </b>158721<br><b>Percenatge: </b>54.77<br><b>Position: </b>1<br>"
+        },
+        "202": {
+            "color": "rgba(248.3333, 45.7778, 35.1111, 1.0)",
+            "matter": "<b>AC NO: </b>202<br><b>AC Name: </b>Mangalore City North <br><b>Candidate Name: </b>BHARATH SHETTY. Y.<br><b>General Votes: </b>102231<br><b>Postal Votes: </b>1300<br><b>Total Votes: </b>103531<br><b>Total Voters: </b>182363<br><b>Percenatge: </b>56.77<br><b>Position: </b>1<br>"
+        },
+        "203": {
+            "color": "rgba(248.3333, 45.7778, 35.1111, 1.0)",
+            "matter": "<b>AC NO: </b>203<br><b>AC Name: </b>Mangalore City South <br><b>Candidate Name: </b>D.VEDAVYASA KAMATH<br><b>General Votes: </b>89998<br><b>Postal Votes: </b>1439<br><b>Total Votes: </b>91437<br><b>Total Voters: </b>161943<br><b>Percenatge: </b>56.46<br><b>Position: </b>1<br>"
+        },
+        "204": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>204<br><b>AC Name: </b>Mangalore <br><b>Candidate Name: </b>SATHISH KUMPALA<br><b>General Votes: </b>59660<br><b>Postal Votes: </b>769<br><b>Total Votes: </b>60429<br><b>Total Voters: </b>159999<br><b>Percenatge: </b>37.77<br><b>Position: </b>2<br>"
+        },
+        "205": {
+            "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+            "matter": "<b>AC NO: </b>205<br><b>AC Name: </b>Bantval <br><b>Candidate Name: </b>RAJESH NAIK U<br><b>General Votes: </b>92047<br><b>Postal Votes: </b>1277<br><b>Total Votes: </b>93324<br><b>Total Voters: </b>185572<br><b>Percenatge: </b>50.29<br><b>Position: </b>1<br>"
+        },
+        "206": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC NO: </b>206<br><b>AC Name: </b>Puttur <br><b>Candidate Name: </b>ASHA THIMMAPPA<br><b>General Votes: </b>36733<br><b>Postal Votes: </b>825<br><b>Total Votes: </b>37558<br><b>Total Voters: </b>172762<br><b>Percenatge: </b>21.74<br><b>Position: </b>3<br>"
+        },
+        "207": {
+            "color": "rgba(248.9394, 41.6162, 31.9192, 1.0)",
+            "matter": "<b>AC NO: </b>207<br><b>AC Name: </b>Sullia <br><b>Candidate Name: </b>BHAGIRATHI MURULYA<br><b>General Votes: </b>92344<br><b>Postal Votes: </b>1567<br><b>Total Votes: </b>93911<br><b>Total Voters: </b>164732<br><b>Percenatge: </b>57.01<br><b>Position: </b>1<br>"
+        },
+        "208": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>208<br><b>AC Name: </b>Madikeri <br><b>Candidate Name: </b>APPACHU RANJAN M. P<br><b>General Votes: </b>79249<br><b>Postal Votes: </b>1228<br><b>Total Votes: </b>80477<br><b>Total Voters: </b>177416<br><b>Percenatge: </b>45.36<br><b>Position: </b>2<br>"
+        },
+        "209": {
+            "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+            "matter": "<b>AC NO: </b>209<br><b>AC Name: </b>Virajpet <br><b>Candidate Name: </b>K.G.BOPAIAH<br><b>General Votes: </b>78397<br><b>Postal Votes: </b>1103<br><b>Total Votes: </b>79500<br><b>Total Voters: </b>167778<br><b>Percenatge: </b>47.38<br><b>Position: </b>2<br>"
+        },
+        "210": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC NO: </b>210<br><b>AC Name: </b>Piriyapatna <br><b>Candidate Name: </b>C.H. VIJAYA SHANKAR<br><b>General Votes: </b>7297<br><b>Postal Votes: </b>76<br><b>Total Votes: </b>7373<br><b>Total Voters: </b>165205<br><b>Percenatge: </b>4.46<br><b>Position: </b>3<br>"
+        },
+        "211": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>211<br><b>AC Name: </b>Krishnarajanagara <br><b>Candidate Name: </b>HOSAHALLI VENKATESH.<br><b>General Votes: </b>2337<br><b>Postal Votes: </b>13<br><b>Total Votes: </b>2350<br><b>Total Voters: </b>188841<br><b>Percenatge: </b>1.24<br><b>Position: </b>3<br>"
+        },
+        "212": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC NO: </b>212<br><b>AC Name: </b>Hunsur <br><b>Candidate Name: </b>DEVARAHALLI SOMASHEKARA<br><b>General Votes: </b>6215<br><b>Postal Votes: </b>43<br><b>Total Votes: </b>6258<br><b>Total Voters: </b>200946<br><b>Percenatge: </b>3.11<br><b>Position: </b>3<br>"
+        },
+        "213": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>213<br><b>AC Name: </b>Heggadadevankote <br><b>Candidate Name: </b>K.M. KRISHNANAYAKA<br><b>General Votes: </b>49189<br><b>Postal Votes: </b>231<br><b>Total Votes: </b>49420<br><b>Total Voters: </b>182371<br><b>Percenatge: </b>27.1<br><b>Position: </b>2<br>"
+        },
+        "214": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>214<br><b>AC Name: </b>Nanjangud <br><b>Candidate Name: </b>B. HARSHAVARDHAN<br><b>General Votes: </b>61114<br><b>Postal Votes: </b>404<br><b>Total Votes: </b>61518<br><b>Total Voters: </b>175864<br><b>Percenatge: </b>34.98<br><b>Position: </b>2<br>"
+        },
+        "215": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC NO: </b>215<br><b>AC Name: </b>Chamundeshwari <br><b>Candidate Name: </b>KAVEESH GOWDA. V.<br><b>General Votes: </b>50807<br><b>Postal Votes: </b>511<br><b>Total Votes: </b>51318<br><b>Total Voters: </b>247118<br><b>Percenatge: </b>20.77<br><b>Position: </b>3<br>"
+        },
+        "216": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>216<br><b>AC Name: </b>Krishnaraja <br><b>Candidate Name: </b>T.S. SRIVATHSA<br><b>General Votes: </b>73021<br><b>Postal Votes: </b>649<br><b>Total Votes: </b>73670<br><b>Total Voters: </b>150322<br><b>Percenatge: </b>49.01<br><b>Position: </b>1<br>"
+        },
+        "217": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>217<br><b>AC Name: </b>Chamaraja <br><b>Candidate Name: </b>L. NAGENDRA.<br><b>General Votes: </b>68418<br><b>Postal Votes: </b>419<br><b>Total Votes: </b>68837<br><b>Total Voters: </b>150615<br><b>Percenatge: </b>45.7<br><b>Position: </b>2<br>"
+        },
+        "218": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC NO: </b>218<br><b>AC Name: </b>Narasimharaja <br><b>Candidate Name: </b>S. SATHEESH SANDESH SWAMY<br><b>General Votes: </b>51802<br><b>Postal Votes: </b>558<br><b>Total Votes: </b>52360<br><b>Total Voters: </b>184941<br><b>Percenatge: </b>28.31<br><b>Position: </b>2<br>"
+        },
+        "219": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC NO: </b>219<br><b>AC Name: </b>Varuna <br><b>Candidate Name: </b>V. SOMANNA<br><b>General Votes: </b>73424<br><b>Postal Votes: </b>229<br><b>Total Votes: </b>73653<br><b>Total Voters: </b>199379<br><b>Percenatge: </b>36.94<br><b>Position: </b>2<br>"
+        },
+        "220": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC NO: </b>220<br><b>AC Name: </b>T.Narasipur <br><b>Candidate Name: </b>DR. M. REVANNA<br><b>General Votes: </b>20252<br><b>Postal Votes: </b>137<br><b>Total Votes: </b>20389<br><b>Total Voters: </b>162256<br><b>Percenatge: </b>12.57<br><b>Position: </b>3<br>"
+        },
+        "221": {
+            "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+            "matter": "<b>AC NO: </b>221<br><b>AC Name: </b>Hanur <br><b>Candidate Name: </b>Dr. PREETHAN .K.N<br><b>General Votes: </b>35567<br><b>Postal Votes: </b>303<br><b>Total Votes: </b>35870<br><b>Total Voters: </b>180366<br><b>Percenatge: </b>19.89<br><b>Position: </b>3<br>"
+        },
+        "222": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>222<br><b>AC Name: </b>Kollegal <br><b>Candidate Name: </b>N.Mahesh<br><b>General Votes: </b>48403<br><b>Postal Votes: </b>441<br><b>Total Votes: </b>48844<br><b>Total Voters: </b>167779<br><b>Percenatge: </b>29.11<br><b>Position: </b>2<br>"
+        },
+        "223": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>223<br><b>AC Name: </b>Chamarajanagar <br><b>Candidate Name: </b>V.Somanna<br><b>General Votes: </b>75753<br><b>Postal Votes: </b>572<br><b>Total Votes: </b>76325<br><b>Total Voters: </b>173057<br><b>Percenatge: </b>44.1<br><b>Position: </b>2<br>"
+        },
+        "224": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>224<br><b>AC Name: </b>Gundlupet <br><b>Candidate Name: </b>C.S. Niranjan Kumar<br><b>General Votes: </b>70605<br><b>Postal Votes: </b>514<br><b>Total Votes: </b>71119<br><b>Total Voters: </b>187995<br><b>Percenatge: </b>37.83<br><b>Position: </b>2<br>"
+        }
+    },
+    "border": "0,0"
+}
