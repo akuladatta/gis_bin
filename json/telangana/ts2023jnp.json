@@ -1,0 +1,484 @@
+{
+    "title": "Janasena Party in TS 2023",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Index</caption><thead><tr><th>Color</th><th>Percentage</th><th>Count</th></tr></thead><tbody><tr><td style=\"background-color: #2c7bb6;\"></td><td>1.03% to 4.0%</td><td>7</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>4.0% to 6.97%</td><td>0</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>6.97% to 9.94%</td><td>0</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>9.94% to 12.91%</td><td>0</td></tr><tr><td style=\"background-color: #ff0000;\"></td><td>12.91% to 15.88%</td><td>1</td></tr><tr><td></td><td></td><td>8</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "46": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC NO: </b>46<br><b>AC Name: </b>Kukatpalle<br><b>Candidate Name: </b>MUMMAREDDY PREMA KUMAR<br><b>Gender: </b>nan<br><b>General Votes: </b>39711<br><b>Postal Votes: </b>119<br><b>Total Votes: </b>39830<br><b>Total Voters: </b>250794<br><b>Percenatge: </b>15.88<br><b>rank: </b>3<br>"
+        },
+        "56": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>56<br><b>AC Name: </b>Tandur<br><b>Candidate Name: </b>NEMURI SHANKER GOUD<br><b>Gender: </b>nan<br><b>General Votes: </b>3971<br><b>Postal Votes: </b>116<br><b>Total Votes: </b>4087<br><b>Total Voters: </b>175225<br><b>Percenatge: </b>2.33<br><b>rank: </b>3<br>"
+        },
+        "81": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>81<br><b>AC Name: </b>Nagarkurnool<br><b>Candidate Name: </b>VANGA LAXMAN GOUD<br><b>Gender: </b>nan<br><b>General Votes: </b>1906<br><b>Postal Votes: </b>49<br><b>Total Votes: </b>1955<br><b>Total Voters: </b>184616<br><b>Percenatge: </b>1.06<br><b>rank: </b>5<br>"
+        },
+        "90": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>90<br><b>AC Name: </b>Kodad<br><b>Candidate Name: </b>MEKALA SATHEESH REDDY<br><b>Gender: </b>nan<br><b>General Votes: </b>2120<br><b>Postal Votes: </b>31<br><b>Total Votes: </b>2151<br><b>Total Voters: </b>208992<br><b>Percenatge: </b>1.03<br><b>rank: </b>4<br>"
+        },
+        "112": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>112<br><b>AC Name: </b>Khammam<br><b>Candidate Name: </b>MIRIYALA RAMAKRISHNA<br><b>Gender: </b>nan<br><b>General Votes: </b>3939<br><b>Postal Votes: </b>101<br><b>Total Votes: </b>4040<br><b>Total Voters: </b>236224<br><b>Percenatge: </b>1.71<br><b>rank: </b>3<br>"
+        },
+        "115": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>115<br><b>AC Name: </b>Wyra<br><b>Candidate Name: </b>SAMPATH NAIK<br><b>Gender: </b>nan<br><b>General Votes: </b>2679<br><b>Postal Votes: </b>33<br><b>Total Votes: </b>2712<br><b>Total Voters: </b>169407<br><b>Percenatge: </b>1.6<br><b>rank: </b>4<br>"
+        },
+        "117": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>117<br><b>AC Name: </b>Kothagudem<br><b>Candidate Name: </b>SURENDARRAO LAKKINENI<br><b>Gender: </b>nan<br><b>General Votes: </b>1922<br><b>Postal Votes: </b>23<br><b>Total Votes: </b>1945<br><b>Total Voters: </b>187920<br><b>Percenatge: </b>1.04<br><b>rank: </b>4<br>"
+        },
+        "118": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>118<br><b>AC Name: </b>Aswaraopeta<br><b>Candidate Name: </b>MUYYABOINA UMA DEVI<br><b>Gender: </b>nan<br><b>General Votes: </b>2274<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>2281<br><b>Total Voters: </b>136224<br><b>Percenatge: </b>1.67<br><b>rank: </b>4<br>"
+        },
+        "1": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "2": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "3": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "4": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "5": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "6": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "7": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "8": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "9": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "10": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "11": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "12": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "13": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "14": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "15": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "16": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "17": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "18": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "19": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "20": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "21": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "22": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "23": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "24": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "25": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "26": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "27": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "28": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "29": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "30": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "31": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "32": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "33": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "34": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "35": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "36": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "37": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "38": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "39": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "40": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "41": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "42": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "43": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "44": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "45": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "47": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "48": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "49": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "50": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "51": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "52": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "53": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "54": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "55": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "57": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "58": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "59": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "60": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "61": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "62": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "63": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "64": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "65": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "66": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "67": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "68": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "69": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "70": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "71": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "72": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "73": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "74": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "75": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "76": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "77": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "78": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "79": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "80": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "82": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "83": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "84": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "85": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "86": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "87": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "88": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "89": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "91": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "92": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "93": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "94": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "95": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "96": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "97": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "98": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "99": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "100": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "101": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "102": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "103": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "104": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "105": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "106": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "107": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "108": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "109": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "110": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "111": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "113": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "114": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "116": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "119": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        }
+    },
+    "border": "0,0"
+}

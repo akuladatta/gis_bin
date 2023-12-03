@@ -1,0 +1,484 @@
+{
+    "title": "Bharat Rashtra Samithi in TS 2023",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Index</caption><thead><tr><th>Color</th><th>Percentage</th><th>Count</th></tr></thead><tbody><tr><td style=\"background-color: #2c7bb6;\"></td><td>9.05% to 18.87%</td><td>7</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>18.87% to 28.7%</td><td>9</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>28.7% to 38.52%</td><td>54</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>38.52% to 48.35%</td><td>40</td></tr><tr><td style=\"background-color: #ff0000;\"></td><td>48.35% to 58.17%</td><td>9</td></tr><tr><td></td><td></td><td>119</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>1<br><b>AC Name: </b>Sirpur<br><b>Candidate Name: </b>KONERU KONAPPA<br><b>General Votes: </b>60379<br><b>Postal Votes: </b>235<br><b>Total Votes: </b>60614<br><b>Total Voters: </b>186880<br><b>Percenatge: </b>32.43<br><b>rank: </b>2<br>"
+        },
+        "2": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>2<br><b>AC Name: </b>Chennur<br><b>Candidate Name: </b>Balka Suman<br><b>General Votes: </b>49809<br><b>Postal Votes: </b>217<br><b>Total Votes: </b>50026<br><b>Total Voters: </b>152230<br><b>Percenatge: </b>32.86<br><b>rank: </b>2<br>"
+        },
+        "3": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>3<br><b>AC Name: </b>Bellampalli<br><b>Candidate Name: </b>DURGAM CHINNAIAH<br><b>General Votes: </b>45163<br><b>Postal Votes: </b>176<br><b>Total Votes: </b>45339<br><b>Total Voters: </b>141863<br><b>Percenatge: </b>31.96<br><b>rank: </b>2<br>"
+        },
+        "4": {
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC NO: </b>4<br><b>AC Name: </b>Mancherial<br><b>Candidate Name: </b>DIWAKAR RAO NADIPELLI<br><b>General Votes: </b>37734<br><b>Postal Votes: </b>255<br><b>Total Votes: </b>37989<br><b>Total Voters: </b>192510<br><b>Percenatge: </b>19.73<br><b>rank: </b>3<br>"
+        },
+        "5": {
+            "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+            "matter": "<b>AC NO: </b>5<br><b>AC Name: </b>Asifabad<br><b>Candidate Name: </b>KOVA LAXMI<br><b>General Votes: </b>82705<br><b>Postal Votes: </b>331<br><b>Total Votes: </b>83036<br><b>Total Voters: </b>184641<br><b>Percenatge: </b>44.97<br><b>rank: </b>1<br>"
+        },
+        "6": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>6<br><b>AC Name: </b>Khanapur<br><b>Candidate Name: </b>JOHNSON NAIK BHUKYA<br><b>General Votes: </b>53921<br><b>Postal Votes: </b>247<br><b>Total Votes: </b>54168<br><b>Total Voters: </b>174239<br><b>Percenatge: </b>31.09<br><b>rank: </b>2<br>"
+        },
+        "7": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>7<br><b>AC Name: </b>Adilabad<br><b>Candidate Name: </b>JOGU RAMANNA<br><b>General Votes: </b>60321<br><b>Postal Votes: </b>595<br><b>Total Votes: </b>60916<br><b>Total Voters: </b>188652<br><b>Percenatge: </b>32.29<br><b>rank: </b>2<br>"
+        },
+        "8": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>8<br><b>AC Name: </b>Boath<br><b>Candidate Name: </b>ANIL JADHAV<br><b>General Votes: </b>76297<br><b>Postal Votes: </b>495<br><b>Total Votes: </b>76792<br><b>Total Voters: </b>174018<br><b>Percenatge: </b>44.13<br><b>rank: </b>1<br>"
+        },
+        "9": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC NO: </b>9<br><b>AC Name: </b>Nirmal<br><b>Candidate Name: </b>ALLOLA INDRAKARAN REDDY<br><b>General Votes: </b>55321<br><b>Postal Votes: </b>376<br><b>Total Votes: </b>55697<br><b>Total Voters: </b>196931<br><b>Percenatge: </b>28.28<br><b>rank: </b>2<br>"
+        },
+        "10": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>10<br><b>AC Name: </b>Mudhole<br><b>Candidate Name: </b>GADDIGARI VITTAL REDDY<br><b>General Votes: </b>73918<br><b>Postal Votes: </b>335<br><b>Total Votes: </b>74253<br><b>Total Voters: </b>202202<br><b>Percenatge: </b>36.72<br><b>rank: </b>2<br>"
+        },
+        "11": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC NO: </b>11<br><b>AC Name: </b>Armur<br><b>Candidate Name: </b>Ashannagari Jeevan Reddy<br><b>General Votes: </b>39051<br><b>Postal Votes: </b>344<br><b>Total Votes: </b>39395<br><b>Total Voters: </b>161826<br><b>Percenatge: </b>24.34<br><b>rank: </b>3<br>"
+        },
+        "12": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC NO: </b>12<br><b>AC Name: </b>Bodhan<br><b>Candidate Name: </b>MOHAMMED SHAKIL AAMIR<br><b>General Votes: </b>63664<br><b>Postal Votes: </b>237<br><b>Total Votes: </b>63901<br><b>Total Voters: </b>171929<br><b>Percenatge: </b>37.17<br><b>rank: </b>2<br>"
+        },
+        "13": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>13<br><b>AC Name: </b>Jukkal<br><b>Candidate Name: </b>Hanmant Shinde<br><b>General Votes: </b>63127<br><b>Postal Votes: </b>210<br><b>Total Votes: </b>63337<br><b>Total Voters: </b>164539<br><b>Percenatge: </b>38.49<br><b>rank: </b>2<br>"
+        },
+        "14": {
+            "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+            "matter": "<b>AC NO: </b>14<br><b>AC Name: </b>Banswada<br><b>Candidate Name: </b>SRINIVAS REDDY PARIGE (POCHARAM)<br><b>General Votes: </b>75694<br><b>Postal Votes: </b>584<br><b>Total Votes: </b>76278<br><b>Total Voters: </b>160079<br><b>Percenatge: </b>47.65<br><b>rank: </b>1<br>"
+        },
+        "15": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>15<br><b>AC Name: </b>Yellareddy<br><b>Candidate Name: </b>SURENDAR JAJALA<br><b>General Votes: </b>62655<br><b>Postal Votes: </b>333<br><b>Total Votes: </b>62988<br><b>Total Voters: </b>184800<br><b>Percenatge: </b>34.08<br><b>rank: </b>2<br>"
+        },
+        "16": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>16<br><b>AC Name: </b>Kamareddy<br><b>Candidate Name: </b>KALVAKUNTLA CHANDRASHEKAR RAO<br><b>General Votes: </b>59633<br><b>Postal Votes: </b>278<br><b>Total Votes: </b>59911<br><b>Total Voters: </b>192889<br><b>Percenatge: </b>31.06<br><b>rank: </b>2<br>"
+        },
+        "17": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC NO: </b>17<br><b>AC Name: </b>Nizamabad<br><b>Candidate Name: </b>GANESH BIGALA<br><b>General Votes: </b>44598<br><b>Postal Votes: </b>231<br><b>Total Votes: </b>44829<br><b>Total Voters: </b>184332<br><b>Percenatge: </b>24.32<br><b>rank: </b>3<br>"
+        },
+        "18": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>18<br><b>AC Name: </b>Nizamabad<br><b>Candidate Name: </b>GOVERDHAN BAJIREDDY<br><b>General Votes: </b>56102<br><b>Postal Votes: </b>313<br><b>Total Votes: </b>56415<br><b>Total Voters: </b>195018<br><b>Percenatge: </b>28.93<br><b>rank: </b>2<br>"
+        },
+        "19": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>19<br><b>AC Name: </b>Balkonda<br><b>Candidate Name: </b>PRASHANTH REDDY VEMULA<br><b>General Votes: </b>69863<br><b>Postal Votes: </b>554<br><b>Total Votes: </b>70417<br><b>Total Voters: </b>174839<br><b>Percenatge: </b>40.28<br><b>rank: </b>1<br>"
+        },
+        "20": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC NO: </b>20<br><b>AC Name: </b>Koratla<br><b>Candidate Name: </b>KALVAKUNTLA SANJAY<br><b>General Votes: </b>71755<br><b>Postal Votes: </b>360<br><b>Total Votes: </b>72115<br><b>Total Voters: </b>183590<br><b>Percenatge: </b>39.28<br><b>rank: </b>1<br>"
+        },
+        "21": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC NO: </b>21<br><b>AC Name: </b>Jagtial<br><b>Candidate Name: </b>Dr. Sanjay<br><b>General Votes: </b>69763<br><b>Postal Votes: </b>480<br><b>Total Votes: </b>70243<br><b>Total Voters: </b>176359<br><b>Percenatge: </b>39.83<br><b>rank: </b>1<br>"
+        },
+        "22": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>22<br><b>AC Name: </b>Dharmapuri<br><b>Candidate Name: </b>Koppula Eshwar<br><b>General Votes: </b>68999<br><b>Postal Votes: </b>355<br><b>Total Votes: </b>69354<br><b>Total Voters: </b>181690<br><b>Percenatge: </b>38.17<br><b>rank: </b>2<br>"
+        },
+        "23": {
+            "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+            "matter": "<b>AC NO: </b>23<br><b>AC Name: </b>Ramagundam<br><b>Candidate Name: </b>KORUKANTI CHANDER PATEL<br><b>General Votes: </b>35143<br><b>Postal Votes: </b>290<br><b>Total Votes: </b>35433<br><b>Total Voters: </b>152988<br><b>Percenatge: </b>23.16<br><b>rank: </b>2<br>"
+        },
+        "24": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>24<br><b>AC Name: </b>Manthani<br><b>Candidate Name: </b>Putta Madhukar<br><b>General Votes: </b>72175<br><b>Postal Votes: </b>267<br><b>Total Votes: </b>72442<br><b>Total Voters: </b>196543<br><b>Percenatge: </b>36.86<br><b>rank: </b>2<br>"
+        },
+        "25": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>25<br><b>AC Name: </b>Peddapalle<br><b>Candidate Name: </b>Dasari Manohar Reddy<br><b>General Votes: </b>63431<br><b>Postal Votes: </b>349<br><b>Total Votes: </b>63780<br><b>Total Voters: </b>207944<br><b>Percenatge: </b>30.67<br><b>rank: </b>2<br>"
+        },
+        "26": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>26<br><b>AC Name: </b>Karimnagar<br><b>Candidate Name: </b>GANGULA KAMALAKAR<br><b>General Votes: </b>91224<br><b>Postal Votes: </b>955<br><b>Total Votes: </b>92179<br><b>Total Voters: </b>229774<br><b>Percenatge: </b>40.12<br><b>rank: </b>1<br>"
+        },
+        "27": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>27<br><b>AC Name: </b>Choppadandi<br><b>Candidate Name: </b>RAVI SHANKAR SUNKE<br><b>General Votes: </b>52847<br><b>Postal Votes: </b>109<br><b>Total Votes: </b>52956<br><b>Total Voters: </b>182188<br><b>Percenatge: </b>29.07<br><b>rank: </b>2<br>"
+        },
+        "28": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>28<br><b>AC Name: </b>Vemulawada<br><b>Candidate Name: </b>CHALIMEDA LAKSHMI NARASIMHA RAO<br><b>General Votes: </b>56538<br><b>Postal Votes: </b>332<br><b>Total Votes: </b>56870<br><b>Total Voters: </b>174145<br><b>Percenatge: </b>32.66<br><b>rank: </b>2<br>"
+        },
+        "29": {
+            "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+            "matter": "<b>AC NO: </b>29<br><b>AC Name: </b>Sircilla<br><b>Candidate Name: </b>KALVAKUNTLA TARAKA RAMA RAO (K.T.R)<br><b>General Votes: </b>88761<br><b>Postal Votes: </b>483<br><b>Total Votes: </b>89244<br><b>Total Voters: </b>188740<br><b>Percenatge: </b>47.28<br><b>rank: </b>1<br>"
+        },
+        "30": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>30<br><b>AC Name: </b>Manakondur<br><b>Candidate Name: </b>ERUPULA BALAKISHAN RASAMAYI<br><b>General Votes: </b>64161<br><b>Postal Votes: </b>247<br><b>Total Votes: </b>64408<br><b>Total Voters: </b>185829<br><b>Percenatge: </b>34.66<br><b>rank: </b>2<br>"
+        },
+        "31": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>31<br><b>AC Name: </b>Huzurabad<br><b>Candidate Name: </b>KAUSHIK REDDY PADI<br><b>General Votes: </b>80003<br><b>Postal Votes: </b>330<br><b>Total Votes: </b>80333<br><b>Total Voters: </b>209311<br><b>Percenatge: </b>38.38<br><b>rank: </b>1<br>"
+        },
+        "32": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC NO: </b>32<br><b>AC Name: </b>Husnabad<br><b>Candidate Name: </b>SATISH KUMAR VODITELA<br><b>General Votes: </b>81291<br><b>Postal Votes: </b>320<br><b>Total Votes: </b>81611<br><b>Total Voters: </b>206698<br><b>Percenatge: </b>39.48<br><b>rank: </b>2<br>"
+        },
+        "33": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC NO: </b>33<br><b>AC Name: </b>Siddipet<br><b>Candidate Name: </b>THANNEERU HARISH RAO<br><b>General Votes: </b>104109<br><b>Postal Votes: </b>1405<br><b>Total Votes: </b>105514<br><b>Total Voters: </b>181403<br><b>Percenatge: </b>58.17<br><b>rank: </b>1<br>"
+        },
+        "34": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC NO: </b>34<br><b>AC Name: </b>Medak<br><b>Candidate Name: </b>PADMA DEVENDER REDDY.M<br><b>General Votes: </b>76635<br><b>Postal Votes: </b>334<br><b>Total Votes: </b>76969<br><b>Total Voters: </b>186863<br><b>Percenatge: </b>41.19<br><b>rank: </b>2<br>"
+        },
+        "35": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>35<br><b>AC Name: </b>Narayankhed<br><b>Candidate Name: </b>MAHAREDDY BHUPAL REDDY<br><b>General Votes: </b>84515<br><b>Postal Votes: </b>311<br><b>Total Votes: </b>84826<br><b>Total Voters: </b>194036<br><b>Percenatge: </b>43.72<br><b>rank: </b>2<br>"
+        },
+        "36": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC NO: </b>36<br><b>AC Name: </b>Andole<br><b>Candidate Name: </b>CHANTI KRANTHI KIRAN<br><b>General Votes: </b>85677<br><b>Postal Votes: </b>277<br><b>Total Votes: </b>85954<br><b>Total Voters: </b>212750<br><b>Percenatge: </b>40.4<br><b>rank: </b>2<br>"
+        },
+        "37": {
+            "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+            "matter": "<b>AC NO: </b>37<br><b>AC Name: </b>Narsapur<br><b>Candidate Name: </b>VAKITI SUNITHA LAXMA REDDY<br><b>General Votes: </b>88104<br><b>Postal Votes: </b>306<br><b>Total Votes: </b>88410<br><b>Total Voters: </b>198062<br><b>Percenatge: </b>44.64<br><b>rank: </b>1<br>"
+        },
+        "38": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>38<br><b>AC Name: </b>Zahirabad<br><b>Candidate Name: </b>KONINTY MANIK RAO<br><b>General Votes: </b>96913<br><b>Postal Votes: </b>292<br><b>Total Votes: </b>97205<br><b>Total Voters: </b>209089<br><b>Percenatge: </b>46.49<br><b>rank: </b>1<br>"
+        },
+        "39": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>39<br><b>AC Name: </b>Sangareddy<br><b>Candidate Name: </b>CHINTA PRABHAKAR<br><b>General Votes: </b>82614<br><b>Postal Votes: </b>498<br><b>Total Votes: </b>83112<br><b>Total Voters: </b>187506<br><b>Percenatge: </b>44.32<br><b>rank: </b>1<br>"
+        },
+        "40": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>40<br><b>AC Name: </b>Patancheru<br><b>Candidate Name: </b>GUDEM MAHIPAL REDDY<br><b>General Votes: </b>105166<br><b>Postal Votes: </b>221<br><b>Total Votes: </b>105387<br><b>Total Voters: </b>276881<br><b>Percenatge: </b>38.06<br><b>rank: </b>1<br>"
+        },
+        "41": {
+            "color": "rgba(252.5758, 16.6465, 12.7677, 1.0)",
+            "matter": "<b>AC NO: </b>41<br><b>AC Name: </b>Dubbak<br><b>Candidate Name: </b>Kotta Prabhakar Reddy<br><b>General Votes: </b>97451<br><b>Postal Votes: </b>428<br><b>Total Votes: </b>97879<br><b>Total Voters: </b>174765<br><b>Percenatge: </b>56.01<br><b>rank: </b>1<br>"
+        },
+        "42": {
+            "color": "rgba(242.8788, 83.2323, 63.8384, 1.0)",
+            "matter": "<b>AC NO: </b>42<br><b>AC Name: </b>Gajwel<br><b>Candidate Name: </b>KALVAKUNTLA CHANDRASHEKAR RAO<br><b>General Votes: </b>111244<br><b>Postal Votes: </b>440<br><b>Total Votes: </b>111684<br><b>Total Voters: </b>232417<br><b>Percenatge: </b>48.05<br><b>rank: </b>1<br>"
+        },
+        "43": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>43<br><b>AC Name: </b>Medchal<br><b>Candidate Name: </b>CHAMAKURA MALLA REDDY<br><b>General Votes: </b>185189<br><b>Postal Votes: </b>828<br><b>Total Votes: </b>186017<br><b>Total Voters: </b>400516<br><b>Percenatge: </b>46.44<br><b>rank: </b>1<br>"
+        },
+        "44": {
+            "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+            "matter": "<b>AC NO: </b>44<br><b>AC Name: </b>Malkajgiri<br><b>Candidate Name: </b>MARRI RAJASHEKAR REDDY<br><b>General Votes: </b>124683<br><b>Postal Votes: </b>366<br><b>Total Votes: </b>125049<br><b>Total Voters: </b>265411<br><b>Percenatge: </b>47.12<br><b>rank: </b>1<br>"
+        },
+        "45": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>45<br><b>AC Name: </b>Quthbullapur<br><b>Candidate Name: </b>K.P. VIVEKANAND<br><b>General Votes: </b>187327<br><b>Postal Votes: </b>672<br><b>Total Votes: </b>187999<br><b>Total Voters: </b>401667<br><b>Percenatge: </b>46.8<br><b>rank: </b>1<br>"
+        },
+        "46": {
+            "color": "rgba(250.1515, 33.2929, 25.5354, 1.0)",
+            "matter": "<b>AC NO: </b>46<br><b>AC Name: </b>Kukatpalle<br><b>Candidate Name: </b>MADHAVARAM KRISHNA RAO<br><b>General Votes: </b>135276<br><b>Postal Votes: </b>359<br><b>Total Votes: </b>135635<br><b>Total Voters: </b>250794<br><b>Percenatge: </b>54.08<br><b>rank: </b>1<br>"
+        },
+        "47": {
+            "color": "rgba(242.8788, 83.2323, 63.8384, 1.0)",
+            "matter": "<b>AC NO: </b>47<br><b>AC Name: </b>Uppal<br><b>Candidate Name: </b>BANDARI LAKSHMA REDDY<br><b>General Votes: </b>132433<br><b>Postal Votes: </b>494<br><b>Total Votes: </b>132927<br><b>Total Voters: </b>275026<br><b>Percenatge: </b>48.33<br><b>rank: </b>1<br>"
+        },
+        "48": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>48<br><b>AC Name: </b>Ibrahimpatnam<br><b>Candidate Name: </b>MANCHIREDDY KISHAN REDDY<br><b>General Votes: </b>89173<br><b>Postal Votes: </b>633<br><b>Total Votes: </b>89806<br><b>Total Voters: </b>248461<br><b>Percenatge: </b>36.14<br><b>rank: </b>2<br>"
+        },
+        "49": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>49<br><b>AC Name: </b>Lal Bahadur Nagar<br><b>Candidate Name: </b>DEVIREDDY SUDHIR REDDY<br><b>General Votes: </b>110683<br><b>Postal Votes: </b>697<br><b>Total Votes: </b>111380<br><b>Total Voters: </b>295131<br><b>Percenatge: </b>37.74<br><b>rank: </b>1<br>"
+        },
+        "50": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC NO: </b>50<br><b>AC Name: </b>Maheswaram<br><b>Candidate Name: </b>Patlolla Sabitha Indra Reddy<br><b>General Votes: </b>124753<br><b>Postal Votes: </b>825<br><b>Total Votes: </b>125578<br><b>Total Voters: </b>306334<br><b>Percenatge: </b>40.99<br><b>rank: </b>1<br>"
+        },
+        "51": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC NO: </b>51<br><b>AC Name: </b>Rajendranagar<br><b>Candidate Name: </b>T. Prakash Goud<br><b>General Votes: </b>121283<br><b>Postal Votes: </b>451<br><b>Total Votes: </b>121734<br><b>Total Voters: </b>328193<br><b>Percenatge: </b>37.09<br><b>rank: </b>1<br>"
+        },
+        "52": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>52<br><b>AC Name: </b>Serilingampally<br><b>Candidate Name: </b>AREKAPUDI GANDHI<br><b>General Votes: </b>156999<br><b>Postal Votes: </b>333<br><b>Total Votes: </b>157332<br><b>Total Voters: </b>357830<br><b>Percenatge: </b>43.97<br><b>rank: </b>1<br>"
+        },
+        "53": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC NO: </b>53<br><b>AC Name: </b>Chevella<br><b>Candidate Name: </b>KALE YADAIAH<br><b>General Votes: </b>75843<br><b>Postal Votes: </b>375<br><b>Total Votes: </b>76218<br><b>Total Voters: </b>196802<br><b>Percenatge: </b>38.73<br><b>rank: </b>1<br>"
+        },
+        "54": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>54<br><b>AC Name: </b>Pargi<br><b>Candidate Name: </b>K. MAHESH REDDY<br><b>General Votes: </b>74099<br><b>Postal Votes: </b>424<br><b>Total Votes: </b>74523<br><b>Total Voters: </b>201380<br><b>Percenatge: </b>37.01<br><b>rank: </b>2<br>"
+        },
+        "55": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>55<br><b>AC Name: </b>Vicarabad<br><b>Candidate Name: </b>DR. ANAND METHUKU<br><b>General Votes: </b>73714<br><b>Postal Votes: </b>278<br><b>Total Votes: </b>73992<br><b>Total Voters: </b>174282<br><b>Percenatge: </b>42.46<br><b>rank: </b>2<br>"
+        },
+        "56": {
+            "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+            "matter": "<b>AC NO: </b>56<br><b>AC Name: </b>Tandur<br><b>Candidate Name: </b>PILOT ROHITH REDDY<br><b>General Votes: </b>77763<br><b>Postal Votes: </b>316<br><b>Total Votes: </b>78079<br><b>Total Voters: </b>175225<br><b>Percenatge: </b>44.56<br><b>rank: </b>2<br>"
+        },
+        "57": {
+            "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+            "matter": "<b>AC NO: </b>57<br><b>AC Name: </b>Musheerabad<br><b>Candidate Name: </b>MUTA GOPAL<br><b>General Votes: </b>75000<br><b>Postal Votes: </b>207<br><b>Total Votes: </b>75207<br><b>Total Voters: </b>153252<br><b>Percenatge: </b>49.07<br><b>rank: </b>1<br>"
+        },
+        "58": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC NO: </b>58<br><b>AC Name: </b>Malakpet<br><b>Candidate Name: </b>AJEET REDDY. T<br><b>General Votes: </b>18583<br><b>Postal Votes: </b>63<br><b>Total Votes: </b>18646<br><b>Total Voters: </b>132024<br><b>Percenatge: </b>14.12<br><b>rank: </b>4<br>"
+        },
+        "59": {
+            "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+            "matter": "<b>AC NO: </b>59<br><b>AC Name: </b>Amberpet<br><b>Candidate Name: </b>KALERU VENKATESH<br><b>General Votes: </b>74135<br><b>Postal Votes: </b>281<br><b>Total Votes: </b>74416<br><b>Total Voters: </b>146488<br><b>Percenatge: </b>50.8<br><b>rank: </b>1<br>"
+        },
+        "60": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>60<br><b>AC Name: </b>Khairatabad<br><b>Candidate Name: </b>DANAM NAGENDER<br><b>General Votes: </b>67165<br><b>Postal Votes: </b>203<br><b>Total Votes: </b>67368<br><b>Total Voters: </b>154924<br><b>Percenatge: </b>43.48<br><b>rank: </b>1<br>"
+        },
+        "61": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>61<br><b>AC Name: </b>Jubilee Hills<br><b>Candidate Name: </b>MAGANTI GOPINATH<br><b>General Votes: </b>80328<br><b>Postal Votes: </b>221<br><b>Total Votes: </b>80549<br><b>Total Voters: </b>183312<br><b>Percenatge: </b>43.94<br><b>rank: </b>1<br>"
+        },
+        "62": {
+            "color": "rgba(253.1818, 12.4848, 9.5758, 1.0)",
+            "matter": "<b>AC NO: </b>62<br><b>AC Name: </b>Sanathnagar<br><b>Candidate Name: </b>TALASANI SRINIVAS YADAV<br><b>General Votes: </b>72398<br><b>Postal Votes: </b>159<br><b>Total Votes: </b>72557<br><b>Total Voters: </b>128263<br><b>Percenatge: </b>56.57<br><b>rank: </b>1<br>"
+        },
+        "63": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC NO: </b>63<br><b>AC Name: </b>Nampally<br><b>Candidate Name: </b>CH ANAND KUMAR GOUD<br><b>General Votes: </b>15378<br><b>Postal Votes: </b>42<br><b>Total Votes: </b>15420<br><b>Total Voters: </b>152300<br><b>Percenatge: </b>10.12<br><b>rank: </b>3<br>"
+        },
+        "64": {
+            "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+            "matter": "<b>AC NO: </b>64<br><b>AC Name: </b>Karwan<br><b>Candidate Name: </b>AINDALA KRISHNA<br><b>General Votes: </b>29097<br><b>Postal Votes: </b>97<br><b>Total Votes: </b>29194<br><b>Total Voters: </b>175836<br><b>Percenatge: </b>16.6<br><b>rank: </b>3<br>"
+        },
+        "65": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC NO: </b>65<br><b>AC Name: </b>Goshamahal<br><b>Candidate Name: </b>NAND KISHORE VYAS<br><b>General Votes: </b>58639<br><b>Postal Votes: </b>86<br><b>Total Votes: </b>58725<br><b>Total Voters: </b>148259<br><b>Percenatge: </b>39.61<br><b>rank: </b>2<br>"
+        },
+        "66": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>66<br><b>AC Name: </b>Charminar<br><b>Candidate Name: </b>MOHAMMED SALAUDDIN LODHI<br><b>General Votes: </b>8853<br><b>Postal Votes: </b>21<br><b>Total Votes: </b>8874<br><b>Total Voters: </b>98103<br><b>Percenatge: </b>9.05<br><b>rank: </b>4<br>"
+        },
+        "67": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC NO: </b>67<br><b>AC Name: </b>Chandrayangutta<br><b>Candidate Name: </b>MUPPI SEETHARAM REDDY<br><b>General Votes: </b>18078<br><b>Postal Votes: </b>38<br><b>Total Votes: </b>18116<br><b>Total Voters: </b>153771<br><b>Percenatge: </b>11.78<br><b>rank: </b>2<br>"
+        },
+        "68": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>68<br><b>AC Name: </b>Yakutpura<br><b>Candidate Name: </b>SAMA SUNDER REDDY<br><b>General Votes: </b>15453<br><b>Postal Votes: </b>63<br><b>Total Votes: </b>15516<br><b>Total Voters: </b>140434<br><b>Percenatge: </b>11.05<br><b>rank: </b>4<br>"
+        },
+        "69": {
+            "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+            "matter": "<b>AC NO: </b>69<br><b>AC Name: </b>Bahadurpura<br><b>Candidate Name: </b>MIR INAYATH ALI BAQRI<br><b>General Votes: </b>22398<br><b>Postal Votes: </b>28<br><b>Total Votes: </b>22426<br><b>Total Voters: </b>143725<br><b>Percenatge: </b>15.6<br><b>rank: </b>2<br>"
+        },
+        "70": {
+            "color": "rgba(251.9697, 20.8081, 15.9596, 1.0)",
+            "matter": "<b>AC NO: </b>70<br><b>AC Name: </b>Secunderabad<br><b>Candidate Name: </b>PADMA RAO. T<br><b>General Votes: </b>77910<br><b>Postal Votes: </b>313<br><b>Total Votes: </b>78223<br><b>Total Voters: </b>141148<br><b>Percenatge: </b>55.42<br><b>rank: </b>1<br>"
+        },
+        "71": {
+            "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+            "matter": "<b>AC NO: </b>71<br><b>AC Name: </b>Secunderabad Cantt.<br><b>Candidate Name: </b>LASYA NANDITHA SAYANNA<br><b>General Votes: </b>58911<br><b>Postal Votes: </b>146<br><b>Total Votes: </b>59057<br><b>Total Voters: </b>124517<br><b>Percenatge: </b>47.43<br><b>rank: </b>1<br>"
+        },
+        "72": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>72<br><b>AC Name: </b>Kodangal<br><b>Candidate Name: </b>PATNAM NARENDER REDDY<br><b>General Votes: </b>74709<br><b>Postal Votes: </b>188<br><b>Total Votes: </b>74897<br><b>Total Voters: </b>195163<br><b>Percenatge: </b>38.38<br><b>rank: </b>2<br>"
+        },
+        "73": {
+            "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+            "matter": "<b>AC NO: </b>73<br><b>AC Name: </b>Narayanpet<br><b>Candidate Name: </b>S.RAJENDER REDDY<br><b>General Votes: </b>76499<br><b>Postal Votes: </b>258<br><b>Total Votes: </b>76757<br><b>Total Voters: </b>182899<br><b>Percenatge: </b>41.97<br><b>rank: </b>2<br>"
+        },
+        "74": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>74<br><b>AC Name: </b>Mahbubnagar<br><b>Candidate Name: </b>V. Srinivas Goud<br><b>General Votes: </b>67736<br><b>Postal Votes: </b>753<br><b>Total Votes: </b>68489<br><b>Total Voters: </b>181572<br><b>Percenatge: </b>37.72<br><b>rank: </b>2<br>"
+        },
+        "75": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>75<br><b>AC Name: </b>Jadcherla<br><b>Candidate Name: </b>CHARLAKOLA LAXMA RREDDY<br><b>General Votes: </b>75515<br><b>Postal Votes: </b>179<br><b>Total Votes: </b>75694<br><b>Total Voters: </b>180640<br><b>Percenatge: </b>41.9<br><b>rank: </b>2<br>"
+        },
+        "76": {
+            "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+            "matter": "<b>AC NO: </b>76<br><b>AC Name: </b>Devarkadra<br><b>Candidate Name: </b>ALLA VENKATESWAR REDDY<br><b>General Votes: </b>87002<br><b>Postal Votes: </b>157<br><b>Total Votes: </b>87159<br><b>Total Voters: </b>195423<br><b>Percenatge: </b>44.6<br><b>rank: </b>2<br>"
+        },
+        "77": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC NO: </b>77<br><b>AC Name: </b>Makthal<br><b>Candidate Name: </b>CHITTEM RAM MOHAN REDDY<br><b>General Votes: </b>57292<br><b>Postal Votes: </b>100<br><b>Total Votes: </b>57392<br><b>Total Voters: </b>187834<br><b>Percenatge: </b>30.55<br><b>rank: </b>2<br>"
+        },
+        "78": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>78<br><b>AC Name: </b>Wanaparthy<br><b>Candidate Name: </b>SINGIREDDY NIRANJAN REDDY<br><b>General Votes: </b>81269<br><b>Postal Votes: </b>526<br><b>Total Votes: </b>81795<br><b>Total Voters: </b>213164<br><b>Percenatge: </b>38.37<br><b>rank: </b>2<br>"
+        },
+        "79": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC NO: </b>79<br><b>AC Name: </b>Gadwal<br><b>Candidate Name: </b>BANDLA KRISHNA MOHAN REDDY<br><b>General Votes: </b>93720<br><b>Postal Votes: </b>377<br><b>Total Votes: </b>94097<br><b>Total Voters: </b>214872<br><b>Percenatge: </b>43.79<br><b>rank: </b>1<br>"
+        },
+        "80": {
+            "color": "rgba(248.9394, 41.6162, 31.9192, 1.0)",
+            "matter": "<b>AC NO: </b>80<br><b>AC Name: </b>Alampur<br><b>Candidate Name: </b>VIJAYUDU<br><b>General Votes: </b>103770<br><b>Postal Votes: </b>290<br><b>Total Votes: </b>104060<br><b>Total Voters: </b>196797<br><b>Percenatge: </b>52.88<br><b>rank: </b>1<br>"
+        },
+        "81": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>81<br><b>AC Name: </b>Nagarkurnool<br><b>Candidate Name: </b>MARRI JANARDHAN REDDY<br><b>General Votes: </b>81616<br><b>Postal Votes: </b>297<br><b>Total Votes: </b>81913<br><b>Total Voters: </b>184616<br><b>Percenatge: </b>44.37<br><b>rank: </b>2<br>"
+        },
+        "82": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>82<br><b>AC Name: </b>Achampet<br><b>Candidate Name: </b>GUVVALA BALARAJU<br><b>General Votes: </b>65661<br><b>Postal Votes: </b>350<br><b>Total Votes: </b>66011<br><b>Total Voters: </b>195620<br><b>Percenatge: </b>33.74<br><b>rank: </b>2<br>"
+        },
+        "83": {
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC NO: </b>83<br><b>AC Name: </b>Kalwakurthy<br><b>Candidate Name: </b>Gurka Jaipal Yadav<br><b>General Votes: </b>42638<br><b>Postal Votes: </b>209<br><b>Total Votes: </b>42847<br><b>Total Voters: </b>202752<br><b>Percenatge: </b>21.13<br><b>rank: </b>3<br>"
+        },
+        "84": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>84<br><b>AC Name: </b>Shadnagar<br><b>Candidate Name: </b>ANJAIAH YELGANAMONI<br><b>General Votes: </b>70385<br><b>Postal Votes: </b>304<br><b>Total Votes: </b>70689<br><b>Total Voters: </b>195555<br><b>Percenatge: </b>36.15<br><b>rank: </b>2<br>"
+        },
+        "85": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>85<br><b>AC Name: </b>Kollapur<br><b>Candidate Name: </b>BEERAM HARSHAVARDHAN REDDY<br><b>General Votes: </b>63304<br><b>Postal Votes: </b>374<br><b>Total Votes: </b>63678<br><b>Total Voters: </b>192228<br><b>Percenatge: </b>33.13<br><b>rank: </b>2<br>"
+        },
+        "86": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>86<br><b>AC Name: </b>Devarakonda<br><b>Candidate Name: </b>RAVINDRA KUMAR RAMAVATH<br><b>General Votes: </b>81035<br><b>Postal Votes: </b>288<br><b>Total Votes: </b>81323<br><b>Total Voters: </b>213881<br><b>Percenatge: </b>38.02<br><b>rank: </b>2<br>"
+        },
+        "87": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>87<br><b>AC Name: </b>Nagarjuna Sagar<br><b>Candidate Name: </b>NOMULA BHAGATH KUMAR<br><b>General Votes: </b>63521<br><b>Postal Votes: </b>461<br><b>Total Votes: </b>63982<br><b>Total Voters: </b>202088<br><b>Percenatge: </b>31.66<br><b>rank: </b>2<br>"
+        },
+        "88": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>88<br><b>AC Name: </b>Miryalaguda<br><b>Candidate Name: </b>NALLAMOTHU BHASKAR RAO<br><b>General Votes: </b>65239<br><b>Postal Votes: </b>441<br><b>Total Votes: </b>65680<br><b>Total Voters: </b>193741<br><b>Percenatge: </b>33.9<br><b>rank: </b>2<br>"
+        },
+        "89": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>89<br><b>AC Name: </b>Huzurnagar<br><b>Candidate Name: </b>SAIDI REDDY SHANAMPUDI<br><b>General Votes: </b>71361<br><b>Postal Votes: </b>458<br><b>Total Votes: </b>71819<br><b>Total Voters: </b>215298<br><b>Percenatge: </b>33.36<br><b>rank: </b>2<br>"
+        },
+        "90": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>90<br><b>AC Name: </b>Kodad<br><b>Candidate Name: </b>BOLLAM. MALLAIAH YADAV<br><b>General Votes: </b>67104<br><b>Postal Votes: </b>507<br><b>Total Votes: </b>67611<br><b>Total Voters: </b>208992<br><b>Percenatge: </b>32.35<br><b>rank: </b>2<br>"
+        },
+        "91": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>91<br><b>AC Name: </b>Suryapet<br><b>Candidate Name: </b>GUNTAKANDLA JAGADISH REDDY<br><b>General Votes: </b>74433<br><b>Postal Votes: </b>710<br><b>Total Votes: </b>75143<br><b>Total Voters: </b>206669<br><b>Percenatge: </b>36.36<br><b>rank: </b>1<br>"
+        },
+        "92": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>92<br><b>AC Name: </b>Nalgonda<br><b>Candidate Name: </b>KANCHARLA. BHUPAL REDDY<br><b>General Votes: </b>52401<br><b>Postal Votes: </b>672<br><b>Total Votes: </b>53073<br><b>Total Voters: </b>204027<br><b>Percenatge: </b>26.01<br><b>rank: </b>2<br>"
+        },
+        "93": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>93<br><b>AC Name: </b>Munugode<br><b>Candidate Name: </b>KOOSUKUNTLA PRABHAKAR REDDY<br><b>General Votes: </b>78643<br><b>Postal Votes: </b>391<br><b>Total Votes: </b>79034<br><b>Total Voters: </b>233608<br><b>Percenatge: </b>33.83<br><b>rank: </b>2<br>"
+        },
+        "94": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC NO: </b>94<br><b>AC Name: </b>Bhongir<br><b>Candidate Name: </b>PAILLA SHEKAR REDDY<br><b>General Votes: </b>76311<br><b>Postal Votes: </b>230<br><b>Total Votes: </b>76541<br><b>Total Voters: </b>196077<br><b>Percenatge: </b>39.04<br><b>rank: </b>2<br>"
+        },
+        "95": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>95<br><b>AC Name: </b>Nakrekal<br><b>Candidate Name: </b>CHIRUMARTHY LINGAIAH<br><b>General Votes: </b>64336<br><b>Postal Votes: </b>365<br><b>Total Votes: </b>64701<br><b>Total Voters: </b>219033<br><b>Percenatge: </b>29.54<br><b>rank: </b>2<br>"
+        },
+        "96": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>96<br><b>AC Name: </b>Thungathurthi<br><b>Candidate Name: </b>GADARI KISHORE KUMAR<br><b>General Votes: </b>78058<br><b>Postal Votes: </b>383<br><b>Total Votes: </b>78441<br><b>Total Voters: </b>225170<br><b>Percenatge: </b>34.84<br><b>rank: </b>2<br>"
+        },
+        "97": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>97<br><b>AC Name: </b>Alair<br><b>Candidate Name: </b>GONGIDI SUNITHA<br><b>General Votes: </b>72313<br><b>Postal Votes: </b>191<br><b>Total Votes: </b>72504<br><b>Total Voters: </b>212761<br><b>Percenatge: </b>34.08<br><b>rank: </b>2<br>"
+        },
+        "98": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC NO: </b>98<br><b>AC Name: </b>Jangoan<br><b>Candidate Name: </b>PALLA RAJESHWAR REDDY<br><b>General Votes: </b>98557<br><b>Postal Votes: </b>418<br><b>Total Votes: </b>98975<br><b>Total Voters: </b>203600<br><b>Percenatge: </b>48.61<br><b>rank: </b>1<br>"
+        },
+        "99": {
+            "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+            "matter": "<b>AC NO: </b>99<br><b>AC Name: </b>Ghanpur<br><b>Candidate Name: </b>KADIYAM SRIHARI<br><b>General Votes: </b>101239<br><b>Postal Votes: </b>457<br><b>Total Votes: </b>101696<br><b>Total Voters: </b>215755<br><b>Percenatge: </b>47.13<br><b>rank: </b>1<br>"
+        },
+        "100": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>100<br><b>AC Name: </b>Palakurthi<br><b>Candidate Name: </b>DAYAKAR RAO ERRABELLI<br><b>General Votes: </b>78796<br><b>Postal Votes: </b>418<br><b>Total Votes: </b>79214<br><b>Total Voters: </b>220156<br><b>Percenatge: </b>35.98<br><b>rank: </b>2<br>"
+        },
+        "101": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>101<br><b>AC Name: </b>Dornakal<br><b>Candidate Name: </b>DHARAMSOTH REDYA NAIK<br><b>General Votes: </b>62169<br><b>Postal Votes: </b>287<br><b>Total Votes: </b>62456<br><b>Total Voters: </b>192623<br><b>Percenatge: </b>32.42<br><b>rank: </b>2<br>"
+        },
+        "102": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC NO: </b>102<br><b>AC Name: </b>Mahabubabad<br><b>Candidate Name: </b>BANOTH SHANKAR NAIK<br><b>General Votes: </b>66177<br><b>Postal Votes: </b>296<br><b>Total Votes: </b>66473<br><b>Total Voters: </b>210328<br><b>Percenatge: </b>31.6<br><b>rank: </b>2<br>"
+        },
+        "103": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>103<br><b>AC Name: </b>Narsampet<br><b>Candidate Name: </b>PEDDI SUDARSHAN REDDY<br><b>General Votes: </b>85001<br><b>Postal Votes: </b>295<br><b>Total Votes: </b>85296<br><b>Total Voters: </b>205386<br><b>Percenatge: </b>41.53<br><b>rank: </b>2<br>"
+        },
+        "104": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC NO: </b>104<br><b>AC Name: </b>Parkal<br><b>Candidate Name: </b>CHALLA. DHARMA REDDY.<br><b>General Votes: </b>64330<br><b>Postal Votes: </b>302<br><b>Total Votes: </b>64632<br><b>Total Voters: </b>188681<br><b>Percenatge: </b>34.25<br><b>rank: </b>2<br>"
+        },
+        "105": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC NO: </b>105<br><b>AC Name: </b>Warangal West<br><b>Candidate Name: </b>DASYAM VINAY BHASKER<br><b>General Votes: </b>56692<br><b>Postal Votes: </b>626<br><b>Total Votes: </b>57318<br><b>Total Voters: </b>167025<br><b>Percenatge: </b>34.32<br><b>rank: </b>2<br>"
+        },
+        "106": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC NO: </b>106<br><b>AC Name: </b>Warangal East<br><b>Candidate Name: </b>NARENDAR NANNAPUNENI<br><b>General Votes: </b>42535<br><b>Postal Votes: </b>248<br><b>Total Votes: </b>42783<br><b>Total Voters: </b>171687<br><b>Percenatge: </b>24.92<br><b>rank: </b>3<br>"
+        },
+        "107": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC NO: </b>107<br><b>AC Name: </b>Waradhanapet<br><b>Candidate Name: </b>AROORI RAMESH<br><b>General Votes: </b>86790<br><b>Postal Votes: </b>448<br><b>Total Votes: </b>87238<br><b>Total Voters: </b>218776<br><b>Percenatge: </b>39.88<br><b>rank: </b>2<br>"
+        },
+        "108": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC NO: </b>108<br><b>AC Name: </b>Bhupalpalle<br><b>Candidate Name: </b>GANDRA VENKATA RAMANA REDDY<br><b>General Votes: </b>70176<br><b>Postal Votes: </b>241<br><b>Total Votes: </b>70417<br><b>Total Voters: </b>225688<br><b>Percenatge: </b>31.2<br><b>rank: </b>2<br>"
+        },
+        "109": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>109<br><b>AC Name: </b>Mulug<br><b>Candidate Name: </b>Nagajyothi Bade<br><b>General Votes: </b>68327<br><b>Postal Votes: </b>240<br><b>Total Votes: </b>68567<br><b>Total Voters: </b>187583<br><b>Percenatge: </b>36.55<br><b>rank: </b>2<br>"
+        },
+        "110": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>110<br><b>AC Name: </b>Pinapaka<br><b>Candidate Name: </b>KANTHA RAO REGA<br><b>General Votes: </b>55764<br><b>Postal Votes: </b>240<br><b>Total Votes: </b>56004<br><b>Total Voters: </b>159883<br><b>Percenatge: </b>35.03<br><b>rank: </b>2<br>"
+        },
+        "111": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>111<br><b>AC Name: </b>Yellandu<br><b>Candidate Name: </b>BANOTH HARI PRIYA<br><b>General Votes: </b>51460<br><b>Postal Votes: </b>402<br><b>Total Votes: </b>51862<br><b>Total Voters: </b>178339<br><b>Percenatge: </b>29.08<br><b>rank: </b>2<br>"
+        },
+        "112": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>112<br><b>AC Name: </b>Khammam<br><b>Candidate Name: </b>AJAY KUMAR PUVVADA<br><b>General Votes: </b>85906<br><b>Postal Votes: </b>729<br><b>Total Votes: </b>86635<br><b>Total Voters: </b>236224<br><b>Percenatge: </b>36.67<br><b>rank: </b>2<br>"
+        },
+        "113": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>113<br><b>AC Name: </b>Palair<br><b>Candidate Name: </b>KANDALA UPENDER REDDY<br><b>General Votes: </b>70859<br><b>Postal Votes: </b>311<br><b>Total Votes: </b>71170<br><b>Total Voters: </b>216851<br><b>Percenatge: </b>32.82<br><b>rank: </b>2<br>"
+        },
+        "114": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC NO: </b>114<br><b>AC Name: </b>Madhira<br><b>Candidate Name: </b>KAMAL RAJU LINGALA<br><b>General Votes: </b>73038<br><b>Postal Votes: </b>480<br><b>Total Votes: </b>73518<br><b>Total Voters: </b>196364<br><b>Percenatge: </b>37.44<br><b>rank: </b>2<br>"
+        },
+        "115": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>115<br><b>AC Name: </b>Wyra<br><b>Candidate Name: </b>MADANLAL BANOTH<br><b>General Votes: </b>60456<br><b>Postal Votes: </b>412<br><b>Total Votes: </b>60868<br><b>Total Voters: </b>169407<br><b>Percenatge: </b>35.93<br><b>rank: </b>2<br>"
+        },
+        "116": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>116<br><b>AC Name: </b>Sathupalle<br><b>Candidate Name: </b>SANDRA VENKATA VEERAIAH<br><b>General Votes: </b>90974<br><b>Postal Votes: </b>831<br><b>Total Votes: </b>91805<br><b>Total Voters: </b>215349<br><b>Percenatge: </b>42.63<br><b>rank: </b>2<br>"
+        },
+        "117": {
+            "color": "rgba(231.4833, 240.2667, 190.1167, 1.0)",
+            "matter": "<b>AC NO: </b>117<br><b>AC Name: </b>Kothagudem<br><b>Candidate Name: </b>VANAMA VENKATESWARA RAO<br><b>General Votes: </b>37427<br><b>Postal Votes: </b>128<br><b>Total Votes: </b>37555<br><b>Total Voters: </b>187920<br><b>Percenatge: </b>19.98<br><b>rank: </b>3<br>"
+        },
+        "118": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>118<br><b>AC Name: </b>Aswaraopeta<br><b>Candidate Name: </b>MECHA NAGESWARA RAO<br><b>General Votes: </b>45963<br><b>Postal Votes: </b>125<br><b>Total Votes: </b>46088<br><b>Total Voters: </b>136224<br><b>Percenatge: </b>33.83<br><b>rank: </b>2<br>"
+        },
+        "119": {
+            "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+            "matter": "<b>AC NO: </b>119<br><b>AC Name: </b>Bhadrachalam<br><b>Candidate Name: </b>Dr. Tellam Venkata Rao<br><b>General Votes: </b>52972<br><b>Postal Votes: </b>280<br><b>Total Votes: </b>53252<br><b>Total Voters: </b>118129<br><b>Percenatge: </b>45.08<br><b>rank: </b>1<br>"
+        }
+    },
+    "border": "0,0"
+}

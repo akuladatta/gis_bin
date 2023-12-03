@@ -1,0 +1,484 @@
+{
+    "title": "None of the Above in TS 2023",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Index</caption><thead><tr><th>Color</th><th>Percentage</th><th>Count</th></tr></thead><tbody><tr><td style=\"background-color: #2c7bb6;\"></td><td>0.24% to 0.52%</td><td>35</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>0.52% to 0.8%</td><td>34</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>0.8% to 1.09%</td><td>36</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>1.09% to 1.37%</td><td>8</td></tr><tr><td style=\"background-color: #ff0000;\"></td><td>1.37% to 1.65%</td><td>6</td></tr><tr><td></td><td></td><td>119</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>1<br><b>AC Name: </b>Sirpur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2193<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>2196<br><b>Total Voters: </b>186880<br><b>Percenatge: </b>1.18<br><b>rank: </b>5<br>"
+        },
+        "2": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC NO: </b>2<br><b>AC Name: </b>Chennur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1787<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1792<br><b>Total Voters: </b>152230<br><b>Percenatge: </b>1.18<br><b>rank: </b>5<br>"
+        },
+        "3": {
+            "color": "rgba(250.7576, 29.1313, 22.3434, 1.0)",
+            "matter": "<b>AC NO: </b>3<br><b>AC Name: </b>Bellampalli<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2168<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>2179<br><b>Total Voters: </b>141863<br><b>Percenatge: </b>1.54<br><b>rank: </b>5<br>"
+        },
+        "4": {
+            "color": "rgba(188.7258, 213.4788, 188.0561, 1.0)",
+            "matter": "<b>AC NO: </b>4<br><b>AC Name: </b>Mancherial<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>926<br><b>Postal Votes: </b>16<br><b>Total Votes: </b>942<br><b>Total Voters: </b>192510<br><b>Percenatge: </b>0.49<br><b>rank: </b>7<br>"
+        },
+        "5": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>5<br><b>AC Name: </b>Asifabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1507<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>1515<br><b>Total Voters: </b>184641<br><b>Percenatge: </b>0.82<br><b>rank: </b>9<br>"
+        },
+        "6": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC NO: </b>6<br><b>AC Name: </b>Khanapur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2096<br><b>Postal Votes: </b>18<br><b>Total Votes: </b>2114<br><b>Total Voters: </b>174239<br><b>Percenatge: </b>1.21<br><b>rank: </b>4<br>"
+        },
+        "7": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>7<br><b>AC Name: </b>Adilabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>582<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>592<br><b>Total Voters: </b>188652<br><b>Percenatge: </b>0.31<br><b>rank: </b>12<br>"
+        },
+        "8": {
+            "color": "rgba(247.7273, 49.9394, 38.303, 1.0)",
+            "matter": "<b>AC NO: </b>8<br><b>AC Name: </b>Boath<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2556<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>2565<br><b>Total Voters: </b>174018<br><b>Percenatge: </b>1.47<br><b>rank: </b>4<br>"
+        },
+        "9": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC NO: </b>9<br><b>AC Name: </b>Nirmal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1522<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>1526<br><b>Total Voters: </b>196931<br><b>Percenatge: </b>0.77<br><b>rank: </b>4<br>"
+        },
+        "10": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>10<br><b>AC Name: </b>Mudhole<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1903<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1906<br><b>Total Voters: </b>202202<br><b>Percenatge: </b>0.94<br><b>rank: </b>6<br>"
+        },
+        "11": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>11<br><b>AC Name: </b>Armur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1493<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1499<br><b>Total Voters: </b>161826<br><b>Percenatge: </b>0.93<br><b>rank: </b>4<br>"
+        },
+        "12": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>12<br><b>AC Name: </b>Bodhan<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>867<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>872<br><b>Total Voters: </b>171929<br><b>Percenatge: </b>0.51<br><b>rank: </b>6<br>"
+        },
+        "13": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>13<br><b>AC Name: </b>Jukkal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>469<br><b>Postal Votes: </b>0<br><b>Total Votes: </b>469<br><b>Total Voters: </b>164539<br><b>Percenatge: </b>0.29<br><b>rank: </b>10<br>"
+        },
+        "14": {
+            "color": "rgba(254.7682, 247.5818, 182.6727, 1.0)",
+            "matter": "<b>AC NO: </b>14<br><b>AC Name: </b>Banswada<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1009<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1012<br><b>Total Voters: </b>160079<br><b>Percenatge: </b>0.63<br><b>rank: </b>6<br>"
+        },
+        "15": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC NO: </b>15<br><b>AC Name: </b>Yellareddy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1284<br><b>Postal Votes: </b>16<br><b>Total Votes: </b>1300<br><b>Total Voters: </b>184800<br><b>Percenatge: </b>0.7<br><b>rank: </b>5<br>"
+        },
+        "16": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>16<br><b>AC Name: </b>Kamareddy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>467<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>474<br><b>Total Voters: </b>192889<br><b>Percenatge: </b>0.25<br><b>rank: </b>9<br>"
+        },
+        "17": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>17<br><b>AC Name: </b>Nizamabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>531<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>538<br><b>Total Voters: </b>184332<br><b>Percenatge: </b>0.29<br><b>rank: </b>4<br>"
+        },
+        "18": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC NO: </b>18<br><b>AC Name: </b>Nizamabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2254<br><b>Postal Votes: </b>14<br><b>Total Votes: </b>2268<br><b>Total Voters: </b>195018<br><b>Percenatge: </b>1.16<br><b>rank: </b>5<br>"
+        },
+        "19": {
+            "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+            "matter": "<b>AC NO: </b>19<br><b>AC Name: </b>Balkonda<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1155<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1162<br><b>Total Voters: </b>174839<br><b>Percenatge: </b>0.66<br><b>rank: </b>6<br>"
+        },
+        "20": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>20<br><b>AC Name: </b>Koratla<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1382<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>1391<br><b>Total Voters: </b>183590<br><b>Percenatge: </b>0.76<br><b>rank: </b>6<br>"
+        },
+        "21": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>21<br><b>AC Name: </b>Jagtial<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1460<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>1471<br><b>Total Voters: </b>176359<br><b>Percenatge: </b>0.83<br><b>rank: </b>5<br>"
+        },
+        "22": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC NO: </b>22<br><b>AC Name: </b>Dharmapuri<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2386<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>2392<br><b>Total Voters: </b>181690<br><b>Percenatge: </b>1.32<br><b>rank: </b>6<br>"
+        },
+        "23": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>23<br><b>AC Name: </b>Ramagundam<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1563<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>1572<br><b>Total Voters: </b>152988<br><b>Percenatge: </b>1.03<br><b>rank: </b>5<br>"
+        },
+        "24": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC NO: </b>24<br><b>AC Name: </b>Manthani<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>774<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>776<br><b>Total Voters: </b>196543<br><b>Percenatge: </b>0.39<br><b>rank: </b>9<br>"
+        },
+        "25": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC NO: </b>25<br><b>AC Name: </b>Peddapalle<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>861<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>865<br><b>Total Voters: </b>207944<br><b>Percenatge: </b>0.42<br><b>rank: </b>9<br>"
+        },
+        "26": {
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC NO: </b>26<br><b>AC Name: </b>Karimnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1255<br><b>Postal Votes: </b>14<br><b>Total Votes: </b>1269<br><b>Total Voters: </b>229774<br><b>Percenatge: </b>0.55<br><b>rank: </b>5<br>"
+        },
+        "27": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC NO: </b>27<br><b>AC Name: </b>Choppadandi<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1253<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1260<br><b>Total Voters: </b>182188<br><b>Percenatge: </b>0.69<br><b>rank: </b>6<br>"
+        },
+        "28": {
+            "color": "rgba(253.9439, 221.2061, 152.1758, 1.0)",
+            "matter": "<b>AC NO: </b>28<br><b>AC Name: </b>Vemulawada<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1275<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1280<br><b>Total Voters: </b>174145<br><b>Percenatge: </b>0.74<br><b>rank: </b>7<br>"
+        },
+        "29": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>29<br><b>AC Name: </b>Sircilla<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>840<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>842<br><b>Total Voters: </b>188740<br><b>Percenatge: </b>0.45<br><b>rank: </b>10<br>"
+        },
+        "30": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>30<br><b>AC Name: </b>Manakondur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1988<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>1998<br><b>Total Voters: </b>185829<br><b>Percenatge: </b>1.08<br><b>rank: </b>6<br>"
+        },
+        "31": {
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC NO: </b>31<br><b>AC Name: </b>Huzurabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1205<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1208<br><b>Total Voters: </b>209311<br><b>Percenatge: </b>0.58<br><b>rank: </b>5<br>"
+        },
+        "32": {
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC NO: </b>32<br><b>AC Name: </b>Husnabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1217<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1222<br><b>Total Voters: </b>206698<br><b>Percenatge: </b>0.59<br><b>rank: </b>7<br>"
+        },
+        "33": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>33<br><b>AC Name: </b>Siddipet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1260<br><b>Postal Votes: </b>40<br><b>Total Votes: </b>1300<br><b>Total Voters: </b>181403<br><b>Percenatge: </b>0.72<br><b>rank: </b>6<br>"
+        },
+        "34": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>34<br><b>AC Name: </b>Medak<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1852<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>1860<br><b>Total Voters: </b>186863<br><b>Percenatge: </b>1.0<br><b>rank: </b>5<br>"
+        },
+        "35": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>35<br><b>AC Name: </b>Narayankhed<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>858<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>861<br><b>Total Voters: </b>194036<br><b>Percenatge: </b>0.44<br><b>rank: </b>8<br>"
+        },
+        "36": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC NO: </b>36<br><b>AC Name: </b>Andole<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>546<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>548<br><b>Total Voters: </b>212750<br><b>Percenatge: </b>0.26<br><b>rank: </b>9<br>"
+        },
+        "37": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC NO: </b>37<br><b>AC Name: </b>Narsapur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1383<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1386<br><b>Total Voters: </b>198062<br><b>Percenatge: </b>0.7<br><b>rank: </b>4<br>"
+        },
+        "38": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>38<br><b>AC Name: </b>Zahirabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>611<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>613<br><b>Total Voters: </b>209089<br><b>Percenatge: </b>0.29<br><b>rank: </b>9<br>"
+        },
+        "39": {
+            "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+            "matter": "<b>AC NO: </b>39<br><b>AC Name: </b>Sangareddy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>804<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>811<br><b>Total Voters: </b>187506<br><b>Percenatge: </b>0.43<br><b>rank: </b>6<br>"
+        },
+        "40": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC NO: </b>40<br><b>AC Name: </b>Patancheru<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2657<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>2663<br><b>Total Voters: </b>276881<br><b>Percenatge: </b>0.96<br><b>rank: </b>5<br>"
+        },
+        "41": {
+            "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+            "matter": "<b>AC NO: </b>41<br><b>AC Name: </b>Dubbak<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2261<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>2269<br><b>Total Voters: </b>174765<br><b>Percenatge: </b>1.3<br><b>rank: </b>4<br>"
+        },
+        "42": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>42<br><b>AC Name: </b>Gajwel<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>827<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>832<br><b>Total Voters: </b>232417<br><b>Percenatge: </b>0.36<br><b>rank: </b>12<br>"
+        },
+        "43": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>43<br><b>AC Name: </b>Medchal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>3719<br><b>Postal Votes: </b>18<br><b>Total Votes: </b>3737<br><b>Total Voters: </b>400516<br><b>Percenatge: </b>0.93<br><b>rank: </b>4<br>"
+        },
+        "44": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>44<br><b>AC Name: </b>Malkajgiri<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2597<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>2608<br><b>Total Voters: </b>265411<br><b>Percenatge: </b>0.98<br><b>rank: </b>4<br>"
+        },
+        "45": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>45<br><b>AC Name: </b>Quthbullapur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>4073<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>4079<br><b>Total Voters: </b>401667<br><b>Percenatge: </b>1.02<br><b>rank: </b>4<br>"
+        },
+        "46": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>46<br><b>AC Name: </b>Kukatpalle<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2446<br><b>Postal Votes: </b>12<br><b>Total Votes: </b>2458<br><b>Total Voters: </b>250794<br><b>Percenatge: </b>0.98<br><b>rank: </b>4<br>"
+        },
+        "47": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>47<br><b>AC Name: </b>Uppal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2519<br><b>Postal Votes: </b>17<br><b>Total Votes: </b>2536<br><b>Total Voters: </b>275026<br><b>Percenatge: </b>0.92<br><b>rank: </b>4<br>"
+        },
+        "48": {
+            "color": "rgba(240.0348, 245.6242, 190.5288, 1.0)",
+            "matter": "<b>AC NO: </b>48<br><b>AC Name: </b>Ibrahimpatnam<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1410<br><b>Postal Votes: </b>17<br><b>Total Votes: </b>1427<br><b>Total Voters: </b>248461<br><b>Percenatge: </b>0.57<br><b>rank: </b>7<br>"
+        },
+        "49": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>49<br><b>AC Name: </b>Lal Bahadur Nagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2941<br><b>Postal Votes: </b>25<br><b>Total Votes: </b>2966<br><b>Total Voters: </b>295131<br><b>Percenatge: </b>1.0<br><b>rank: </b>4<br>"
+        },
+        "50": {
+            "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+            "matter": "<b>AC NO: </b>50<br><b>AC Name: </b>Maheswaram<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2022<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>2031<br><b>Total Voters: </b>306334<br><b>Percenatge: </b>0.66<br><b>rank: </b>5<br>"
+        },
+        "51": {
+            "color": "rgba(231.4833, 240.2667, 190.1167, 1.0)",
+            "matter": "<b>AC NO: </b>51<br><b>AC Name: </b>Rajendranagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1819<br><b>Postal Votes: </b>13<br><b>Total Votes: </b>1832<br><b>Total Voters: </b>328193<br><b>Percenatge: </b>0.56<br><b>rank: </b>5<br>"
+        },
+        "52": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC NO: </b>52<br><b>AC Name: </b>Serilingampally<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>3142<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>3145<br><b>Total Voters: </b>357830<br><b>Percenatge: </b>0.88<br><b>rank: </b>4<br>"
+        },
+        "53": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>53<br><b>AC Name: </b>Chevella<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1412<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>1423<br><b>Total Voters: </b>196802<br><b>Percenatge: </b>0.72<br><b>rank: </b>5<br>"
+        },
+        "54": {
+            "color": "rgba(231.4833, 240.2667, 190.1167, 1.0)",
+            "matter": "<b>AC NO: </b>54<br><b>AC Name: </b>Pargi<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1119<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1124<br><b>Total Voters: </b>201380<br><b>Percenatge: </b>0.56<br><b>rank: </b>7<br>"
+        },
+        "55": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>55<br><b>AC Name: </b>Vicarabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1406<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1412<br><b>Total Voters: </b>174282<br><b>Percenatge: </b>0.81<br><b>rank: </b>5<br>"
+        },
+        "56": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC NO: </b>56<br><b>AC Name: </b>Tandur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>570<br><b>Postal Votes: </b>22<br><b>Total Votes: </b>592<br><b>Total Voters: </b>175225<br><b>Percenatge: </b>0.34<br><b>rank: </b>9<br>"
+        },
+        "57": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>57<br><b>AC Name: </b>Musheerabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1332<br><b>Postal Votes: </b>0<br><b>Total Votes: </b>1332<br><b>Total Voters: </b>153252<br><b>Percenatge: </b>0.87<br><b>rank: </b>4<br>"
+        },
+        "58": {
+            "color": "rgba(254.4591, 237.6909, 171.2364, 1.0)",
+            "matter": "<b>AC NO: </b>58<br><b>AC Name: </b>Malakpet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>876<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>881<br><b>Total Voters: </b>132024<br><b>Percenatge: </b>0.67<br><b>rank: </b>5<br>"
+        },
+        "59": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>59<br><b>AC Name: </b>Amberpet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1308<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>1317<br><b>Total Voters: </b>146488<br><b>Percenatge: </b>0.9<br><b>rank: </b>4<br>"
+        },
+        "60": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC NO: </b>60<br><b>AC Name: </b>Khairatabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1188<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1194<br><b>Total Voters: </b>154924<br><b>Percenatge: </b>0.77<br><b>rank: </b>4<br>"
+        },
+        "61": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>61<br><b>AC Name: </b>Jubilee Hills<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1367<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1374<br><b>Total Voters: </b>183312<br><b>Percenatge: </b>0.75<br><b>rank: </b>5<br>"
+        },
+        "62": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>62<br><b>AC Name: </b>Sanathnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1033<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1040<br><b>Total Voters: </b>128263<br><b>Percenatge: </b>0.81<br><b>rank: </b>4<br>"
+        },
+        "63": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>63<br><b>AC Name: </b>Nampally<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>542<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>544<br><b>Total Voters: </b>152300<br><b>Percenatge: </b>0.36<br><b>rank: </b>5<br>"
+        },
+        "64": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>64<br><b>AC Name: </b>Karwan<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>886<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>896<br><b>Total Voters: </b>175836<br><b>Percenatge: </b>0.51<br><b>rank: </b>5<br>"
+        },
+        "65": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC NO: </b>65<br><b>AC Name: </b>Goshamahal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>621<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>626<br><b>Total Voters: </b>148259<br><b>Percenatge: </b>0.42<br><b>rank: </b>4<br>"
+        },
+        "66": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC NO: </b>66<br><b>AC Name: </b>Charminar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>833<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>837<br><b>Total Voters: </b>98103<br><b>Percenatge: </b>0.85<br><b>rank: </b>6<br>"
+        },
+        "67": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>67<br><b>AC Name: </b>Chandrayangutta<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1444<br><b>Postal Votes: </b>16<br><b>Total Votes: </b>1460<br><b>Total Voters: </b>153771<br><b>Percenatge: </b>0.95<br><b>rank: </b>5<br>"
+        },
+        "68": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC NO: </b>68<br><b>AC Name: </b>Yakutpura<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>700<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>704<br><b>Total Voters: </b>140434<br><b>Percenatge: </b>0.5<br><b>rank: </b>6<br>"
+        },
+        "69": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>69<br><b>AC Name: </b>Bahadurpura<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1267<br><b>Postal Votes: </b>12<br><b>Total Votes: </b>1279<br><b>Total Voters: </b>143725<br><b>Percenatge: </b>0.89<br><b>rank: </b>6<br>"
+        },
+        "70": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>70<br><b>AC Name: </b>Secunderabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1503<br><b>Postal Votes: </b>15<br><b>Total Votes: </b>1518<br><b>Total Voters: </b>141148<br><b>Percenatge: </b>1.08<br><b>rank: </b>4<br>"
+        },
+        "71": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>71<br><b>AC Name: </b>Secunderabad Cantt.<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1216<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>1220<br><b>Total Voters: </b>124517<br><b>Percenatge: </b>0.98<br><b>rank: </b>4<br>"
+        },
+        "72": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>72<br><b>AC Name: </b>Kodangal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1999<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>2002<br><b>Total Voters: </b>195163<br><b>Percenatge: </b>1.03<br><b>rank: </b>6<br>"
+        },
+        "73": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC NO: </b>73<br><b>AC Name: </b>Narayanpet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1512<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1517<br><b>Total Voters: </b>182899<br><b>Percenatge: </b>0.83<br><b>rank: </b>5<br>"
+        },
+        "74": {
+            "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+            "matter": "<b>AC NO: </b>74<br><b>AC Name: </b>Mahbubnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1140<br><b>Postal Votes: </b>17<br><b>Total Votes: </b>1157<br><b>Total Voters: </b>181572<br><b>Percenatge: </b>0.64<br><b>rank: </b>6<br>"
+        },
+        "75": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>75<br><b>AC Name: </b>Jadcherla<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1652<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>1655<br><b>Total Voters: </b>180640<br><b>Percenatge: </b>0.92<br><b>rank: </b>5<br>"
+        },
+        "76": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC NO: </b>76<br><b>AC Name: </b>Devarkadra<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1705<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>1706<br><b>Total Voters: </b>195423<br><b>Percenatge: </b>0.87<br><b>rank: </b>5<br>"
+        },
+        "77": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>77<br><b>AC Name: </b>Makthal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1895<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>1896<br><b>Total Voters: </b>187834<br><b>Percenatge: </b>1.01<br><b>rank: </b>5<br>"
+        },
+        "78": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>78<br><b>AC Name: </b>Wanaparthy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1928<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>1938<br><b>Total Voters: </b>213164<br><b>Percenatge: </b>0.91<br><b>rank: </b>8<br>"
+        },
+        "79": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>79<br><b>AC Name: </b>Gadwal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>761<br><b>Postal Votes: </b>14<br><b>Total Votes: </b>775<br><b>Total Voters: </b>214872<br><b>Percenatge: </b>0.36<br><b>rank: </b>10<br>"
+        },
+        "80": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>80<br><b>AC Name: </b>Alampur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2003<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>2013<br><b>Total Voters: </b>196797<br><b>Percenatge: </b>1.02<br><b>rank: </b>5<br>"
+        },
+        "81": {
+            "color": "rgba(254.8712, 250.8788, 186.4848, 1.0)",
+            "matter": "<b>AC NO: </b>81<br><b>AC Name: </b>Nagarkurnool<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1116<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1122<br><b>Total Voters: </b>184616<br><b>Percenatge: </b>0.61<br><b>rank: </b>7<br>"
+        },
+        "82": {
+            "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+            "matter": "<b>AC NO: </b>82<br><b>AC Name: </b>Achampet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2830<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>2833<br><b>Total Voters: </b>195620<br><b>Percenatge: </b>1.45<br><b>rank: </b>4<br>"
+        },
+        "83": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC NO: </b>83<br><b>AC Name: </b>Kalwakurthy<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>660<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>661<br><b>Total Voters: </b>202752<br><b>Percenatge: </b>0.33<br><b>rank: </b>11<br>"
+        },
+        "84": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC NO: </b>84<br><b>AC Name: </b>Shadnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1384<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1389<br><b>Total Voters: </b>195555<br><b>Percenatge: </b>0.71<br><b>rank: </b>6<br>"
+        },
+        "85": {
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC NO: </b>85<br><b>AC Name: </b>Kollapur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1035<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>1037<br><b>Total Voters: </b>192228<br><b>Percenatge: </b>0.54<br><b>rank: </b>6<br>"
+        },
+        "86": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>86<br><b>AC Name: </b>Devarakonda<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1607<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1613<br><b>Total Voters: </b>213881<br><b>Percenatge: </b>0.75<br><b>rank: </b>5<br>"
+        },
+        "87": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>87<br><b>AC Name: </b>Nagarjuna Sagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1045<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>1056<br><b>Total Voters: </b>202088<br><b>Percenatge: </b>0.52<br><b>rank: </b>10<br>"
+        },
+        "88": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC NO: </b>88<br><b>AC Name: </b>Miryalaguda<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>521<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>527<br><b>Total Voters: </b>193741<br><b>Percenatge: </b>0.27<br><b>rank: </b>9<br>"
+        },
+        "89": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC NO: </b>89<br><b>AC Name: </b>Huzurnagar<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>834<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>843<br><b>Total Voters: </b>215298<br><b>Percenatge: </b>0.39<br><b>rank: </b>12<br>"
+        },
+        "90": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC NO: </b>90<br><b>AC Name: </b>Kodad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>868<br><b>Postal Votes: </b>19<br><b>Total Votes: </b>887<br><b>Total Voters: </b>208992<br><b>Percenatge: </b>0.42<br><b>rank: </b>9<br>"
+        },
+        "91": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC NO: </b>91<br><b>AC Name: </b>Suryapet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>760<br><b>Postal Votes: </b>14<br><b>Total Votes: </b>774<br><b>Total Voters: </b>206669<br><b>Percenatge: </b>0.37<br><b>rank: </b>7<br>"
+        },
+        "92": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>92<br><b>AC Name: </b>Nalgonda<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>873<br><b>Postal Votes: </b>28<br><b>Total Votes: </b>901<br><b>Total Voters: </b>204027<br><b>Percenatge: </b>0.44<br><b>rank: </b>7<br>"
+        },
+        "93": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>93<br><b>AC Name: </b>Munugode<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>844<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>849<br><b>Total Voters: </b>233608<br><b>Percenatge: </b>0.36<br><b>rank: </b>8<br>"
+        },
+        "94": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>94<br><b>AC Name: </b>Bhongir<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>879<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>882<br><b>Total Voters: </b>196077<br><b>Percenatge: </b>0.45<br><b>rank: </b>5<br>"
+        },
+        "95": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC NO: </b>95<br><b>AC Name: </b>Nakrekal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>961<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>969<br><b>Total Voters: </b>219033<br><b>Percenatge: </b>0.44<br><b>rank: </b>6<br>"
+        },
+        "96": {
+            "color": "rgba(254.9742, 254.1758, 190.297, 1.0)",
+            "matter": "<b>AC NO: </b>96<br><b>AC Name: </b>Thungathurthi<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1351<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>1355<br><b>Total Voters: </b>225170<br><b>Percenatge: </b>0.6<br><b>rank: </b>8<br>"
+        },
+        "97": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>97<br><b>AC Name: </b>Alair<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>657<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>659<br><b>Total Voters: </b>212761<br><b>Percenatge: </b>0.31<br><b>rank: </b>9<br>"
+        },
+        "98": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>98<br><b>AC Name: </b>Jangoan<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1458<br><b>Postal Votes: </b>9<br><b>Total Votes: </b>1467<br><b>Total Voters: </b>203600<br><b>Percenatge: </b>0.72<br><b>rank: </b>7<br>"
+        },
+        "99": {
+            "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+            "matter": "<b>AC NO: </b>99<br><b>AC Name: </b>Ghanpur<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1148<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1153<br><b>Total Voters: </b>215755<br><b>Percenatge: </b>0.53<br><b>rank: </b>9<br>"
+        },
+        "100": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC NO: </b>100<br><b>AC Name: </b>Palakurthi<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2741<br><b>Postal Votes: </b>2<br><b>Total Votes: </b>2743<br><b>Total Voters: </b>220156<br><b>Percenatge: </b>1.25<br><b>rank: </b>5<br>"
+        },
+        "101": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>101<br><b>AC Name: </b>Dornakal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1388<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>1392<br><b>Total Voters: </b>192623<br><b>Percenatge: </b>0.72<br><b>rank: </b>8<br>"
+        },
+        "102": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>102<br><b>AC Name: </b>Mahabubabad<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1926<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1932<br><b>Total Voters: </b>210328<br><b>Percenatge: </b>0.92<br><b>rank: </b>5<br>"
+        },
+        "103": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>103<br><b>AC Name: </b>Narsampet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>730<br><b>Postal Votes: </b>8<br><b>Total Votes: </b>738<br><b>Total Voters: </b>205386<br><b>Percenatge: </b>0.36<br><b>rank: </b>10<br>"
+        },
+        "104": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>104<br><b>AC Name: </b>Parkal<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>963<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>966<br><b>Total Voters: </b>188681<br><b>Percenatge: </b>0.51<br><b>rank: </b>7<br>"
+        },
+        "105": {
+            "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+            "matter": "<b>AC NO: </b>105<br><b>AC Name: </b>Warangal West<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>2405<br><b>Postal Votes: </b>21<br><b>Total Votes: </b>2426<br><b>Total Voters: </b>167025<br><b>Percenatge: </b>1.45<br><b>rank: </b>4<br>"
+        },
+        "106": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC NO: </b>106<br><b>AC Name: </b>Warangal East<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1966<br><b>Postal Votes: </b>12<br><b>Total Votes: </b>1978<br><b>Total Voters: </b>171687<br><b>Percenatge: </b>1.15<br><b>rank: </b>4<br>"
+        },
+        "107": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC NO: </b>107<br><b>AC Name: </b>Waradhanapet<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>3601<br><b>Postal Votes: </b>11<br><b>Total Votes: </b>3612<br><b>Total Voters: </b>218776<br><b>Percenatge: </b>1.65<br><b>rank: </b>4<br>"
+        },
+        "108": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC NO: </b>108<br><b>AC Name: </b>Bhupalpalle<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>826<br><b>Postal Votes: </b>4<br><b>Total Votes: </b>830<br><b>Total Voters: </b>225688<br><b>Percenatge: </b>0.37<br><b>rank: </b>11<br>"
+        },
+        "109": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC NO: </b>109<br><b>AC Name: </b>Mulug<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1931<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1937<br><b>Total Voters: </b>187583<br><b>Percenatge: </b>1.03<br><b>rank: </b>5<br>"
+        },
+        "110": {
+            "color": "rgba(240.0348, 245.6242, 190.5288, 1.0)",
+            "matter": "<b>AC NO: </b>110<br><b>AC Name: </b>Pinapaka<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>899<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>905<br><b>Total Voters: </b>159883<br><b>Percenatge: </b>0.57<br><b>rank: </b>8<br>"
+        },
+        "111": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC NO: </b>111<br><b>AC Name: </b>Yellandu<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1408<br><b>Postal Votes: </b>10<br><b>Total Votes: </b>1418<br><b>Total Voters: </b>178339<br><b>Percenatge: </b>0.8<br><b>rank: </b>6<br>"
+        },
+        "112": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>112<br><b>AC Name: </b>Khammam<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1863<br><b>Postal Votes: </b>62<br><b>Total Votes: </b>1925<br><b>Total Voters: </b>236224<br><b>Percenatge: </b>0.81<br><b>rank: </b>5<br>"
+        },
+        "113": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>113<br><b>AC Name: </b>Palair<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>515<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>520<br><b>Total Voters: </b>216851<br><b>Percenatge: </b>0.24<br><b>rank: </b>12<br>"
+        },
+        "114": {
+            "color": "rgba(253.9439, 221.2061, 152.1758, 1.0)",
+            "matter": "<b>AC NO: </b>114<br><b>AC Name: </b>Madhira<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1448<br><b>Postal Votes: </b>5<br><b>Total Votes: </b>1453<br><b>Total Voters: </b>196364<br><b>Percenatge: </b>0.74<br><b>rank: </b>5<br>"
+        },
+        "115": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC NO: </b>115<br><b>AC Name: </b>Wyra<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1223<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1230<br><b>Total Voters: </b>169407<br><b>Percenatge: </b>0.73<br><b>rank: </b>7<br>"
+        },
+        "116": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC NO: </b>116<br><b>AC Name: </b>Sathupalle<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>628<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>635<br><b>Total Voters: </b>215349<br><b>Percenatge: </b>0.29<br><b>rank: </b>9<br>"
+        },
+        "117": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>117<br><b>AC Name: </b>Kothagudem<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1420<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>1427<br><b>Total Voters: </b>187920<br><b>Percenatge: </b>0.76<br><b>rank: </b>7<br>"
+        },
+        "118": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>118<br><b>AC Name: </b>Aswaraopeta<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1362<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>1363<br><b>Total Voters: </b>136224<br><b>Percenatge: </b>1.0<br><b>rank: </b>8<br>"
+        },
+        "119": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC NO: </b>119<br><b>AC Name: </b>Bhadrachalam<br><b>Candidate Name: </b>NOTA<br><b>General Votes: </b>1666<br><b>Postal Votes: </b>6<br><b>Total Votes: </b>1672<br><b>Total Voters: </b>118129<br><b>Percenatge: </b>1.42<br><b>rank: </b>6<br>"
+        }
+    },
+    "border": "0,0"
+}
