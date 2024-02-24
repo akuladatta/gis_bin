@@ -1,6 +1,7 @@
 {
     "title": "2019 AP ASSEMBLY ELECTIONS",
     "trigger": "objectid",
+    "search_trigger":"assem_name",
     "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>party</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>YSRCP</td><td>151</td><td style=\"background-color: rgba(0,215,255,1);\">  </td></tr><tr><td>2</td><td>TDP</td><td>23</td><td style=\"background-color: rgba(255,255,0,1);\">  </td></tr><tr><td>3</td><td>JnP</td><td>1</td><td style=\"background-color: rgba(255,128.775,128.775,1);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\">The 2019 Andhra Pradesh Legislative Assembly elections were held in the Indian state of Andhra Pradesh on 11 April 2019 for constituting the fifteenth Legislative Assembly in the state. They were held alongside the 2019 Indian general election.The YSR Congress Party won the election in a landslide, winning 151 of the 175 seats, with the incumbent Telugu Desam Party winning just 23. The Jana Sena Party entered the legislature with one seat, while the Congress and Bharatiya Janata Party failed to win any seats.</td></tr></tfoot></table>",
     "data": {
         "1": {

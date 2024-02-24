@@ -1,3 +1,6 @@
+compress images site : https://bulkresizephotos.com/en
+india : https://i.postimg.cc/0j8YCrYY/image.png
+
 andaman-and-nicobar-islands : https://i.postimg.cc/Vr6jz0Zj/andaman-and-nicobar-islands.jpg
 andhra-pradesh : https://i.postimg.cc/68fRRfDr/andhra-pradesh.jpg
 arunachal-pradesh : https://i.postimg.cc/JyTkY47t/arunachal-pradesh.jpg
@@ -10,6 +13,7 @@ goa : https://i.postimg.cc/FY437BnF/goa.jpg
 gujarat : https://i.postimg.cc/Lnfj4pD0/gujarat.jpg
 himachal-pradesh : https://i.postimg.cc/ZvNvq88y/himachal-pradesh.jpg
 jharkhand : https://i.postimg.cc/S23zqTMh/jharkhand.jpg
+jammu-kashmir : https://i.postimg.cc/44D7ZY7B/jk.jpg
 karnataka : https://i.postimg.cc/z3HgprsX/karnataka.jpg
 kerala : https://i.postimg.cc/PPG8R7Hb/kerala.jpg
 madhya-pradesh : https://i.postimg.cc/bsQ2cRY7/madhya-pradesh.jpg
