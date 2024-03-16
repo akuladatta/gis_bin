@@ -1,0 +1,708 @@
+{
+    "title": "2024 YSRCP SC Seat Analysis",
+    "trigger": "objectid",
+    "search_trigger": "assem_name",
+    "desc": "<table><caption>Party wise seats</caption><thead><tr><th>no</th><th>Caste</th><th>Seats</th><th>color</th></tr></thead><tbody><tr><td>1</td><td>Mala</td><td>19</td><td style=\"background-color: rgba(225, 0, 0, 1);\">  </td></tr><tr><td>2</td><td>Madiga</td><td>10</td><td style=\"background-color: rgba(255, 129, 129, 1);\">  </td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "5": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: SRIKAKULAM</b><br><b>AC no: </b>5<br><hr>\n    <b>Candidate: </b>DHARMANA PRASADA RAO<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>P Velama<br>"
+        },
+        "6": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: AMADALAVALASA</b><br><b>AC no: </b>6<br><hr>\n    <b>Candidate: </b>THAMMINENI SEETHARAM<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Kalinga<br>"
+        },
+        "4": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PATHAPATNAM</b><br><b>AC no: </b>4<br><hr>\n    <b>Candidate: </b>REDDY SHANTHI<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>T Kapu<br>"
+        },
+        "8": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NARASANNAPETA</b><br><b>AC no: </b>8<br><hr>\n    <b>Candidate: </b>DHARMANA KRISHNA DAS<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>P Velama<br>"
+        },
+        "3": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: TEKKALI</b><br><b>AC no: </b>3<br><hr>\n    <b>Candidate: </b>DUVVADA SRINIVAS<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Kalinga<br>"
+        },
+        "1": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ICHCHAPURAM</b><br><b>AC no: </b>1<br><hr>\n    <b>Candidate: </b>PIRIYA VIJAYA<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Surya Balija<br>"
+        },
+        "2": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PALASA</b><br><b>AC no: </b>2<br><hr>\n    <b>Candidate: </b>DR SEEDIRI APPALARAJU<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Jalari<br>"
+        },
+        "9": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: RAJAM (SC)</b><br><b>AC no: </b>9<br><hr>\n    <b>Candidate: </b>DR TALE RAJESH<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "18": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VIZIANAGARAM</b><br><b>AC no: </b>18<br><hr>\n    <b>Candidate: </b>KOLAGATLA VEERA BHADRA SWAMY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Vysya<br>"
+        },
+        "14": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: BOBBILI</b><br><b>AC no: </b>14<br><hr>\n    <b>Candidate: </b>SAMBANGI VENKATACHINA APPALA NAIDU<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>K Velama<br>"
+        },
+        "16": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GAJAPATHINAGARAM</b><br><b>AC no: </b>16<br><hr>\n    <b>Candidate: </b>BOTCHA APPALANARASAYYA<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>T Kapu<br>"
+        },
+        "15": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: CHEEPURUPALLI</b><br><b>AC no: </b>15<br><hr>\n    <b>Candidate: </b>BOTCHA SATYANARAYANA<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>T Kapu<br>"
+        },
+        "17": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NELLIMARLA</b><br><b>AC no: </b>17<br><hr>\n    <b>Candidate: </b>BADDUKONDA APPALA NAIDU<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>T Kapu<br>"
+        },
+        "7": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ETCHERLA</b><br><b>AC no: </b>7<br><hr>\n    <b>Candidate: </b>GORLE KIRAN KUMAR<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>T Kapu<br>"
+        },
+        "25": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GAJUWAKA</b><br><b>AC no: </b>25<br><hr>\n    <b>Candidate: </b>GUDIVADA AMARNATH<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "22": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VISAKHAPATNAM SOUTH</b><br><b>AC no: </b>22<br><hr>\n    <b>Candidate: </b>VASUPALLI GANESH<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Vadabalija<br>"
+        },
+        "23": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VISAKHAPATNAM NORTH</b><br><b>AC no: </b>23<br><hr>\n    <b>Candidate: </b>KAMMILA KANNAPARAJU (K.K. RAJU)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kshatriya<br>"
+        },
+        "20": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: BHIMILI</b><br><b>AC no: </b>20<br><hr>\n    <b>Candidate: </b>MUTTAMSETTI SRINIVASARAO (AVANTHI SRINIVAS)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "21": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VISAKHAPATNAM EAST</b><br><b>AC no: </b>21<br><hr>\n    <b>Candidate: </b>MVV SATYANARAYANA<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "24": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VISAKHAPATNAM WEST</b><br><b>AC no: </b>24<br><hr>\n    <b>Candidate: </b>ADARI ANAND<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Gavara<br>"
+        },
+        "19": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: SRUNGAVARAPUKOTA</b><br><b>AC no: </b>19<br><hr>\n    <b>Candidate: </b>KADUBANDI SRINIVASA RAO<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>K Velama<br>"
+        },
+        "31": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PENDURTHI</b><br><b>AC no: </b>31<br><hr>\n    <b>Candidate: </b>ANNAMREDDY ADEEP RAJ<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>K Velama<br>"
+        },
+        "33": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: PAYAKARAOPETA (SC)</b><br><b>AC no: </b>33<br><hr>\n    <b>Candidate: </b>KAMBALA JOGULU<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "26": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: CHODAVARAM</b><br><b>AC no: </b>26<br><hr>\n    <b>Candidate: </b>KARANAM DHARMASRI<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>T Kapu<br>"
+        },
+        "34": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NARSIPATNAM</b><br><b>AC no: </b>34<br><hr>\n    <b>Candidate: </b>PETLA UMA SANKARA GANESH<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>K Velama<br>"
+        },
+        "30": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ANAKAPALLI</b><br><b>AC no: </b>30<br><hr>\n    <b>Candidate: </b>MALASALA BHARATH KUMAR<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>T Kapu<br>"
+        },
+        "27": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MADUGULA</b><br><b>AC no: </b>27<br><hr>\n    <b>Candidate: </b>BUDI MUTYALA NAIDU<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>K Velama<br>"
+        },
+        "32": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: YELAMANCHILI</b><br><b>AC no: </b>32<br><hr>\n    <b>Candidate: </b>UPPALAPATI VENKATA RAMANAMURTHY RAJU(Kanna Babu Raju)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kshatriya<br>"
+        },
+        "28": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ARAKU VALLEY (ST)</b><br><b>AC no: </b>28<br><hr>\n    <b>Candidate: </b>REGAM MATYSA LINGAM<br>\n    <b>Caste: </b>ST<br>\n    <b>Sub Caste: </b>Konda Dora<br>"
+        },
+        "29": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PADERU (ST)</b><br><b>AC no: </b>29<br><hr>\n    <b>Candidate: </b>MATSYARASA VISWESWARA RAJU<br>\n    <b>Caste: </b>ST<br>\n    <b>Sub Caste: </b>Bagata<br>"
+        },
+        "53": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAMPACHODAVARAM (ST)</b><br><b>AC no: </b>53<br><hr>\n    <b>Candidate: </b>NAGULAPALLI DHANALAKSHMI<br>\n    <b>Caste: </b>ST<br>\n    <b>Sub Caste: </b>Konda Dora<br>"
+        },
+        "12": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: PARVATHIPURAM (SC)</b><br><b>AC no: </b>12<br><hr>\n    <b>Candidate: </b>ALAJANGI JOGARAO<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "11": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KURUPAM (ST)</b><br><b>AC no: </b>11<br><hr>\n    <b>Candidate: </b>PAMULA PUSHPASREEVANI<br>\n    <b>Caste: </b>ST<br>\n    <b>Sub Caste: </b>Konda Dora<br>"
+        },
+        "13": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: SALUR (ST)</b><br><b>AC no: </b>13<br><hr>\n    <b>Candidate: </b>PEEDIKA RAJANNA DORA<br>\n    <b>Caste: </b>ST<br>\n    <b>Sub Caste: </b>Jatapu<br>"
+        },
+        "10": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PALAKONDA (ST)</b><br><b>AC no: </b>10<br><hr>\n    <b>Candidate: </b>VISWASARAYI KALAVATHI<br>\n    <b>Caste: </b>ST<br>\n    <b>Sub Caste: </b>Jatapu<br>"
+        },
+        "36": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PRATHIPADU</b><br><b>AC no: </b>36<br><hr>\n    <b>Candidate: </b>VARUPULA SUBBARAO<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "52": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: JAGGAMPETA</b><br><b>AC no: </b>52<br><hr>\n    <b>Candidate: </b>THOTA NARASIMHAM<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "35": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: TUNI</b><br><b>AC no: </b>35<br><hr>\n    <b>Candidate: </b>DADISETTI RAJA<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "37": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PITHAPURAM</b><br><b>AC no: </b>37<br><hr>\n    <b>Candidate: </b>VANGA GEETHA<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "41": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KAKINADA CITY</b><br><b>AC no: </b>41<br><hr>\n    <b>Candidate: </b>DWARAMPUDI CHANDRA SEKHARA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "38": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KAKINADA RURAL</b><br><b>AC no: </b>38<br><hr>\n    <b>Candidate: </b>KURASALA KANNABABU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "39": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PEDDAPURAM</b><br><b>AC no: </b>39<br><hr>\n    <b>Candidate: </b>DAVULURI DORABABU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "45": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: RAZOLE (SC)</b><br><b>AC no: </b>45<br><hr>\n    <b>Candidate: </b>GOLLAPALLI SURYA RAO<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "47": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KOTHAPETA</b><br><b>AC no: </b>47<br><hr>\n    <b>Candidate: </b>CHIRLA JAGGIREDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "43": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MUMMIDIVARAM</b><br><b>AC no: </b>43<br><hr>\n    <b>Candidate: </b>PONNADA VENKATA SATISH KUMAR<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Agni Kula Kshatriya<br>"
+        },
+        "42": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAMACHANDRAPURAM</b><br><b>AC no: </b>42<br><hr>\n    <b>Candidate: </b>PILLI SURYAPRAKASH<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Setti Balija<br>"
+        },
+        "44": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: AMALAPURAM (SC)</b><br><b>AC no: </b>44<br><hr>\n    <b>Candidate: </b>PINIPE VISWARUPU<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "46": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: GANNAVARAM (SC)</b><br><b>AC no: </b>46<br><hr>\n    <b>Candidate: </b>VIPPARTHI VENUGOPAL<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "48": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MANDAPETA</b><br><b>AC no: </b>48<br><hr>\n    <b>Candidate: </b>THOTA TRIMURTHULU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "40": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ANAPARTHI</b><br><b>AC no: </b>40<br><hr>\n    <b>Candidate: </b>DR SATHI SURYANARAYANA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "66": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: GOPALAPURAM (SC)</b><br><b>AC no: </b>66<br><hr>\n    <b>Candidate: </b>TANETI VANITA<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "49": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAJANAGARAM</b><br><b>AC no: </b>49<br><hr>\n    <b>Candidate: </b>JAKKAMPUDI RAJA<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "55": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NIDADAVOLE</b><br><b>AC no: </b>55<br><hr>\n    <b>Candidate: </b>GEDDAM SRINIVAS NAIDU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "50": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAJAHMUNDRY CITY</b><br><b>AC no: </b>50<br><hr>\n    <b>Candidate: </b>MARGANI BHARATH RAM<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Gouda<br>"
+        },
+        "51": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAJAHMUNDRY RURAL</b><br><b>AC no: </b>51<br><hr>\n    <b>Candidate: </b>CHELLUBOINA VENU GOPALA KRISHNA<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Setti Balija<br>"
+        },
+        "54": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: KOVVUR (SC)</b><br><b>AC no: </b>54<br><hr>\n    <b>Candidate: </b>TALARI VENKATRAO<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "58": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NARSAPURAM</b><br><b>AC no: </b>58<br><hr>\n    <b>Candidate: </b>MUDUNURI NAGA RAJA VARA PRASADA RAJU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kshatriya<br>"
+        },
+        "59": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: BHIMAVARAM</b><br><b>AC no: </b>59<br><hr>\n    <b>Candidate: </b>GRANDHI SRINIVAS<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "56": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ACHANTA</b><br><b>AC no: </b>56<br><hr>\n    <b>Candidate: </b>CHERUKUVADA SRIRANGANADHA RAJU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kshatriya<br>"
+        },
+        "61": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: TANUKU</b><br><b>AC no: </b>61<br><hr>\n    <b>Candidate: </b>KARUMURI VENKATA NAGESWARA RAO<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Yadava<br>"
+        },
+        "60": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: UNDI</b><br><b>AC no: </b>60<br><hr>\n    <b>Candidate: </b>P V L NARASIMHA RAJU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kshatriya<br>"
+        },
+        "62": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: TADEPALLIGUDEM</b><br><b>AC no: </b>62<br><hr>\n    <b>Candidate: </b>KOTTU SATYANARAYANA<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "57": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PALACOLE</b><br><b>AC no: </b>57<br><hr>\n    <b>Candidate: </b>GUDALA SRIHARI GOPALA RAO<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Setti Balija<br>"
+        },
+        "68": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: CHINTALAPUDI (SC)</b><br><b>AC no: </b>68<br><hr>\n    <b>Candidate: </b>KAMBHAM VIJAYA RAJU<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "70": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NUZVID</b><br><b>AC no: </b>70<br><hr>\n    <b>Candidate: </b>MEKA VENKATA PRATAP APPARAO<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Velama<br>"
+        },
+        "64": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: DENDULURU</b><br><b>AC no: </b>64<br><hr>\n    <b>Candidate: </b>KOTARU ABBAYA CHOWDARY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "73": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KAIKALUR</b><br><b>AC no: </b>73<br><hr>\n    <b>Candidate: </b>DULAM NAGESWARA RAO (DNR)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "67": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: POLAVARAM (ST)</b><br><b>AC no: </b>67<br><hr>\n    <b>Candidate: </b>TELLAM RAJYALAKSHMI<br>\n    <b>Caste: </b>ST<br>\n    <b>Sub Caste: </b>Koya<br>"
+        },
+        "65": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ELURU</b><br><b>AC no: </b>65<br><hr>\n    <b>Candidate: </b>ALLA KALI KRISHNA SRINIVAS (ALLA NANI)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "63": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: UNGUTUR</b><br><b>AC no: </b>63<br><hr>\n    <b>Candidate: </b>PUPPALA SRINIVASARAO (VASUBABU)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "77": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: PAMARRU (SC)</b><br><b>AC no: </b>77<br><hr>\n    <b>Candidate: </b>KAILE ANIL KUMAR<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "76": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: AVANIGADDA</b><br><b>AC no: </b>76<br><hr>\n    <b>Candidate: </b>SIMHADRI RAMESH BABU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "75": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MACHILIPATNAM</b><br><b>AC no: </b>75<br><hr>\n    <b>Candidate: </b>PERNI VAKA SAI KRISHNA MURTHY(KITTU)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "74": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PEDANA</b><br><b>AC no: </b>74<br><hr>\n    <b>Candidate: </b>UPPALA RAMESH (RAMU)<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Gouda<br>"
+        },
+        "72": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GUDIVADA</b><br><b>AC no: </b>72<br><hr>\n    <b>Candidate: </b>KODALI SRI VENKATESWARA RAO (NANI)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "71": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GANNAVARAM</b><br><b>AC no: </b>71<br><hr>\n    <b>Candidate: </b>DR VALLABHANENI VAMSI MOHAN<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "78": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PENAMALURU</b><br><b>AC no: </b>78<br><hr>\n    <b>Candidate: </b>JOGI RAMESH<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Gouda<br>"
+        },
+        "83": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: NANDIGAMA (SC)</b><br><b>AC no: </b>83<br><hr>\n    <b>Candidate: </b>DR MONDITOKA JAGAN MOHANA RAO<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "69": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: TIRUVURU (SC)</b><br><b>AC no: </b>69<br><hr>\n    <b>Candidate: </b>NALLAGATLA SWAMY DAS<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "81": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VIJAYAWADA EAST</b><br><b>AC no: </b>81<br><hr>\n    <b>Candidate: </b>DEVINENI AVINASH<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "79": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VIJAYAWADA WEST</b><br><b>AC no: </b>79<br><hr>\n    <b>Candidate: </b>SHAIK ASIF<br>\n    <b>Caste: </b>Minority(BC)<br>\n    <b>Sub Caste: </b>Muslim<br>"
+        },
+        "80": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VIJAYAWADA CENTRAL</b><br><b>AC no: </b>80<br><hr>\n    <b>Candidate: </b>VELAMPALLI SRINIVASA RAO<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Vysya<br>"
+        },
+        "84": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: JAGGAYYAPETA</b><br><b>AC no: </b>84<br><hr>\n    <b>Candidate: </b>SAMINENI UDAYABHANU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "82": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MYLAVARAM</b><br><b>AC no: </b>82<br><hr>\n    <b>Candidate: </b>SARNALA TIRAPATHI RAO<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Yadava<br>"
+        },
+        "86": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: TADIKONDA (SC)</b><br><b>AC no: </b>86<br><hr>\n    <b>Candidate: </b>MEKATHOTI SUCHARITHA<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "93": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: PRATHIPADU (SC)</b><br><b>AC no: </b>93<br><hr>\n    <b>Candidate: </b>BALASANI KIRAN KUMAR<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "91": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: TENALI</b><br><b>AC no: </b>91<br><hr>\n    <b>Candidate: </b>ANNABATHUNI SIVA KUMAR<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "88": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PONNUR</b><br><b>AC no: </b>88<br><hr>\n    <b>Candidate: </b>AMBATI MURALI<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "94": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GUNTUR WEST</b><br><b>AC no: </b>94<br><hr>\n    <b>Candidate: </b>VIDADALA RAJINI<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Mudhiraj<br>"
+        },
+        "87": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MANGALAGIRI</b><br><b>AC no: </b>87<br><hr>\n    <b>Candidate: </b>MURUGUDU LAVANYA<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Padmasali<br>"
+        },
+        "95": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GUNTUR EAST</b><br><b>AC no: </b>95<br><hr>\n    <b>Candidate: </b>SHAIK NOORI FATIMA<br>\n    <b>Caste: </b>Minority(BC)<br>\n    <b>Sub Caste: </b>Muslim<br>"
+        },
+        "85": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PEDDAKURAPADU</b><br><b>AC no: </b>85<br><hr>\n    <b>Candidate: </b>NAMBURU SANKARA RAO<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "99": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VINUKONDA</b><br><b>AC no: </b>99<br><hr>\n    <b>Candidate: </b>BOLLA BRAHMA NAIDU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "98": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: SATTENAPALLI</b><br><b>AC no: </b>98<br><hr>\n    <b>Candidate: </b>AMBATI RAMBABU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "100": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GURAJALA</b><br><b>AC no: </b>100<br><hr>\n    <b>Candidate: </b>KASU MAHESH REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "96": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: CHILAKALURIPET</b><br><b>AC no: </b>96<br><hr>\n    <b>Candidate: </b>KAVATI SIVA NAGA MANOHAR NAIDU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kapu<br>"
+        },
+        "97": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NARASARAOPET</b><br><b>AC no: </b>97<br><hr>\n    <b>Candidate: </b>DR GOPIREDDY SRINIVASA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "101": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MACHERLA</b><br><b>AC no: </b>101<br><hr>\n    <b>Candidate: </b>PINNELLI RAMAKRISHNA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "90": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: REPALLE</b><br><b>AC no: </b>90<br><hr>\n    <b>Candidate: </b>DR EVURU GANESH<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Gouda<br>"
+        },
+        "92": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: BAPATLA</b><br><b>AC no: </b>92<br><hr>\n    <b>Candidate: </b>KONA RAGHUPATHI<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Brahmin<br>"
+        },
+        "89": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: VEMURU (SC)</b><br><b>AC no: </b>89<br><hr>\n    <b>Candidate: </b>VARIKUTI ASHOK BABU<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "107": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: SANTHANUTHALAPADU (SC)</b><br><b>AC no: </b>107<br><hr>\n    <b>Candidate: </b>MERUGU NAGARJUNA<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "105": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ADDANKI</b><br><b>AC no: </b>105<br><hr>\n    <b>Candidate: </b>PANEM CHINNA HANIMI REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "104": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PARCHUR</b><br><b>AC no: </b>104<br><hr>\n    <b>Candidate: </b>YADAM BALAJI<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Balija<br>"
+        },
+        "106": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: CHIRALA</b><br><b>AC no: </b>106<br><hr>\n    <b>Candidate: </b>KARANAM VENKATESH<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Kamma<br>"
+        },
+        "103": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: DARSI</b><br><b>AC no: </b>103<br><hr>\n    <b>Candidate: </b>DR BUCHEPALLI SIVAPRASAD REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "102": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: YERRAGONDAPALEM (SC)</b><br><b>AC no: </b>102<br><hr>\n    <b>Candidate: </b>TATIPARTHI CHANDRA SEKHAR<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "112": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GIDDALUR</b><br><b>AC no: </b>112<br><hr>\n    <b>Candidate: </b>KUNDURU NAGARJUNA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "108": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ONGOLE</b><br><b>AC no: </b>108<br><hr>\n    <b>Candidate: </b>BALINENI SRINIVASA REDDY (VASU)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "110": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: KONDAPI (SC)</b><br><b>AC no: </b>110<br><hr>\n    <b>Candidate: </b>AUDIMULAPU SURESH<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "113": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KANIGIRI</b><br><b>AC no: </b>113<br><hr>\n    <b>Candidate: </b>DADDALA NARAYANA YADAV<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Yadava<br>"
+        },
+        "111": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MARKAPURAM</b><br><b>AC no: </b>111<br><hr>\n    <b>Candidate: </b>ANNA RAMBABU<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Vysya<br>"
+        },
+        "109": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KANDUKUR</b><br><b>AC no: </b>109<br><hr>\n    <b>Candidate: </b>BURRA MADHUSUDHAN YADAV<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Yadava<br>"
+        },
+        "114": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KAVALI</b><br><b>AC no: </b>114<br><hr>\n    <b>Candidate: </b>RAMIREDDY PRATAP KUMAR REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "116": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KOVVURU</b><br><b>AC no: </b>116<br><hr>\n    <b>Candidate: </b>NALLAPAREDDY PRASANNA KUMAR REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "117": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NELLORE CITY</b><br><b>AC no: </b>117<br><hr>\n    <b>Candidate: </b>MD KHALEEL AHMED<br>\n    <b>Caste: </b>Minority(BC)<br>\n    <b>Sub Caste: </b>Muslim<br>"
+        },
+        "118": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NELLORE RURAL</b><br><b>AC no: </b>118<br><hr>\n    <b>Candidate: </b>ADALA PRABHAKARA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "123": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: UDAYAGIRI</b><br><b>AC no: </b>123<br><hr>\n    <b>Candidate: </b>MEKAPATI RAJAGOPAL REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "115": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ATMAKUR</b><br><b>AC no: </b>115<br><hr>\n    <b>Candidate: </b>MEKAPATI VIKRAM REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "119": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: SARVEPALLI</b><br><b>AC no: </b>119<br><hr>\n    <b>Candidate: </b>KAKANI GOVARDHAN REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "120": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: GUDUR (SC)</b><br><b>AC no: </b>120<br><hr>\n    <b>Candidate: </b>MERIGA MURALIDHAR<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "168": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: SRIKALAHASTI</b><br><b>AC no: </b>168<br><hr>\n    <b>Candidate: </b>BIYYAPU MADHUSUDHAN REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "121": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: SULLURPETA (SC)</b><br><b>AC no: </b>121<br><hr>\n    <b>Candidate: </b>KILIVETI SANJEEVAIAH<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "122": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: VENKATAGIRI</b><br><b>AC no: </b>122<br><hr>\n    <b>Candidate: </b>NEDURUMALLI RAM KUMAR REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "167": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: TIRUPATI</b><br><b>AC no: </b>167<br><hr>\n    <b>Candidate: </b>BHUMANA ABHINAY REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "169": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: SATYAVEDU (SC)</b><br><b>AC no: </b>169<br><hr>\n    <b>Candidate: </b>NUKATHOTI RAJESH<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "175": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KUPPAM</b><br><b>AC no: </b>175<br><hr>\n    <b>Candidate: </b>KRISHNA RAGHAVA JAYENDRA BHARATH (KRJ BHARATH)<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Vennekula Kshitriya<br>"
+        },
+        "174": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PALAMANER</b><br><b>AC no: </b>174<br><hr>\n    <b>Candidate: </b>NALLAPPAGARI VENKATE GOWDA<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Gouda<br>"
+        },
+        "166": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: CHANDRAGIRI</b><br><b>AC no: </b>166<br><hr>\n    <b>Candidate: </b>CHEVIREDDY MOHIT REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "171": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: GANGADHARA NELLORE (SC)</b><br><b>AC no: </b>171<br><hr>\n    <b>Candidate: </b>KALATHUR KRUPALAKSHMI<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "170": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NAGARI</b><br><b>AC no: </b>170<br><hr>\n    <b>Candidate: </b>R.K. ROJA<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "173": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: PUTHALAPATTU (SC)</b><br><b>AC no: </b>173<br><hr>\n    <b>Candidate: </b>MUDIREVULA SUNIL KUMAR<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "172": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: CHITTOOR</b><br><b>AC no: </b>172<br><hr>\n    <b>Candidate: </b>MITTAPALLI CHANDRA VIJAYANANDHA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "164": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MADANAPALLE</b><br><b>AC no: </b>164<br><hr>\n    <b>Candidate: </b>NISAR AHMED<br>\n    <b>Caste: </b>Minority(BC)<br>\n    <b>Sub Caste: </b>Muslim<br>"
+        },
+        "165": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PUNGANUR</b><br><b>AC no: </b>165<br><hr>\n    <b>Candidate: </b>PEDDIREDDI RAMACHANDRA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "163": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PILERU</b><br><b>AC no: </b>163<br><hr>\n    <b>Candidate: </b>CHINTHALA RAMACHANDRA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "162": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: THAMBALLAPALLE</b><br><b>AC no: </b>162<br><hr>\n    <b>Candidate: </b>PEDDIREDDY DWARAKANATHA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "125": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAJAMPET</b><br><b>AC no: </b>125<br><hr>\n    <b>Candidate: </b>AKEPATI AMARNATH REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "127": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: KODUR (SC)</b><br><b>AC no: </b>127<br><hr>\n    <b>Candidate: </b>KORAMUTLA SREENIVASULU<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "128": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAYACHOTI</b><br><b>AC no: </b>128<br><hr>\n    <b>Candidate: </b>GADIKOTA SRIKANTH REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "131": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: JAMMALAMADUGU</b><br><b>AC no: </b>131<br><hr>\n    <b>Candidate: </b>DR MULE SUDHEER REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "126": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KADAPA</b><br><b>AC no: </b>126<br><hr>\n    <b>Candidate: </b>AMZATH BASHA SHAIK BEPARI<br>\n    <b>Caste: </b>Minority(BC)<br>\n    <b>Sub Caste: </b>Muslim<br>"
+        },
+        "124": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: BADVEL (SC)</b><br><b>AC no: </b>124<br><hr>\n    <b>Candidate: </b>DR DASARI SUDHA<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "129": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PULIVENDULA</b><br><b>AC no: </b>129<br><hr>\n    <b>Candidate: </b>Y S JAGAN MOHAN REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "130": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KAMALAPURAM</b><br><b>AC no: </b>130<br><hr>\n    <b>Candidate: </b>POCHIMAREDDY RAVINDRANATH REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "133": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MYDUKUR</b><br><b>AC no: </b>133<br><hr>\n    <b>Candidate: </b>RAGHURAMI REDDY SETTIPALLY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "132": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PRODDATUR</b><br><b>AC no: </b>132<br><hr>\n    <b>Candidate: </b>RACHAMALLU SIVA PRASAD REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "143": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: KODUMURU (SC)</b><br><b>AC no: </b>143<br><hr>\n    <b>Candidate: </b>DR AUDIMULAPU SATHISH<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "146": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ADONI</b><br><b>AC no: </b>146<br><hr>\n    <b>Candidate: </b>YELLAREDDYGARI SAI PRASAD REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "137": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KURNOOL</b><br><b>AC no: </b>137<br><hr>\n    <b>Candidate: </b>A.Md IMTIAZ<br>\n    <b>Caste: </b>Minority(BC)<br>\n    <b>Sub Caste: </b>Muslim<br>"
+        },
+        "145": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: MANTRALAYAM</b><br><b>AC no: </b>145<br><hr>\n    <b>Candidate: </b>YELLAREDDYGARI BALANAGI REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "144": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: YEMMIGANUR</b><br><b>AC no: </b>144<br><hr>\n    <b>Candidate: </b>BUTTA RENUKA<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Kurni<br>"
+        },
+        "142": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PATTIKONDA</b><br><b>AC no: </b>142<br><hr>\n    <b>Candidate: </b>KANGATI SREEDEVI<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "147": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ALUR</b><br><b>AC no: </b>147<br><hr>\n    <b>Candidate: </b>BUSINE VIRUPAKSHI<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Boya<br>"
+        },
+        "136": {
+            "color": "rgba(225, 0, 0, 1)",
+            "matter": "<b>AC Name: NANDIKOTKUR (SC)</b><br><b>AC no: </b>136<br><hr>\n    <b>Candidate: </b>DR DARA SUDHEER<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Mala<br>"
+        },
+        "140": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: BANAGANAPALLE</b><br><b>AC no: </b>140<br><hr>\n    <b>Candidate: </b>KATASANI RAMI REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "134": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ALLAGADDA</b><br><b>AC no: </b>134<br><hr>\n    <b>Candidate: </b>GANGULA BRIJENDRA REDDY (NANI)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "139": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: NANDYAL</b><br><b>AC no: </b>139<br><hr>\n    <b>Candidate: </b>SINGAREDDY RAVI CHANDRA KISHORE REDDY(SILPA RAVI)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "138": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PANYAM</b><br><b>AC no: </b>138<br><hr>\n    <b>Candidate: </b>KATASANI RAMBHUPAL REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "141": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: DHONE</b><br><b>AC no: </b>141<br><hr>\n    <b>Candidate: </b>BUGGANA RAJENDRANATH REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "135": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: SRISAILAM</b><br><b>AC no: </b>135<br><hr>\n    <b>Candidate: </b>SINGAREDDY CHAKRAPANI REDDY(SILPA CHAKRAPANI REDDY)<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "159": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PUTTAPARTHI</b><br><b>AC no: </b>159<br><hr>\n    <b>Candidate: </b>DUDDUKUNTA SREEDHAR REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "157": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: HINDUPUR</b><br><b>AC no: </b>157<br><hr>\n    <b>Candidate: </b>TIPPE GOWDA NARAYAN DEEPIKA<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Kuruba<br>"
+        },
+        "160": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: DHARMAVARAM</b><br><b>AC no: </b>160<br><hr>\n    <b>Candidate: </b>KETHIREDDY VENKATARAMI REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "158": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: PENUKONDA</b><br><b>AC no: </b>158<br><hr>\n    <b>Candidate: </b>K.V USHASHRI CHARAN<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Kuruba<br>"
+        },
+        "156": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: MADAKASIRA (SC)</b><br><b>AC no: </b>156<br><hr>\n    <b>Candidate: </b>EERA LAKKAPPA<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "155": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAPTADU</b><br><b>AC no: </b>155<br><hr>\n    <b>Candidate: </b>THOPUDURTHI PRAKASH REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "161": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KADIRI</b><br><b>AC no: </b>161<br><hr>\n    <b>Candidate: </b>BS MAQBOOL AHMED<br>\n    <b>Caste: </b>Minority(BC)<br>\n    <b>Sub Caste: </b>Muslim<br>"
+        },
+        "152": {
+            "color": "rgba(255, 129, 129, 1)",
+            "matter": "<b>AC Name: SINGANAMALA (SC)</b><br><b>AC no: </b>152<br><hr>\n    <b>Candidate: </b>MANNEPAKULA VEERANJANEYULU<br>\n    <b>Caste: </b>SC<br>\n    <b>Sub Caste: </b>Madiga<br>"
+        },
+        "151": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: TADIPATRI</b><br><b>AC no: </b>151<br><hr>\n    <b>Candidate: </b>KETHIREDDY PEDDA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "153": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: ANANTAPUR URBAN</b><br><b>AC no: </b>153<br><hr>\n    <b>Candidate: </b>ANANTHA VENKATARAMI REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "150": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: GUNTAKAL</b><br><b>AC no: </b>150<br><hr>\n    <b>Candidate: </b>YELLAREDDYGARI VENKATARAMI REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "149": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: URAVAKONDA</b><br><b>AC no: </b>149<br><hr>\n    <b>Candidate: </b>YELLAREDDYGARI VISWESWARA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        },
+        "154": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: KALYANDURG</b><br><b>AC no: </b>154<br><hr>\n    <b>Candidate: </b>TALARI RANGAIAH<br>\n    <b>Caste: </b>BC<br>\n    <b>Sub Caste: </b>Boya<br>"
+        },
+        "148": {
+            "color": "rgba(255,255,255,1)",
+            "matter": "<b>AC Name: RAYADURG</b><br><b>AC no: </b>148<br><hr>\n    <b>Candidate: </b>METTU GOVINDA REDDY<br>\n    <b>Caste: </b>OC<br>\n    <b>Sub Caste: </b>Reddy<br>"
+        }
+    }
+}
