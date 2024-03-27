@@ -1,0 +1,728 @@
+{
+    "title": "CPM in AP 2009",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Index</caption><thead><tr><th>Color</th><th>Percentage</th><th>Count</th></tr></thead><tbody><tr><td style=\"background-color: #2c7bb6;\"></td><td>2.72% to 9.77%</td><td>4</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>9.77% to 16.82%</td><td>2</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>16.82% to 23.88%</td><td>3</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>23.88% to 30.93%</td><td>1</td></tr><tr><td style=\"background-color: #ff0000;\"></td><td>30.93% to 37.98%</td><td>8</td></tr><tr><td></td><td></td><td>18</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "40": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC NO: </b>40<br><b>AC Name: </b>Patancheru<br><b>Candidate Name: </b>CHUKKA RAMULU<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>GEN<br><b>General Votes: </b>7288<br><b>Postal Votes: </b>74<br><b>Total Votes: </b>7362<br><b>Total Voters: </b>235264<br><b>Percenatge: </b>4.55<br><b>Position: </b>6<br>"
+        },
+        "64": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>64<br><b>AC Name: </b>Karwan<br><b>Candidate Name: </b>M.SRINIVAS REDDY<br><b>Gender: </b>M<br><b>Age: </b>41<br><b>Category: </b>GEN<br><b>General Votes: </b>3429<br><b>Postal Votes: </b>0<br><b>Total Votes: </b>3429<br><b>Total Voters: </b>234643<br><b>Percenatge: </b>3.06<br><b>Position: </b>6<br>"
+        },
+        "88": {
+            "color": "rgba(250.7576, 29.1313, 22.3434, 1.0)",
+            "matter": "<b>AC NO: </b>88<br><b>AC Name: </b>Miryalguda<br><b>Candidate Name: </b>JULAKANTI RANGA REDDY<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>51808<br><b>Postal Votes: </b>419<br><b>Total Votes: </b>52227<br><b>Total Voters: </b>205058<br><b>Percenatge: </b>35.51<br><b>Position: </b>1<br>"
+        },
+        "92": {
+            "color": "rgba(250.7576, 29.1313, 22.3434, 1.0)",
+            "matter": "<b>AC NO: </b>92<br><b>AC Name: </b>Nalgonda<br><b>Candidate Name: </b>NANDYALA NARSIMHA REDDY<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>51899<br><b>Postal Votes: </b>389<br><b>Total Votes: </b>52288<br><b>Total Voters: </b>200352<br><b>Percenatge: </b>35.36<br><b>Position: </b>2<br>"
+        },
+        "95": {
+            "color": "rgba(251.3636, 24.9697, 19.1515, 1.0)",
+            "matter": "<b>AC NO: </b>95<br><b>AC Name: </b>Nakrekal(SC)<br><b>Candidate Name: </b>MAMIDI SARVAIAH<br><b>Gender: </b>M<br><b>Age: </b>38<br><b>Category: </b>SC<br><b>General Votes: </b>59513<br><b>Postal Votes: </b>334<br><b>Total Votes: </b>59847<br><b>Total Voters: </b>221446<br><b>Percenatge: </b>35.53<br><b>Position: </b>2<br>"
+        },
+        "99": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>99<br><b>AC Name: </b>Ghanpur (Station)(SC)<br><b>Candidate Name: </b>RATNAMALA NALIGANTI<br><b>Gender: </b>F<br><b>Age: </b>40<br><b>Category: </b>SC<br><b>General Votes: </b>4661<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>4664<br><b>Total Voters: </b>225885<br><b>Percenatge: </b>2.72<br><b>Position: </b>5<br>"
+        },
+        "106": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC NO: </b>106<br><b>AC Name: </b>Warangal East<br><b>Candidate Name: </b>METTU SRINIVAS<br><b>Gender: </b>M<br><b>Age: </b>39<br><b>Category: </b>GEN<br><b>General Votes: </b>6905<br><b>Postal Votes: </b>3<br><b>Total Votes: </b>6908<br><b>Total Voters: </b>214164<br><b>Percenatge: </b>5.38<br><b>Position: </b>4<br>"
+        },
+        "113": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC NO: </b>113<br><b>AC Name: </b>Palair<br><b>Candidate Name: </b>THAMMINENI VEERABHADRAM<br><b>Gender: </b>M<br><b>Age: </b>53<br><b>Category: </b>GEN<br><b>General Votes: </b>58784<br><b>Postal Votes: </b>105<br><b>Total Votes: </b>58889<br><b>Total Voters: </b>173780<br><b>Percenatge: </b>37.98<br><b>Position: </b>2<br>"
+        },
+        "114": {
+            "color": "rgba(252.5758, 16.6465, 12.7677, 1.0)",
+            "matter": "<b>AC NO: </b>114<br><b>AC Name: </b>Madira(SC)<br><b>Candidate Name: </b>KAMALA RAJU LINGALA<br><b>Gender: </b>M<br><b>Age: </b>37<br><b>Category: </b>SC<br><b>General Votes: </b>57786<br><b>Postal Votes: </b>191<br><b>Total Votes: </b>57977<br><b>Total Voters: </b>183510<br><b>Percenatge: </b>36.24<br><b>Position: </b>2<br>"
+        },
+        "118": {
+            "color": "rgba(246.5152, 58.2626, 44.6869, 1.0)",
+            "matter": "<b>AC NO: </b>118<br><b>AC Name: </b>Aswaraopeta(ST)<br><b>Candidate Name: </b>PAYAM VENKAIAH<br><b>Gender: </b>M<br><b>Age: </b>29<br><b>Category: </b>ST<br><b>General Votes: </b>40983<br><b>Postal Votes: </b>93<br><b>Total Votes: </b>41076<br><b>Total Voters: </b>153271<br><b>Percenatge: </b>32.78<br><b>Position: </b>2<br>"
+        },
+        "119": {
+            "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+            "matter": "<b>AC NO: </b>119<br><b>AC Name: </b>Bhadrachelam(ST)<br><b>Candidate Name: </b>SUNNAM RAJAIAH<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>ST<br><b>General Votes: </b>44940<br><b>Postal Votes: </b>143<br><b>Total Votes: </b>45083<br><b>Total Voters: </b>187694<br><b>Percenatge: </b>31.33<br><b>Position: </b>2<br>"
+        },
+        "130": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>130<br><b>AC Name: </b>Kurupam(ST)<br><b>Candidate Name: </b>KOLAKA LAXMANA MURTHY<br><b>Gender: </b>M<br><b>Age: </b>45<br><b>Category: </b>ST<br><b>General Votes: </b>23621<br><b>Postal Votes: </b>86<br><b>Total Votes: </b>23707<br><b>Total Voters: </b>162666<br><b>Percenatge: </b>20.26<br><b>Position: </b>3<br>"
+        },
+        "144": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC NO: </b>144<br><b>AC Name: </b>Gajuwaka<br><b>Candidate Name: </b>CHANDADA NARASINGA RAO<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>24194<br><b>Postal Votes: </b>177<br><b>Total Votes: </b>24371<br><b>Total Voters: </b>220901<br><b>Percenatge: </b>15.87<br><b>Position: </b>4<br>"
+        },
+        "199": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC NO: </b>199<br><b>AC Name: </b>Vijayawada central<br><b>Candidate Name: </b>BABU RAO CHIGURUPATI<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>GEN<br><b>General Votes: </b>38159<br><b>Postal Votes: </b>114<br><b>Total Votes: </b>38273<br><b>Total Voters: </b>223822<br><b>Percenatge: </b>24.19<br><b>Position: </b>3<br>"
+        },
+        "206": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC NO: </b>206<br><b>AC Name: </b>Mangalagiri<br><b>Candidate Name: </b>DONTIREDDY SRINIVASA KUMARI<br><b>Gender: </b>F<br><b>Age: </b>44<br><b>Category: </b>GEN<br><b>General Votes: </b>25424<br><b>Postal Votes: </b>101<br><b>Total Votes: </b>25525<br><b>Total Voters: </b>200861<br><b>Percenatge: </b>15.79<br><b>Position: </b>3<br>"
+        },
+        "226": {
+            "color": "rgba(254.3939, 4.1616, 3.1919, 1.0)",
+            "matter": "<b>AC NO: </b>226<br><b>AC Name: </b>Santhanuthalapadu(SC)<br><b>Candidate Name: </b>ANJAIAH JALA<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>SC<br><b>General Votes: </b>53976<br><b>Postal Votes: </b>262<br><b>Total Votes: </b>54238<br><b>Total Voters: </b>199413<br><b>Percenatge: </b>37.36<br><b>Position: </b>2<br>"
+        },
+        "237": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC NO: </b>237<br><b>AC Name: </b>Nellore Rural<br><b>Candidate Name: </b>BHANURAJU. T.P.<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>SC<br><b>General Votes: </b>23052<br><b>Postal Votes: </b>91<br><b>Total Votes: </b>23143<br><b>Total Voters: </b>226906<br><b>Percenatge: </b>18.65<br><b>Position: </b>3<br>"
+        },
+        "256": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>256<br><b>AC Name: </b>Kurnool<br><b>Candidate Name: </b>ABDUL GAFOOR.M<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>24360<br><b>Postal Votes: </b>40<br><b>Total Votes: </b>24400<br><b>Total Voters: </b>211511<br><b>Percenatge: </b>21.84<br><b>Position: </b>2<br>"
+        },
+        "1": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "2": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "3": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "4": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "5": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "6": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "7": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "8": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "9": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "10": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "11": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "12": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "13": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "14": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "15": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "16": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "17": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "18": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "19": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "20": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "21": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "22": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "23": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "24": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "25": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "26": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "27": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "28": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "29": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "30": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "31": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "32": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "33": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "34": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "35": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "36": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "37": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "38": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "39": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "41": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "42": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "43": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "44": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "45": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "46": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "47": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "48": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "49": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "50": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "51": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "52": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "53": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "54": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "55": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "56": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "57": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "58": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "59": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "60": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "61": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "62": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "63": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "65": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "66": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "67": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "68": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "69": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "70": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "71": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "72": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "73": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "74": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "75": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "76": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "77": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "78": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "79": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "80": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "81": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "82": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "83": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "84": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "85": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "86": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "87": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "89": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "90": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "91": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "93": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "94": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "96": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "97": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "98": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "100": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "101": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "102": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "103": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "104": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "105": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "107": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "108": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "109": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "110": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "111": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "112": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "115": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "116": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "117": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "120": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "121": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "122": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "123": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "124": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "125": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "126": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "127": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "128": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "129": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "131": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "132": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "133": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "134": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "135": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "136": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "137": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "138": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "139": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "140": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "141": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "142": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "143": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "145": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "146": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "147": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "148": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "149": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "150": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "151": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "152": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "153": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "154": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "155": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "156": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "157": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "158": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "159": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "160": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "161": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "162": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "163": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "164": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "165": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "166": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "167": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "168": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "169": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "170": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "171": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "172": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "173": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "174": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "175": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        }
+    },
+    "border": "0,0"
+}

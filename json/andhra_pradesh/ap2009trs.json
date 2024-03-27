@@ -1,0 +1,708 @@
+{
+    "title": "TRS in AP 2009",
+    "trigger": "AC_NO",
+    "desc": "<table class='col-md-12'><caption>Index</caption><thead><tr><th>Color</th><th>Percentage</th><th>Count</th></tr></thead><tbody><tr><td style=\"background-color: #2c7bb6;\"></td><td>0.84% to 13.68%</td><td>10</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>13.68% to 26.51%</td><td>9</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>26.51% to 39.35%</td><td>19</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>39.35% to 52.18%</td><td>5</td></tr><tr><td style=\"background-color: #ff0000;\"></td><td>52.18% to 65.02%</td><td>2</td></tr><tr><td></td><td></td><td>45</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table>",
+    "data": {
+        "1": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>1<br><b>AC Name: </b>Sirpur<br><b>Candidate Name: </b>KAVETI SAMMAIAH<br><b>Gender: </b>M<br><b>Age: </b>51<br><b>Category: </b>GEN<br><b>General Votes: </b>47918<br><b>Postal Votes: </b>60<br><b>Total Votes: </b>47978<br><b>Total Voters: </b>154673<br><b>Percenatge: </b>38.71<br><b>Position: </b>1<br>"
+        },
+        "2": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC NO: </b>2<br><b>AC Name: </b>Chennur(SC)<br><b>Candidate Name: </b>NALLALA ODELU<br><b>Gender: </b>M<br><b>Age: </b>45<br><b>Category: </b>SC<br><b>General Votes: </b>44892<br><b>Postal Votes: </b>120<br><b>Total Votes: </b>45012<br><b>Total Voters: </b>150107<br><b>Percenatge: </b>39.98<br><b>Position: </b>1<br>"
+        },
+        "4": {
+            "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+            "matter": "<b>AC NO: </b>4<br><b>AC Name: </b>Mancherial<br><b>Candidate Name: </b>ARAVINDA REDDY GADDAM<br><b>Gender: </b>M<br><b>Age: </b>51<br><b>Category: </b>GEN<br><b>General Votes: </b>58102<br><b>Postal Votes: </b>238<br><b>Total Votes: </b>58340<br><b>Total Voters: </b>199133<br><b>Percenatge: </b>44.13<br><b>Position: </b>1<br>"
+        },
+        "5": {
+            "color": "rgba(253.9439, 221.2061, 152.1758, 1.0)",
+            "matter": "<b>AC NO: </b>5<br><b>AC Name: </b>Asifabad(ST)<br><b>Candidate Name: </b>PENDRAM GOPI<br><b>Gender: </b>M<br><b>Age: </b>42<br><b>Category: </b>ST<br><b>General Votes: </b>27594<br><b>Postal Votes: </b>27<br><b>Total Votes: </b>27621<br><b>Total Voters: </b>154321<br><b>Percenatge: </b>23.42<br><b>Position: </b>2<br>"
+        },
+        "9": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>9<br><b>AC Name: </b>Nirmal<br><b>Candidate Name: </b>K. SRIHARI RAO<br><b>Gender: </b>M<br><b>Age: </b>48<br><b>Category: </b>GEN<br><b>General Votes: </b>35315<br><b>Postal Votes: </b>143<br><b>Total Votes: </b>35458<br><b>Total Voters: </b>169201<br><b>Percenatge: </b>26.95<br><b>Position: </b>3<br>"
+        },
+        "12": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC NO: </b>12<br><b>AC Name: </b>Bodhan<br><b>Candidate Name: </b>SHAKEEL.M.D.<br><b>Gender: </b>M<br><b>Age: </b>32<br><b>Category: </b>GEN<br><b>General Votes: </b>41153<br><b>Postal Votes: </b>66<br><b>Total Votes: </b>41219<br><b>Total Voters: </b>180181<br><b>Percenatge: </b>31.22<br><b>Position: </b>2<br>"
+        },
+        "15": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC NO: </b>15<br><b>AC Name: </b>Yellareddy<br><b>Candidate Name: </b>EANUGU RAVINDER REDDY<br><b>Gender: </b>M<br><b>Age: </b>44<br><b>Category: </b>GEN<br><b>General Votes: </b>76908<br><b>Postal Votes: </b>245<br><b>Total Votes: </b>77153<br><b>Total Voters: </b>191237<br><b>Percenatge: </b>52.41<br><b>Position: </b>1<br>"
+        },
+        "17": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>17<br><b>AC Name: </b>Nizamabad (Urban)<br><b>Candidate Name: </b>A.S.POSHETTY<br><b>Gender: </b>M<br><b>Age: </b>60<br><b>Category: </b>GEN<br><b>General Votes: </b>5902<br><b>Postal Votes: </b>12<br><b>Total Votes: </b>5914<br><b>Total Voters: </b>239887<br><b>Percenatge: </b>6.21<br><b>Position: </b>4<br>"
+        },
+        "19": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>19<br><b>AC Name: </b>Balkonda<br><b>Candidate Name: </b>SURENDER REDDY VEMULA<br><b>Gender: </b>M<br><b>Age: </b>63<br><b>Category: </b>GEN<br><b>General Votes: </b>31011<br><b>Postal Votes: </b>97<br><b>Total Votes: </b>31108<br><b>Total Voters: </b>169042<br><b>Percenatge: </b>24.21<br><b>Position: </b>3<br>"
+        },
+        "20": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC NO: </b>20<br><b>AC Name: </b>Koratla<br><b>Candidate Name: </b>KALVAKUNTLA VIDYASAGAR RAO<br><b>Gender: </b>M<br><b>Age: </b>56<br><b>Category: </b>GEN<br><b>General Votes: </b>41677<br><b>Postal Votes: </b>184<br><b>Total Votes: </b>41861<br><b>Total Voters: </b>191853<br><b>Percenatge: </b>32.38<br><b>Position: </b>1<br>"
+        },
+        "22": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>22<br><b>AC Name: </b>Dharmapuri(SC)<br><b>Candidate Name: </b>ESHWAR KOPPULA<br><b>Gender: </b>M<br><b>Age: </b>50<br><b>Category: </b>SC<br><b>General Votes: </b>45620<br><b>Postal Votes: </b>228<br><b>Total Votes: </b>45848<br><b>Total Voters: </b>193562<br><b>Percenatge: </b>35.89<br><b>Position: </b>1<br>"
+        },
+        "23": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC NO: </b>23<br><b>AC Name: </b>Ramagundam<br><b>Candidate Name: </b>KORUKANTI CHANDAR PATEL<br><b>Gender: </b>M<br><b>Age: </b>36<br><b>Category: </b>GEN<br><b>General Votes: </b>15930<br><b>Postal Votes: </b>54<br><b>Total Votes: </b>15984<br><b>Total Voters: </b>204961<br><b>Percenatge: </b>13.43<br><b>Position: </b>4<br>"
+        },
+        "24": {
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC NO: </b>24<br><b>AC Name: </b>Manthani<br><b>Candidate Name: </b>ROUTHU KANKAIAH<br><b>Gender: </b>M<br><b>Age: </b>44<br><b>Category: </b>GEN<br><b>General Votes: </b>22258<br><b>Postal Votes: </b>80<br><b>Total Votes: </b>22338<br><b>Total Voters: </b>202812<br><b>Percenatge: </b>14.81<br><b>Position: </b>3<br>"
+        },
+        "25": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC NO: </b>25<br><b>AC Name: </b>Peddapalle<br><b>Candidate Name: </b>C. SATYANARAYANA REDDY<br><b>Gender: </b>M<br><b>Age: </b>48<br><b>Category: </b>GEN<br><b>General Votes: </b>20711<br><b>Postal Votes: </b>116<br><b>Total Votes: </b>20827<br><b>Total Voters: </b>225755<br><b>Percenatge: </b>13.01<br><b>Position: </b>3<br>"
+        },
+        "29": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>29<br><b>AC Name: </b>Sircilla<br><b>Candidate Name: </b>KALVAKUNTLA TARAKA RAMA RAO<br><b>Gender: </b>M<br><b>Age: </b>33<br><b>Category: </b>GEN<br><b>General Votes: </b>36559<br><b>Postal Votes: </b>224<br><b>Total Votes: </b>36783<br><b>Total Voters: </b>210869<br><b>Percenatge: </b>26.92<br><b>Position: </b>1<br>"
+        },
+        "30": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>30<br><b>AC Name: </b>Manakondur(SC)<br><b>Candidate Name: </b>VORAGANTI ANAND<br><b>Gender: </b>M<br><b>Age: </b>38<br><b>Category: </b>SC<br><b>General Votes: </b>42935<br><b>Postal Votes: </b>197<br><b>Total Votes: </b>43132<br><b>Total Voters: </b>200944<br><b>Percenatge: </b>30.57<br><b>Position: </b>2<br>"
+        },
+        "31": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC NO: </b>31<br><b>AC Name: </b>Huzurabad<br><b>Candidate Name: </b>EATALA RAJENDER<br><b>Gender: </b>M<br><b>Age: </b>45<br><b>Category: </b>GEN<br><b>General Votes: </b>56434<br><b>Postal Votes: </b>318<br><b>Total Votes: </b>56752<br><b>Total Voters: </b>204056<br><b>Percenatge: </b>38.82<br><b>Position: </b>1<br>"
+        },
+        "32": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC NO: </b>32<br><b>AC Name: </b>Husnabad<br><b>Candidate Name: </b>CAPT. V. LAXMIKANTHA RAO<br><b>Gender: </b>M<br><b>Age: </b>67<br><b>Category: </b>GEN<br><b>General Votes: </b>35953<br><b>Postal Votes: </b>242<br><b>Total Votes: </b>36195<br><b>Total Voters: </b>233615<br><b>Percenatge: </b>21.98<br><b>Position: </b>2<br>"
+        },
+        "33": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC NO: </b>33<br><b>AC Name: </b>Siddipet<br><b>Candidate Name: </b>THANEERU HARISH RAO<br><b>Gender: </b>M<br><b>Age: </b>37<br><b>Category: </b>GEN<br><b>General Votes: </b>85061<br><b>Postal Votes: </b>782<br><b>Total Votes: </b>85843<br><b>Total Voters: </b>185202<br><b>Percenatge: </b>65.02<br><b>Position: </b>1<br>"
+        },
+        "35": {
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC NO: </b>35<br><b>AC Name: </b>Narayankhed<br><b>Candidate Name: </b>M. BHUPAL REDDY<br><b>Gender: </b>M<br><b>Age: </b>45<br><b>Category: </b>GEN<br><b>General Votes: </b>23620<br><b>Postal Votes: </b>174<br><b>Total Votes: </b>23794<br><b>Total Voters: </b>197905<br><b>Percenatge: </b>16.34<br><b>Position: </b>3<br>"
+        },
+        "39": {
+            "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+            "matter": "<b>AC NO: </b>39<br><b>AC Name: </b>Sangareddy<br><b>Candidate Name: </b>GADILA NAWAZ REDDY<br><b>Gender: </b>M<br><b>Age: </b>61<br><b>Category: </b>GEN<br><b>General Votes: </b>15190<br><b>Postal Votes: </b>100<br><b>Total Votes: </b>15290<br><b>Total Voters: </b>191446<br><b>Percenatge: </b>11.06<br><b>Position: </b>5<br>"
+        },
+        "41": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC NO: </b>41<br><b>AC Name: </b>Dubbak<br><b>Candidate Name: </b>SOLIPETA RAMA LINGA REDDY<br><b>Gender: </b>M<br><b>Age: </b>48<br><b>Category: </b>GEN<br><b>General Votes: </b>50105<br><b>Postal Votes: </b>244<br><b>Total Votes: </b>50349<br><b>Total Voters: </b>181132<br><b>Percenatge: </b>35.32<br><b>Position: </b>2<br>"
+        },
+        "45": {
+            "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+            "matter": "<b>AC NO: </b>45<br><b>AC Name: </b>Quthbullapur<br><b>Candidate Name: </b>KOONA PANDU VIVEKANAND<br><b>Gender: </b>M<br><b>Age: </b>31<br><b>Category: </b>GEN<br><b>General Votes: </b>30527<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>30534<br><b>Total Voters: </b>313160<br><b>Percenatge: </b>19.38<br><b>Position: </b>2<br>"
+        },
+        "46": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC NO: </b>46<br><b>AC Name: </b>Kukatpally<br><b>Candidate Name: </b>MADHAVARAM SUDARSHAN RAO<br><b>Gender: </b>M<br><b>Age: </b>50<br><b>Category: </b>GEN<br><b>General Votes: </b>26753<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>26760<br><b>Total Voters: </b>385031<br><b>Percenatge: </b>12.99<br><b>Position: </b>4<br>"
+        },
+        "47": {
+            "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+            "matter": "<b>AC NO: </b>47<br><b>AC Name: </b>Uppal<br><b>Candidate Name: </b>M.YADAGIRI REDDY<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>29656<br><b>Postal Votes: </b>35<br><b>Total Votes: </b>29691<br><b>Total Voters: </b>362387<br><b>Percenatge: </b>19.34<br><b>Position: </b>2<br>"
+        },
+        "50": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>50<br><b>AC Name: </b>Maheshwaram<br><b>Candidate Name: </b>K.PRABHAKAR REDDY<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>1471<br><b>Postal Votes: </b>0<br><b>Total Votes: </b>1471<br><b>Total Voters: </b>287108<br><b>Percenatge: </b>0.84<br><b>Position: </b>8<br>"
+        },
+        "55": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC NO: </b>55<br><b>AC Name: </b>Vicarabad(SC)<br><b>Candidate Name: </b>A.CHANDRA SHEKAR<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>SC<br><b>General Votes: </b>53697<br><b>Postal Votes: </b>254<br><b>Total Votes: </b>53951<br><b>Total Voters: </b>181985<br><b>Percenatge: </b>42.14<br><b>Position: </b>2<br>"
+        },
+        "57": {
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC NO: </b>57<br><b>AC Name: </b>Musheerabad<br><b>Candidate Name: </b>NAYINI NARSIMHA REDDY<br><b>Gender: </b>M<br><b>Age: </b>68<br><b>Category: </b>GEN<br><b>General Votes: </b>21936<br><b>Postal Votes: </b>31<br><b>Total Votes: </b>21967<br><b>Total Voters: </b>242039<br><b>Percenatge: </b>16.55<br><b>Position: </b>3<br>"
+        },
+        "59": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC NO: </b>59<br><b>AC Name: </b>Amberpet<br><b>Candidate Name: </b>K.JAGDISHWAR<br><b>Gender: </b>M<br><b>Age: </b>49<br><b>Category: </b>GEN<br><b>General Votes: </b>7257<br><b>Postal Votes: </b>7<br><b>Total Votes: </b>7264<br><b>Total Voters: </b>202014<br><b>Percenatge: </b>6.06<br><b>Position: </b>4<br>"
+        },
+        "62": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC NO: </b>62<br><b>AC Name: </b>Sanath Nagar<br><b>Candidate Name: </b>T.PADMA RAO<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>29644<br><b>Postal Votes: </b>25<br><b>Total Votes: </b>29669<br><b>Total Voters: </b>192802<br><b>Percenatge: </b>26.7<br><b>Position: </b>2<br>"
+        },
+        "63": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC NO: </b>63<br><b>AC Name: </b>Nampalli<br><b>Candidate Name: </b>METTU SURYA PRAKASH<br><b>Gender: </b>M<br><b>Age: </b>45<br><b>Category: </b>GEN<br><b>General Votes: </b>3928<br><b>Postal Votes: </b>1<br><b>Total Votes: </b>3929<br><b>Total Voters: </b>242486<br><b>Percenatge: </b>3.55<br><b>Position: </b>6<br>"
+        },
+        "67": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC NO: </b>67<br><b>AC Name: </b>Chandrayangutta<br><b>Candidate Name: </b>SYED KHAJA FAKRUDDIN<br><b>Gender: </b>M<br><b>Age: </b>35<br><b>Category: </b>GEN<br><b>General Votes: </b>986<br><b>Postal Votes: </b>0<br><b>Total Votes: </b>986<br><b>Total Voters: </b>176158<br><b>Percenatge: </b>1.01<br><b>Position: </b>6<br>"
+        },
+        "74": {
+            "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+            "matter": "<b>AC NO: </b>74<br><b>AC Name: </b>Mahbubnagar<br><b>Candidate Name: </b>SYED IBRAHIM<br><b>Gender: </b>M<br><b>Age: </b>39<br><b>Category: </b>GEN<br><b>General Votes: </b>32994<br><b>Postal Votes: </b>116<br><b>Total Votes: </b>33110<br><b>Total Voters: </b>208747<br><b>Percenatge: </b>28.41<br><b>Position: </b>2<br>"
+        },
+        "77": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC NO: </b>77<br><b>AC Name: </b>Makthal<br><b>Candidate Name: </b>M.SREEDHAR GOUD<br><b>Gender: </b>M<br><b>Age: </b>44<br><b>Category: </b>GEN<br><b>General Votes: </b>11571<br><b>Postal Votes: </b>31<br><b>Total Votes: </b>11602<br><b>Total Voters: </b>205633<br><b>Percenatge: </b>8.84<br><b>Position: </b>3<br>"
+        },
+        "84": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC NO: </b>84<br><b>AC Name: </b>Shadnagar<br><b>Candidate Name: </b>ANJAIAH YELGANAMONI<br><b>Gender: </b>M<br><b>Age: </b>54<br><b>Category: </b>GEN<br><b>General Votes: </b>52290<br><b>Postal Votes: </b>94<br><b>Total Votes: </b>52384<br><b>Total Voters: </b>179562<br><b>Percenatge: </b>36.73<br><b>Position: </b>2<br>"
+        },
+        "89": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC NO: </b>89<br><b>AC Name: </b>Huzurnagar<br><b>Candidate Name: </b>JAGADEESH REDDY GUNTAKANDLA<br><b>Gender: </b>M<br><b>Age: </b>43<br><b>Category: </b>GEN<br><b>General Votes: </b>51467<br><b>Postal Votes: </b>174<br><b>Total Votes: </b>51641<br><b>Total Voters: </b>214836<br><b>Percenatge: </b>30.84<br><b>Position: </b>2<br>"
+        },
+        "91": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC NO: </b>91<br><b>AC Name: </b>Suryapet<br><b>Candidate Name: </b>POREDDY CHANDRA SEKHAR REDDY<br><b>Gender: </b>M<br><b>Age: </b>62<br><b>Category: </b>GEN<br><b>General Votes: </b>50226<br><b>Postal Votes: </b>591<br><b>Total Votes: </b>50817<br><b>Total Voters: </b>217572<br><b>Percenatge: </b>33.65<br><b>Position: </b>2<br>"
+        },
+        "97": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC NO: </b>97<br><b>AC Name: </b>Alair<br><b>Candidate Name: </b>KALLEM YADAGIRI REDDY<br><b>Gender: </b>M<br><b>Age: </b>66<br><b>Category: </b>GEN<br><b>General Votes: </b>53962<br><b>Postal Votes: </b>41<br><b>Total Votes: </b>54003<br><b>Total Voters: </b>225352<br><b>Percenatge: </b>31.98<br><b>Position: </b>2<br>"
+        },
+        "98": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC NO: </b>98<br><b>AC Name: </b>Jangoan<br><b>Candidate Name: </b>KOMMURI PRATAP REDDY<br><b>Gender: </b>M<br><b>Age: </b>47<br><b>Category: </b>GEN<br><b>General Votes: </b>60779<br><b>Postal Votes: </b>203<br><b>Total Votes: </b>60982<br><b>Total Voters: </b>209425<br><b>Percenatge: </b>40.31<br><b>Position: </b>2<br>"
+        },
+        "102": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC NO: </b>102<br><b>AC Name: </b>Mahabubabad(ST)<br><b>Candidate Name: </b>AZMEERA CHANDULAL<br><b>Gender: </b>M<br><b>Age: </b>58<br><b>Category: </b>ST<br><b>General Votes: </b>50687<br><b>Postal Votes: </b>155<br><b>Total Votes: </b>50842<br><b>Total Voters: </b>196996<br><b>Percenatge: </b>33.25<br><b>Position: </b>2<br>"
+        },
+        "104": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC NO: </b>104<br><b>AC Name: </b>Parkal<br><b>Candidate Name: </b>BIKSHAPATHY MOLUGURI<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>56323<br><b>Postal Votes: </b>12<br><b>Total Votes: </b>56335<br><b>Total Voters: </b>193381<br><b>Percenatge: </b>38.13<br><b>Position: </b>2<br>"
+        },
+        "105": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC NO: </b>105<br><b>AC Name: </b>Warangal West<br><b>Candidate Name: </b>DASYAM VINAYA BHASKER<br><b>Gender: </b>M<br><b>Age: </b>43<br><b>Category: </b>GEN<br><b>General Votes: </b>45567<br><b>Postal Votes: </b>240<br><b>Total Votes: </b>45807<br><b>Total Voters: </b>216155<br><b>Percenatge: </b>39.64<br><b>Position: </b>1<br>"
+        },
+        "106": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC NO: </b>106<br><b>AC Name: </b>Warangal East<br><b>Candidate Name: </b>ACHA VIDYA SAGAR<br><b>Gender: </b>M<br><b>Age: </b>42<br><b>Category: </b>GEN<br><b>General Votes: </b>31356<br><b>Postal Votes: </b>121<br><b>Total Votes: </b>31477<br><b>Total Voters: </b>214164<br><b>Percenatge: </b>24.5<br><b>Position: </b>3<br>"
+        },
+        "107": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC NO: </b>107<br><b>AC Name: </b>Wardhanapet(SC)<br><b>Candidate Name: </b>DR. GUNDE VIJAYA RAMA RAO<br><b>Gender: </b>M<br><b>Age: </b>55<br><b>Category: </b>SC<br><b>General Votes: </b>51252<br><b>Postal Votes: </b>35<br><b>Total Votes: </b>51287<br><b>Total Voters: </b>214914<br><b>Percenatge: </b>34.41<br><b>Position: </b>2<br>"
+        },
+        "108": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC NO: </b>108<br><b>AC Name: </b>Bhupalpalle<br><b>Candidate Name: </b>MADHU SUDHANA CHARY SIRIKONDA<br><b>Gender: </b>M<br><b>Age: </b>52<br><b>Category: </b>GEN<br><b>General Votes: </b>57572<br><b>Postal Votes: </b>26<br><b>Total Votes: </b>57598<br><b>Total Voters: </b>222582<br><b>Percenatge: </b>35.85<br><b>Position: </b>2<br>"
+        },
+        "3": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "6": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "7": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "8": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "10": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "11": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "13": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "14": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "16": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "18": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "21": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "26": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "27": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "28": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "34": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "36": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "37": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "38": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "40": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "42": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "43": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "44": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "48": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "49": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "51": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "52": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "53": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "54": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "56": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "58": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "60": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "61": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "64": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "65": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "66": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "68": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "69": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "70": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "71": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "72": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "73": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "75": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "76": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "78": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "79": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "80": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "81": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "82": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "83": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "85": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "86": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "87": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "88": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "90": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "92": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "93": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "94": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "95": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "96": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "99": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "100": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "101": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "103": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "109": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "110": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "111": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "112": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "113": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "114": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "115": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "116": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "117": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "118": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "119": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "120": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "121": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "122": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "123": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "124": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "125": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "126": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "127": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "128": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "129": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "130": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "131": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "132": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "133": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "134": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "135": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "136": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "137": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "138": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "139": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "140": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "141": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "142": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "143": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "144": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "145": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "146": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "147": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "148": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "149": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "150": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "151": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "152": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "153": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "154": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "155": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "156": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "157": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "158": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "159": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "160": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "161": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "162": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "163": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "164": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "165": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "166": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "167": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "168": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "169": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "170": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "171": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "172": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "173": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "174": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        },
+        "175": {
+            "color": "rgba(105, 105, 105, 0.2)",
+            "matter": ""
+        }
+    },
+    "border": "0,0"
+}
