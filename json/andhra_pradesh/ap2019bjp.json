@@ -1,0 +1,700 @@
+{
+  "title": "BJP IN AP 2019 General Elections",
+  "trigger": "objectid",
+  "desc": "<div><table class='col-md-12'><caption>Party hold percentages</caption><thead><tr><th>Color</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: #ff0000;\"></td><td>8.55% to 10.63%</td><td>1</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #f0674f;\"></td><td>6.46% to 8.55%</td><td>0</td><td>0 (0%)</td></tr><tr><td style=\"background-color: #fdae61;\"></td><td>4.38% to 6.46%</td><td>0</td><td>0 (0%)</td></tr><tr><td style=\"background-color: #ffffbf;\"></td><td>2.29% to 4.38%</td><td>6</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: #2c7bb6;\"></td><td>0.21% to 2.29%</td><td>166</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>173</td><td>0 (0.0%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Party Position Status</caption><thead><tr><th>Position</th><th>Seats</th></thead><tbody><tr><td>Place No : 3</td><td>3</td></tr><tr><td>Place No : 4</td><td>20</td></tr><tr><td>Place No : 5</td><td>36</td></tr><tr><td>Place No : 6</td><td>95</td></tr><tr><td>Place No : 7</td><td>16</td></tr><tr><td>Place No : 8</td><td>2</td></tr><tr><td>Place No : 9</td><td>1</td></tr><tr><td>Not Contested</td><td>2</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Gender wise data</caption><thead><tr><th>Gender</th><th>contested Seats</th><th>Won Seats</th></thead><tbody><tr><td>MALE</td><td>160</td><td>0</td></tr><tr><td>FEMALE</td><td>13</td><td>0</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Category wise data</caption><thead><tr><th>Category</th><th>contested Seats</th><th>Won Seats</th></thead><tbody><tr><td>GENERAL</td><td>136</td><td>0</td></tr><tr><td>SC</td><td>30</td><td>0</td></tr><tr><td>ST</td><td>7</td><td>0</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Category wise data</caption><thead><tr><th>Age</th><th>contested Seats</th><th>Won Seats</th></thead><tbody><tr><td>18-30</td><td>5</td><td>0</td></tr><tr><td>30-40</td><td>21</td><td>0</td></tr><tr><td>40-50</td><td>70</td><td>0</td></tr><tr><td>50-60</td><td>53</td><td>0</td></tr><tr><td>60-70</td><td>21</td><td>0</td></tr><tr><td>70+</td><td>3</td><td>0</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table></div>",
+  "data": {
+    "1": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>1<br><b> AC NAME : </b>Ichchapuram<br><b> CANDIDATE NAME : </b>JANNALA SURYAVARA PRASADA RAO(BJP)<br><b>No of votes: </b>1826<br><b>Position: </b>6<br><b>Percentage: </b>1.06<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>67.0<br><b>Margin: </b>78166<br><b>Winner: </b>ASHOK BENDALAM(TDP)<br><b>Total Votes: </b>247941<br>"
+    },
+    "2": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b> AC NO. : </b>2<br><b> AC NAME : </b>Palasa<br><b> CANDIDATE NAME : </b>KORRAYI BALAKRISHNA(BJP)<br><b>No of votes: </b>1574<br><b>Position: </b>5<br><b>Percentage: </b>1.04<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>49.0<br><b>Margin: </b>75029<br><b>Winner: </b>APPALARAJU SEEDIRI(YSRCP)<br><b>Total Votes: </b>206799<br>"
+    },
+    "3": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>3<br><b> AC NAME : </b>Tekkali<br><b> CANDIDATE NAME : </b>HANUMANTHU UDAY BHASKAR(BJP)<br><b>No of votes: </b>929<br><b>Position: </b>6<br><b>Percentage: </b>0.53<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>50.0<br><b>Margin: </b>86729<br><b>Winner: </b>ATCHANNAIDU KINJARAPU(TDP)<br><b>Total Votes: </b>224852<br>"
+    },
+    "4": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b> AC NO. : </b>4<br><b> AC NAME : </b>Pathapatnam<br><b> CANDIDATE NAME : </b>RAGHAVA RAO SALANA(BJP)<br><b>No of votes: </b>1450<br><b>Position: </b>6<br><b>Percentage: </b>0.95<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>53.0<br><b>Margin: </b>75491<br><b>Winner: </b>REDDY SHANTHI(YSRCP)<br><b>Total Votes: </b>217897<br>"
+    },
+    "5": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>5<br><b> AC NAME : </b>Srikakulam<br><b> CANDIDATE NAME : </b>CHALLA VENKATESWARA RAO(BJP)<br><b>No of votes: </b>1340<br><b>Position: </b>6<br><b>Percentage: </b>0.76<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>52.0<br><b>Margin: </b>82744<br><b>Winner: </b>DHARMANA PRASADA RAO(YSRCP)<br><b>Total Votes: </b>256243<br>"
+    },
+    "6": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>6<br><b> AC NAME : </b>Amadalavalasa<br><b> CANDIDATE NAME : </b>GADDAYYA PATINI(BJP)<br><b>No of votes: </b>956<br><b>Position: </b>6<br><b>Percentage: </b>0.64<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>64.0<br><b>Margin: </b>76941<br><b>Winner: </b>THAMMINENI SEETHARAM(YSRCP)<br><b>Total Votes: </b>189677<br>"
+    },
+    "7": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>7<br><b> AC NAME : </b>Etcherla<br><b> CANDIDATE NAME : </b>Rokkam. Suryaprakash Rao(BJP)<br><b>No of votes: </b>1022<br><b>Position: </b>6<br><b>Percentage: </b>0.52<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>60.0<br><b>Margin: </b>98650<br><b>Winner: </b>Gorle. Kiran Kumar(YSRCP)<br><b>Total Votes: </b>232070<br>"
+    },
+    "8": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>8<br><b> AC NAME : </b>Narasannapeta<br><b> CANDIDATE NAME : </b>Reddi Bhagya Lakshmi(BJP)<br><b>No of votes: </b>881<br><b>Position: </b>6<br><b>Percentage: </b>0.53<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>44.0<br><b>Margin: </b>85916<br><b>Winner: </b>DHARMANA KRISHNA DAS(YSRCP)<br><b>Total Votes: </b>210451<br>"
+    },
+    "9": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>9<br><b> AC NAME : </b>Rajam<br><b> CANDIDATE NAME : </b>CHAITANYA KUMAR MANNENA(BJP)<br><b>No of votes: </b>967<br><b>Position: </b>6<br><b>Percentage: </b>0.59<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>39.0<br><b>Margin: </b>82594<br><b>Winner: </b>KAMBALA JOGULU(YSRCP)<br><b>Total Votes: </b>220006<br>"
+    },
+    "10": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>10<br><b> AC NAME : </b>Palakonda<br><b> CANDIDATE NAME : </b>SUNEETHA THADANGI(BJP)<br><b>No of votes: </b>1169<br><b>Position: </b>5<br><b>Percentage: </b>0.86<br><b>Gender: </b>FEMALE<br><b>Category: </b>ST<br><b>Age: </b>28.0<br><b>Margin: </b>70885<br><b>Winner: </b>VISWASARAYI KALAVATHI(YSRCP)<br><b>Total Votes: </b>184967<br>"
+    },
+    "11": {
+      "color": "rgba(254.8712, 250.8788, 186.4848, 1.0)",
+      "matter": "<b> AC NO. : </b>11<br><b> AC NAME : </b>Kurupam <br><b> CANDIDATE NAME : </b>NIMMAKA. JAYARAJU.(BJP)<br><b>No of votes: </b>4204<br><b>Position: </b>5<br><b>Percentage: </b>2.93<br><b>Gender: </b>MALE<br><b>Category: </b>ST<br><b>Age: </b>55.0<br><b>Margin: </b>70323<br><b>Winner: </b>PUSHPASREEVANI . PAMULA(YSRCP)<br><b>Total Votes: </b>184259<br>"
+    },
+    "12": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>12<br><b> AC NAME : </b>Parvathipuram <br><b> CANDIDATE NAME : </b>SURAGALA UMA MAHESWARA RAO(BJP)<br><b>No of votes: </b>986<br><b>Position: </b>6<br><b>Percentage: </b>0.7<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>45.0<br><b>Margin: </b>74318<br><b>Winner: </b>ALAJANGI JOGARAO(YSRCP)<br><b>Total Votes: </b>182866<br>"
+    },
+    "13": {
+      "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+      "matter": "<b> AC NO. : </b>13<br><b> AC NAME : </b>Salur <br><b> CANDIDATE NAME : </b>KONDAGORRI. UDAY KUMAR(BJP)<br><b>No of votes: </b>3268<br><b>Position: </b>5<br><b>Percentage: </b>2.15<br><b>Gender: </b>MALE<br><b>Category: </b>ST<br><b>Age: </b>26.0<br><b>Margin: </b>75162<br><b>Winner: </b>PEEDIKA. RAJANNA DORA(YSRCP)<br><b>Total Votes: </b>190936<br>"
+    },
+    "14": {
+      "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+      "matter": "<b> AC NO. : </b>14<br><b> AC NAME : </b>Bobbili <br><b> CANDIDATE NAME : </b>DWARAPUREDDI RAMA MOHANA RAO(BJP)<br><b>No of votes: </b>3125<br><b>Position: </b>4<br><b>Percentage: </b>1.79<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>61.0<br><b>Margin: </b>81830<br><b>Winner: </b>SAMBANGI VENKATACHINA APPALA NAIDU(YSRCP)<br><b>Total Votes: </b>220854<br>"
+    },
+    "15": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>15<br><b> AC NAME : </b>Cheepurupalli<br><b> CANDIDATE NAME : </b>SHANKAR LAL SHARMA DHANDU(BJP)<br><b>No of votes: </b>1055<br><b>Position: </b>6<br><b>Percentage: </b>0.64<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>59.0<br><b>Margin: </b>88207<br><b>Winner: </b>BOTCHA SATYANARAYANA(YSRCP)<br><b>Total Votes: </b>198988<br>"
+    },
+    "16": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>16<br><b> AC NAME : </b>Gajapathinagaram<br><b> CANDIDATE NAME : </b>JAGAN MOHAN RAO PEDDINTI(BJP)<br><b>No of votes: </b>1271<br><b>Position: </b>5<br><b>Percentage: </b>0.74<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>70.0<br><b>Margin: </b>91999<br><b>Winner: </b>APPALANARASAYYA BOTCHA(YSRCP)<br><b>Total Votes: </b>198309<br>"
+    },
+    "17": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>17<br><b> AC NAME : </b>Nellimarla<br><b> CANDIDATE NAME : </b>PATHIVADA RAMANA(BJP)<br><b>No of votes: </b>1152<br><b>Position: </b>6<br><b>Percentage: </b>0.65<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>42.0<br><b>Margin: </b>93106<br><b>Winner: </b>APPALA NAIDU BADDUKONDA(YSRCP)<br><b>Total Votes: </b>201692<br>"
+    },
+    "18": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>18<br><b> AC NAME : </b>Vizianagaram<br><b> CANDIDATE NAME : </b>KUSUMANCHI SUBBA RAO(BJP)<br><b>No of votes: </b>1772<br><b>Position: </b>5<br><b>Percentage: </b>1.08<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>66.0<br><b>Margin: </b>77077<br><b>Winner: </b>VEERA BHADRA SWAMY KOLAGATLA(YSRCP)<br><b>Total Votes: </b>232031<br>"
+    },
+    "19": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>19<br><b> AC NAME : </b>Srungavarapukota<br><b> CANDIDATE NAME : </b>C.P.Prasad(BJP)<br><b>No of votes: </b>1696<br><b>Position: </b>5<br><b>Percentage: </b>0.92<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>89755<br><b>Winner: </b>Kadubandi Srinivasa Rao(YSRCP)<br><b>Total Votes: </b>213388<br>"
+    },
+    "20": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>20<br><b> AC NAME : </b>Bhimli<br><b> CANDIDATE NAME : </b>APPARAO KORADA(BJP)<br><b>No of votes: </b>2468<br><b>Position: </b>5<br><b>Percentage: </b>1.07<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>99161<br><b>Winner: </b>MUTTAMSETTI SRINIVASARAO (AVANTHI SRINIVAS)(YSRCP)<br><b>Total Votes: </b>307144<br>"
+    },
+    "21": {
+      "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+      "matter": "<b> AC NO. : </b>21<br><b> AC NAME : </b>Visakhapatnam East<br><b> CANDIDATE NAME : </b>SUHASINI KOMARAGIRI(BJP)<br><b>No of votes: </b>2843<br><b>Position: </b>4<br><b>Percentage: </b>1.64<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>47.0<br><b>Margin: </b>84230<br><b>Winner: </b>RAMAKRISHNA BABU VELAGAPUDI(TDP)<br><b>Total Votes: </b>272448<br>"
+    },
+    "22": {
+      "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+      "matter": "<b> AC NO. : </b>22<br><b> AC NAME : </b>Visakhapatnam South<br><b> CANDIDATE NAME : </b>KOPPALA RAM KUMAR(BJP)<br><b>No of votes: </b>2397<br><b>Position: </b>4<br><b>Percentage: </b>1.91<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>40.0<br><b>Margin: </b>49775<br><b>Winner: </b>GANESH KUMAR VASUPALLI(TDP)<br><b>Total Votes: </b>209356<br>"
+    },
+    "23": {
+      "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+      "matter": "<b> AC NO. : </b>23<br><b> AC NAME : </b>Visakhapatnam  North<br><b> CANDIDATE NAME : </b>VISHNU KUMAR RAJU PENMETSA(BJP)<br><b>No of votes: </b>18790<br><b>Position: </b>4<br><b>Percentage: </b>10.63<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>57.0<br><b>Margin: </b>48562<br><b>Winner: </b>GANTA SRINIVASA RAO(TDP)<br><b>Total Votes: </b>280328<br>"
+    },
+    "24": {
+      "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+      "matter": "<b> AC NO. : </b>24<br><b> AC NAME : </b>Visakhapatnam  West<br><b> CANDIDATE NAME : </b>BUDDA CHANDRA SEKHAR(BJP)<br><b>No of votes: </b>3206<br><b>Position: </b>4<br><b>Percentage: </b>2.38<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>65493<br><b>Winner: </b>P G V R NAIDU(GANA BABU)(TDP)<br><b>Total Votes: </b>236625<br>"
+    },
+    "25": {
+      "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+      "matter": "<b> AC NO. : </b>25<br><b> AC NAME : </b>Gajuwaka<br><b> CANDIDATE NAME : </b>PULUSU JANARDHANA RAO(BJP)<br><b>No of votes: </b>2770<br><b>Position: </b>4<br><b>Percentage: </b>1.39<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>72522<br><b>Winner: </b>NAGIREDDY TIPPALA(YSRCP)<br><b>Total Votes: </b>310011<br>"
+    },
+    "26": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>26<br><b> AC NAME : </b>Chodavaram<br><b> CANDIDATE NAME : </b>MOLLI VENKATA RAMANA(BJP)<br><b>No of votes: </b>625<br><b>Position: </b>7<br><b>Percentage: </b>0.36<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>46.0<br><b>Margin: </b>93590<br><b>Winner: </b>KARANAM DHARMASRI(YSRCP)<br><b>Total Votes: </b>210806<br>"
+    },
+    "27": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>27<br><b> AC NAME : </b>V.Madugula<br><b> CANDIDATE NAME : </b>MANDALA SANTHOSHI SUBHA LAKSHMI(BJP)<br><b>No of votes: </b>796<br><b>Position: </b>7<br><b>Percentage: </b>0.51<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>32.0<br><b>Margin: </b>78034<br><b>Winner: </b>BUDI MUTYALA NAIDU(YSRCP)<br><b>Total Votes: </b>186294<br>"
+    },
+    "28": {
+      "color": "rgba(254.7682, 247.5818, 182.6727, 1.0)",
+      "matter": "<b> AC NO. : </b>28<br><b> AC NAME : </b>Araku valley <br><b> CANDIDATE NAME : </b>ADAPA BONJU NAIDU(BJP)<br><b>No of votes: </b>4887<br><b>Position: </b>8<br><b>Percentage: </b>3.1<br><b>Gender: </b>MALE<br><b>Category: </b>ST<br><b>Age: </b>78.0<br><b>Margin: </b>48214<br><b>Winner: </b>CHETTI. PALGUNA(YSRCP)<br><b>Total Votes: </b>220893<br>"
+    },
+    "29": {
+      "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+      "matter": "<b> AC NO. : </b>29<br><b> AC NAME : </b>Paderu <br><b> CANDIDATE NAME : </b>GANDHI LOKULA(BJP)<br><b>No of votes: </b>4631<br><b>Position: </b>7<br><b>Percentage: </b>3.29<br><b>Gender: </b>MALE<br><b>Category: </b>ST<br><b>Age: </b>43.0<br><b>Margin: </b>66522<br><b>Winner: </b>BHAGYA LAKSHMI KOTTAGULLI(YSRCP)<br><b>Total Votes: </b>227117<br>"
+    },
+    "30": {
+      "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+      "matter": "<b> AC NO. : </b>30<br><b> AC NAME : </b>Anakapalli<br><b> CANDIDATE NAME : </b>Apparao Ponnaganti(BJP)<br><b>No of votes: </b>2524<br><b>Position: </b>5<br><b>Percentage: </b>1.58<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>63.0<br><b>Margin: </b>70683<br><b>Winner: </b>Amarnath Gudivada(YSRCP)<br><b>Total Votes: </b>205573<br>"
+    },
+    "31": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>31<br><b> AC NAME : </b>Pendurthi<br><b> CANDIDATE NAME : </b>Dr KASAPU.V.V.V.SATYANARAYANA(BJP)<br><b>No of votes: </b>2236<br><b>Position: </b>5<br><b>Percentage: </b>1.12<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>97523<br><b>Winner: </b>ANNAMREDDY ADEEP RAJ(YSRCP)<br><b>Total Votes: </b>268878<br>"
+    },
+    "32": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>32<br><b> AC NAME : </b>ELAMANCHILI<br><b> CANDIDATE NAME : </b>MYLAPALLI RAJARAO(BJP)<br><b>No of votes: </b>797<br><b>Position: </b>6<br><b>Percentage: </b>0.47<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>40.0<br><b>Margin: </b>71137<br><b>Winner: </b>UPPALAPATI VENKATA RAMANAMURTHY RAJU(YSRCP)<br><b>Total Votes: </b>198556<br>"
+    },
+    "33": {
+      "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+      "matter": "<b> AC NO. : </b>33<br><b> AC NAME : </b>PAYAKARAOPETA <br><b> CANDIDATE NAME : </b>KAKARA NOOKA RAJU(BJP)<br><b>No of votes: </b>3031<br><b>Position: </b>5<br><b>Percentage: </b>1.55<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>71.0<br><b>Margin: </b>95714<br><b>Winner: </b>GOLLA BABURAO(YSRCP)<br><b>Total Votes: </b>240678<br>"
+    },
+    "34": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>34<br><b> AC NAME : </b>Narsipatnam<br><b> CANDIDATE NAME : </b>GADE SRINIVASARAO(BJP)<br><b>No of votes: </b>1427<br><b>Position: </b>4<br><b>Percentage: </b>0.82<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>43.0<br><b>Margin: </b>92391<br><b>Winner: </b>UMA SANKARA GANESH PETLA(YSRCP)<br><b>Total Votes: </b>210578<br>"
+    },
+    "35": {
+      "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+      "matter": "<b> AC NO. : </b>35<br><b> AC NAME : </b>Tuni<br><b> CANDIDATE NAME : </b>ESWARARAO VELAGA(BJP)<br><b>No of votes: </b>2905<br><b>Position: </b>4<br><b>Percentage: </b>1.64<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>89554<br><b>Winner: </b>DADISETTI RAJA(YSRCP)<br><b>Total Votes: </b>213055<br>"
+    },
+    "36": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>36<br><b> AC NAME : </b>Prathipadu<br><b> CANDIDATE NAME : </b>Chilukuri Ram Kumar(BJP)<br><b>No of votes: </b>1207<br><b>Position: </b>6<br><b>Percentage: </b>0.73<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>49.0<br><b>Margin: </b>75896<br><b>Winner: </b>Sri Purnachandra Prasad Parvatha(YSRCP)<br><b>Total Votes: </b>202808<br>"
+    },
+    "37": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>37<br><b> AC NAME : </b>Pithapuram<br><b> CANDIDATE NAME : </b>Billakurthi Rameswara Reddy(BJP)<br><b>No of votes: </b>1034<br><b>Position: </b>6<br><b>Percentage: </b>0.55<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>40.0<br><b>Margin: </b>82425<br><b>Winner: </b>Dorababu Pendem(YSRCP)<br><b>Total Votes: </b>229729<br>"
+    },
+    "38": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>38<br><b> AC NAME : </b>Kakinada Rural<br><b> CANDIDATE NAME : </b>Kavikondala Bhima Sekhar(BJP)<br><b>No of votes: </b>1183<br><b>Position: </b>6<br><b>Percentage: </b>0.64<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>46.0<br><b>Margin: </b>72885<br><b>Winner: </b>Kurasala Kannababu(YSRCP)<br><b>Total Votes: </b>249109<br>"
+    },
+    "39": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>39<br><b> AC NAME : </b>Peddapuram<br><b> CANDIDATE NAME : </b>Yarlagadda Ramkumar(BJP)<br><b>No of votes: </b>849<br><b>Position: </b>6<br><b>Percentage: </b>0.52<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>43.0<br><b>Margin: </b>66544<br><b>Winner: </b>Nimmakayala China Rajappa(TDP)<br><b>Total Votes: </b>201975<br>"
+    },
+    "40": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>40<br><b> AC NAME : </b>Anaparthy<br><b> CANDIDATE NAME : </b>MEDAPATI HARINARAYANAREDDY(BJP)<br><b>No of votes: </b>627<br><b>Position: </b>6<br><b>Percentage: </b>0.34<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>66.0<br><b>Margin: </b>111144<br><b>Winner: </b>DOCTOR. SATHI SURYANARAYANA REDDY(YSRCP)<br><b>Total Votes: </b>213511<br>"
+    },
+    "41": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>41<br><b> AC NAME : </b>Kakinada City<br><b> CANDIDATE NAME : </b>PEDDIREDDI RAVI KIRAN(BJP)<br><b>No of votes: </b>1581<br><b>Position: </b>6<br><b>Percentage: </b>0.92<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>42.0<br><b>Margin: </b>72309<br><b>Winner: </b>Dwarampudi Chandra Sekhara Reddy(YSRCP)<br><b>Total Votes: </b>255773<br>"
+    },
+    "42": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>42<br><b> AC NAME : </b>Ramachandrapuram<br><b> CANDIDATE NAME : </b>DUDALA SANKARANARAYANAMURTHY(BJP)<br><b>No of votes: </b>788<br><b>Position: </b>6<br><b>Percentage: </b>0.47<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>74577<br><b>Winner: </b>CHELLUBOYINA SRINIVASA VENUGOPALAKRISHNA(YSRCP)<br><b>Total Votes: </b>193867<br>"
+    },
+    "43": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>43<br><b> AC NAME : </b>Mummidivaram<br><b> CANDIDATE NAME : </b>CHITTI BABU KARRI(BJP)<br><b>No of votes: </b>1127<br><b>Position: </b>6<br><b>Percentage: </b>0.59<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>77395<br><b>Winner: </b>PONNADA VENKATA SATISH KUMAR(YSRCP)<br><b>Total Votes: </b>229600<br>"
+    },
+    "44": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>44<br><b> AC NAME : </b>Amalapuram <br><b> CANDIDATE NAME : </b>PEYYALA SYAMPRASAD(BJP)<br><b>No of votes: </b>1172<br><b>Position: </b>6<br><b>Percentage: </b>0.69<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>65.0<br><b>Margin: </b>70831<br><b>Winner: </b>VISWARUPU PINIPE(YSRCP)<br><b>Total Votes: </b>203768<br>"
+    },
+    "45": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>45<br><b> AC NAME : </b>Razole <br><b> CANDIDATE NAME : </b>BATHULA LAKSHMI KUMARI(BJP)<br><b>No of votes: </b>1000<br><b>Position: </b>5<br><b>Percentage: </b>0.67<br><b>Gender: </b>FEMALE<br><b>Category: </b>SC<br><b>Age: </b>43.0<br><b>Margin: </b>49053<br><b>Winner: </b>RAPAKA VARA PRASADA RAO(JnP)<br><b>Total Votes: </b>186903<br>"
+    },
+    "46": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>46<br><b> AC NAME : </b>Gannavaram <br><b> CANDIDATE NAME : </b>KOLLI SURYA RAO (Sudhakar)(BJP)<br><b>No of votes: </b>1385<br><b>Position: </b>5<br><b>Percentage: </b>0.89<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>49.0<br><b>Margin: </b>65988<br><b>Winner: </b>KONDETI CHITTI BABU(YSRCP)<br><b>Total Votes: </b>189385<br>"
+    },
+    "47": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>47<br><b> AC NAME : </b>Kothapeta<br><b> CANDIDATE NAME : </b>P. SATYANANDAM(BJP)<br><b>No of votes: </b>1198<br><b>Position: </b>6<br><b>Percentage: </b>0.59<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>56.0<br><b>Margin: </b>81447<br><b>Winner: </b>CHIRLA JAGGIREDDY(YSRCP)<br><b>Total Votes: </b>241645<br>"
+    },
+    "48": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>48<br><b> AC NAME : </b>Mandapeta<br><b> CANDIDATE NAME : </b>KONA. SATYANARAYANA .(BJP)<br><b>No of votes: </b>1005<br><b>Position: </b>6<br><b>Percentage: </b>0.54<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>77024<br><b>Winner: </b>JOGESWARA RAO. V(TDP)<br><b>Total Votes: </b>214388<br>"
+    },
+    "49": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>49<br><b> AC NAME : </b>Rajanagaram<br><b> CANDIDATE NAME : </b>A.P.R.CHOWDARY(BJP)<br><b>No of votes: </b>977<br><b>Position: </b>6<br><b>Percentage: </b>0.55<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>60.0<br><b>Margin: </b>89703<br><b>Winner: </b>JAKKAMPUDI RAJA(YSRCP)<br><b>Total Votes: </b>201260<br>"
+    },
+    "50": {
+      "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+      "matter": "<b> AC NO. : </b>50<br><b> AC NAME : </b>Rajahmundry City<br><b> CANDIDATE NAME : </b>BOMMULA DATTU(BJP)<br><b>No of votes: </b>3003<br><b>Position: </b>4<br><b>Percentage: </b>1.79<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>51.0<br><b>Margin: </b>80699<br><b>Winner: </b>ADIREDDY BHAVANI(TDP)<br><b>Total Votes: </b>253184<br>"
+    },
+    "51": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>51<br><b> AC NAME : </b>Rajamundry Rural<br><b> CANDIDATE NAME : </b>AKULA SRIDHAR(BJP)<br><b>No of votes: </b>1558<br><b>Position: </b>6<br><b>Percentage: </b>0.83<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>38.0<br><b>Margin: </b>72608<br><b>Winner: </b>Gorantla Butchaiah Choudary(TDP)<br><b>Total Votes: </b>254432<br>"
+    },
+    "52": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>52<br><b> AC NAME : </b>Jaggampeta <br><b> CANDIDATE NAME : </b>VARALABABU SRIVATSAVAYA(BJP)<br><b>No of votes: </b>686<br><b>Position: </b>6<br><b>Percentage: </b>0.38<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>92810<br><b>Winner: </b>Jyothula Chanti babu(YSRCP)<br><b>Total Votes: </b>211481<br>"
+    },
+    "53": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b> AC NO. : </b>53<br><b> AC NAME : </b>Rampachodavaram <br><b> CANDIDATE NAME : </b>TURSAM SUBBA RAO(BJP)<br><b>No of votes: </b>1986<br><b>Position: </b>9<br><b>Percentage: </b>0.98<br><b>Gender: </b>MALE<br><b>Category: </b>ST<br><b>Age: </b>55.0<br><b>Margin: </b>96332<br><b>Winner: </b>NAGULAPALLI DHANALAKSHMI.(YSRCP)<br><b>Total Votes: </b>260380<br>"
+    },
+    "54": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>54<br><b> AC NAME : </b>Kovvur <br><b> CANDIDATE NAME : </b>BUSI SURENDRANADH BENARJI(BJP)<br><b>No of votes: </b>1140<br><b>Position: </b>6<br><b>Percentage: </b>0.75<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>47.0<br><b>Margin: </b>78752<br><b>Winner: </b>TANETI VANITA(YSRCP)<br><b>Total Votes: </b>176505<br>"
+    },
+    "55": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>55<br><b> AC NAME : </b>Nidadavole<br><b> CANDIDATE NAME : </b>Lingampalli Venkateswararao(BJP)<br><b>No of votes: </b>1012<br><b>Position: </b>5<br><b>Percentage: </b>0.6<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>38.0<br><b>Margin: </b>79989<br><b>Winner: </b>G. Srinivas Naidu(YSRCP)<br><b>Total Votes: </b>203240<br>"
+    },
+    "56": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>56<br><b> AC NAME : </b>Achanta<br><b> CANDIDATE NAME : </b>Yedida Kodanda Chakrapani(BJP)<br><b>No of votes: </b>650<br><b>Position: </b>6<br><b>Percentage: </b>0.47<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>48.0<br><b>Margin: </b>65844<br><b>Winner: </b>CHERUKUVADA SRIRANGANADHA RAJU(YSRCP)<br><b>Total Votes: </b>174308<br>"
+    },
+    "57": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>57<br><b> AC NAME : </b>Palacole<br><b> CANDIDATE NAME : </b>RAVURI LAKSHMANA SWAMY (SUDHA)(BJP)<br><b>No of votes: </b>975<br><b>Position: </b>7<br><b>Percentage: </b>0.62<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>47.0<br><b>Margin: </b>66574<br><b>Winner: </b>DR. NIMMALA RAMANAIDU(TDP)<br><b>Total Votes: </b>190192<br>"
+    },
+    "58": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>58<br><b> AC NAME : </b>Narasapuram<br><b> CANDIDATE NAME : </b>PULAPARTHI VENKATESWARA RAO(BJP)<br><b>No of votes: </b>560<br><b>Position: </b>6<br><b>Percentage: </b>0.41<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>54.0<br><b>Margin: </b>54996<br><b>Winner: </b>MUDUNURI PRASADA RAJU(YSRCP)<br><b>Total Votes: </b>168187<br>"
+    },
+    "59": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>59<br><b> AC NAME : </b>Bhimavaram<br><b> CANDIDATE NAME : </b>KAAYITHA SURENDRA(BJP)<br><b>No of votes: </b>976<br><b>Position: </b>5<br><b>Percentage: </b>0.51<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>35.0<br><b>Margin: </b>69666<br><b>Winner: </b>GRANDHI SRINIVAS(YSRCP)<br><b>Total Votes: </b>246424<br>"
+    },
+    "60": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>60<br><b> AC NAME : </b>Undi<br><b> CANDIDATE NAME : </b>Alluri Venkata Satyanarayana Raju(BJP)<br><b>No of votes: </b>1159<br><b>Position: </b>6<br><b>Percentage: </b>0.62<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>49.0<br><b>Margin: </b>81571<br><b>Winner: </b>MANTENA RAMARAJU (KALAPUDI RAMBABU)(TDP)<br><b>Total Votes: </b>219572<br>"
+    },
+    "61": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>61<br><b> AC NAME : </b>TANUKU<br><b> CANDIDATE NAME : </b>MALLINA VENKATA RADHAKRISHNA RAO(BJP)<br><b>No of votes: </b>1262<br><b>Position: </b>5<br><b>Percentage: </b>0.67<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>46.0<br><b>Margin: </b>74713<br><b>Winner: </b>KARUMURI VENKATA NAGESWARA RAO(YSRCP)<br><b>Total Votes: </b>232219<br>"
+    },
+    "62": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b> AC NO. : </b>62<br><b> AC NAME : </b>Tadepalligudem<br><b> CANDIDATE NAME : </b>GATTIM MANIKYALA RAO(BJP)<br><b>No of votes: </b>1580<br><b>Position: </b>5<br><b>Percentage: </b>0.94<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>54.0<br><b>Margin: </b>69161<br><b>Winner: </b>KOTTU SATYANARAYANA(YSRCP)<br><b>Total Votes: </b>208789<br>"
+    },
+    "63": {
+      "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+      "matter": "<b> AC NO. : </b>63<br><b> AC NAME : </b>Unguturu<br><b> CANDIDATE NAME : </b>INTI UDAYA BHASKARARAO(BJP)<br><b>No of votes: </b>2381<br><b>Position: </b>4<br><b>Percentage: </b>1.37<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>57.0<br><b>Margin: </b>92240<br><b>Winner: </b>Puppala Srinivasarao (Vasubabu)(YSRCP)<br><b>Total Votes: </b>200216<br>"
+    },
+    "64": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>64<br><b> AC NAME : </b>Denduluru <br><b> CANDIDATE NAME : </b>BALAKRISHNA YALAMARTHI(BJP)<br><b>No of votes: </b>524<br><b>Position: </b>7<br><b>Percentage: </b>0.28<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>25.0<br><b>Margin: </b>95618<br><b>Winner: </b>ABBAYA CHOWDARY KOTHARI(YSRCP)<br><b>Total Votes: </b>220361<br>"
+    },
+    "65": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>65<br><b> AC NAME : </b>Eluru<br><b> CANDIDATE NAME : </b>NAGAM CHANDRA NAGA SIVA VARA PRASAD (SIVA)(BJP)<br><b>No of votes: </b>976<br><b>Position: </b>6<br><b>Percentage: </b>0.6<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>59.0<br><b>Margin: </b>71271<br><b>Winner: </b>ALLA KALI KRISHNA SRINIVAS (ALLA NANI)(YSRCP)<br><b>Total Votes: </b>238903<br>"
+    },
+    "66": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>66<br><b> AC NAME : </b>Gopalapuram <br><b> CANDIDATE NAME : </b>Dunna Suman Babu(BJP)<br><b>No of votes: </b>967<br><b>Position: </b>6<br><b>Percentage: </b>0.48<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>42.0<br><b>Margin: </b>110818<br><b>Winner: </b>Venkatrao Talari(YSRCP)<br><b>Total Votes: </b>232124<br>"
+    },
+    "67": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>67<br><b> AC NAME : </b>Polavaram <br><b> CANDIDATE NAME : </b>BORAGAM VENKATA LAKSHMI(BJP)<br><b>No of votes: </b>1119<br><b>Position: </b>7<br><b>Percentage: </b>0.52<br><b>Gender: </b>FEMALE<br><b>Category: </b>ST<br><b>Age: </b>46.0<br><b>Margin: </b>109404<br><b>Winner: </b>TELLAM BALA RAJU(YSRCP)<br><b>Total Votes: </b>245535<br>"
+    },
+    "68": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>68<br><b> AC NAME : </b>Chintalapudi <br><b> CANDIDATE NAME : </b>CHOWTAPALLI VIKRAM KISHORE(BJP)<br><b>No of votes: </b>965<br><b>Position: </b>6<br><b>Percentage: </b>0.45<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>49.0<br><b>Margin: </b>114790<br><b>Winner: </b>VUNNAMATLA RAKADA ELIZA(YSRCP)<br><b>Total Votes: </b>263398<br>"
+    },
+    "69": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>69<br><b> AC NAME : </b>Tiruvuru <br><b> CANDIDATE NAME : </b>POLE SANTHI(BJP)<br><b>No of votes: </b>361<br><b>Position: </b>7<br><b>Percentage: </b>0.21<br><b>Gender: </b>FEMALE<br><b>Category: </b>SC<br><b>Age: </b>35.0<br><b>Margin: </b>88757<br><b>Winner: </b>Kokkiligadda Rakshana Nidhi(YSRCP)<br><b>Total Votes: </b>203436<br>"
+    },
+    "70": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b> AC NO. : </b>70<br><b> AC NAME : </b>Nuzvid <br><b> CANDIDATE NAME : </b>Bommareddy Venkata Naga Chandrareddy(BJP)<br><b>No of votes: </b>1927<br><b>Position: </b>6<br><b>Percentage: </b>0.96<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>65.0<br><b>Margin: </b>100023<br><b>Winner: </b>Meka Venkata Pratap Apparao(YSRCP)<br><b>Total Votes: </b>230693<br>"
+    },
+    "71": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>71<br><b> AC NAME : </b>Gannavaram<br><b> CANDIDATE NAME : </b>Damarla Koteswararao(BJP)<br><b>No of votes: </b>1014<br><b>Position: </b>7<br><b>Percentage: </b>0.46<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>39.0<br><b>Margin: </b>102867<br><b>Winner: </b>Vamsi Vallabhaneni(TDP)<br><b>Total Votes: </b>258084<br>"
+    },
+    "72": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>72<br><b> AC NAME : </b>Gudivada <br><b> CANDIDATE NAME : </b>SRI RAJA BABU GUTTIKONDA(BJP)<br><b>No of votes: </b>1212<br><b>Position: </b>5<br><b>Percentage: </b>0.72<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>57.0<br><b>Margin: </b>88621<br><b>Winner: </b>KODALI SRI VENKATESWARA RAO (NANI)(YSRCP)<br><b>Total Votes: </b>208393<br>"
+    },
+    "73": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b> AC NO. : </b>73<br><b> AC NAME : </b>Kaikalur<br><b> CANDIDATE NAME : </b>KEERTHI VENKATA RAMAPRASAD(BJP)<br><b>No of votes: </b>1701<br><b>Position: </b>4<br><b>Percentage: </b>0.99<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>53.0<br><b>Margin: </b>80427<br><b>Winner: </b>DULAM NAGESWARA RAO (DNR)(YSRCP)<br><b>Total Votes: </b>195844<br>"
+    },
+    "74": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>74<br><b> AC NAME : </b>Pedana<br><b> CANDIDATE NAME : </b>SODESETTI BALAJI RAO(BJP)<br><b>No of votes: </b>699<br><b>Position: </b>6<br><b>Percentage: </b>0.48<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>61221<br><b>Winner: </b>JOGI RAMESH(YSRCP)<br><b>Total Votes: </b>166223<br>"
+    },
+    "75": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>75<br><b> AC NAME : </b>Machilipatnam<br><b> CANDIDATE NAME : </b>PANTAM VENKATA GAJENDRA RAO(BJP)<br><b>No of votes: </b>789<br><b>Position: </b>6<br><b>Percentage: </b>0.53<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>49.0<br><b>Margin: </b>65352<br><b>Winner: </b>PERNI VENKATARAMAIAH (NANI)(YSRCP)<br><b>Total Votes: </b>184578<br>"
+    },
+    "76": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>76<br><b> AC NAME : </b>Avanigadda<br><b> CANDIDATE NAME : </b>G.V. NagaRayalu(BJP)<br><b>No of votes: </b>629<br><b>Position: </b>7<br><b>Percentage: </b>0.34<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>51.0<br><b>Margin: </b>77816<br><b>Winner: </b>RAMESH BABU SIMHADRI(YSRCP)<br><b>Total Votes: </b>207353<br>"
+    },
+    "77": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>77<br><b> AC NAME : </b>Pamarru <br><b> CANDIDATE NAME : </b>Valaparla Venkateswara Rao(BJP)<br><b>No of votes: </b>610<br><b>Position: </b>6<br><b>Percentage: </b>0.39<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>52.0<br><b>Margin: </b>87937<br><b>Winner: </b>Anil Kumar Kaile(YSRCP)<br><b>Total Votes: </b>180913<br>"
+    },
+    "78": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>78<br><b> AC NAME : </b>Penamaluru<br><b> CANDIDATE NAME : </b>GOPISETTY DURGA PRASAD(BJP)<br><b>No of votes: </b>1534<br><b>Position: </b>6<br><b>Percentage: </b>0.72<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>35.0<br><b>Margin: </b>99951<br><b>Winner: </b>KOLUSU PARTHA SARATHY(YSRCP)<br><b>Total Votes: </b>267803<br>"
+    },
+    "79": {
+      "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+      "matter": "<b> AC NO. : </b>79<br><b> AC NAME : </b>Vijaywada West<br><b> CANDIDATE NAME : </b>Piyush P.Desai(BJP)<br><b>No of votes: </b>4206<br><b>Position: </b>5<br><b>Percentage: </b>2.74<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>46.0<br><b>Margin: </b>54229<br><b>Winner: </b>Velam Palli Srinivasa Rao(YSRCP)<br><b>Total Votes: </b>232604<br>"
+    },
+    "80": {
+      "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+      "matter": "<b> AC NO. : </b>80<br><b> AC NAME : </b>Vijayawada central<br><b> CANDIDATE NAME : </b>SREE SATYA MURTHY VAMARAJU(BJP)<br><b>No of votes: </b>2567<br><b>Position: </b>4<br><b>Percentage: </b>1.44<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>60.0<br><b>Margin: </b>68154<br><b>Winner: </b>MALLADI VISHNU(YSRCP)<br><b>Total Votes: </b>269912<br>"
+    },
+    "81": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>81<br><b> AC NAME : </b>Vijayawada East<br><b> CANDIDATE NAME : </b>Narendra Vangaveeti(BJP)<br><b>No of votes: </b>2102<br><b>Position: </b>4<br><b>Percentage: </b>1.12<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>46.0<br><b>Margin: </b>80888<br><b>Winner: </b>Gadde Rama Mohan(TDP)<br><b>Total Votes: </b>275724<br>"
+    },
+    "82": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>82<br><b> AC NAME : </b>Mylavaram<br><b> CANDIDATE NAME : </b>BALA KOTESWARARAO NUTULAPATI(BJP)<br><b>No of votes: </b>1264<br><b>Position: </b>5<br><b>Percentage: </b>0.54<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>45.0<br><b>Margin: </b>113676<br><b>Winner: </b>VASANTHA VENKATA KRISHNA PRASAD(YSRCP)<br><b>Total Votes: </b>280536<br>"
+    },
+    "83": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>83<br><b> AC NAME : </b>Nandigama <br><b> CANDIDATE NAME : </b>Jangam Sunil Raju(BJP)<br><b>No of votes: </b>782<br><b>Position: </b>6<br><b>Percentage: </b>0.46<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>45.0<br><b>Margin: </b>86711<br><b>Winner: </b>MONDITOKA JAGAN MOHANA RAO(YSRCP)<br><b>Total Votes: </b>195053<br>"
+    },
+    "84": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>84<br><b> AC NAME : </b>Jaggayyapeta<br><b> CANDIDATE NAME : </b>A. P. SRIKANTH(BJP)<br><b>No of votes: </b>578<br><b>Position: </b>6<br><b>Percentage: </b>0.33<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>37.0<br><b>Margin: </b>87387<br><b>Winner: </b>UDAYABHANU SAMINENI(YSRCP)<br><b>Total Votes: </b>195729<br>"
+    },
+    "85": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>85<br><b> AC NAME : </b>Pedakurapadu<br><b> CANDIDATE NAME : </b>GANDHAM KOTESWARA RAO(BJP)<br><b>No of votes: </b>1114<br><b>Position: </b>6<br><b>Percentage: </b>0.56<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>49.0<br><b>Margin: </b>98463<br><b>Winner: </b>NAMBURU SANKARA RAO(YSRCP)<br><b>Total Votes: </b>222800<br>"
+    },
+    "86": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>86<br><b> AC NAME : </b>Tadikonda<br><b> CANDIDATE NAME : </b>Ananda Babu Srungarapati(BJP)<br><b>No of votes: </b>1144<br><b>Position: </b>5<br><b>Percentage: </b>0.64<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>55.0<br><b>Margin: </b>85704<br><b>Winner: </b>Vundavalli Sridevi(YSRCP)<br><b>Total Votes: </b>200269<br>"
+    },
+    "87": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>87<br><b> AC NAME : </b>Mangalagiri<br><b> CANDIDATE NAME : </b>Jaggarapu Ramohan Rao(BJP)<br><b>No of votes: </b>1119<br><b>Position: </b>5<br><b>Percentage: </b>0.49<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>42.0<br><b>Margin: </b>107345<br><b>Winner: </b>Alla Rama Krishna Reddy (RK)(YSRCP)<br><b>Total Votes: </b>268558<br>"
+    },
+    "88": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>88<br><b> AC NAME : </b>Ponnur<br><b> CANDIDATE NAME : </b>Cheedepudi Bala Vijaya Bhaskaraa Reddy(BJP)<br><b>No of votes: </b>751<br><b>Position: </b>6<br><b>Percentage: </b>0.39<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>49.0<br><b>Margin: </b>86819<br><b>Winner: </b>Kilari Venkata Roshaiah(YSRCP)<br><b>Total Votes: </b>228234<br>"
+    },
+    "89": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>89<br><b> AC NAME : </b>Vemuru<br><b> CANDIDATE NAME : </b>DARSANAPU SRINIVASA RAO(BJP)<br><b>No of votes: </b>942<br><b>Position: </b>6<br><b>Percentage: </b>0.55<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>39.0<br><b>Margin: </b>80729<br><b>Winner: </b>MERUGU NAGARJUNA(YSRCP)<br><b>Total Votes: </b>195274<br>"
+    },
+    "90": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>90<br><b> AC NAME : </b>Repalle<br><b> CANDIDATE NAME : </b>HARSHA VARDHAN NAGISETTI(BJP)<br><b>No of votes: </b>912<br><b>Position: </b>6<br><b>Percentage: </b>0.49<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>28.0<br><b>Margin: </b>89063<br><b>Winner: </b>ANAGANI SATYA PRASAD(TDP)<br><b>Total Votes: </b>223738<br>"
+    },
+    "91": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>91<br><b> AC NAME : </b>Tenali  <br><b> CANDIDATE NAME : </b>RAMAKRISHNA PATIBANDLA(BJP)<br><b>No of votes: </b>984<br><b>Position: </b>6<br><b>Percentage: </b>0.48<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>42.0<br><b>Margin: </b>93511<br><b>Winner: </b>ANNABATHUNI SIVA KUMAR(YSRCP)<br><b>Total Votes: </b>263286<br>"
+    },
+    "92": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>92<br><b> AC NAME : </b>Bapatla<br><b> CANDIDATE NAME : </b>SHAIK KARIMULLA(BJP)<br><b>No of votes: </b>577<br><b>Position: </b>6<br><b>Percentage: </b>0.38<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>44.0<br><b>Margin: </b>79259<br><b>Winner: </b>KONA RAGHUPATHI(YSRCP)<br><b>Total Votes: </b>185076<br>"
+    },
+    "93": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>93<br><b> AC NAME : </b>Prathipadu<br><b> CANDIDATE NAME : </b>Dr. Dara Ambedkar(BJP)<br><b>No of votes: </b>976<br><b>Position: </b>5<br><b>Percentage: </b>0.46<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>42.0<br><b>Margin: </b>91532<br><b>Winner: </b>Mekathoti Sucharitha(YSRCP)<br><b>Total Votes: </b>250605<br>"
+    },
+    "94": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>94<br><b> AC NAME : </b>Guntur West<br><b> CANDIDATE NAME : </b>MADHAVI LATHA PASUPULETI(BJP)<br><b>No of votes: </b>1989<br><b>Position: </b>4<br><b>Percentage: </b>1.14<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>36.0<br><b>Margin: </b>69875<br><b>Winner: </b>MADDALI GIRIDHARA RAO(TDP)<br><b>Total Votes: </b>265258<br>"
+    },
+    "95": {
+      "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+      "matter": "<b> AC NO. : </b>95<br><b> AC NAME : </b>Guntur East<br><b> CANDIDATE NAME : </b>NERELLA V.S. SURESH(BJP)<br><b>No of votes: </b>2814<br><b>Position: </b>4<br><b>Percentage: </b>1.74<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>51.0<br><b>Margin: </b>74233<br><b>Winner: </b>MOHAMMED MUSTAFA SHAIK(YSRCP)<br><b>Total Votes: </b>229909<br>"
+    },
+    "96": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>96<br><b> AC NAME : </b>Chilakaluripet<br><b> CANDIDATE NAME : </b>ANNAM SREENIVASARAO(BJP)<br><b>No of votes: </b>406<br><b>Position: </b>6<br><b>Percentage: </b>0.22<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>58.0<br><b>Margin: </b>94024<br><b>Winner: </b>RAJINI VIDADALA(YSRCP)<br><b>Total Votes: </b>223976<br>"
+    },
+    "97": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>97<br><b> AC NAME : </b>Narasaraopet<br><b> CANDIDATE NAME : </b>CHIRUMAMILLA RAMU(BJP)<br><b>No of votes: </b>1198<br><b>Position: </b>5<br><b>Percentage: </b>0.65<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>56.0<br><b>Margin: </b>99796<br><b>Winner: </b>GOPIREDDY SRINIVASAREDDY(YSRCP)<br><b>Total Votes: </b>221728<br>"
+    },
+    "98": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>98<br><b> AC NAME : </b>Sattenapalli<br><b> CANDIDATE NAME : </b>KRISHNAM RAJU. MADDULA(RAJA YADAV)(BJP)<br><b>No of votes: </b>1016<br><b>Position: </b>6<br><b>Percentage: </b>0.5<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>38.0<br><b>Margin: </b>104047<br><b>Winner: </b>AMBATI RAMBABU(YSRCP)<br><b>Total Votes: </b>231039<br>"
+    },
+    "99": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>99<br><b> AC NAME : </b>Vinukonda<br><b> CANDIDATE NAME : </b>Nalabothu Venkata Rao(BJP)<br><b>No of votes: </b>931<br><b>Position: </b>6<br><b>Percentage: </b>0.42<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>62.0<br><b>Margin: </b>119772<br><b>Winner: </b>Bolla Brahma Naidu(YSRCP)<br><b>Total Votes: </b>251847<br>"
+    },
+    "100": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>100<br><b> AC NAME : </b>Gurazala<br><b> CANDIDATE NAME : </b>PULLAIAH JINUGU(BJP)<br><b>No of votes: </b>1096<br><b>Position: </b>6<br><b>Percentage: </b>0.49<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>35.0<br><b>Margin: </b>116108<br><b>Winner: </b>KASU MAHESH REDDY(YSRCP)<br><b>Total Votes: </b>268598<br>"
+    },
+    "101": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>101<br><b> AC NAME : </b>Macherla<br><b> CANDIDATE NAME : </b>AMARA SAIDARAO KARNA(BJP)<br><b>No of votes: </b>963<br><b>Position: </b>6<br><b>Percentage: </b>0.45<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>37.0<br><b>Margin: </b>109443<br><b>Winner: </b>RAMAKRISHNAREDDY PINNELLI.(YSRCP)<br><b>Total Votes: </b>250403<br>"
+    },
+    "102": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>102<br><b> AC NAME : </b>Yerragondapalem <br><b> CANDIDATE NAME : </b>Angalakurthi Chennaiah(BJP)<br><b>No of votes: </b>750<br><b>Position: </b>6<br><b>Percentage: </b>0.43<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>53.0<br><b>Margin: </b>98658<br><b>Winner: </b>Audimulapu Suresh(YSRCP)<br><b>Total Votes: </b>200581<br>"
+    },
+    "103": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>103<br><b> AC NAME : </b>Darsi<br><b> CANDIDATE NAME : </b>Yeruva Lakshmi Narayana Reddy(BJP)<br><b>No of votes: </b>627<br><b>Position: </b>7<br><b>Percentage: </b>0.32<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>111287<br><b>Winner: </b>Maddisetty Venugopal(YSRCP)<br><b>Total Votes: </b>214440<br>"
+    },
+    "104": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>104<br><b> AC NAME : </b>Parchur <br><b> CANDIDATE NAME : </b>CHERUKURI RAMAYOGESWARA RAO(BJP)<br><b>No of votes: </b>706<br><b>Position: </b>7<br><b>Percentage: </b>0.35<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>96370<br><b>Winner: </b>YELURI SAMBA SIVARAO(TDP)<br><b>Total Votes: </b>230219<br>"
+    },
+    "105": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>105<br><b> AC NAME : </b>Addanki <br><b> CANDIDATE NAME : </b>VUNDAVALLI KRISHNA RAO(BJP)<br><b>No of votes: </b>551<br><b>Position: </b>6<br><b>Percentage: </b>0.27<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>60.0<br><b>Margin: </b>104994<br><b>Winner: </b>GOTTIPATI RAVIKUMAR(TDP)<br><b>Total Votes: </b>231977<br>"
+    },
+    "106": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>106<br><b> AC NAME : </b>Chirala<br><b> CANDIDATE NAME : </b>MUVVALA VENKATA RAMANA RAO(BJP)<br><b>No of votes: </b>814<br><b>Position: </b>6<br><b>Percentage: </b>0.52<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>57.0<br><b>Margin: </b>83087<br><b>Winner: </b>KARANAM BALARAMA KRISHNA MURTHY(TDP)<br><b>Total Votes: </b>190830<br>"
+    },
+    "107": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>107<br><b> AC NAME : </b>Santhanuthalapadu <br><b> CANDIDATE NAME : </b>NANNEPOGU SUBBARAO(BJP)<br><b>No of votes: </b>471<br><b>Position: </b>6<br><b>Percentage: </b>0.26<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>53.0<br><b>Margin: </b>88689<br><b>Winner: </b>T.J.R. Sudhakar Babu(YSRCP)<br><b>Total Votes: </b>211557<br>"
+    },
+    "108": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>108<br><b> AC NAME : </b>Ongole<br><b> CANDIDATE NAME : </b>Bodduluri Anjaneyulu(BJP)<br><b>No of votes: </b>693<br><b>Position: </b>6<br><b>Percentage: </b>0.36<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>45.0<br><b>Margin: </b>100329<br><b>Winner: </b>BALINENI SRINIVASA REDDY (VASU)(YSRCP)<br><b>Total Votes: </b>229462<br>"
+    },
+    "109": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>109<br><b> AC NAME : </b>Kandukur<br><b> CANDIDATE NAME : </b>CHANDRAGIRI VENKATESWARA RAO(BJP)<br><b>No of votes: </b>882<br><b>Position: </b>6<br><b>Percentage: </b>0.45<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>53.0<br><b>Margin: </b>100393<br><b>Winner: </b>MAHEEDHAR REDDY MANUGUNTA(YSRCP)<br><b>Total Votes: </b>218961<br>"
+    },
+    "110": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>110<br><b> AC NAME : </b>Kondapi <br><b> CANDIDATE NAME : </b>KARATAPU RAJU(BJP)<br><b>No of votes: </b>490<br><b>Position: </b>7<br><b>Percentage: </b>0.24<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>48.0<br><b>Margin: </b>97652<br><b>Winner: </b>DOCTOR DOLA SREE BALA VEERANJANEYA SWAMY(TDP)<br><b>Total Votes: </b>231653<br>"
+    },
+    "111": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>111<br><b> AC NAME : </b>Markapuram<br><b> CANDIDATE NAME : </b>Morriboyina Chennaiah(BJP)<br><b>No of votes: </b>782<br><b>Position: </b>6<br><b>Percentage: </b>0.44<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>52.0<br><b>Margin: </b>91898<br><b>Winner: </b>Kunduru Nagarjuna Reddy(YSRCP)<br><b>Total Votes: </b>210105<br>"
+    },
+    "112": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>112<br><b> AC NAME : </b>Giddalur<br><b> CANDIDATE NAME : </b>Pidatala Saraswathi(BJP)<br><b>No of votes: </b>774<br><b>Position: </b>6<br><b>Percentage: </b>0.39<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>39.0<br><b>Margin: </b>132337<br><b>Winner: </b>Anna Rambabu(YSRCP)<br><b>Total Votes: </b>238144<br>"
+    },
+    "113": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>113<br><b> AC NAME : </b>Kanigiri<br><b> CANDIDATE NAME : </b>Puli Krishna Reddy(BJP)<br><b>No of votes: </b>1177<br><b>Position: </b>5<br><b>Percentage: </b>0.61<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>111553<br><b>Winner: </b>Burra Madhu Sudhan Yadav(YSRCP)<br><b>Total Votes: </b>232084<br>"
+    },
+    "114": {
+      "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+      "matter": "<b> AC NO. : </b>114<br><b> AC NAME : </b>Kavali<br><b> CANDIDATE NAME : </b>KANDUKURI VENKATA SATYANARAYANA(BJP)<br><b>No of votes: </b>2546<br><b>Position: </b>4<br><b>Percentage: </b>1.31<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>63.0<br><b>Margin: </b>93282<br><b>Winner: </b>RAMIREDDY PRATAP KUMAR REDDY(YSRCP)<br><b>Total Votes: </b>255469<br>"
+    },
+    "115": {
+      "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+      "matter": "<b> AC NO. : </b>115<br><b> AC NAME : </b>Atmakur<br><b> CANDIDATE NAME : </b>ANJANEYA REDDY KARNATI(BJP)<br><b>No of votes: </b>2314<br><b>Position: </b>3<br><b>Percentage: </b>1.33<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>60.0<br><b>Margin: </b>90444<br><b>Winner: </b>MEKAPATI GOUTHAM REDDY(YSRCP)<br><b>Total Votes: </b>209051<br>"
+    },
+    "116": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>116<br><b> AC NAME : </b>Kovur<br><b> CANDIDATE NAME : </b>MARAM VIJAYA LAKSHMI(BJP)<br><b>No of votes: </b>1481<br><b>Position: </b>6<br><b>Percentage: </b>0.72<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>114758<br><b>Winner: </b>NALLAPAREDDY PRASANNA KUMAR REDDY(YSRCP)<br><b>Total Votes: </b>264685<br>"
+    },
+    "117": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>117<br><b> AC NAME : </b>Nellore City<br><b> CANDIDATE NAME : </b>KAKARAPARTHI JAGANMOHAN RAO(BJP)<br><b>No of votes: </b>1659<br><b>Position: </b>4<br><b>Percentage: </b>1.05<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>73381<br><b>Winner: </b>ANIL KUMAR POLUBOINA(YSRCP)<br><b>Total Votes: </b>238836<br>"
+    },
+    "118": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>118<br><b> AC NAME : </b>Nellore Rural<br><b> CANDIDATE NAME : </b>Bhaskar Karanam(BJP)<br><b>No of votes: </b>1784<br><b>Position: </b>5<br><b>Percentage: </b>1.07<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>61.0<br><b>Margin: </b>83940<br><b>Winner: </b>Kotamreddy Sridhar Reddy(YSRCP)<br><b>Total Votes: </b>254641<br>"
+    },
+    "119": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>119<br><b> AC NAME : </b>Sarvepalli<br><b> CANDIDATE NAME : </b>MASTHANAIAH PANDI(BJP)<br><b>No of votes: </b>1420<br><b>Position: </b>6<br><b>Percentage: </b>0.75<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>95852<br><b>Winner: </b>KAKANI GOVARDHAN REDDY(YSRCP)<br><b>Total Votes: </b>230446<br>"
+    },
+    "120": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b> AC NO. : </b>120<br><b> AC NAME : </b>Gudur <br><b> CANDIDATE NAME : </b>Bhyrappa Paricherla(BJP)<br><b>No of votes: </b>1767<br><b>Position: </b>5<br><b>Percentage: </b>0.96<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>32.0<br><b>Margin: </b>107992<br><b>Winner: </b>Velagapalli Varaprasad Rao(YSRCP)<br><b>Total Votes: </b>236529<br>"
+    },
+    "121": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>121<br><b> AC NAME : </b>Sullurpeta <br><b> CANDIDATE NAME : </b>Dasari Ratnam(BJP)<br><b>No of votes: </b>1734<br><b>Position: </b>6<br><b>Percentage: </b>0.9<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>47.0<br><b>Margin: </b>117893<br><b>Winner: </b>Kiliveti Sanjeevaiah(YSRCP)<br><b>Total Votes: </b>231724<br>"
+    },
+    "122": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>122<br><b> AC NAME : </b>Venkatagiri<br><b> CANDIDATE NAME : </b>S.S.R. NAIDU(BJP)<br><b>No of votes: </b>1700<br><b>Position: </b>6<br><b>Percentage: </b>0.89<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>48.0<br><b>Margin: </b>107504<br><b>Winner: </b>ANAM RAMANARAYANA REDDY(YSRCP)<br><b>Total Votes: </b>240304<br>"
+    },
+    "123": {
+      "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+      "matter": "<b> AC NO. : </b>123<br><b> AC NAME : </b>Udayagiri<br><b> CANDIDATE NAME : </b>GUNDLAPALLI BHARATH KUMAR(BJP)<br><b>No of votes: </b>3102<br><b>Position: </b>3<br><b>Percentage: </b>1.67<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>48.0<br><b>Margin: </b>103385<br><b>Winner: </b>MEKAPATI CHANDRA SEKHAR REDDY(YSRCP)<br><b>Total Votes: </b>231202<br>"
+    },
+    "124": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>124<br><b> AC NAME : </b>Badvel <br><b> CANDIDATE NAME : </b>Thiriveedi. Jayaramulu.(BJP)<br><b>No of votes: </b>735<br><b>Position: </b>7<br><b>Percentage: </b>0.47<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>60.0<br><b>Margin: </b>94747<br><b>Winner: </b>Dr. G. Venkata Subbaiah(YSRCP)<br><b>Total Votes: </b>205338<br>"
+    },
+    "125": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>125<br><b> AC NAME : </b>Rajampet<br><b> CANDIDATE NAME : </b>Pothugunta Ramesh Naidu(BJP)<br><b>No of votes: </b>1008<br><b>Position: </b>6<br><b>Percentage: </b>0.61<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>42.0<br><b>Margin: </b>94258<br><b>Winner: </b>Meda Venkata Mallikarjuna Reddy(YSRCP)<br><b>Total Votes: </b>222409<br>"
+    },
+    "126": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>126<br><b> AC NAME : </b>Kadapa<br><b> CANDIDATE NAME : </b>SREENIVASULU REDDY KANDULA(BJP)<br><b>No of votes: </b>1230<br><b>Position: </b>6<br><b>Percentage: </b>0.74<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>46.0<br><b>Margin: </b>103592<br><b>Winner: </b>AMZATH BASHA SHAIK BEPARI(YSRCP)<br><b>Total Votes: </b>265211<br>"
+    },
+    "127": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>127<br><b> AC NAME : </b>Kodur <br><b> CANDIDATE NAME : </b>Panathala Suresh(BJP)<br><b>No of votes: </b>1049<br><b>Position: </b>6<br><b>Percentage: </b>0.77<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>34.0<br><b>Margin: </b>77263<br><b>Winner: </b>Koramutla Sreenivasulu(YSRCP)<br><b>Total Votes: </b>182772<br>"
+    },
+    "128": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>128<br><b> AC NAME : </b>Rayachoti<br><b> CANDIDATE NAME : </b>PALAgiRi.SRiNiVASA KUMAR RAJU(BJP)<br><b>No of votes: </b>1199<br><b>Position: </b>6<br><b>Percentage: </b>0.69<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>48.0<br><b>Margin: </b>97791<br><b>Winner: </b>GADIKOTA. SRIKANTH REDDY.(YSRCP)<br><b>Total Votes: </b>231856<br>"
+    },
+    "129": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>129<br><b> AC NAME : </b>Pulivendla<br><b> CANDIDATE NAME : </b>PEDABALLI SUSHMA(BJP)<br><b>No of votes: </b>1260<br><b>Position: </b>4<br><b>Percentage: </b>0.7<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>31.0<br><b>Margin: </b>131096<br><b>Winner: </b>Y S JAGAN MOHAN REDDY(YSRCP)<br><b>Total Votes: </b>223770<br>"
+    },
+    "130": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>130<br><b> AC NAME : </b>Kamalapuram <br><b> CANDIDATE NAME : </b>PALEM SURESH KUMAR REDDY(BJP)<br><b>No of votes: </b>1005<br><b>Position: </b>6<br><b>Percentage: </b>0.63<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>33.0<br><b>Margin: </b>87477<br><b>Winner: </b>POCHIMAREDDY RAVINDRANATH REDDY(YSRCP)<br><b>Total Votes: </b>193151<br>"
+    },
+    "131": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>131<br><b> AC NAME : </b>Jammalamadugu<br><b> CANDIDATE NAME : </b>Rotikadi Ramakrishna(BJP)<br><b>No of votes: </b>536<br><b>Position: </b>6<br><b>Percentage: </b>0.26<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>45.0<br><b>Margin: </b>124469<br><b>Winner: </b>Mule Sudheer Reddy(YSRCP)<br><b>Total Votes: </b>237817<br>"
+    },
+    "132": {
+      "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+      "matter": "<b> AC NO. : </b>132<br><b> AC NAME : </b>Proddatur<br><b> CANDIDATE NAME : </b>Kovvuru Bala Chandra Reddy(BJP)<br><b>No of votes: </b>2210<br><b>Position: </b>5<br><b>Percentage: </b>1.21<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>61.0<br><b>Margin: </b>105731<br><b>Winner: </b>Rachamallu Siva Prasad Reddy(YSRCP)<br><b>Total Votes: </b>236849<br>"
+    },
+    "133": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>133<br><b> AC NAME : </b>Mydukur<br><b> CANDIDATE NAME : </b>B P Venkata Pratap Reddy(BJP)<br><b>No of votes: </b>986<br><b>Position: </b>6<br><b>Percentage: </b>0.58<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>50.0<br><b>Margin: </b>93863<br><b>Winner: </b>Raghurami Reddy Settipally(YSRCP)<br><b>Total Votes: </b>208194<br>"
+    },
+    "134": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>134<br><b> AC NAME : </b>Allagadda<br><b> CANDIDATE NAME : </b>Boreddy Lakshmi Reddy, Advocate(BJP)<br><b>No of votes: </b>735<br><b>Position: </b>7<br><b>Percentage: </b>0.4<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>52.0<br><b>Margin: </b>105170<br><b>Winner: </b>Gangula Brijendra Reddy (Nani)(YSRCP)<br><b>Total Votes: </b>221164<br>"
+    },
+    "135": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>135<br><b> AC NAME : </b>Srisailam<br><b> CANDIDATE NAME : </b>BUDDA SRIKANTH REDDY(BJP)<br><b>No of votes: </b>1184<br><b>Position: </b>6<br><b>Percentage: </b>0.78<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>43.0<br><b>Margin: </b>91052<br><b>Winner: </b>SILPA CHAKRAPANI REDDY(YSRCP)<br><b>Total Votes: </b>185218<br>"
+    },
+    "137": {
+      "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+      "matter": "<b> AC NO. : </b>137<br><b> AC NAME : </b>Kurnool<br><b> CANDIDATE NAME : </b>Venkata Subba Reddy. B(BJP)<br><b>No of votes: </b>1954<br><b>Position: </b>5<br><b>Percentage: </b>1.28<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>50.0<br><b>Margin: </b>70865<br><b>Winner: </b>Abdul Hafeez Khan(YSRCP)<br><b>Total Votes: </b>258876<br>"
+    },
+    "138": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>138<br><b> AC NAME : </b>Panyam<br><b> CANDIDATE NAME : </b>G S NAGARAJU(BJP)<br><b>No of votes: </b>1735<br><b>Position: </b>6<br><b>Percentage: </b>0.8<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>52.0<br><b>Margin: </b>120741<br><b>Winner: </b>KATASANI RAMBHUPAL REDDY(YSRCP)<br><b>Total Votes: </b>288300<br>"
+    },
+    "139": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>139<br><b> AC NAME : </b>Nandyal<br><b> CANDIDATE NAME : </b>MALIKIREDDY SIVA SANKAR REDDY(BJP)<br><b>No of votes: </b>1129<br><b>Position: </b>5<br><b>Percentage: </b>0.57<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>107739<br><b>Winner: </b>SHILPA RAVI CHANDRA KISHORE REDDY(YSRCP)<br><b>Total Votes: </b>257029<br>"
+    },
+    "140": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>140<br><b> AC NAME : </b>Banaganapalle<br><b> CANDIDATE NAME : </b>B.LINGANNA(BJP)<br><b>No of votes: </b>533<br><b>Position: </b>8<br><b>Percentage: </b>0.27<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>56.0<br><b>Margin: </b>99465<br><b>Winner: </b>KATASANI RAMI REDDY(YSRCP)<br><b>Total Votes: </b>233754<br>"
+    },
+    "141": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>141<br><b> AC NAME : </b>Dhone<br><b> CANDIDATE NAME : </b>S V Ramana Rayal(BJP)<br><b>No of votes: </b>552<br><b>Position: </b>6<br><b>Percentage: </b>0.32<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>56.0<br><b>Margin: </b>100293<br><b>Winner: </b>Buggana Raja Reddy(YSRCP)<br><b>Total Votes: </b>220035<br>"
+    },
+    "142": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>142<br><b> AC NAME : </b>Pattikonda<br><b> CANDIDATE NAME : </b>EEDIGA RANGA GOUD(BJP)<br><b>No of votes: </b>959<br><b>Position: </b>6<br><b>Percentage: </b>0.57<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>100022<br><b>Winner: </b>KANGATI SREEDEVI(YSRCP)<br><b>Total Votes: </b>206915<br>"
+    },
+    "143": {
+      "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+      "matter": "<b> AC NO. : </b>143<br><b> AC NAME : </b>Kodumur <br><b> CANDIDATE NAME : </b>MEESALA PREM KUMAR(BJP)<br><b>No of votes: </b>1970<br><b>Position: </b>6<br><b>Percentage: </b>1.17<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>46.0<br><b>Margin: </b>93067<br><b>Winner: </b>JARADODDI SUDHAKAR(YSRCP)<br><b>Total Votes: </b>216212<br>"
+    },
+    "144": {
+      "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+      "matter": "<b> AC NO. : </b>144<br><b> AC NAME : </b>Yemmiganur<br><b> CANDIDATE NAME : </b>K.R. MURAHARI REDDY(BJP)<br><b>No of votes: </b>3022<br><b>Position: </b>3<br><b>Percentage: </b>1.67<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>45.0<br><b>Margin: </b>93476<br><b>Winner: </b>K CHENNAKESAVA REDDY(YSRCP)<br><b>Total Votes: </b>227395<br>"
+    },
+    "145": {
+      "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+      "matter": "<b> AC NO. : </b>145<br><b> AC NAME : </b>Mantralayam<br><b> CANDIDATE NAME : </b>JALLI MADHUSUDAN(BJP)<br><b>No of votes: </b>1578<br><b>Position: </b>5<br><b>Percentage: </b>0.99<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>47.0<br><b>Margin: </b>85318<br><b>Winner: </b>Y. BALANAGI REDDY(YSRCP)<br><b>Total Votes: </b>187057<br>"
+    },
+    "146": {
+      "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+      "matter": "<b> AC NO. : </b>146<br><b> AC NAME : </b>Adoni<br><b> CANDIDATE NAME : </b>KUNIGIRI NEELAKANTA(BJP)<br><b>No of votes: </b>3854<br><b>Position: </b>4<br><b>Percentage: </b>2.45<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>43.0<br><b>Margin: </b>70255<br><b>Winner: </b>Y. SAI PRASAD REDDY(YSRCP)<br><b>Total Votes: </b>240234<br>"
+    },
+    "147": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>147<br><b> AC NAME : </b>Alur<br><b> CANDIDATE NAME : </b>Dumma Venkataramudu(BJP)<br><b>No of votes: </b>2077<br><b>Position: </b>6<br><b>Percentage: </b>1.1<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>105024<br><b>Winner: </b>Gummanur Jayaram(YSRCP)<br><b>Total Votes: </b>236320<br>"
+    },
+    "148": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>148<br><b> AC NAME : </b>Rayadurg<br><b> CANDIDATE NAME : </b>J.VASUNDARA(BJP)<br><b>No of votes: </b>824<br><b>Position: </b>7<br><b>Percentage: </b>0.38<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>53.0<br><b>Margin: </b>108219<br><b>Winner: </b>KAPU RAMACHANDRA REDDY(YSRCP)<br><b>Total Votes: </b>249605<br>"
+    },
+    "149": {
+      "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+      "matter": "<b> AC NO. : </b>149<br><b> AC NAME : </b>Uravakonda<br><b> CANDIDATE NAME : </b>KOTHA SREENIVASULU(BJP)<br><b>No of votes: </b>757<br><b>Position: </b>6<br><b>Percentage: </b>0.41<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>50.0<br><b>Margin: </b>89452<br><b>Winner: </b>PAYYAVULA KESHAV(TDP)<br><b>Total Votes: </b>215940<br>"
+    },
+    "150": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>150<br><b> AC NAME : </b>Guntakal<br><b> CANDIDATE NAME : </b>Pasupula Hariharanath(BJP)<br><b>No of votes: </b>1163<br><b>Position: </b>6<br><b>Percentage: </b>0.61<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>61.0<br><b>Margin: </b>105759<br><b>Winner: </b>Y. VENKATARAMA REDDY(YSRCP)<br><b>Total Votes: </b>252719<br>"
+    },
+    "151": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>151<br><b> AC NAME : </b>Tadipatri<br><b> CANDIDATE NAME : </b>JANGAMREDDY.ANKAL REDDY(BJP)<br><b>No of votes: </b>1619<br><b>Position: </b>6<br><b>Percentage: </b>0.86<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>55.0<br><b>Margin: </b>91292<br><b>Winner: </b>K. PEDDA REDDY(YSRCP)<br><b>Total Votes: </b>234924<br>"
+    },
+    "152": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>152<br><b> AC NAME : </b>Singanamala <br><b> CANDIDATE NAME : </b>Challa. Chinna Venkatesu(BJP)<br><b>No of votes: </b>1046<br><b>Position: </b>6<br><b>Percentage: </b>0.53<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>51.0<br><b>Margin: </b>116998<br><b>Winner: </b>Padmavathy Jonnalagadda(YSRCP)<br><b>Total Votes: </b>235435<br>"
+    },
+    "153": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>153<br><b> AC NAME : </b>Anantapur urban<br><b> CANDIDATE NAME : </b>AMARNATH JANGATI(BJP)<br><b>No of votes: </b>1436<br><b>Position: </b>5<br><b>Percentage: </b>0.87<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>62.0<br><b>Margin: </b>87268<br><b>Winner: </b>ANANTHA VENKATARAMI REDDY(YSRCP)<br><b>Total Votes: </b>255852<br>"
+    },
+    "154": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>154<br><b> AC NAME : </b>KALYANDURG<br><b> CANDIDATE NAME : </b>Muppuri Devaraj(BJP)<br><b>No of votes: </b>794<br><b>Position: </b>6<br><b>Percentage: </b>0.42<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>48.0<br><b>Margin: </b>87257<br><b>Winner: </b>K.V. Usha Sricharan(YSRCP)<br><b>Total Votes: </b>219685<br>"
+    },
+    "155": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>155<br><b> AC NAME : </b>Raptadu<br><b> CANDIDATE NAME : </b>Byalla Erriswamy(BJP)<br><b>No of votes: </b>934<br><b>Position: </b>5<br><b>Percentage: </b>0.46<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>48.0<br><b>Margin: </b>110267<br><b>Winner: </b>Thopudurthi Prakash Reddy(YSRCP)<br><b>Total Votes: </b>245738<br>"
+    },
+    "156": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>156<br><b> AC NAME : </b>Madakasira <br><b> CANDIDATE NAME : </b>N HANUMANTHAPPA(BJP)<br><b>No of votes: </b>1138<br><b>Position: </b>6<br><b>Percentage: </b>0.64<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>64.0<br><b>Margin: </b>87389<br><b>Winner: </b>M THIPPESWAMY(YSRCP)<br><b>Total Votes: </b>201881<br>"
+    },
+    "157": {
+      "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+      "matter": "<b> AC NO. : </b>157<br><b> AC NAME : </b>Hindupur<br><b> CANDIDATE NAME : </b>P. D. PARTHA SARATHY(BJP)<br><b>No of votes: </b>2104<br><b>Position: </b>5<br><b>Percentage: </b>1.18<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>40.0<br><b>Margin: </b>89600<br><b>Winner: </b>Nandamuri Balakrishna(TDP)<br><b>Total Votes: </b>229340<br>"
+    },
+    "158": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>158<br><b> AC NAME : </b>Penukonda<br><b> CANDIDATE NAME : </b>GORANTLA MOHAN RAO SEKHAR(BJP)<br><b>No of votes: </b>1417<br><b>Position: </b>6<br><b>Percentage: </b>0.75<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>49.0<br><b>Margin: </b>95190<br><b>Winner: </b>MALAGUNDLA SANKARANARAYANA(YSRCP)<br><b>Total Votes: </b>220555<br>"
+    },
+    "159": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>159<br><b> AC NAME : </b>Puttaparthi<br><b> CANDIDATE NAME : </b>HANUMANTHA REDDY YALAPALA(BJP)<br><b>No of votes: </b>1211<br><b>Position: </b>6<br><b>Percentage: </b>0.71<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>96023<br><b>Winner: </b>DUDDUKUNTA SREEDHAR REDDY(YSRCP)<br><b>Total Votes: </b>200075<br>"
+    },
+    "160": {
+      "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+      "matter": "<b> AC NO. : </b>160<br><b> AC NAME : </b>Dharmavaram<br><b> CANDIDATE NAME : </b>E SUDARSHAN REDDY(BJP)<br><b>No of votes: </b>622<br><b>Position: </b>6<br><b>Percentage: </b>0.3<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>106287<br><b>Winner: </b>KETHIREDDY VENKATARAMI REDDY(YSRCP)<br><b>Total Votes: </b>240543<br>"
+    },
+    "161": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>161<br><b> AC NAME : </b>Kadiri<br><b> CANDIDATE NAME : </b>S.V. NAGENDRA PRASAD(BJP)<br><b>No of votes: </b>1358<br><b>Position: </b>7<br><b>Percentage: </b>0.71<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>38.0<br><b>Margin: </b>101074<br><b>Winner: </b>P.V. SIDDA REDDY(YSRCP)<br><b>Total Votes: </b>240086<br>"
+    },
+    "163": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>163<br><b> AC NAME : </b>Pileru<br><b> CANDIDATE NAME : </b>PULI REDDY NARENDRA KUMAR REDDY(BJP)<br><b>No of votes: </b>1029<br><b>Position: </b>6<br><b>Percentage: </b>0.58<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>43.0<br><b>Margin: </b>86271<br><b>Winner: </b>CHINTHALA RAMACHANDRA REDDY(YSRCP)<br><b>Total Votes: </b>223982<br>"
+    },
+    "164": {
+      "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+      "matter": "<b> AC NO. : </b>164<br><b> AC NAME : </b>Madanapalle<br><b> CANDIDATE NAME : </b>Bandi Anand(BJP)<br><b>No of votes: </b>1884<br><b>Position: </b>5<br><b>Percentage: </b>1.05<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>34.0<br><b>Margin: </b>90182<br><b>Winner: </b>M. Nawaz Basha(YSRCP)<br><b>Total Votes: </b>246284<br>"
+    },
+    "165": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>165<br><b> AC NAME : </b>Punganur<br><b> CANDIDATE NAME : </b>GANNA MADAN MOHAN BABU(BJP)<br><b>No of votes: </b>1472<br><b>Position: </b>6<br><b>Percentage: </b>0.75<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>43.0<br><b>Margin: </b>105959<br><b>Winner: </b>PEDDIREDDI RAMACHANDRA REDDY(YSRCP)<br><b>Total Votes: </b>229643<br>"
+    },
+    "166": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>166<br><b> AC NAME : </b>Chandragiri<br><b> CANDIDATE NAME : </b>Dr. T. MADHU BABU(BJP)<br><b>No of votes: </b>1158<br><b>Position: </b>6<br><b>Percentage: </b>0.51<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>56.0<br><b>Margin: </b>126632<br><b>Winner: </b>Dr.CHEVIREDDY BHASKAR REDDY(YSRCP)<br><b>Total Votes: </b>292162<br>"
+    },
+    "167": {
+      "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+      "matter": "<b> AC NO. : </b>167<br><b> AC NAME : </b>Tirupati<br><b> CANDIDATE NAME : </b>BHAVANI SANKAR VALLAMCHETTY(BJP)<br><b>No of votes: </b>2385<br><b>Position: </b>5<br><b>Percentage: </b>1.32<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>41.0<br><b>Margin: </b>78159<br><b>Winner: </b>BHUMANA KARUNAKAR REDDY(YSRCP)<br><b>Total Votes: </b>270847<br>"
+    },
+    "168": {
+      "color": "rgba(188.7258, 213.4788, 188.0561, 1.0)",
+      "matter": "<b> AC NO. : </b>168<br><b> AC NAME : </b>Srikalahasti<br><b> CANDIDATE NAME : </b>Anandha Kumar Kola(BJP)<br><b>No of votes: </b>4004<br><b>Position: </b>4<br><b>Percentage: </b>2.04<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>47.0<br><b>Margin: </b>105537<br><b>Winner: </b>Biyyapu Madhusudhan Reddy(YSRCP)<br><b>Total Votes: </b>237760<br>"
+    },
+    "169": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>169<br><b> AC NAME : </b>Satyavedu <br><b> CANDIDATE NAME : </b>Venkataiah . S(BJP)<br><b>No of votes: </b>1610<br><b>Position: </b>6<br><b>Percentage: </b>0.91<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>51.0<br><b>Margin: </b>102331<br><b>Winner: </b>Adimulam Koneti(YSRCP)<br><b>Total Votes: </b>202843<br>"
+    },
+    "170": {
+      "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+      "matter": "<b> AC NO. : </b>170<br><b> AC NAME : </b>Nagari<br><b> CANDIDATE NAME : </b>NISHIDHA. M(BJP)<br><b>No of votes: </b>1352<br><b>Position: </b>6<br><b>Percentage: </b>0.8<br><b>Gender: </b>FEMALE<br><b>Category: </b>GENERAL<br><b>Age: </b>51.0<br><b>Margin: </b>78981<br><b>Winner: </b>R.K. ROJA(YSRCP)<br><b>Total Votes: </b>194900<br>"
+    },
+    "171": {
+      "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+      "matter": "<b> AC NO. : </b>171<br><b> AC NAME : </b>Gangadhara Nellore<br><b> CANDIDATE NAME : </b>V. RAJENDRAN(BJP)<br><b>No of votes: </b>1572<br><b>Position: </b>6<br><b>Percentage: </b>0.91<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>57.0<br><b>Margin: </b>101466<br><b>Winner: </b>K. NARAYANA SWAMY(YSRCP)<br><b>Total Votes: </b>199874<br>"
+    },
+    "172": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>172<br><b> AC NAME : </b>Chittoor<br><b> CANDIDATE NAME : </b>Advocate. Jaya Kumar. V.(BJP)<br><b>No of votes: </b>958<br><b>Position: </b>6<br><b>Percentage: </b>0.63<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>50.0<br><b>Margin: </b>90248<br><b>Winner: </b>Aranii Srenevasulu (Jangalapalli)(YSRCP)<br><b>Total Votes: </b>193904<br>"
+    },
+    "173": {
+      "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+      "matter": "<b> AC NO. : </b>173<br><b> AC NAME : </b>Puthalapattu <br><b> CANDIDATE NAME : </b>BANU PRAKASH. L(BJP)<br><b>No of votes: </b>1084<br><b>Position: </b>6<br><b>Percentage: </b>0.58<br><b>Gender: </b>MALE<br><b>Category: </b>SC<br><b>Age: </b>28.0<br><b>Margin: </b>102181<br><b>Winner: </b>M. BABU(YSRCP)<br><b>Total Votes: </b>216240<br>"
+    },
+    "174": {
+      "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+      "matter": "<b> AC NO. : </b>174<br><b> AC NAME : </b>Palamaner<br><b> CANDIDATE NAME : </b>P . C. ESWAR REDDY(BJP)<br><b>No of votes: </b>1148<br><b>Position: </b>6<br><b>Percentage: </b>0.52<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>49.0<br><b>Margin: </b>118093<br><b>Winner: </b>N VENKATE GOWDA(YSRCP)<br><b>Total Votes: </b>256090<br>"
+    },
+    "175": {
+      "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+      "matter": "<b> AC NO. : </b>175<br><b> AC NAME : </b>Kuppam<br><b> CANDIDATE NAME : </b>N.S. Thulasinath(BJP)<br><b>No of votes: </b>1139<br><b>Position: </b>6<br><b>Percentage: </b>0.63<br><b>Gender: </b>MALE<br><b>Category: </b>GENERAL<br><b>Age: </b>40.0<br><b>Margin: </b>99007<br><b>Winner: </b>Nara Chandra Babu Naidu(TDP)<br><b>Total Votes: </b>213329<br>"
+    }
+  },
+  "border": "0,0"
+}
