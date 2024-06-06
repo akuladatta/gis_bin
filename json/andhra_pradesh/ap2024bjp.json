@@ -1,0 +1,47 @@
+{
+    "title": "AP 2024 BJP performence",
+    "trigger": "objectid",
+    "desc": "<div><table class='col-md-12'><caption>Party hold percentself.ages</caption><thead><tr><th>Color</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: RGBA(255,0,0,1);\"></td><td>52.97% to 61.49%</td><td>5</td><td>5 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(240.0,103.0,79.0,1);\"></td><td>44.45% to 52.97%</td><td>3</td><td>3 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(252.45,173.4,96.9,1);\"></td><td>35.93% to 44.45%</td><td>1</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: RGBA(255.0,255.0,191.25,1);\"></td><td>27.41% to 35.93%</td><td>0</td><td>0 (0%)</td></tr><tr><td style=\"background-color: RGBA(43.35,122.4,181.05,1);\"></td><td>18.89% to 27.41%</td><td>1</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>10</td><td>8 (80.0%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Party Position Status</caption><thead><tr><th>Position</th><th>Seats</th></thead><tbody><tr><td>Place No : 1</td><td>8</td></tr><tr><td>Place No : 2</td><td>2</td></tr><tr><td>Not Contested</td><td>165</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table></div>",
+    "data": {
+        "160": {
+            "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+            "matter": "<b>AC Number: </b>160<br><b>AC Name: </b>Dharmavaram<br><b>Candidate: </b>SATYA KUMAR YADAV(Bharatiya Janata Party)<br><b>No of votes: </b>106544<br><b>Position: </b>1<br><b>Percentage: </b>48.46<br><b>Margin: </b>3734<br>"
+        },
+        "131": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC Number: </b>131<br><b>AC Name: </b>Jammalamadugu<br><b>Candidate: </b>ADINARAYANA REDDY CHADIPIRALA(Bharatiya Janata Party)<br><b>No of votes: </b>109640<br><b>Position: </b>1<br><b>Percentage: </b>51.43<br><b>Margin: </b>17191<br>"
+        },
+        "7": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC Number: </b>7<br><b>AC Name: </b>Etcherla<br><b>Candidate: </b>ESWARA RAO NADUKUDITI(Bharatiya Janata Party)<br><b>No of votes: </b>112770<br><b>Position: </b>1<br><b>Percentage: </b>54.59<br><b>Margin: </b>29089<br>"
+        },
+        "40": {
+            "color": "rgba(244.0909, 74.9091, 57.4545, 1.0)",
+            "matter": "<b>AC Number: </b>40<br><b>AC Name: </b>Anaparthy<br><b>Candidate: </b>RAMAKRISHNA REDDY NALLAMILLI(Bharatiya Janata Party)<br><b>No of votes: </b>105720<br><b>Position: </b>1<br><b>Percentage: </b>53.73<br><b>Margin: </b>20850<br>"
+        },
+        "73": {
+            "color": "rgba(253.7879, 8.3232, 6.3838, 1.0)",
+            "matter": "<b>AC Number: </b>73<br><b>AC Name: </b>Kaikalur<br><b>Candidate: </b>KAMINENI SRINIVAS(Bharatiya Janata Party)<br><b>No of votes: </b>109280<br><b>Position: </b>1<br><b>Percentage: </b>60.38<br><b>Margin: </b>45273<br>"
+        },
+        "79": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC Number: </b>79<br><b>AC Name: </b>Vijayawada West<br><b>Candidate: </b>YALAMANCHILI SATYANARAYANA CHOWDARY (SUJANA CHOWDARY)(Bharatiya Janata Party)<br><b>No of votes: </b>105669<br><b>Position: </b>1<br><b>Percentage: </b>61.49<br><b>Margin: </b>47032<br>"
+        },
+        "124": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC Number: </b>124<br><b>AC Name: </b>Badvel<br><b>Candidate: </b>BOJJA ROSHANNA(Bharatiya Janata Party)<br><b>No of votes: </b>71843<br><b>Position: </b>2<br><b>Percentage: </b>41.08<br><b>Margin: </b>18567<br><b>Winner: </b>DASARI SUDHA(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "146": {
+            "color": "rgba(240.4545, 99.8788, 76.6061, 1.0)",
+            "matter": "<b>AC Number: </b>146<br><b>AC Name: </b>Adoni<br><b>Candidate: </b>DR. PARTHA SARATHI VALMIKI(Bharatiya Janata Party)<br><b>No of votes: </b>89929<br><b>Position: </b>1<br><b>Percentage: </b>51.06<br><b>Margin: </b>18164<br>"
+        },
+        "23": {
+            "color": "rgba(250.1515, 33.2929, 25.5354, 1.0)",
+            "matter": "<b>AC Number: </b>23<br><b>AC Name: </b>Visakhapatnam North<br><b>Candidate: </b>VISHNU KUMAR RAJU PENMETSA(Bharatiya Janata Party)<br><b>No of votes: </b>108801<br><b>Position: </b>1<br><b>Percentage: </b>57.81<br><b>Margin: </b>47534<br>"
+        },
+        "28": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>28<br><b>AC Name: </b>Araku Valley<br><b>Candidate: </b>RAJARAO PANGI(Bharatiya Janata Party)<br><b>No of votes: </b>33781<br><b>Position: </b>2<br><b>Percentage: </b>18.89<br><b>Margin: </b>31877<br><b>Winner: </b>REGAM MATYALINGAM(Yuvajana Sramika Rythu Congress Party)<br>"
+        }
+    }
+}

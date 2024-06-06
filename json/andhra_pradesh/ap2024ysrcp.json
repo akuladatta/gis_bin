@@ -1,0 +1,707 @@
+{
+    "title": "AP 2024 YSRCP performence",
+    "trigger": "objectid",
+    "desc": "<div><table class='col-md-12'><caption>Party hold percentself.ages</caption><thead><tr><th>Color</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: RGBA(255,0,0,1);\"></td><td>53.88% to 61.38%</td><td>1</td><td>1 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(240.0,103.0,79.0,1);\"></td><td>46.38% to 53.88%</td><td>12</td><td>8 (66.67%)</td></tr><tr><td style=\"background-color: RGBA(252.45,173.4,96.9,1);\"></td><td>38.88% to 46.38%</td><td>84</td><td>1 (1.19%)</td></tr><tr><td style=\"background-color: RGBA(255.0,255.0,191.25,1);\"></td><td>31.38% to 38.88%</td><td>58</td><td>1 (1.72%)</td></tr><tr><td style=\"background-color: RGBA(43.35,122.4,181.05,1);\"></td><td>23.88% to 31.38%</td><td>20</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>175</td><td>11 (6.29%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Party Position Status</caption><thead><tr><th>Position</th><th>Seats</th></thead><tbody><tr><td>Place No : 1</td><td>11</td></tr><tr><td>Place No : 2</td><td>164</td></tr><tr><td>Not Contested</td><td>0</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table></div>",
+    "data": {
+        "1": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC Number: </b>1<br><b>AC Name: </b>Ichchapuram<br><b>Candidate: </b>PIRIYA VIJAYA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>70829<br><b>Position: </b>2<br><b>Percentage: </b>37.51<br><b>Margin: </b>39783<br><b>Winner: </b>ASHOK BENDALAM(Telugu Desam)<br>"
+        },
+        "2": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>2<br><b>AC Name: </b>Palasa<br><b>Candidate: </b>APPALARAJU SEEDIRI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>61210<br><b>Position: </b>2<br><b>Percentage: </b>36.43<br><b>Margin: </b>40350<br><b>Winner: </b>GOUTHU SIREESHA(Telugu Desam)<br>"
+        },
+        "3": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC Number: </b>3<br><b>AC Name: </b>Tekkali<br><b>Candidate: </b>DUVVADA SRINIVAS(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>73488<br><b>Position: </b>2<br><b>Percentage: </b>37.94<br><b>Margin: </b>34435<br><b>Winner: </b>ATCHANNAIDU KINJARAPU(Telugu Desam)<br>"
+        },
+        "4": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC Number: </b>4<br><b>AC Name: </b>Pathapatnam<br><b>Candidate: </b>REDDY SHANTHI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>62925<br><b>Position: </b>2<br><b>Percentage: </b>38.53<br><b>Margin: </b>26527<br><b>Winner: </b>MAMIDI GOVINDA RAO(Telugu Desam)<br>"
+        },
+        "5": {
+            "color": "rgba(254.9742, 254.1758, 190.297, 1.0)",
+            "matter": "<b>AC Number: </b>5<br><b>AC Name: </b>Srikakulam<br><b>Candidate: </b>DHARMANA PRASADA RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>64570<br><b>Position: </b>2<br><b>Percentage: </b>33.6<br><b>Margin: </b>52521<br><b>Winner: </b>GONDU SHANKAR(Telugu Desam)<br>"
+        },
+        "6": {
+            "color": "rgba(254.9742, 254.1758, 190.297, 1.0)",
+            "matter": "<b>AC Number: </b>6<br><b>AC Name: </b>Amadalavalasa<br><b>Candidate: </b>THAMMINENI SEETARAM(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>52971<br><b>Position: </b>2<br><b>Percentage: </b>33.38<br><b>Margin: </b>35032<br><b>Winner: </b>KOONA RAVI KUMAR(Telugu Desam)<br>"
+        },
+        "7": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC Number: </b>7<br><b>AC Name: </b>Etcherla<br><b>Candidate: </b>KIRAN KUMAR GORLE(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>83681<br><b>Position: </b>2<br><b>Percentage: </b>40.51<br><b>Margin: </b>29089<br><b>Winner: </b>ESWARA RAO NADUKUDITI(Bharatiya Janata Party)<br>"
+        },
+        "8": {
+            "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+            "matter": "<b>AC Number: </b>8<br><b>AC Name: </b>Narasannapeta<br><b>Candidate: </b>KRISHNADAS DHARMANA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>70580<br><b>Position: </b>2<br><b>Percentage: </b>39.79<br><b>Margin: </b>29371<br><b>Winner: </b>BAGGU RAMANAMURTHY(Telugu Desam)<br>"
+        },
+        "9": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC Number: </b>9<br><b>AC Name: </b>Rajam<br><b>Candidate: </b>DR. TALE RAJESH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>73663<br><b>Position: </b>2<br><b>Percentage: </b>41.74<br><b>Margin: </b>20722<br><b>Winner: </b>KONDRU MURALI MOHAN(Telugu Desam)<br>"
+        },
+        "10": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC Number: </b>10<br><b>AC Name: </b>Palakonda<br><b>Candidate: </b>VISWASARAYI KALAVATHI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>61917<br><b>Position: </b>2<br><b>Percentage: </b>41.73<br><b>Margin: </b>13291<br><b>Winner: </b>JAYAKRISHNA NIMMAKA(Janasena Party)<br>"
+        },
+        "11": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC Number: </b>11<br><b>AC Name: </b>Kurupam<br><b>Candidate: </b>PAMULA PUSHPA SREEVANI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>59855<br><b>Position: </b>2<br><b>Percentage: </b>38.54<br><b>Margin: </b>23500<br><b>Winner: </b>JAGADEESWARI THOYAKA(Telugu Desam)<br>"
+        },
+        "12": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>12<br><b>AC Name: </b>Parvathipuram<br><b>Candidate: </b>ALAJANGI JOGARAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>59491<br><b>Position: </b>2<br><b>Percentage: </b>39.23<br><b>Margin: </b>24414<br><b>Winner: </b>BONELA VIJAYA CHANDRA(Telugu Desam)<br>"
+        },
+        "13": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC Number: </b>13<br><b>AC Name: </b>Salur<br><b>Candidate: </b>RAJANNA DORA PEEDIKA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>66478<br><b>Position: </b>2<br><b>Percentage: </b>41.98<br><b>Margin: </b>13733<br><b>Winner: </b>GUMMIDI SANDHYARANI(Telugu Desam)<br>"
+        },
+        "14": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC Number: </b>14<br><b>AC Name: </b>Bobbili<br><b>Candidate: </b>VENKATA CHINA APPALA NAIDU SAMBANGI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>67718<br><b>Position: </b>2<br><b>Percentage: </b>35.83<br><b>Margin: </b>44648<br><b>Winner: </b>R.V.S.K.K.RANGA RAO @ BABYNAYANA(Telugu Desam)<br>"
+        },
+        "15": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC Number: </b>15<br><b>AC Name: </b>Cheepurupalle<br><b>Candidate: </b>BOTCHA SATYANARAYANA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>76254<br><b>Position: </b>2<br><b>Percentage: </b>44.06<br><b>Margin: </b>11971<br><b>Winner: </b>KALAVENKATARAO KIMIDI(Telugu Desam)<br>"
+        },
+        "16": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>16<br><b>AC Name: </b>Gajapathinagaram<br><b>Candidate: </b>APPALANARASAYYA BOTCHA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>72750<br><b>Position: </b>2<br><b>Percentage: </b>40.8<br><b>Margin: </b>25301<br><b>Winner: </b>KONDAPALLI SRINIVAS(Telugu Desam)<br>"
+        },
+        "17": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC Number: </b>17<br><b>AC Name: </b>Nellimarla<br><b>Candidate: </b>APPALANAIDU BADDUKONDA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>70086<br><b>Position: </b>2<br><b>Percentage: </b>36.83<br><b>Margin: </b>39829<br><b>Winner: </b>LOKAM NAGA MADHAVI(Janasena Party)<br>"
+        },
+        "18": {
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC Number: </b>18<br><b>AC Name: </b>Vizianagaram<br><b>Candidate: </b>KOLAGATLA VEERABHADRA SWAMY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>60632<br><b>Position: </b>2<br><b>Percentage: </b>32.11<br><b>Margin: </b>60609<br><b>Winner: </b>ADITI VIJAYALAKSHMI GAJAPATHI RAJU PUSAPATI(Telugu Desam)<br>"
+        },
+        "19": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC Number: </b>19<br><b>AC Name: </b>Srungavarapukota<br><b>Candidate: </b>KADUBANDI SRINIVASA RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>72236<br><b>Position: </b>2<br><b>Percentage: </b>37.97<br><b>Margin: </b>38790<br><b>Winner: </b>KOLLA LALITHA KUMARI(Telugu Desam)<br>"
+        },
+        "20": {
+            "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+            "matter": "<b>AC Number: </b>20<br><b>AC Name: </b>Bhimili<br><b>Candidate: </b>MUTTAMSETTI SRINIVASA RAO (AVANTHI SRINIVAS)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>83829<br><b>Position: </b>2<br><b>Percentage: </b>30.13<br><b>Margin: </b>92401<br><b>Winner: </b>GANTA SRINIVASA RAO(Telugu Desam)<br>"
+        },
+        "21": {
+            "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+            "matter": "<b>AC Number: </b>21<br><b>AC Name: </b>Visakhapatnam East<br><b>Candidate: </b>M V V SATYANARAYANA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>61170<br><b>Position: </b>2<br><b>Percentage: </b>30.06<br><b>Margin: </b>70877<br><b>Winner: </b>RAMAKRISHNA BABU VELAGAPUDI(Telugu Desam)<br>"
+        },
+        "22": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>22<br><b>AC Name: </b>Visakhapatnam South<br><b>Candidate: </b>GANESH KUMAR VASUPALLI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>33274<br><b>Position: </b>2<br><b>Percentage: </b>23.88<br><b>Margin: </b>64594<br><b>Winner: </b>CH.VAMSI KRISHNA SRINIVAS(Janasena Party)<br>"
+        },
+        "23": {
+            "color": "rgba(240.0348, 245.6242, 190.5288, 1.0)",
+            "matter": "<b>AC Number: </b>23<br><b>AC Name: </b>Visakhapatnam North<br><b>Candidate: </b>KANNAPARAJU KAMMILA (K.K. RAJU)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>61267<br><b>Position: </b>2<br><b>Percentage: </b>32.55<br><b>Margin: </b>47534<br><b>Winner: </b>VISHNU KUMAR RAJU PENMETSA(Bharatiya Janata Party)<br>"
+        },
+        "24": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC Number: </b>24<br><b>AC Name: </b>Visakhapatnam West<br><b>Candidate: </b>ADARI ANAND KUMAR(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>55621<br><b>Position: </b>2<br><b>Percentage: </b>36.83<br><b>Margin: </b>35184<br><b>Winner: </b>P.G.V.R.NAIDU(GANABABU)(Telugu Desam)<br>"
+        },
+        "25": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC Number: </b>25<br><b>AC Name: </b>Gajuwaka<br><b>Candidate: </b>AVSS AMARNATH GUDIVADA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>62468<br><b>Position: </b>2<br><b>Percentage: </b>26.66<br><b>Margin: </b>95235<br><b>Winner: </b>PALLA SRINIVAS RAO(Telugu Desam)<br>"
+        },
+        "26": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>26<br><b>AC Name: </b>Chodavaram<br><b>Candidate: </b>KARANAM  DHARMASRI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>67462<br><b>Position: </b>2<br><b>Percentage: </b>36.32<br><b>Margin: </b>42189<br><b>Winner: </b>SURYA NAGA SANYASI RAJU KALIDINDI(Telugu Desam)<br>"
+        },
+        "27": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC Number: </b>27<br><b>AC Name: </b>Madugula<br><b>Candidate: </b>ANURADHA ERLI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>63843<br><b>Position: </b>2<br><b>Percentage: </b>38.64<br><b>Margin: </b>28026<br><b>Winner: </b>BANDARU SATYANARAYANA MURTHY(Telugu Desam)<br>"
+        },
+        "28": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC Number: </b>28<br><b>AC Name: </b>Araku Valley<br><b>Candidate: </b>REGAM MATYALINGAM(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>65658<br><b>Position: </b>1<br><b>Percentage: </b>36.71<br><b>Margin: </b>31877<br>"
+        },
+        "29": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>29<br><b>AC Name: </b>Paderu<br><b>Candidate: </b>MATSYARASA VISWESWARA RAJU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>68170<br><b>Position: </b>1<br><b>Percentage: </b>42.3<br><b>Margin: </b>19338<br>"
+        },
+        "30": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC Number: </b>30<br><b>AC Name: </b>Anakapalle<br><b>Candidate: </b>BHARATH KUMAR MALASALA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>49362<br><b>Position: </b>2<br><b>Percentage: </b>28.57<br><b>Margin: </b>65764<br><b>Winner: </b>KONATHALA RAMAKRISHNA(Janasena Party)<br>"
+        },
+        "31": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC Number: </b>31<br><b>AC Name: </b>Pendurthi<br><b>Candidate: </b>ANNAMREDDY ADEEP RAJ(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>67741<br><b>Position: </b>2<br><b>Percentage: </b>29.43<br><b>Margin: </b>81870<br><b>Winner: </b>PANCHAKARLA RAMESH BABU(Janasena Party)<br>"
+        },
+        "32": {
+            "color": "rgba(254.8712, 250.8788, 186.4848, 1.0)",
+            "matter": "<b>AC Number: </b>32<br><b>AC Name: </b>Yelamanchili<br><b>Candidate: </b>UPPALAPATI VENKATA RAMANAMURTHY RAJU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>60487<br><b>Position: </b>2<br><b>Percentage: </b>33.71<br><b>Margin: </b>48956<br><b>Winner: </b>SUNDARAPU VIJAY KUMAR(Janasena Party)<br>"
+        },
+        "33": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC Number: </b>33<br><b>AC Name: </b>Payakaraopet<br><b>Candidate: </b>JOGULU KAMBALA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>76315<br><b>Position: </b>2<br><b>Percentage: </b>36.78<br><b>Margin: </b>43727<br><b>Winner: </b>ANITHA VANGALAPUDI(Telugu Desam)<br>"
+        },
+        "34": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>34<br><b>AC Name: </b>Narsipatnam<br><b>Candidate: </b>UMA SANKARA GANESH PETLA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>75173<br><b>Position: </b>2<br><b>Percentage: </b>41.11<br><b>Margin: </b>24676<br><b>Winner: </b>AYYANNAPATRUDU CHINTAKAYALA(Telugu Desam)<br>"
+        },
+        "35": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC Number: </b>35<br><b>AC Name: </b>Tuni<br><b>Candidate: </b>DADISETTI RAJA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>82029<br><b>Position: </b>2<br><b>Percentage: </b>43.3<br><b>Margin: </b>15177<br><b>Winner: </b>DIVYA YANAMALA(Telugu Desam)<br>"
+        },
+        "36": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>36<br><b>AC Name: </b>Prathipadu<br><b>Candidate: </b>VARUPULA SUBBARAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>64234<br><b>Position: </b>2<br><b>Percentage: </b>36.4<br><b>Margin: </b>38768<br><b>Winner: </b>VARUPULA SATYA PRABHA(Telugu Desam)<br>"
+        },
+        "37": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC Number: </b>37<br><b>AC Name: </b>Pithapuram<br><b>Candidate: </b>VANGA GEETHA VISWANATH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>64115<br><b>Position: </b>2<br><b>Percentage: </b>30.95<br><b>Margin: </b>70279<br><b>Winner: </b>KONIDALA PAWAN KALYAN(Janasena Party)<br>"
+        },
+        "38": {
+            "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+            "matter": "<b>AC Number: </b>38<br><b>AC Name: </b>Kakinada Rural<br><b>Candidate: </b>KURASALA KANNA BABU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>62374<br><b>Position: </b>2<br><b>Percentage: </b>30.21<br><b>Margin: </b>72040<br><b>Winner: </b>PANTAM VENKATESWARA RAO (PANTAM NANAJI)(Janasena Party)<br>"
+        },
+        "39": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>39<br><b>AC Name: </b>Peddapuram<br><b>Candidate: </b>DAVULURI DORABABU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>65234<br><b>Position: </b>2<br><b>Percentage: </b>36.47<br><b>Margin: </b>40451<br><b>Winner: </b>CHINA RAJAPPA NIMMAKAYALA(Telugu Desam)<br>"
+        },
+        "40": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC Number: </b>40<br><b>AC Name: </b>Anaparthy<br><b>Candidate: </b>DOCTOR.SATHI SURYANARAYANA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>84870<br><b>Position: </b>2<br><b>Percentage: </b>43.14<br><b>Margin: </b>20850<br><b>Winner: </b>RAMAKRISHNA REDDY NALLAMILLI(Bharatiya Janata Party)<br>"
+        },
+        "41": {
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC Number: </b>41<br><b>AC Name: </b>Kakinada City<br><b>Candidate: </b>DWARAMPUDI CHANDRASEKHARA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>56442<br><b>Position: </b>2<br><b>Percentage: </b>31.86<br><b>Margin: </b>56572<br><b>Winner: </b>VANAMADI VENKATESWARA RAO @ KONDABABU(Telugu Desam)<br>"
+        },
+        "42": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC Number: </b>42<br><b>AC Name: </b>Ramachandrapuram<br><b>Candidate: </b>PILLI SURYA PRAKASH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>71361<br><b>Position: </b>2<br><b>Percentage: </b>40.69<br><b>Margin: </b>26291<br><b>Winner: </b>VASAMSETTI. SUBASH(Telugu Desam)<br>"
+        },
+        "43": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC Number: </b>43<br><b>AC Name: </b>Mummidivaram<br><b>Candidate: </b>PONNADA VENKATA SATISH KUMAR(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>79951<br><b>Position: </b>2<br><b>Percentage: </b>38.56<br><b>Margin: </b>38736<br><b>Winner: </b>DATLA SUBBARAJU (BUCHIBABU)(Telugu Desam)<br>"
+        },
+        "44": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC Number: </b>44<br><b>AC Name: </b>Amalapuram<br><b>Candidate: </b>VISWARUPU PINIPE(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>65394<br><b>Position: </b>2<br><b>Percentage: </b>36.81<br><b>Margin: </b>38628<br><b>Winner: </b>AITHABATHULA ANANDARAO(Telugu Desam)<br>"
+        },
+        "45": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC Number: </b>45<br><b>AC Name: </b>Razole<br><b>Candidate: </b>GOLLAPALLI SURYA RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>56503<br><b>Position: </b>2<br><b>Percentage: </b>35.57<br><b>Margin: </b>39011<br><b>Winner: </b>DEVA VARAPRASAD(Janasena Party)<br>"
+        },
+        "46": {
+            "color": "rgba(253.9439, 221.2061, 152.1758, 1.0)",
+            "matter": "<b>AC Number: </b>46<br><b>AC Name: </b>Gannavaram<br><b>Candidate: </b>VIPPARTHI . VENUGOPALARAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>62741<br><b>Position: </b>2<br><b>Percentage: </b>37.3<br><b>Margin: </b>33367<br><b>Winner: </b>GIDDI. SATYANARAYANA(Janasena Party)<br>"
+        },
+        "47": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC Number: </b>47<br><b>AC Name: </b>Kothapeta<br><b>Candidate: </b>CHIRLA JAGGIREDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>77807<br><b>Position: </b>2<br><b>Percentage: </b>35.75<br><b>Margin: </b>56479<br><b>Winner: </b>BANDARU SATYANANDA RAO(Telugu Desam)<br>"
+        },
+        "48": {
+            "color": "rgba(253.9439, 221.2061, 152.1758, 1.0)",
+            "matter": "<b>AC Number: </b>48<br><b>AC Name: </b>Mandapeta<br><b>Candidate: </b>THOTA TRIMURTHULU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>71874<br><b>Position: </b>2<br><b>Percentage: </b>37.04<br><b>Margin: </b>44435<br><b>Winner: </b>JOGESWARA RAO.V(Telugu Desam)<br>"
+        },
+        "49": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC Number: </b>49<br><b>AC Name: </b>Rajanagaram<br><b>Candidate: </b>JAKKAMPUDI RAJA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>71946<br><b>Position: </b>2<br><b>Percentage: </b>37.68<br><b>Margin: </b>34049<br><b>Winner: </b>BATHULA BALARAMAKRISHNA S/O GANGARAO(Janasena Party)<br>"
+        },
+        "50": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC Number: </b>50<br><b>AC Name: </b>Rajahmundry City<br><b>Candidate: </b>MARGANI BHARAT RAM(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>51887<br><b>Position: </b>2<br><b>Percentage: </b>28.49<br><b>Margin: </b>71404<br><b>Winner: </b>ADIREDDY SRINIVAS(Telugu Desam)<br>"
+        },
+        "51": {
+            "color": "rgba(231.4833, 240.2667, 190.1167, 1.0)",
+            "matter": "<b>AC Number: </b>51<br><b>AC Name: </b>Rajahmundry Rural<br><b>Candidate: </b>GOPALAKRISHNA CHELLUBOYINA(VENU)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>64970<br><b>Position: </b>2<br><b>Percentage: </b>32.15<br><b>Margin: </b>64090<br><b>Winner: </b>GORANTLA BUTCHAIAH CHOUDARY(Telugu Desam)<br>"
+        },
+        "52": {
+            "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+            "matter": "<b>AC Number: </b>52<br><b>AC Name: </b>Jaggampeta<br><b>Candidate: </b>THOTA NARASIMHAM(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>60917<br><b>Position: </b>2<br><b>Percentage: </b>31.4<br><b>Margin: </b>52676<br><b>Winner: </b>JYOTHULA NEHRU(Telugu Desam)<br>"
+        },
+        "53": {
+            "color": "rgba(253.6348, 211.3152, 140.7394, 1.0)",
+            "matter": "<b>AC Number: </b>53<br><b>AC Name: </b>Rampachodavaram<br><b>Candidate: </b>NAGULAPALLI DHANALAKSHMI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>80948<br><b>Position: </b>2<br><b>Percentage: </b>38.45<br><b>Margin: </b>9139<br><b>Winner: </b>MIRIYALA SIRISHA DEVI(Telugu Desam)<br>"
+        },
+        "54": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC Number: </b>54<br><b>AC Name: </b>Kovvur<br><b>Candidate: </b>TALARI VENKATA RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>58797<br><b>Position: </b>2<br><b>Percentage: </b>36.95<br><b>Margin: </b>33946<br><b>Winner: </b>MUPPIDI VENKATESWARA RAO(Telugu Desam)<br>"
+        },
+        "55": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC Number: </b>55<br><b>AC Name: </b>Nidadavole<br><b>Candidate: </b>G.SRINIVAS NAIDU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>69395<br><b>Position: </b>2<br><b>Percentage: </b>38.02<br><b>Margin: </b>33304<br><b>Winner: </b>KANDULA DURGESH(Janasena Party)<br>"
+        },
+        "56": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>56<br><b>AC Name: </b>Achanta<br><b>Candidate: </b>CHERUKUVADA SRI RANGANADHA RAJU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>58848<br><b>Position: </b>2<br><b>Percentage: </b>39.09<br><b>Margin: </b>26554<br><b>Winner: </b>SATYANARAYANA PITHANI(Telugu Desam)<br>"
+        },
+        "57": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC Number: </b>57<br><b>AC Name: </b>Palacole<br><b>Candidate: </b>GUDALA SRI HARI GOPALA RAO (GUDALA GOPI)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>45169<br><b>Position: </b>2<br><b>Percentage: </b>27.67<br><b>Margin: </b>67945<br><b>Winner: </b>DR.NIMMALA RAMANAIDU(Telugu Desam)<br>"
+        },
+        "58": {
+            "color": "rgba(188.7258, 213.4788, 188.0561, 1.0)",
+            "matter": "<b>AC Number: </b>58<br><b>AC Name: </b>Narasapuram<br><b>Candidate: </b>NAGARAJA VARA PRASADA RAJU MUDUNURI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>44378<br><b>Position: </b>2<br><b>Percentage: </b>30.52<br><b>Margin: </b>49738<br><b>Winner: </b>BOMMIDI NARAYANA NAYAKAR(Janasena Party)<br>"
+        },
+        "59": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC Number: </b>59<br><b>AC Name: </b>Bhimavaram<br><b>Candidate: </b>GRANDHI SRINIVAS(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>63450<br><b>Position: </b>2<br><b>Percentage: </b>31.11<br><b>Margin: </b>66974<br><b>Winner: </b>RAMANJANEYULU PULAPARTHI (ANJIBABU)(Janasena Party)<br>"
+        },
+        "60": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC Number: </b>60<br><b>AC Name: </b>Undi<br><b>Candidate: </b>PENMETSA VENKATA LAKSHMI NARASIMHA RAJU (P.V.L)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>60125<br><b>Position: </b>2<br><b>Percentage: </b>30.76<br><b>Margin: </b>56777<br><b>Winner: </b>KANUMURU RAGHU RAMA KRISHNA RAJU (R R R)(Telugu Desam)<br>"
+        },
+        "61": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC Number: </b>61<br><b>AC Name: </b>Tanuku<br><b>Candidate: </b>KARUMURI VENKATA NAGESWARA RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>57426<br><b>Position: </b>2<br><b>Percentage: </b>29.48<br><b>Margin: </b>72121<br><b>Winner: </b>ARIMILLI RADHA KRISHNA(Telugu Desam)<br>"
+        },
+        "62": {
+            "color": "rgba(188.7258, 213.4788, 188.0561, 1.0)",
+            "matter": "<b>AC Number: </b>62<br><b>AC Name: </b>Tadepalligudem<br><b>Candidate: </b>KOTTU SATYANARAYANA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>53951<br><b>Position: </b>2<br><b>Percentage: </b>30.3<br><b>Margin: </b>62492<br><b>Winner: </b>BOLISETTY SRINIVAS(Janasena Party)<br>"
+        },
+        "63": {
+            "color": "rgba(254.5621, 240.9879, 175.0485, 1.0)",
+            "matter": "<b>AC Number: </b>63<br><b>AC Name: </b>Ungutur<br><b>Candidate: </b>PUPPALA SRINIVASA RAO (VASU BABU)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>63949<br><b>Position: </b>2<br><b>Percentage: </b>35.02<br><b>Margin: </b>44945<br><b>Winner: </b>DHARMARAJU PATSAMATLA(Janasena Party)<br>"
+        },
+        "64": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC Number: </b>64<br><b>AC Name: </b>Denduluru<br><b>Candidate: </b>ABBAYA CHOWDARY KOTHARU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>81021<br><b>Position: </b>2<br><b>Percentage: </b>41.62<br><b>Margin: </b>26266<br><b>Winner: </b>CHINTAMANENI PRABHAKAR(Telugu Desam)<br>"
+        },
+        "65": {
+            "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+            "matter": "<b>AC Number: </b>65<br><b>AC Name: </b>Eluru<br><b>Candidate: </b>ALLA KALI KRISHNA SRINIVAS(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>49174<br><b>Position: </b>2<br><b>Percentage: </b>29.57<br><b>Margin: </b>62388<br><b>Winner: </b>RADHA KRISHNAYYA BADETI(Telugu Desam)<br>"
+        },
+        "66": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC Number: </b>66<br><b>AC Name: </b>Gopalapuram<br><b>Candidate: </b>TANETI VANITA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>87636<br><b>Position: </b>2<br><b>Percentage: </b>41.4<br><b>Margin: </b>26784<br><b>Winner: </b>MADDIPATI VENKATA RAJU(Telugu Desam)<br>"
+        },
+        "67": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>67<br><b>AC Name: </b>Polavaram<br><b>Candidate: </b>TELLAM RAJYA LAKSHMI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>93518<br><b>Position: </b>2<br><b>Percentage: </b>42.7<br><b>Margin: </b>7935<br><b>Winner: </b>CHIRRI BALARAJU(Janasena Party)<br>"
+        },
+        "68": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>68<br><b>AC Name: </b>Chintalapudi<br><b>Candidate: </b>KAMBHAM VIJAYA RAJU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>92360<br><b>Position: </b>2<br><b>Percentage: </b>40.98<br><b>Margin: </b>27766<br><b>Winner: </b>ROSHAN KUMAR SONGA(Telugu Desam)<br>"
+        },
+        "69": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>69<br><b>AC Name: </b>Tiruvuru<br><b>Candidate: </b>NALLAGATLA SWAMY DAS(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>78845<br><b>Position: </b>2<br><b>Percentage: </b>42.99<br><b>Margin: </b>21874<br><b>Winner: </b>KOLIKAPUDI SRINIVASA RAO(Telugu Desam)<br>"
+        },
+        "70": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC Number: </b>70<br><b>AC Name: </b>Nuzvid<br><b>Candidate: </b>MEKA VENKATA PRATAP APPARAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>95851<br><b>Position: </b>2<br><b>Percentage: </b>45.27<br><b>Margin: </b>12378<br><b>Winner: </b>KOLUSU PARTHA SARATHY(Telugu Desam)<br>"
+        },
+        "71": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>71<br><b>AC Name: </b>Gannavaram<br><b>Candidate: </b>VAMSI VALLABHANENI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>97924<br><b>Position: </b>2<br><b>Percentage: </b>40.88<br><b>Margin: </b>37628<br><b>Winner: </b>YARLAGADDA VENKATA RAO(Telugu Desam)<br>"
+        },
+        "72": {
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC Number: </b>72<br><b>AC Name: </b>Gudivada<br><b>Candidate: </b>KODALI SRI VENKATESWARA RAO (NANI)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>56940<br><b>Position: </b>2<br><b>Percentage: </b>33.18<br><b>Margin: </b>53040<br><b>Winner: </b>VENIGANDLA RAMU(Telugu Desam)<br>"
+        },
+        "73": {
+            "color": "rgba(254.4591, 237.6909, 171.2364, 1.0)",
+            "matter": "<b>AC Number: </b>73<br><b>AC Name: </b>Kaikalur<br><b>Candidate: </b>DULAM NAGESWARA RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>64007<br><b>Position: </b>2<br><b>Percentage: </b>35.36<br><b>Margin: </b>45273<br><b>Winner: </b>KAMINENI SRINIVAS(Bharatiya Janata Party)<br>"
+        },
+        "74": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC Number: </b>74<br><b>AC Name: </b>Pedana<br><b>Candidate: </b>UPPALA RAMESH(RAMU)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>53271<br><b>Position: </b>2<br><b>Percentage: </b>35.52<br><b>Margin: </b>38123<br><b>Winner: </b>KAGITHA KRISHNAPRASAD(Telugu Desam)<br>"
+        },
+        "75": {
+            "color": "rgba(248.5864, 250.9818, 190.9409, 1.0)",
+            "matter": "<b>AC Number: </b>75<br><b>AC Name: </b>Machilipatnam<br><b>Candidate: </b>PERNI KRISHNAMURTHY (KITTU)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>54802<br><b>Position: </b>2<br><b>Percentage: </b>33.25<br><b>Margin: </b>50242<br><b>Winner: </b>KOLLU. RAVINDRA(Telugu Desam)<br>"
+        },
+        "76": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC Number: </b>76<br><b>AC Name: </b>Avanigadda<br><b>Candidate: </b>RAMESH BABU SIMHADRI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>67026<br><b>Position: </b>2<br><b>Percentage: </b>35.95<br><b>Margin: </b>46434<br><b>Winner: </b>BUDDHAPRASAD MANDALI(Janasena Party)<br>"
+        },
+        "77": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>77<br><b>AC Name: </b>Pamarru<br><b>Candidate: </b>ANIL KUMAR KAILE(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>64499<br><b>Position: </b>2<br><b>Percentage: </b>39.12<br><b>Margin: </b>29690<br><b>Winner: </b>KUMAR RAJA VARLA(Telugu Desam)<br>"
+        },
+        "78": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC Number: </b>78<br><b>AC Name: </b>Penamaluru<br><b>Candidate: </b>JOGI RAMESH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>84997<br><b>Position: </b>2<br><b>Percentage: </b>35.93<br><b>Margin: </b>59915<br><b>Winner: </b>BODE PRASAD(Telugu Desam)<br>"
+        },
+        "79": {
+            "color": "rgba(254.7682, 247.5818, 182.6727, 1.0)",
+            "matter": "<b>AC Number: </b>79<br><b>AC Name: </b>Vijayawada West<br><b>Candidate: </b>ASIF SHAIK(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>58637<br><b>Position: </b>2<br><b>Percentage: </b>34.12<br><b>Margin: </b>47032<br><b>Winner: </b>YALAMANCHILI SATYANARAYANA CHOWDARY (SUJANA CHOWDARY)(Bharatiya Janata Party)<br>"
+        },
+        "80": {
+            "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+            "matter": "<b>AC Number: </b>80<br><b>AC Name: </b>Vijayawada Central<br><b>Candidate: </b>VELAMPALLI SRINIVASA RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>61148<br><b>Position: </b>2<br><b>Percentage: </b>29.87<br><b>Margin: </b>68886<br><b>Winner: </b>BONDA UMAMAHESWARARAO(Telugu Desam)<br>"
+        },
+        "81": {
+            "color": "rgba(254.4591, 237.6909, 171.2364, 1.0)",
+            "matter": "<b>AC Number: </b>81<br><b>AC Name: </b>Vijayawada East<br><b>Candidate: </b>AVINASH DEVINENI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>69201<br><b>Position: </b>2<br><b>Percentage: </b>35.32<br><b>Margin: </b>49640<br><b>Winner: </b>GADDE RAMA MOHAN(Telugu Desam)<br>"
+        },
+        "82": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>82<br><b>AC Name: </b>Mylavaram<br><b>Candidate: </b>TIRAPATHIRAO SARNALA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>94509<br><b>Position: </b>2<br><b>Percentage: </b>38.96<br><b>Margin: </b>42829<br><b>Winner: </b>VASANTHA VENKATA KRISHNA PRASAD(Telugu Desam)<br>"
+        },
+        "83": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>83<br><b>AC Name: </b>Nandigama<br><b>Candidate: </b>MONDITOKA JAGAN MOHAN RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>74806<br><b>Position: </b>2<br><b>Percentage: </b>41.1<br><b>Margin: </b>27395<br><b>Winner: </b>TANGIRALA SOWMYA(Telugu Desam)<br>"
+        },
+        "84": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC Number: </b>84<br><b>AC Name: </b>Jaggayyapeta<br><b>Candidate: </b>UDAYA BHANU SAMINENI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>82502<br><b>Position: </b>2<br><b>Percentage: </b>44.38<br><b>Margin: </b>15977<br><b>Winner: </b>RAJAGOPAL SREERAM (TATAIAH)(Telugu Desam)<br>"
+        },
+        "85": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC Number: </b>85<br><b>AC Name: </b>Pedakurapadu<br><b>Candidate: </b>NAMBURU SANKARA RAO(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>91868<br><b>Position: </b>2<br><b>Percentage: </b>43.89<br><b>Margin: </b>21089<br><b>Winner: </b>BHASHYAM PRAVEEN(Telugu Desam)<br>"
+        },
+        "86": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC Number: </b>86<br><b>AC Name: </b>Tadikonda<br><b>Candidate: </b>SUCHARITHA MEKATHOTI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>69979<br><b>Position: </b>2<br><b>Percentage: </b>38.01<br><b>Margin: </b>39606<br><b>Winner: </b>TENALI SRAVAN KUMAR(Telugu Desam)<br>"
+        },
+        "87": {
+            "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+            "matter": "<b>AC Number: </b>87<br><b>AC Name: </b>Mangalagiri<br><b>Candidate: </b>MURUGUDU LAVANYA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>76297<br><b>Position: </b>2<br><b>Percentage: </b>30.06<br><b>Margin: </b>91413<br><b>Winner: </b>NARA LOKESH(Telugu Desam)<br>"
+        },
+        "88": {
+            "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+            "matter": "<b>AC Number: </b>88<br><b>AC Name: </b>Ponnur<br><b>Candidate: </b>AMBATI MURALI KRISHNA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>77495<br><b>Position: </b>2<br><b>Percentage: </b>39.97<br><b>Margin: </b>32915<br><b>Winner: </b>DHULIPALLA NARENDRA KUMAR(Telugu Desam)<br>"
+        },
+        "89": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC Number: </b>89<br><b>AC Name: </b>Vemuru<br><b>Candidate: </b>ASHOK BABU VARIKUTI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>72901<br><b>Position: </b>2<br><b>Percentage: </b>42.18<br><b>Margin: </b>22021<br><b>Winner: </b>ANANDA BABU NAKKA(Telugu Desam)<br>"
+        },
+        "90": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC Number: </b>90<br><b>AC Name: </b>Repalle<br><b>Candidate: </b>EVURU GANESH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>71182<br><b>Position: </b>2<br><b>Percentage: </b>37.7<br><b>Margin: </b>39947<br><b>Winner: </b>ANAGANI SATYA PRASAD(Telugu Desam)<br>"
+        },
+        "91": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC Number: </b>91<br><b>AC Name: </b>Tenali<br><b>Candidate: </b>ANNABATHUNI SIVAKUMAR(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>75849<br><b>Position: </b>2<br><b>Percentage: </b>36.82<br><b>Margin: </b>48112<br><b>Winner: </b>NADENDLA MANOHAR(Janasena Party)<br>"
+        },
+        "92": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>92<br><b>AC Name: </b>Bapatla<br><b>Candidate: </b>KONA RAGHUPATHI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>62858<br><b>Position: </b>2<br><b>Percentage: </b>38.99<br><b>Margin: </b>27768<br><b>Winner: </b>VEGESANA NARENDRA VARMA RAJU(Telugu Desam)<br>"
+        },
+        "93": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>93<br><b>AC Name: </b>Prathipadu<br><b>Candidate: </b>BALASANI KIRAN KUMAR(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>86650<br><b>Position: </b>2<br><b>Percentage: </b>39.12<br><b>Margin: </b>42015<br><b>Winner: </b>BURLA RAMANJANEYULU(Telugu Desam)<br>"
+        },
+        "94": {
+            "color": "rgba(254.6652, 244.2848, 178.8606, 1.0)",
+            "matter": "<b>AC Number: </b>94<br><b>AC Name: </b>Guntur West<br><b>Candidate: </b>RAJINI VIDADALA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>64917<br><b>Position: </b>2<br><b>Percentage: </b>34.44<br><b>Margin: </b>51150<br><b>Winner: </b>GALLA MADHAVI(Telugu Desam)<br>"
+        },
+        "95": {
+            "color": "rgba(253.6348, 211.3152, 140.7394, 1.0)",
+            "matter": "<b>AC Number: </b>95<br><b>AC Name: </b>Guntur East<br><b>Candidate: </b>NOORI FATHIMA SHAIK(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>68853<br><b>Position: </b>2<br><b>Percentage: </b>38.36<br><b>Margin: </b>31962<br><b>Winner: </b>MOHAMMED NASEER AHMED(Telugu Desam)<br>"
+        },
+        "96": {
+            "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+            "matter": "<b>AC Number: </b>96<br><b>AC Name: </b>Chilakaluripet<br><b>Candidate: </b>KAVATI SIVA NAGA MANOHAR NAIDU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>77800<br><b>Position: </b>2<br><b>Percentage: </b>39.82<br><b>Margin: </b>33262<br><b>Winner: </b>PRATHIPATI PULLARAO(Telugu Desam)<br>"
+        },
+        "97": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC Number: </b>97<br><b>AC Name: </b>Narasaraopet<br><b>Candidate: </b>GOPIREDDY SRINIVASA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>83462<br><b>Position: </b>2<br><b>Percentage: </b>43.67<br><b>Margin: </b>19705<br><b>Winner: </b>ARAVINDA BABU CHADALAVADA(Telugu Desam)<br>"
+        },
+        "98": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>98<br><b>AC Name: </b>Sattenapalle<br><b>Candidate: </b>AMBATI RAMBABU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>90129<br><b>Position: </b>2<br><b>Percentage: </b>42.4<br><b>Margin: </b>27836<br><b>Winner: </b>KANNA LAKSHMINARAYANA(Telugu Desam)<br>"
+        },
+        "99": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>99<br><b>AC Name: </b>Vinukonda<br><b>Candidate: </b>BOLLA BRAHMA NAIDU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>101171<br><b>Position: </b>2<br><b>Percentage: </b>42.38<br><b>Margin: </b>30267<br><b>Winner: </b>GONUGUNTLA VENKATA SIVA SITA RAMA ANZANNEYLLU(Telugu Desam)<br>"
+        },
+        "100": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>100<br><b>AC Name: </b>Gurajala<br><b>Candidate: </b>KASU MAHESH REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>98715<br><b>Position: </b>2<br><b>Percentage: </b>42.36<br><b>Margin: </b>29486<br><b>Winner: </b>YARAPATHINENI SRINIVASA RAO(Telugu Desam)<br>"
+        },
+        "101": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC Number: </b>101<br><b>AC Name: </b>Macherla<br><b>Candidate: </b>RAMAKRISHNAREDDY. PINNELLI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>89095<br><b>Position: </b>2<br><b>Percentage: </b>40.48<br><b>Margin: </b>33318<br><b>Winner: </b>JULAKANTI BRAHMANANDA REDDY(Telugu Desam)<br>"
+        },
+        "102": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC Number: </b>102<br><b>AC Name: </b>Yerragondapalem<br><b>Candidate: </b>CHANDRA SEKHAR TATIPARTHI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>91741<br><b>Position: </b>1<br><b>Percentage: </b>49.4<br><b>Margin: </b>5200<br>"
+        },
+        "103": {
+            "color": "rgba(243.647, 123.6222, 84.2434, 1.0)",
+            "matter": "<b>AC Number: </b>103<br><b>AC Name: </b>Darsi<br><b>Candidate: </b>BUCHEPALLI SIVA PRASAD REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>101889<br><b>Position: </b>1<br><b>Percentage: </b>49.2<br><b>Margin: </b>2456<br>"
+        },
+        "104": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>104<br><b>AC Name: </b>Parchur<br><b>Candidate: </b>YADAM BALAJI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>86562<br><b>Position: </b>2<br><b>Percentage: </b>42.79<br><b>Margin: </b>24013<br><b>Winner: </b>YELURI SAMBASIVA RAO(Telugu Desam)<br>"
+        },
+        "105": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>105<br><b>AC Name: </b>Addanki<br><b>Candidate: </b>CHINNA HANIMIREDDY PANEM(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>91528<br><b>Position: </b>2<br><b>Percentage: </b>42.47<br><b>Margin: </b>24890<br><b>Winner: </b>GOTTIPATI  RAVI KUMAR(Telugu Desam)<br>"
+        },
+        "106": {
+            "color": "rgba(188.7258, 213.4788, 188.0561, 1.0)",
+            "matter": "<b>AC Number: </b>106<br><b>AC Name: </b>Chirala<br><b>Candidate: </b>KARANAM VENKATESH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>51716<br><b>Position: </b>2<br><b>Percentage: </b>30.36<br><b>Margin: </b>20984<br><b>Winner: </b>MADDULURI MALA KONDAIAH(Telugu Desam)<br>"
+        },
+        "107": {
+            "color": "rgba(253.2227, 198.1273, 125.4909, 1.0)",
+            "matter": "<b>AC Number: </b>107<br><b>AC Name: </b>Santhanuthalapadu<br><b>Candidate: </b>NAGARJUNA MERUGU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>75372<br><b>Position: </b>2<br><b>Percentage: </b>39.69<br><b>Margin: </b>30385<br><b>Winner: </b>VIJAY KUMAR B.N(Telugu Desam)<br>"
+        },
+        "108": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC Number: </b>108<br><b>AC Name: </b>Ongole<br><b>Candidate: </b>BALINENI SRINIVASA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>84774<br><b>Position: </b>2<br><b>Percentage: </b>40.5<br><b>Margin: </b>34026<br><b>Winner: </b>DAMACHARLA JANARDHANA RAO(Telugu Desam)<br>"
+        },
+        "109": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC Number: </b>109<br><b>AC Name: </b>Kandukur<br><b>Candidate: </b>MADHU SUDHANRAO BURRA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>90615<br><b>Position: </b>2<br><b>Percentage: </b>43.82<br><b>Margin: </b>18558<br><b>Winner: </b>INTURI NAGESWARA RAO(Telugu Desam)<br>"
+        },
+        "110": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>110<br><b>AC Name: </b>Kondapi<br><b>Candidate: </b>AUDIMULAPU SURESH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>91918<br><b>Position: </b>2<br><b>Percentage: </b>42.96<br><b>Margin: </b>24756<br><b>Winner: </b>DOCTOR DOLA SREE BALA VEERANJANEYA SWAMY(Telugu Desam)<br>"
+        },
+        "111": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC Number: </b>111<br><b>AC Name: </b>Markapuram<br><b>Candidate: </b>ANNA RAMBABU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>85026<br><b>Position: </b>2<br><b>Percentage: </b>44.53<br><b>Margin: </b>13979<br><b>Winner: </b>KANDULA NARAYANA REDDY(Telugu Desam)<br>"
+        },
+        "112": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC Number: </b>112<br><b>AC Name: </b>Giddalur<br><b>Candidate: </b>KUNDURU NAGARJUNA REDDY (KP)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>97490<br><b>Position: </b>2<br><b>Percentage: </b>47.13<br><b>Margin: </b>973<br><b>Winner: </b>ASHOK REDDY MUTHUMULA(Telugu Desam)<br>"
+        },
+        "113": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC Number: </b>113<br><b>AC Name: </b>Kanigiri<br><b>Candidate: </b>DADDALA NARAYANA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>92441<br><b>Position: </b>2<br><b>Percentage: </b>44.84<br><b>Margin: </b>14604<br><b>Winner: </b>DR. UGRA NARASIMHA REDDY MUKKU(Telugu Desam)<br>"
+        },
+        "114": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC Number: </b>114<br><b>AC Name: </b>Kavali<br><b>Candidate: </b>RAMIREDDY PRATAP KUMAR REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>75588<br><b>Position: </b>2<br><b>Percentage: </b>37.8<br><b>Margin: </b>30948<br><b>Winner: </b>DAGUMATI VENKATA KRISHNA REDDY(Telugu Desam)<br>"
+        },
+        "115": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC Number: </b>115<br><b>AC Name: </b>Atmakur<br><b>Candidate: </b>MEKAPATI VIKRAM REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>83589<br><b>Position: </b>2<br><b>Percentage: </b>45.7<br><b>Margin: </b>7576<br><b>Winner: </b>ANAM.RAMANARAYANA REDDY(Telugu Desam)<br>"
+        },
+        "116": {
+            "color": "rgba(254.4591, 237.6909, 171.2364, 1.0)",
+            "matter": "<b>AC Number: </b>116<br><b>AC Name: </b>Kovur<br><b>Candidate: </b>NALLAPAREDDY PRASANNA KUMAR REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>76040<br><b>Position: </b>2<br><b>Percentage: </b>35.33<br><b>Margin: </b>54583<br><b>Winner: </b>PRASHANTHI REDDY VEMIREDDY(Telugu Desam)<br>"
+        },
+        "117": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC Number: </b>117<br><b>AC Name: </b>Nellore City<br><b>Candidate: </b>KHALEEL AHAMAD MD(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>48062<br><b>Position: </b>2<br><b>Percentage: </b>27.51<br><b>Margin: </b>72489<br><b>Winner: </b>NARAYANA PONGURU(Telugu Desam)<br>"
+        },
+        "118": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC Number: </b>118<br><b>AC Name: </b>Nellore Rural<br><b>Candidate: </b>ADALA PRABHAKARA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>75495<br><b>Position: </b>2<br><b>Percentage: </b>38.81<br><b>Margin: </b>34480<br><b>Winner: </b>KOTAMREDDY SRIDHAR REDDY(Telugu Desam)<br>"
+        },
+        "119": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC Number: </b>119<br><b>AC Name: </b>Sarvepalli<br><b>Candidate: </b>KAKANI GOVARDHAN REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>86990<br><b>Position: </b>2<br><b>Percentage: </b>44.45<br><b>Margin: </b>16288<br><b>Winner: </b>CHANDRA MOHAN REDDY SOMIREDDY(Telugu Desam)<br>"
+        },
+        "120": {
+            "color": "rgba(252.6045, 178.3455, 102.6182, 1.0)",
+            "matter": "<b>AC Number: </b>120<br><b>AC Name: </b>Gudur<br><b>Candidate: </b>MERIGA MURALIDHAR(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>81483<br><b>Position: </b>2<br><b>Percentage: </b>41.88<br><b>Margin: </b>21192<br><b>Winner: </b>PASIM SUNIL KUMAR(Telugu Desam)<br>"
+        },
+        "121": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC Number: </b>121<br><b>AC Name: </b>Sullurpeta<br><b>Candidate: </b>KILIVETI SANJEEVAIAH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>81933<br><b>Position: </b>2<br><b>Percentage: </b>40.33<br><b>Margin: </b>29115<br><b>Winner: </b>NELAVALA VIJAYASREE(Telugu Desam)<br>"
+        },
+        "122": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC Number: </b>122<br><b>AC Name: </b>Venkatagiri<br><b>Candidate: </b>NEDURUMALLI RAM KUMAR REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>88104<br><b>Position: </b>2<br><b>Percentage: </b>44.15<br><b>Margin: </b>16294<br><b>Winner: </b>KURUGONDLA RAMAKRISHNA(Telugu Desam)<br>"
+        },
+        "123": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC Number: </b>123<br><b>AC Name: </b>Udayagiri<br><b>Candidate: </b>MEKAPATI RAJAGOPAL REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>91916<br><b>Position: </b>2<br><b>Percentage: </b>45.75<br><b>Margin: </b>9621<br><b>Winner: </b>KAKARLA SURESH(Telugu Desam)<br>"
+        },
+        "124": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC Number: </b>124<br><b>AC Name: </b>Badvel<br><b>Candidate: </b>DASARI SUDHA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>90410<br><b>Position: </b>1<br><b>Percentage: </b>51.7<br><b>Margin: </b>18567<br>"
+        },
+        "125": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC Number: </b>125<br><b>AC Name: </b>Rajampet<br><b>Candidate: </b>AKEPATI AMARNATH REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>92609<br><b>Position: </b>1<br><b>Percentage: </b>50.18<br><b>Margin: </b>7016<br>"
+        },
+        "126": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC Number: </b>126<br><b>AC Name: </b>Kadapa<br><b>Candidate: </b>AMZATH BASHA SHAIK BEPARI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>72128<br><b>Position: </b>2<br><b>Percentage: </b>37.86<br><b>Margin: </b>18860<br><b>Winner: </b>MADHAVI REDDAPPA GARI(Telugu Desam)<br>"
+        },
+        "127": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC Number: </b>127<br><b>AC Name: </b>Kodur<br><b>Candidate: </b>KORAMUTLA SREENIVASULU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>67493<br><b>Position: </b>2<br><b>Percentage: </b>43.88<br><b>Margin: </b>11101<br><b>Winner: </b>ARAVA SREEDHAR(Janasena Party)<br>"
+        },
+        "128": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC Number: </b>128<br><b>AC Name: </b>Rayachoti<br><b>Candidate: </b>GADIKOTA SRIKANTH REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>93430<br><b>Position: </b>2<br><b>Percentage: </b>46.74<br><b>Margin: </b>2495<br><b>Winner: </b>MANDIPALLI RAMPRASAD REDDY(Telugu Desam)<br>"
+        },
+        "129": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC Number: </b>129<br><b>AC Name: </b>Pulivendla<br><b>Candidate: </b>YS JAGAN MOHAN REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>116315<br><b>Position: </b>1<br><b>Percentage: </b>61.38<br><b>Margin: </b>61687<br>"
+        },
+        "130": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC Number: </b>130<br><b>AC Name: </b>Kamalapuram<br><b>Candidate: </b>POCHIMAREDDY RAVINDRANATH REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>69850<br><b>Position: </b>2<br><b>Percentage: </b>40.56<br><b>Margin: </b>25357<br><b>Winner: </b>KRISHNA CHAITANYA REDDY PUTHA(Telugu Desam)<br>"
+        },
+        "131": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC Number: </b>131<br><b>AC Name: </b>Jammalamadugu<br><b>Candidate: </b>MULE SUDHEER REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>92449<br><b>Position: </b>2<br><b>Percentage: </b>43.37<br><b>Margin: </b>17191<br><b>Winner: </b>ADINARAYANA REDDY CHADIPIRALA(Bharatiya Janata Party)<br>"
+        },
+        "132": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC Number: </b>132<br><b>AC Name: </b>Proddatur<br><b>Candidate: </b>RACHAMALLU SIVA PRASAD REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>83968<br><b>Position: </b>2<br><b>Percentage: </b>41.72<br><b>Margin: </b>22744<br><b>Winner: </b>NANDYALA VARADA RAJULA REDDY(Telugu Desam)<br>"
+        },
+        "133": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC Number: </b>133<br><b>AC Name: </b>Mydukur<br><b>Candidate: </b>RAGHURAMI REDDY SETTIPALLY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>75231<br><b>Position: </b>2<br><b>Percentage: </b>41.62<br><b>Margin: </b>20950<br><b>Winner: </b>SUDHAKAR PUTTA(Telugu Desam)<br>"
+        },
+        "134": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC Number: </b>134<br><b>AC Name: </b>Allagadda<br><b>Candidate: </b>BRIJENDRA REDDY GANGULA (NANI)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>86844<br><b>Position: </b>2<br><b>Percentage: </b>43.85<br><b>Margin: </b>12037<br><b>Winner: </b>AKHILA PRIYA BHUMA(Telugu Desam)<br>"
+        },
+        "135": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC Number: </b>135<br><b>AC Name: </b>Srisailam<br><b>Candidate: </b>SILPA CHAKRAPANI REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>75314<br><b>Position: </b>2<br><b>Percentage: </b>45.76<br><b>Margin: </b>6385<br><b>Winner: </b>BUDDA RAJASEKHARA REDDY(Telugu Desam)<br>"
+        },
+        "136": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC Number: </b>136<br><b>AC Name: </b>Nandikotkur<br><b>Candidate: </b>DARA SUDHEER(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>82212<br><b>Position: </b>2<br><b>Percentage: </b>44.0<br><b>Margin: </b>9792<br><b>Winner: </b>G JAYASURYA(Telugu Desam)<br>"
+        },
+        "137": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>137<br><b>AC Name: </b>Kurnool<br><b>Candidate: </b>A. MD. IMTIAZ I.A.S., (RETD)(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>72814<br><b>Position: </b>2<br><b>Percentage: </b>40.77<br><b>Margin: </b>18876<br><b>Winner: </b>T.G.BHARATH(Telugu Desam)<br>"
+        },
+        "138": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC Number: </b>138<br><b>AC Name: </b>Panyam<br><b>Candidate: </b>KATASANI RAMABHUPAL REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>100681<br><b>Position: </b>2<br><b>Percentage: </b>40.23<br><b>Margin: </b>40591<br><b>Winner: </b>GOWRU CHARITHA REDDY(Telugu Desam)<br>"
+        },
+        "139": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC Number: </b>139<br><b>AC Name: </b>Nandyal<br><b>Candidate: </b>SILPA RAVI CHANDRA KISHORE REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>90742<br><b>Position: </b>2<br><b>Percentage: </b>43.51<br><b>Margin: </b>12333<br><b>Winner: </b>NASYAM MOHAMMED FAROOK(Telugu Desam)<br>"
+        },
+        "140": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC Number: </b>140<br><b>AC Name: </b>Banaganapalle<br><b>Candidate: </b>KATASANI RAMI REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>85037<br><b>Position: </b>2<br><b>Percentage: </b>41.33<br><b>Margin: </b>25566<br><b>Winner: </b>B.C. JANARDHAN REDDY(Telugu Desam)<br>"
+        },
+        "141": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC Number: </b>141<br><b>AC Name: </b>Dhone<br><b>Candidate: </b>BUGGANA RAJA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>87474<br><b>Position: </b>2<br><b>Percentage: </b>46.01<br><b>Margin: </b>6049<br><b>Winner: </b>KOTLA JAYA SURYA PRAKASH REDDY(Telugu Desam)<br>"
+        },
+        "142": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC Number: </b>142<br><b>AC Name: </b>Pattikonda<br><b>Candidate: </b>KANGATI SREEDEVI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>84638<br><b>Position: </b>2<br><b>Percentage: </b>44.17<br><b>Margin: </b>14211<br><b>Winner: </b>K.E. SHYAM KUMAR(Telugu Desam)<br>"
+        },
+        "143": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC Number: </b>143<br><b>AC Name: </b>Kodumur<br><b>Candidate: </b>AUDIMULAPU SATHISH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>80120<br><b>Position: </b>2<br><b>Percentage: </b>40.56<br><b>Margin: </b>21583<br><b>Winner: </b>BOGGULA DASTAGIRI(Telugu Desam)<br>"
+        },
+        "144": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>144<br><b>AC Name: </b>Yemmiganur<br><b>Candidate: </b>BUTTA RENUKA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>87252<br><b>Position: </b>2<br><b>Percentage: </b>42.96<br><b>Margin: </b>15837<br><b>Winner: </b>B. JAYANAGESWARA REDDY(Telugu Desam)<br>"
+        },
+        "145": {
+            "color": "rgba(243.1439, 120.7778, 83.5202, 1.0)",
+            "matter": "<b>AC Number: </b>145<br><b>AC Name: </b>Mantralayam<br><b>Candidate: </b>Y. BALANAGI REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>87662<br><b>Position: </b>1<br><b>Percentage: </b>49.72<br><b>Margin: </b>12805<br>"
+        },
+        "146": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC Number: </b>146<br><b>AC Name: </b>Adoni<br><b>Candidate: </b>Y. SAI PRASAD REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>71765<br><b>Position: </b>2<br><b>Percentage: </b>40.74<br><b>Margin: </b>18164<br><b>Winner: </b>DR. PARTHA SARATHI VALMIKI(Bharatiya Janata Party)<br>"
+        },
+        "147": {
+            "color": "rgba(245.6591, 135.0, 87.1364, 1.0)",
+            "matter": "<b>AC Number: </b>147<br><b>AC Name: </b>Alur<br><b>Candidate: </b>B. VIRUPAKSHI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>100264<br><b>Position: </b>1<br><b>Percentage: </b>47.65<br><b>Margin: </b>2831<br>"
+        },
+        "148": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC Number: </b>148<br><b>AC Name: </b>Rayadurg<br><b>Candidate: </b>METTU GOVINDA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>88650<br><b>Position: </b>2<br><b>Percentage: </b>38.84<br><b>Margin: </b>41659<br><b>Winner: </b>KALAVA SRINIVASULU(Telugu Desam)<br>"
+        },
+        "149": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC Number: </b>149<br><b>AC Name: </b>Uravakonda<br><b>Candidate: </b>Y. VISWESWARA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>80342<br><b>Position: </b>2<br><b>Percentage: </b>41.3<br><b>Margin: </b>21704<br><b>Winner: </b>PAYYAVULA KESHAV(Telugu Desam)<br>"
+        },
+        "150": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC Number: </b>150<br><b>AC Name: </b>Guntakal<br><b>Candidate: </b>Y. VENKATA RAMA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>94874<br><b>Position: </b>2<br><b>Percentage: </b>45.89<br><b>Margin: </b>6826<br><b>Winner: </b>GUMMANUR JAYARAM(Telugu Desam)<br>"
+        },
+        "151": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC Number: </b>151<br><b>AC Name: </b>Tadpatri<br><b>Candidate: </b>KETHIREDDY PEDDAREDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>86024<br><b>Position: </b>2<br><b>Percentage: </b>41.42<br><b>Margin: </b>27731<br><b>Winner: </b>ASHMIT REDDY J.C(Telugu Desam)<br>"
+        },
+        "152": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC Number: </b>152<br><b>AC Name: </b>Singanamala<br><b>Candidate: </b>M.VEERANJANEYULU(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>94169<br><b>Position: </b>2<br><b>Percentage: </b>45.22<br><b>Margin: </b>8788<br><b>Winner: </b>BANDARU SRAVANI SREE(Telugu Desam)<br>"
+        },
+        "153": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>153<br><b>AC Name: </b>Anantapur Urban<br><b>Candidate: </b>ANANTHA VENKATARAMI REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>80311<br><b>Position: </b>2<br><b>Percentage: </b>42.36<br><b>Margin: </b>23023<br><b>Winner: </b>DAGGUPATI PRASAD(Telugu Desam)<br>"
+        },
+        "154": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC Number: </b>154<br><b>AC Name: </b>Kalyandurg<br><b>Candidate: </b>TALARI RANGAIAH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>81144<br><b>Position: </b>2<br><b>Percentage: </b>39.42<br><b>Margin: </b>37734<br><b>Winner: </b>AMILINENI SURENDRA BABU(Telugu Desam)<br>"
+        },
+        "155": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>155<br><b>AC Name: </b>Raptadu<br><b>Candidate: </b>THOPUDURTHI PRAKASH REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>92811<br><b>Position: </b>2<br><b>Percentage: </b>42.74<br><b>Margin: </b>23329<br><b>Winner: </b>PARITALA SUNITHAMMA(Telugu Desam)<br>"
+        },
+        "156": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>156<br><b>AC Name: </b>Madakasira<br><b>Candidate: </b>IRALAKKAPPA.S.L(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>79632<br><b>Position: </b>2<br><b>Percentage: </b>42.78<br><b>Margin: </b>351<br><b>Winner: </b>M.S.RAJU(Telugu Desam)<br>"
+        },
+        "157": {
+            "color": "rgba(253.7379, 214.6121, 144.5515, 1.0)",
+            "matter": "<b>AC Number: </b>157<br><b>AC Name: </b>Hindupur<br><b>Candidate: </b>DEEPIKA T N(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>74653<br><b>Position: </b>2<br><b>Percentage: </b>38.1<br><b>Margin: </b>32597<br><b>Winner: </b>NANDAMURI BALAKRISHNA(Telugu Desam)<br>"
+        },
+        "158": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC Number: </b>158<br><b>AC Name: </b>Penukonda<br><b>Candidate: </b>K.V. USHA SHRICHARAN(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>80444<br><b>Position: </b>2<br><b>Percentage: </b>38.75<br><b>Margin: </b>33388<br><b>Winner: </b>S. SAVITHA(Telugu Desam)<br>"
+        },
+        "159": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC Number: </b>159<br><b>AC Name: </b>Puttaparthi<br><b>Candidate: </b>DUDDUKUNTA SREEDHAR REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>82981<br><b>Position: </b>2<br><b>Percentage: </b>45.1<br><b>Margin: </b>8760<br><b>Winner: </b>PALLE SINDHURA REDDY(Telugu Desam)<br>"
+        },
+        "160": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC Number: </b>160<br><b>AC Name: </b>Dharmavaram<br><b>Candidate: </b>KETHIREDDY VENKATA RAMI REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>102810<br><b>Position: </b>2<br><b>Percentage: </b>46.76<br><b>Margin: </b>3734<br><b>Winner: </b>SATYA KUMAR YADAV(Bharatiya Janata Party)<br>"
+        },
+        "161": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC Number: </b>161<br><b>AC Name: </b>Kadiri<br><b>Candidate: </b>MAQBOOL B.S.(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>97345<br><b>Position: </b>2<br><b>Percentage: </b>46.54<br><b>Margin: </b>6265<br><b>Winner: </b>KANDIKUNTA VENKATA PRASAD(Telugu Desam)<br>"
+        },
+        "162": {
+            "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+            "matter": "<b>AC Number: </b>162<br><b>AC Name: </b>Thamballapalle<br><b>Candidate: </b>P. DWARAKANATHA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>94136<br><b>Position: </b>1<br><b>Percentage: </b>50.11<br><b>Margin: </b>10103<br>"
+        },
+        "163": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC Number: </b>163<br><b>AC Name: </b>Pileru<br><b>Candidate: </b>CHINTHALA RAMACHANDRA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>80501<br><b>Position: </b>2<br><b>Percentage: </b>41.55<br><b>Margin: </b>25081<br><b>Winner: </b>NALLARI KISHAN KUMAR REDDY(Telugu Desam)<br>"
+        },
+        "164": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC Number: </b>164<br><b>AC Name: </b>Madanapalle<br><b>Candidate: </b>S.NISAR AHAMAD(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>92471<br><b>Position: </b>2<br><b>Percentage: </b>45.58<br><b>Margin: </b>5509<br><b>Winner: </b>M.SHAJAHAN BASHA(Telugu Desam)<br>"
+        },
+        "165": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC Number: </b>165<br><b>AC Name: </b>Punganur<br><b>Candidate: </b>PEDDIREDDI RAMACHANDRA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>100793<br><b>Position: </b>1<br><b>Percentage: </b>48.07<br><b>Margin: </b>6095<br>"
+        },
+        "166": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>166<br><b>AC Name: </b>Chandragiri<br><b>Candidate: </b>CHEVIREDDY MOHITH REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>99815<br><b>Position: </b>2<br><b>Percentage: </b>39.1<br><b>Margin: </b>43852<br><b>Winner: </b>VENKATA MANI PRASAD PULLIVARTHI(Telugu Desam)<br>"
+        },
+        "167": {
+            "color": "rgba(222.9318, 234.9091, 189.7045, 1.0)",
+            "matter": "<b>AC Number: </b>167<br><b>AC Name: </b>Tirupati<br><b>Candidate: </b>BHUMANA ABHINAY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>62151<br><b>Position: </b>2<br><b>Percentage: </b>32.08<br><b>Margin: </b>61956<br><b>Winner: </b>ARANII SRENEVASULU(Janasena Party)<br>"
+        },
+        "168": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC Number: </b>168<br><b>AC Name: </b>Srikalahasti<br><b>Candidate: </b>BIYYAPU MADHUSUDHAN REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>78261<br><b>Position: </b>2<br><b>Percentage: </b>37.39<br><b>Margin: </b>43304<br><b>Winner: </b>BOJJALA VENKATA SUDHIR REDDY(Telugu Desam)<br>"
+        },
+        "169": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC Number: </b>169<br><b>AC Name: </b>Satyavedu<br><b>Candidate: </b>NUKATHOTI RAJESH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>81732<br><b>Position: </b>2<br><b>Percentage: </b>44.29<br><b>Margin: </b>3739<br><b>Winner: </b>KONETI ADIMULAM(Telugu Desam)<br>"
+        },
+        "170": {
+            "color": "rgba(254.4591, 237.6909, 171.2364, 1.0)",
+            "matter": "<b>AC Number: </b>170<br><b>AC Name: </b>Nagari<br><b>Candidate: </b>R.K. ROJA(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>62793<br><b>Position: </b>2<br><b>Percentage: </b>35.17<br><b>Margin: </b>45004<br><b>Winner: </b>GALI BHANU PRAKASH(Telugu Desam)<br>"
+        },
+        "171": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>171<br><b>AC Name: </b>Gangadhara Nellore<br><b>Candidate: </b>K. KRUPALAKSHMI(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>75165<br><b>Position: </b>2<br><b>Percentage: </b>41.02<br><b>Margin: </b>26011<br><b>Winner: </b>DR. VM. THOMAS(Telugu Desam)<br>"
+        },
+        "172": {
+            "color": "rgba(250.6894, 163.4444, 94.3687, 1.0)",
+            "matter": "<b>AC Number: </b>172<br><b>AC Name: </b>Chittoor<br><b>Candidate: </b>M.C. VIJAYANANDA REDDY(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>73462<br><b>Position: </b>2<br><b>Percentage: </b>43.78<br><b>Margin: </b>14604<br><b>Winner: </b>GURAJALA JAGAN MOHAN (GJM)(Telugu Desam)<br>"
+        },
+        "173": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC Number: </b>173<br><b>AC Name: </b>Puthalapattu<br><b>Candidate: </b>M SUNEEL KUMAR(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>86503<br><b>Position: </b>2<br><b>Percentage: </b>44.36<br><b>Margin: </b>15634<br><b>Winner: </b>K MURALI MOHAN(Telugu Desam)<br>"
+        },
+        "174": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC Number: </b>174<br><b>AC Name: </b>Palamaner<br><b>Candidate: </b>VENKATE GOWDA. N(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>103110<br><b>Position: </b>2<br><b>Percentage: </b>43.59<br><b>Margin: </b>20122<br><b>Winner: </b>AMARANATHA REDDY. N(Telugu Desam)<br>"
+        },
+        "175": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>175<br><b>AC Name: </b>Kuppam<br><b>Candidate: </b>K.R.J. BHARATH(Yuvajana Sramika Rythu Congress Party)<br><b>No of votes: </b>73923<br><b>Position: </b>2<br><b>Percentage: </b>36.35<br><b>Margin: </b>48006<br><b>Winner: </b>CHANDRABABU NAIDU NARA(Telugu Desam)<br>"
+        }
+    }
+}

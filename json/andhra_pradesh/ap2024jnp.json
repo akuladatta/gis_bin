@@ -1,0 +1,91 @@
+{
+    "title": "AP 2024 Jnp performence",
+    "trigger": "objectid",
+    "desc": "<div><table class='col-md-12'><caption>Party hold percentself.ages</caption><thead><tr><th>Color</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: RGBA(255,0,0,1);\"></td><td>65.46% to 70.24%</td><td>2</td><td>2 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(240.0,103.0,79.0,1);\"></td><td>60.68% to 65.46%</td><td>9</td><td>9 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(252.45,173.4,96.9,1);\"></td><td>55.89% to 60.68%</td><td>6</td><td>6 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(255.0,255.0,191.25,1);\"></td><td>51.11% to 55.89%</td><td>1</td><td>1 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(43.35,122.4,181.05,1);\"></td><td>46.33% to 51.11%</td><td>3</td><td>3 (100.0%)</td></tr><tr><td></td><td></td><td>21</td><td>21 (100.0%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Party Position Status</caption><thead><tr><th>Position</th><th>Seats</th></thead><tbody><tr><td>Place No : 1</td><td>21</td></tr><tr><td>Not Contested</td><td>154</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table></div>",
+    "data": {
+        "10": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC Number: </b>10<br><b>AC Name: </b>Palakonda<br><b>Candidate: </b>JAYAKRISHNA NIMMAKA(Janasena Party)<br><b>No of votes: </b>75208<br><b>Position: </b>1<br><b>Percentage: </b>50.69<br><b>Margin: </b>13291<br>"
+        },
+        "17": {
+            "color": "rgba(252.7076, 181.6424, 106.4303, 1.0)",
+            "matter": "<b>AC Number: </b>17<br><b>AC Name: </b>Nellimarla<br><b>Candidate: </b>LOKAM NAGA MADHAVI(Janasena Party)<br><b>No of votes: </b>109915<br><b>Position: </b>1<br><b>Percentage: </b>57.75<br><b>Margin: </b>39829<br>"
+        },
+        "22": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC Number: </b>22<br><b>AC Name: </b>Visakhapatnam South<br><b>Candidate: </b>CH.VAMSI KRISHNA SRINIVAS(Janasena Party)<br><b>No of votes: </b>97868<br><b>Position: </b>1<br><b>Percentage: </b>70.24<br><b>Margin: </b>64594<br>"
+        },
+        "30": {
+            "color": "rgba(245.9091, 62.4242, 47.8788, 1.0)",
+            "matter": "<b>AC Number: </b>30<br><b>AC Name: </b>Anakapalle<br><b>Candidate: </b>KONATHALA RAMAKRISHNA(Janasena Party)<br><b>No of votes: </b>115126<br><b>Position: </b>1<br><b>Percentage: </b>66.63<br><b>Margin: </b>65764<br>"
+        },
+        "31": {
+            "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+            "matter": "<b>AC Number: </b>31<br><b>AC Name: </b>Pendurthi<br><b>Candidate: </b>PANCHAKARLA RAMESH BABU(Janasena Party)<br><b>No of votes: </b>149611<br><b>Position: </b>1<br><b>Percentage: </b>65.01<br><b>Margin: </b>81870<br>"
+        },
+        "32": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC Number: </b>32<br><b>AC Name: </b>Yelamanchili<br><b>Candidate: </b>SUNDARAPU VIJAY KUMAR(Janasena Party)<br><b>No of votes: </b>109443<br><b>Position: </b>1<br><b>Percentage: </b>61.0<br><b>Margin: </b>48956<br>"
+        },
+        "37": {
+            "color": "rgba(241.6667, 91.5556, 70.2222, 1.0)",
+            "matter": "<b>AC Number: </b>37<br><b>AC Name: </b>Pithapuram<br><b>Candidate: </b>KONIDALA PAWAN KALYAN(Janasena Party)<br><b>No of votes: </b>134394<br><b>Position: </b>1<br><b>Percentage: </b>64.87<br><b>Margin: </b>70279<br>"
+        },
+        "38": {
+            "color": "rgba(242.2727, 87.3939, 67.0303, 1.0)",
+            "matter": "<b>AC Number: </b>38<br><b>AC Name: </b>Kakinada Rural<br><b>Candidate: </b>PANTAM VENKATESWARA RAO (PANTAM NANAJI)(Janasena Party)<br><b>No of votes: </b>134414<br><b>Position: </b>1<br><b>Percentage: </b>65.11<br><b>Margin: </b>72040<br>"
+        },
+        "167": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC Number: </b>167<br><b>AC Name: </b>Tirupati<br><b>Candidate: </b>ARANII SRENEVASULU(Janasena Party)<br><b>No of votes: </b>124107<br><b>Position: </b>1<br><b>Percentage: </b>64.06<br><b>Margin: </b>61956<br>"
+        },
+        "45": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC Number: </b>45<br><b>AC Name: </b>Razole<br><b>Candidate: </b>DEVA VARAPRASAD(Janasena Party)<br><b>No of votes: </b>95514<br><b>Position: </b>1<br><b>Percentage: </b>60.13<br><b>Margin: </b>39011<br>"
+        },
+        "46": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>46<br><b>AC Name: </b>Gannavaram<br><b>Candidate: </b>GIDDI. SATYANARAYANA(Janasena Party)<br><b>No of votes: </b>96108<br><b>Position: </b>1<br><b>Percentage: </b>57.14<br><b>Margin: </b>33367<br>"
+        },
+        "49": {
+            "color": "rgba(253.6348, 211.3152, 140.7394, 1.0)",
+            "matter": "<b>AC Number: </b>49<br><b>AC Name: </b>Rajanagaram<br><b>Candidate: </b>BATHULA BALARAMAKRISHNA S/O GANGARAO(Janasena Party)<br><b>No of votes: </b>105995<br><b>Position: </b>1<br><b>Percentage: </b>55.51<br><b>Margin: </b>34049<br>"
+        },
+        "55": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC Number: </b>55<br><b>AC Name: </b>Nidadavole<br><b>Candidate: </b>KANDULA DURGESH(Janasena Party)<br><b>No of votes: </b>102699<br><b>Position: </b>1<br><b>Percentage: </b>56.27<br><b>Margin: </b>33304<br>"
+        },
+        "58": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC Number: </b>58<br><b>AC Name: </b>Narasapuram<br><b>Candidate: </b>BOMMIDI NARAYANA NAYAKAR(Janasena Party)<br><b>No of votes: </b>94116<br><b>Position: </b>1<br><b>Percentage: </b>64.72<br><b>Margin: </b>49738<br>"
+        },
+        "59": {
+            "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+            "matter": "<b>AC Number: </b>59<br><b>AC Name: </b>Bhimavaram<br><b>Candidate: </b>RAMANJANEYULU PULAPARTHI (ANJIBABU)(Janasena Party)<br><b>No of votes: </b>130424<br><b>Position: </b>1<br><b>Percentage: </b>63.94<br><b>Margin: </b>66974<br>"
+        },
+        "62": {
+            "color": "rgba(242.8788, 83.2323, 63.8384, 1.0)",
+            "matter": "<b>AC Number: </b>62<br><b>AC Name: </b>Tadepalligudem<br><b>Candidate: </b>BOLISETTY SRINIVAS(Janasena Party)<br><b>No of votes: </b>116443<br><b>Position: </b>1<br><b>Percentage: </b>65.4<br><b>Margin: </b>62492<br>"
+        },
+        "63": {
+            "color": "rgba(249.6833, 157.7556, 92.9222, 1.0)",
+            "matter": "<b>AC Number: </b>63<br><b>AC Name: </b>Ungutur<br><b>Candidate: </b>DHARMARAJU PATSAMATLA(Janasena Party)<br><b>No of votes: </b>108894<br><b>Position: </b>1<br><b>Percentage: </b>59.63<br><b>Margin: </b>44945<br>"
+        },
+        "67": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>67<br><b>AC Name: </b>Polavaram<br><b>Candidate: </b>CHIRRI BALARAJU(Janasena Party)<br><b>No of votes: </b>101453<br><b>Position: </b>1<br><b>Percentage: </b>46.33<br><b>Margin: </b>7935<br>"
+        },
+        "76": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC Number: </b>76<br><b>AC Name: </b>Avanigadda<br><b>Candidate: </b>BUDDHAPRASAD MANDALI(Janasena Party)<br><b>No of votes: </b>113460<br><b>Position: </b>1<br><b>Percentage: </b>60.85<br><b>Margin: </b>46434<br>"
+        },
+        "91": {
+            "color": "rgba(248.6773, 152.0667, 91.4758, 1.0)",
+            "matter": "<b>AC Number: </b>91<br><b>AC Name: </b>Tenali<br><b>Candidate: </b>NADENDLA MANOHAR(Janasena Party)<br><b>No of votes: </b>123961<br><b>Position: </b>1<br><b>Percentage: </b>60.18<br><b>Margin: </b>48112<br>"
+        },
+        "127": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC Number: </b>127<br><b>AC Name: </b>Kodur<br><b>Candidate: </b>ARAVA SREEDHAR(Janasena Party)<br><b>No of votes: </b>78594<br><b>Position: </b>1<br><b>Percentage: </b>51.1<br><b>Margin: </b>11101<br>"
+        }
+    }
+}

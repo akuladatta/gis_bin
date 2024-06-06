@@ -1,0 +1,639 @@
+{
+    "title": "AP 2024 INC performence",
+    "trigger": "objectid",
+    "desc": "<div><table class='col-md-12'><caption>Party hold percentself.ages</caption><thead><tr><th>Color</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: RGBA(255,0,0,1);\"></td><td>19.75% to 24.58%</td><td>1</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: RGBA(240.0,103.0,79.0,1);\"></td><td>14.92% to 19.75%</td><td>0</td><td>0 (0%)</td></tr><tr><td style=\"background-color: RGBA(252.45,173.4,96.9,1);\"></td><td>10.08% to 14.92%</td><td>1</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: RGBA(255.0,255.0,191.25,1);\"></td><td>5.25% to 10.08%</td><td>4</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: RGBA(43.35,122.4,181.05,1);\"></td><td>0.42% to 5.25%</td><td>152</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>158</td><td>0 (0.0%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Party Position Status</caption><thead><tr><th>Position</th><th>Seats</th></thead><tbody><tr><td>Place No : 3</td><td>98</td></tr><tr><td>Place No : 4</td><td>48</td></tr><tr><td>Place No : 5</td><td>10</td></tr><tr><td>Place No : 6</td><td>2</td></tr><tr><td>Not Contested</td><td>17</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table></div>",
+    "data": {
+        "1": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>1<br><b>AC Name: </b>Ichchapuram<br><b>Candidate: </b>MASUPATRI CHAKRAVARTHI REDDY(Indian National Congress)<br><b>No of votes: </b>792<br><b>Position: </b>4<br><b>Percentage: </b>0.42<br><b>Margin: </b>109820<br><b>Winner: </b>ASHOK BENDALAM(Telugu Desam)<br>"
+        },
+        "2": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>2<br><b>AC Name: </b>Palasa<br><b>Candidate: </b>TRINATH BABU MAJJI(Indian National Congress)<br><b>No of votes: </b>1064<br><b>Position: </b>4<br><b>Percentage: </b>0.63<br><b>Margin: </b>100496<br><b>Winner: </b>GOUTHU SIREESHA(Telugu Desam)<br>"
+        },
+        "3": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>3<br><b>AC Name: </b>Tekkali<br><b>Candidate: </b>KILLI KRUPA RANI(Indian National Congress)<br><b>No of votes: </b>2684<br><b>Position: </b>4<br><b>Percentage: </b>1.39<br><b>Margin: </b>105239<br><b>Winner: </b>ATCHANNAIDU KINJARAPU(Telugu Desam)<br>"
+        },
+        "4": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC Number: </b>4<br><b>AC Name: </b>Pathapatnam<br><b>Candidate: </b>KOPPURAUTU VENKATA RAO(Indian National Congress)<br><b>No of votes: </b>3565<br><b>Position: </b>4<br><b>Percentage: </b>2.18<br><b>Margin: </b>85887<br><b>Winner: </b>MAMIDI GOVINDA RAO(Telugu Desam)<br>"
+        },
+        "5": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC Number: </b>5<br><b>AC Name: </b>Srikakulam<br><b>Candidate: </b>AMBATI KRISHNA RAO(Indian National Congress)<br><b>No of votes: </b>4353<br><b>Position: </b>3<br><b>Percentage: </b>2.27<br><b>Margin: </b>112738<br><b>Winner: </b>GONDU SHANKAR(Telugu Desam)<br>"
+        },
+        "6": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC Number: </b>6<br><b>AC Name: </b>Amadalavalasa<br><b>Candidate: </b>ANNAJIRAO SANAPALA(Indian National Congress)<br><b>No of votes: </b>3481<br><b>Position: </b>4<br><b>Percentage: </b>2.19<br><b>Margin: </b>84522<br><b>Winner: </b>KOONA RAVI KUMAR(Telugu Desam)<br>"
+        },
+        "7": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>7<br><b>AC Name: </b>Etcherla<br><b>Candidate: </b>KARIMAJJI MALLESWARA RAO(Indian National Congress)<br><b>No of votes: </b>2452<br><b>Position: </b>4<br><b>Percentage: </b>1.19<br><b>Margin: </b>110318<br><b>Winner: </b>ESWARA RAO NADUKUDITI(Bharatiya Janata Party)<br>"
+        },
+        "8": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>8<br><b>AC Name: </b>Narasannapeta<br><b>Candidate: </b>MANTHRI NARASIMHAMURTHY(Indian National Congress)<br><b>No of votes: </b>2225<br><b>Position: </b>4<br><b>Percentage: </b>1.25<br><b>Margin: </b>97726<br><b>Winner: </b>BAGGU RAMANAMURTHY(Telugu Desam)<br>"
+        },
+        "9": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>9<br><b>AC Name: </b>Rajam<br><b>Candidate: </b>KAMBALA RAJAVARDHANA(Indian National Congress)<br><b>No of votes: </b>3684<br><b>Position: </b>3<br><b>Percentage: </b>2.09<br><b>Margin: </b>90701<br><b>Winner: </b>KONDRU MURALI MOHAN(Telugu Desam)<br>"
+        },
+        "10": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>10<br><b>AC Name: </b>Palakonda<br><b>Candidate: </b>CHANTI BABU SAVARA(Indian National Congress)<br><b>No of votes: </b>2041<br><b>Position: </b>4<br><b>Percentage: </b>1.38<br><b>Margin: </b>73167<br><b>Winner: </b>JAYAKRISHNA NIMMAKA(Janasena Party)<br>"
+        },
+        "12": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>12<br><b>AC Name: </b>Parvathipuram<br><b>Candidate: </b>BATHINA MOHANARAO(Indian National Congress)<br><b>No of votes: </b>1640<br><b>Position: </b>4<br><b>Percentage: </b>1.08<br><b>Margin: </b>82265<br><b>Winner: </b>BONELA VIJAYA CHANDRA(Telugu Desam)<br>"
+        },
+        "13": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>13<br><b>AC Name: </b>Salur<br><b>Candidate: </b>MUVVALA PUSPHARAO(Indian National Congress)<br><b>No of votes: </b>2239<br><b>Position: </b>4<br><b>Percentage: </b>1.41<br><b>Margin: </b>77972<br><b>Winner: </b>GUMMIDI SANDHYARANI(Telugu Desam)<br>"
+        },
+        "14": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC Number: </b>14<br><b>AC Name: </b>Bobbili<br><b>Candidate: </b>MARIPI VIDYASAGAR (VINAY)(Indian National Congress)<br><b>No of votes: </b>4782<br><b>Position: </b>3<br><b>Percentage: </b>2.53<br><b>Margin: </b>107584<br><b>Winner: </b>R.V.S.K.K.RANGA RAO @ BABYNAYANA(Telugu Desam)<br>"
+        },
+        "15": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC Number: </b>15<br><b>AC Name: </b>Cheepurupalle<br><b>Candidate: </b>AADINARAYANA JAMMU(Indian National Congress)<br><b>No of votes: </b>4087<br><b>Position: </b>3<br><b>Percentage: </b>2.36<br><b>Margin: </b>84138<br><b>Winner: </b>KALAVENKATARAO KIMIDI(Telugu Desam)<br>"
+        },
+        "16": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>16<br><b>AC Name: </b>Gajapathinagaram<br><b>Candidate: </b>DOLA. SRINIVAS(Indian National Congress)<br><b>No of votes: </b>1315<br><b>Position: </b>4<br><b>Percentage: </b>0.74<br><b>Margin: </b>96736<br><b>Winner: </b>KONDAPALLI SRINIVAS(Telugu Desam)<br>"
+        },
+        "17": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>17<br><b>AC Name: </b>Nellimarla<br><b>Candidate: </b>SARAGADA RAMESH KUMAR(Indian National Congress)<br><b>No of votes: </b>1667<br><b>Position: </b>4<br><b>Percentage: </b>0.88<br><b>Margin: </b>108248<br><b>Winner: </b>LOKAM NAGA MADHAVI(Janasena Party)<br>"
+        },
+        "18": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>18<br><b>AC Name: </b>Vizianagaram<br><b>Candidate: </b>SATISH KUMAR SUNKARI(Indian National Congress)<br><b>No of votes: </b>1527<br><b>Position: </b>4<br><b>Percentage: </b>0.81<br><b>Margin: </b>119714<br><b>Winner: </b>ADITI VIJAYALAKSHMI GAJAPATHI RAJU PUSAPATI(Telugu Desam)<br>"
+        },
+        "19": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>19<br><b>AC Name: </b>Srungavarapukota<br><b>Candidate: </b>GEDELA TIRUPATI(Indian National Congress)<br><b>No of votes: </b>1918<br><b>Position: </b>4<br><b>Percentage: </b>1.01<br><b>Margin: </b>109108<br><b>Winner: </b>KOLLA LALITHA KUMARI(Telugu Desam)<br>"
+        },
+        "20": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>20<br><b>AC Name: </b>Bhimili<br><b>Candidate: </b>VENKATA VARMARAJU ADDALA(Indian National Congress)<br><b>No of votes: </b>5147<br><b>Position: </b>3<br><b>Percentage: </b>1.85<br><b>Margin: </b>171083<br><b>Winner: </b>GANTA SRINIVASA RAO(Telugu Desam)<br>"
+        },
+        "21": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>21<br><b>AC Name: </b>Visakhapatnam East<br><b>Candidate: </b>GUTHULA SRINIVAS RAO(Indian National Congress)<br><b>No of votes: </b>3430<br><b>Position: </b>4<br><b>Percentage: </b>1.69<br><b>Margin: </b>128617<br><b>Winner: </b>RAMAKRISHNA BABU VELAGAPUDI(Telugu Desam)<br>"
+        },
+        "22": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC Number: </b>22<br><b>AC Name: </b>Visakhapatnam South<br><b>Candidate: </b>VASUPALLI SANTOSH KUMAR(Indian National Congress)<br><b>No of votes: </b>3940<br><b>Position: </b>3<br><b>Percentage: </b>2.83<br><b>Margin: </b>93928<br><b>Winner: </b>CH.VAMSI KRISHNA SRINIVAS(Janasena Party)<br>"
+        },
+        "23": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC Number: </b>23<br><b>AC Name: </b>Visakhapatnam North<br><b>Candidate: </b>LAKKARAJU RAMA RAO(Indian National Congress)<br><b>No of votes: </b>4252<br><b>Position: </b>5<br><b>Percentage: </b>2.26<br><b>Margin: </b>104549<br><b>Winner: </b>VISHNU KUMAR RAJU PENMETSA(Bharatiya Janata Party)<br>"
+        },
+        "26": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>26<br><b>AC Name: </b>Chodavaram<br><b>Candidate: </b>JAGATA SRINIVASURAO(Indian National Congress)<br><b>No of votes: </b>2527<br><b>Position: </b>4<br><b>Percentage: </b>1.36<br><b>Margin: </b>107124<br><b>Winner: </b>SURYA NAGA SANYASI RAJU KALIDINDI(Telugu Desam)<br>"
+        },
+        "27": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>27<br><b>AC Name: </b>Madugula<br><b>Candidate: </b>BODDU SRINIVASA(Indian National Congress)<br><b>No of votes: </b>1784<br><b>Position: </b>4<br><b>Percentage: </b>1.08<br><b>Margin: </b>90085<br><b>Winner: </b>BANDARU SATYANARAYANA MURTHY(Telugu Desam)<br>"
+        },
+        "28": {
+            "color": "rgba(254.7682, 247.5818, 182.6727, 1.0)",
+            "matter": "<b>AC Number: </b>28<br><b>AC Name: </b>Araku Valley<br><b>Candidate: </b>GANGADHARASWAMI SETTY(Indian National Congress)<br><b>No of votes: </b>12503<br><b>Position: </b>5<br><b>Percentage: </b>6.99<br><b>Margin: </b>53155<br><b>Winner: </b>REGAM MATYALINGAM(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "29": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>29<br><b>AC Name: </b>Paderu<br><b>Candidate: </b>BULLIBABU SATAKA(Indian National Congress)<br><b>No of votes: </b>13566<br><b>Position: </b>4<br><b>Percentage: </b>8.42<br><b>Margin: </b>54604<br><b>Winner: </b>MATSYARASA VISWESWARA RAJU(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "30": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>30<br><b>AC Name: </b>Anakapalle<br><b>Candidate: </b>I. R. GANGADHAR(Indian National Congress)<br><b>No of votes: </b>1895<br><b>Position: </b>3<br><b>Percentage: </b>1.1<br><b>Margin: </b>113231<br><b>Winner: </b>KONATHALA RAMAKRISHNA(Janasena Party)<br>"
+        },
+        "31": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>31<br><b>AC Name: </b>Pendurthi<br><b>Candidate: </b>BHAGAT PIRIDI(Indian National Congress)<br><b>No of votes: </b>4224<br><b>Position: </b>3<br><b>Percentage: </b>1.84<br><b>Margin: </b>145387<br><b>Winner: </b>PANCHAKARLA RAMESH BABU(Janasena Party)<br>"
+        },
+        "32": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>32<br><b>AC Name: </b>Yelamanchili<br><b>Candidate: </b>ANANTHA RAMA NARASINGARAO THANAKALA(Indian National Congress)<br><b>No of votes: </b>1822<br><b>Position: </b>4<br><b>Percentage: </b>1.02<br><b>Margin: </b>107621<br><b>Winner: </b>SUNDARAPU VIJAY KUMAR(Janasena Party)<br>"
+        },
+        "33": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>33<br><b>AC Name: </b>Payakaraopet<br><b>Candidate: </b>DR.BONI TATA RAO(Indian National Congress)<br><b>No of votes: </b>2087<br><b>Position: </b>4<br><b>Percentage: </b>1.01<br><b>Margin: </b>117955<br><b>Winner: </b>ANITHA VANGALAPUDI(Telugu Desam)<br>"
+        },
+        "34": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>34<br><b>AC Name: </b>Narsipatnam<br><b>Candidate: </b>RUTHALA SRIRAMA MURTHY(Indian National Congress)<br><b>No of votes: </b>1088<br><b>Position: </b>5<br><b>Percentage: </b>0.59<br><b>Margin: </b>98761<br><b>Winner: </b>AYYANNAPATRUDU CHINTAKAYALA(Telugu Desam)<br>"
+        },
+        "35": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>35<br><b>AC Name: </b>Tuni<br><b>Candidate: </b>GELAM SRINIVASARAO(Indian National Congress)<br><b>No of votes: </b>1923<br><b>Position: </b>4<br><b>Percentage: </b>1.02<br><b>Margin: </b>95283<br><b>Winner: </b>DIVYA YANAMALA(Telugu Desam)<br>"
+        },
+        "36": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>36<br><b>AC Name: </b>Prathipadu<br><b>Candidate: </b>NEERUKONDA VEERA VENKATA SATYANARAYANA(Indian National Congress)<br><b>No of votes: </b>1354<br><b>Position: </b>4<br><b>Percentage: </b>0.77<br><b>Margin: </b>101648<br><b>Winner: </b>VARUPULA SATYA PRABHA(Telugu Desam)<br>"
+        },
+        "37": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>37<br><b>AC Name: </b>Pithapuram<br><b>Candidate: </b>MADEPALLI SATYANANDA RAO(Indian National Congress)<br><b>No of votes: </b>1231<br><b>Position: </b>5<br><b>Percentage: </b>0.59<br><b>Margin: </b>133163<br><b>Winner: </b>KONIDALA PAWAN KALYAN(Janasena Party)<br>"
+        },
+        "38": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>38<br><b>AC Name: </b>Kakinada Rural<br><b>Candidate: </b>PILLI SATYA LAKSHMI(Indian National Congress)<br><b>No of votes: </b>2205<br><b>Position: </b>4<br><b>Percentage: </b>1.07<br><b>Margin: </b>132209<br><b>Winner: </b>PANTAM VENKATESWARA RAO (PANTAM NANAJI)(Janasena Party)<br>"
+        },
+        "39": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>39<br><b>AC Name: </b>Peddapuram<br><b>Candidate: </b>THUMMALA DORABABU(Indian National Congress)<br><b>No of votes: </b>2168<br><b>Position: </b>3<br><b>Percentage: </b>1.21<br><b>Margin: </b>103517<br><b>Winner: </b>CHINA RAJAPPA NIMMAKAYALA(Telugu Desam)<br>"
+        },
+        "40": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>40<br><b>AC Name: </b>Anaparthy<br><b>Candidate: </b>YELLA SRINIVASA RAO(Indian National Congress)<br><b>No of votes: </b>1300<br><b>Position: </b>4<br><b>Percentage: </b>0.66<br><b>Margin: </b>104420<br><b>Winner: </b>RAMAKRISHNA REDDY NALLAMILLI(Bharatiya Janata Party)<br>"
+        },
+        "41": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>41<br><b>AC Name: </b>Kakinada City<br><b>Candidate: </b>CHEKKA NOOKARAJU(Indian National Congress)<br><b>No of votes: </b>2138<br><b>Position: </b>3<br><b>Percentage: </b>1.21<br><b>Margin: </b>110876<br><b>Winner: </b>VANAMADI VENKATESWARA RAO @ KONDABABU(Telugu Desam)<br>"
+        },
+        "42": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>42<br><b>AC Name: </b>Ramachandrapuram<br><b>Candidate: </b>KOTA. SRINIVAS RAO(Indian National Congress)<br><b>No of votes: </b>1173<br><b>Position: </b>5<br><b>Percentage: </b>0.67<br><b>Margin: </b>96479<br><b>Winner: </b>VASAMSETTI. SUBASH(Telugu Desam)<br>"
+        },
+        "43": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>43<br><b>AC Name: </b>Mummidivaram<br><b>Candidate: </b>PALEPU DHARMA RAO(Indian National Congress)<br><b>No of votes: </b>1342<br><b>Position: </b>5<br><b>Percentage: </b>0.65<br><b>Margin: </b>117345<br><b>Winner: </b>DATLA SUBBARAJU (BUCHIBABU)(Telugu Desam)<br>"
+        },
+        "44": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>44<br><b>AC Name: </b>Amalapuram<br><b>Candidate: </b>AITHABATHULA SUBHASHINI(Indian National Congress)<br><b>No of votes: </b>1357<br><b>Position: </b>5<br><b>Percentage: </b>0.76<br><b>Margin: </b>102665<br><b>Winner: </b>AITHABATHULA ANANDARAO(Telugu Desam)<br>"
+        },
+        "45": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>45<br><b>AC Name: </b>Razole<br><b>Candidate: </b>SARELLA PRASANNA KUMAR(Indian National Congress)<br><b>No of votes: </b>1435<br><b>Position: </b>4<br><b>Percentage: </b>0.9<br><b>Margin: </b>94079<br><b>Winner: </b>DEVA VARAPRASAD(Janasena Party)<br>"
+        },
+        "46": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>46<br><b>AC Name: </b>Gannavaram<br><b>Candidate: </b>CHITTIBABU KONDETI(Indian National Congress)<br><b>No of votes: </b>1583<br><b>Position: </b>5<br><b>Percentage: </b>0.94<br><b>Margin: </b>94525<br><b>Winner: </b>GIDDI. SATYANARAYANA(Janasena Party)<br>"
+        },
+        "47": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>47<br><b>AC Name: </b>Kothapeta<br><b>Candidate: </b>ESWARA RAO ROUTHU(Indian National Congress)<br><b>No of votes: </b>1169<br><b>Position: </b>4<br><b>Percentage: </b>0.54<br><b>Margin: </b>133117<br><b>Winner: </b>BANDARU SATYANANDA RAO(Telugu Desam)<br>"
+        },
+        "48": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>48<br><b>AC Name: </b>Mandapeta<br><b>Candidate: </b>KAMANA PRABHAKARA RAO(Indian National Congress)<br><b>No of votes: </b>1484<br><b>Position: </b>4<br><b>Percentage: </b>0.76<br><b>Margin: </b>114825<br><b>Winner: </b>JOGESWARA RAO.V(Telugu Desam)<br>"
+        },
+        "49": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>49<br><b>AC Name: </b>Rajanagaram<br><b>Candidate: </b>MUNDRU VENKATA SRINIVAS(PEDABABU)(Indian National Congress)<br><b>No of votes: </b>1901<br><b>Position: </b>4<br><b>Percentage: </b>1.0<br><b>Margin: </b>104094<br><b>Winner: </b>BATHULA BALARAMAKRISHNA S/O GANGARAO(Janasena Party)<br>"
+        },
+        "50": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>50<br><b>AC Name: </b>Rajahmundry City<br><b>Candidate: </b>BODA VENKAT(Indian National Congress)<br><b>No of votes: </b>1918<br><b>Position: </b>3<br><b>Percentage: </b>1.05<br><b>Margin: </b>121373<br><b>Winner: </b>ADIREDDY SRINIVAS(Telugu Desam)<br>"
+        },
+        "51": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>51<br><b>AC Name: </b>Rajahmundry Rural<br><b>Candidate: </b>BALEPALLI MURALIDHAR(Indian National Congress)<br><b>No of votes: </b>2728<br><b>Position: </b>3<br><b>Percentage: </b>1.35<br><b>Margin: </b>126332<br><b>Winner: </b>GORANTLA BUTCHAIAH CHOUDARY(Telugu Desam)<br>"
+        },
+        "52": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>52<br><b>AC Name: </b>Jaggampeta<br><b>Candidate: </b>MAROTHI SIVA GANESH(Indian National Congress)<br><b>No of votes: </b>1457<br><b>Position: </b>5<br><b>Percentage: </b>0.75<br><b>Margin: </b>112136<br><b>Winner: </b>JYOTHULA NEHRU(Telugu Desam)<br>"
+        },
+        "54": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>54<br><b>AC Name: </b>Kovvur<br><b>Candidate: </b>ARIGELA ARUNA KUMARI(Indian National Congress)<br><b>No of votes: </b>1897<br><b>Position: </b>4<br><b>Percentage: </b>1.19<br><b>Margin: </b>90846<br><b>Winner: </b>MUPPIDI VENKATESWARA RAO(Telugu Desam)<br>"
+        },
+        "55": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>55<br><b>AC Name: </b>Nidadavole<br><b>Candidate: </b>PEDDIREDDI SUBBARAO(Indian National Congress)<br><b>No of votes: </b>1495<br><b>Position: </b>6<br><b>Percentage: </b>0.82<br><b>Margin: </b>101204<br><b>Winner: </b>KANDULA DURGESH(Janasena Party)<br>"
+        },
+        "56": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>56<br><b>AC Name: </b>Achanta<br><b>Candidate: </b>NEKKANTI VENKATA SATYANARAYANA (SATISH)(Indian National Congress)<br><b>No of votes: </b>1872<br><b>Position: </b>3<br><b>Percentage: </b>1.24<br><b>Margin: </b>83530<br><b>Winner: </b>SATYANARAYANA PITHANI(Telugu Desam)<br>"
+        },
+        "57": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>57<br><b>AC Name: </b>Palacole<br><b>Candidate: </b>ARJUNARAO KOLUKULURI(Indian National Congress)<br><b>No of votes: </b>1945<br><b>Position: </b>3<br><b>Percentage: </b>1.19<br><b>Margin: </b>111169<br><b>Winner: </b>DR.NIMMALA RAMANAIDU(Telugu Desam)<br>"
+        },
+        "58": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>58<br><b>AC Name: </b>Narasapuram<br><b>Candidate: </b>KANURI UDAYA BHASKARA KRISHNA PRASAD(Indian National Congress)<br><b>No of votes: </b>1915<br><b>Position: </b>3<br><b>Percentage: </b>1.32<br><b>Margin: </b>92201<br><b>Winner: </b>BOMMIDI NARAYANA NAYAKAR(Janasena Party)<br>"
+        },
+        "59": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>59<br><b>AC Name: </b>Bhimavaram<br><b>Candidate: </b>ANKEM SEETARAM(Indian National Congress)<br><b>No of votes: </b>3252<br><b>Position: </b>3<br><b>Percentage: </b>1.59<br><b>Margin: </b>127172<br><b>Winner: </b>RAMANJANEYULU PULAPARTHI (ANJIBABU)(Janasena Party)<br>"
+        },
+        "60": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>60<br><b>AC Name: </b>Undi<br><b>Candidate: </b>VENKATA GOPALA KRISHNAM  RAJU VEGESNA(Indian National Congress)<br><b>No of votes: </b>1157<br><b>Position: </b>5<br><b>Percentage: </b>0.59<br><b>Margin: </b>115745<br><b>Winner: </b>KANUMURU RAGHU RAMA KRISHNA RAJU (R R R)(Telugu Desam)<br>"
+        },
+        "61": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>61<br><b>AC Name: </b>Tanuku<br><b>Candidate: </b>KADALI RAMA RAO(Indian National Congress)<br><b>No of votes: </b>2422<br><b>Position: </b>3<br><b>Percentage: </b>1.24<br><b>Margin: </b>127125<br><b>Winner: </b>ARIMILLI RADHA KRISHNA(Telugu Desam)<br>"
+        },
+        "62": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>62<br><b>AC Name: </b>Tadepalligudem<br><b>Candidate: </b>MARNEEDI. SEKHAR (BABJI)(Indian National Congress)<br><b>No of votes: </b>1901<br><b>Position: </b>3<br><b>Percentage: </b>1.07<br><b>Margin: </b>114542<br><b>Winner: </b>BOLISETTY SRINIVAS(Janasena Party)<br>"
+        },
+        "63": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>63<br><b>AC Name: </b>Ungutur<br><b>Candidate: </b>PATHAPATI HARI KUMARA RAJU(Indian National Congress)<br><b>No of votes: </b>3130<br><b>Position: </b>3<br><b>Percentage: </b>1.71<br><b>Margin: </b>105764<br><b>Winner: </b>DHARMARAJU PATSAMATLA(Janasena Party)<br>"
+        },
+        "64": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>64<br><b>AC Name: </b>Denduluru<br><b>Candidate: </b>ALAPATI NARASIMHA MURTHY(Indian National Congress)<br><b>No of votes: </b>1607<br><b>Position: </b>4<br><b>Percentage: </b>0.83<br><b>Margin: </b>105680<br><b>Winner: </b>CHINTAMANENI PRABHAKAR(Telugu Desam)<br>"
+        },
+        "66": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>66<br><b>AC Name: </b>Gopalapuram<br><b>Candidate: </b>SODADASI MARTIN LUTHER(Indian National Congress)<br><b>No of votes: </b>2387<br><b>Position: </b>4<br><b>Percentage: </b>1.13<br><b>Margin: </b>112033<br><b>Winner: </b>MADDIPATI VENKATA RAJU(Telugu Desam)<br>"
+        },
+        "67": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>67<br><b>AC Name: </b>Polavaram<br><b>Candidate: </b>SRUJANA DUVVELA(Indian National Congress)<br><b>No of votes: </b>3568<br><b>Position: </b>6<br><b>Percentage: </b>1.63<br><b>Margin: </b>97885<br><b>Winner: </b>CHIRRI BALARAJU(Janasena Party)<br>"
+        },
+        "68": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC Number: </b>68<br><b>AC Name: </b>Chintalapudi<br><b>Candidate: </b>VUNNAMATLA RAKADA ELIZA(Indian National Congress)<br><b>No of votes: </b>4958<br><b>Position: </b>3<br><b>Percentage: </b>2.2<br><b>Margin: </b>115168<br><b>Winner: </b>ROSHAN KUMAR SONGA(Telugu Desam)<br>"
+        },
+        "69": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>69<br><b>AC Name: </b>Tiruvuru<br><b>Candidate: </b>LAM THANTIYA KUMARI(Indian National Congress)<br><b>No of votes: </b>1329<br><b>Position: </b>3<br><b>Percentage: </b>0.72<br><b>Margin: </b>99390<br><b>Winner: </b>KOLIKAPUDI SRINIVASA RAO(Telugu Desam)<br>"
+        },
+        "70": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>70<br><b>AC Name: </b>Nuzvid<br><b>Candidate: </b>MAREEDU. KRISHNA(Indian National Congress)<br><b>No of votes: </b>2405<br><b>Position: </b>4<br><b>Percentage: </b>1.14<br><b>Margin: </b>105824<br><b>Winner: </b>KOLUSU PARTHA SARATHY(Telugu Desam)<br>"
+        },
+        "72": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>72<br><b>AC Name: </b>Gudivada<br><b>Candidate: </b>VADDADI GOVINDA RAO (RAJESH)(Indian National Congress)<br><b>No of votes: </b>1333<br><b>Position: </b>3<br><b>Percentage: </b>0.78<br><b>Margin: </b>108647<br><b>Winner: </b>VENIGANDLA RAMU(Telugu Desam)<br>"
+        },
+        "73": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>73<br><b>AC Name: </b>Kaikalur<br><b>Candidate: </b>BODDU NOBLE(Indian National Congress)<br><b>No of votes: </b>2480<br><b>Position: </b>3<br><b>Percentage: </b>1.37<br><b>Margin: </b>106800<br><b>Winner: </b>KAMINENI SRINIVAS(Bharatiya Janata Party)<br>"
+        },
+        "74": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>74<br><b>AC Name: </b>Pedana<br><b>Candidate: </b>SONTI. NAGARAJU(Indian National Congress)<br><b>No of votes: </b>1354<br><b>Position: </b>3<br><b>Percentage: </b>0.9<br><b>Margin: </b>90040<br><b>Winner: </b>KAGITHA KRISHNAPRASAD(Telugu Desam)<br>"
+        },
+        "75": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>75<br><b>AC Name: </b>Machilipatnam<br><b>Candidate: </b>ABDUL MATEEN(Indian National Congress)<br><b>No of votes: </b>1443<br><b>Position: </b>3<br><b>Percentage: </b>0.88<br><b>Margin: </b>103601<br><b>Winner: </b>KOLLU. RAVINDRA(Telugu Desam)<br>"
+        },
+        "76": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>76<br><b>AC Name: </b>Avanigadda<br><b>Candidate: </b>ANDE SRI RAMAMURTHY(Indian National Congress)<br><b>No of votes: </b>1068<br><b>Position: </b>4<br><b>Percentage: </b>0.57<br><b>Margin: </b>112392<br><b>Winner: </b>BUDDHAPRASAD MANDALI(Janasena Party)<br>"
+        },
+        "77": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>77<br><b>AC Name: </b>Pamarru<br><b>Candidate: </b>D Y DAS(Indian National Congress)<br><b>No of votes: </b>2233<br><b>Position: </b>3<br><b>Percentage: </b>1.35<br><b>Margin: </b>91956<br><b>Winner: </b>KUMAR RAJA VARLA(Telugu Desam)<br>"
+        },
+        "78": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>78<br><b>AC Name: </b>Penamaluru<br><b>Candidate: </b>ELISALA SUBRAMANYAM(Indian National Congress)<br><b>No of votes: </b>2596<br><b>Position: </b>3<br><b>Percentage: </b>1.1<br><b>Margin: </b>142316<br><b>Winner: </b>BODE PRASAD(Telugu Desam)<br>"
+        },
+        "81": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>81<br><b>AC Name: </b>Vijayawada East<br><b>Candidate: </b>PONUGUPATI NANCHARAIAH(Indian National Congress)<br><b>No of votes: </b>2244<br><b>Position: </b>4<br><b>Percentage: </b>1.15<br><b>Margin: </b>116597<br><b>Winner: </b>GADDE RAMA MOHAN(Telugu Desam)<br>"
+        },
+        "82": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>82<br><b>AC Name: </b>Mylavaram<br><b>Candidate: </b>KIRAN BORRA(Indian National Congress)<br><b>No of votes: </b>4652<br><b>Position: </b>3<br><b>Percentage: </b>1.92<br><b>Margin: </b>132686<br><b>Winner: </b>VASANTHA VENKATA KRISHNA PRASAD(Telugu Desam)<br>"
+        },
+        "83": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>83<br><b>AC Name: </b>Nandigama<br><b>Candidate: </b>VAJRAIAH. MANDA(Indian National Congress)<br><b>No of votes: </b>1486<br><b>Position: </b>4<br><b>Percentage: </b>0.82<br><b>Margin: </b>100715<br><b>Winner: </b>TANGIRALA SOWMYA(Telugu Desam)<br>"
+        },
+        "84": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>84<br><b>AC Name: </b>Jaggayyapeta<br><b>Candidate: </b>APPARAO KARNATI(Indian National Congress)<br><b>No of votes: </b>2527<br><b>Position: </b>3<br><b>Percentage: </b>1.36<br><b>Margin: </b>95952<br><b>Winner: </b>RAJAGOPAL SREERAM (TATAIAH)(Telugu Desam)<br>"
+        },
+        "85": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>85<br><b>AC Name: </b>Pedakurapadu<br><b>Candidate: </b>PAMIDI NAGESWARA RAO(Indian National Congress)<br><b>No of votes: </b>1290<br><b>Position: </b>3<br><b>Percentage: </b>0.62<br><b>Margin: </b>111667<br><b>Winner: </b>BHASHYAM PRAVEEN(Telugu Desam)<br>"
+        },
+        "86": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>86<br><b>AC Name: </b>Tadikonda<br><b>Candidate: </b>MANCHALA SUSHIL RAJA(Indian National Congress)<br><b>No of votes: </b>2514<br><b>Position: </b>3<br><b>Percentage: </b>1.37<br><b>Margin: </b>107071<br><b>Winner: </b>TENALI SRAVAN KUMAR(Telugu Desam)<br>"
+        },
+        "88": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>88<br><b>AC Name: </b>Ponnur<br><b>Candidate: </b>JAKKA RAVINDRANATH(Indian National Congress)<br><b>No of votes: </b>2400<br><b>Position: </b>3<br><b>Percentage: </b>1.24<br><b>Margin: </b>108010<br><b>Winner: </b>DHULIPALLA NARENDRA KUMAR(Telugu Desam)<br>"
+        },
+        "89": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>89<br><b>AC Name: </b>Vemuru<br><b>Candidate: </b>BURAGA SUBBA RAO(Indian National Congress)<br><b>No of votes: </b>1664<br><b>Position: </b>4<br><b>Percentage: </b>0.96<br><b>Margin: </b>93258<br><b>Winner: </b>ANANDA BABU NAKKA(Telugu Desam)<br>"
+        },
+        "90": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>90<br><b>AC Name: </b>Repalle<br><b>Candidate: </b>MOPIDEVI SRINIVASA RAO(Indian National Congress)<br><b>No of votes: </b>2841<br><b>Position: </b>3<br><b>Percentage: </b>1.5<br><b>Margin: </b>108288<br><b>Winner: </b>ANAGANI SATYA PRASAD(Telugu Desam)<br>"
+        },
+        "92": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC Number: </b>92<br><b>AC Name: </b>Bapatla<br><b>Candidate: </b>ANJIBABU GANTA(Indian National Congress)<br><b>No of votes: </b>4193<br><b>Position: </b>3<br><b>Percentage: </b>2.6<br><b>Margin: </b>86433<br><b>Winner: </b>VEGESANA NARENDRA VARMA RAJU(Telugu Desam)<br>"
+        },
+        "93": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>93<br><b>AC Name: </b>Prathipadu<br><b>Candidate: </b>KORIVI VINAYA KUMAR(Indian National Congress)<br><b>No of votes: </b>3491<br><b>Position: </b>3<br><b>Percentage: </b>1.58<br><b>Margin: </b>125174<br><b>Winner: </b>BURLA RAMANJANEYULU(Telugu Desam)<br>"
+        },
+        "94": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>94<br><b>AC Name: </b>Guntur West<br><b>Candidate: </b>JOHN BABU RACHAKONDA(Indian National Congress)<br><b>No of votes: </b>3719<br><b>Position: </b>3<br><b>Percentage: </b>1.97<br><b>Margin: </b>112348<br><b>Winner: </b>GALLA MADHAVI(Telugu Desam)<br>"
+        },
+        "95": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC Number: </b>95<br><b>AC Name: </b>Guntur East<br><b>Candidate: </b>SHAIK MASTAN VALI(Indian National Congress)<br><b>No of votes: </b>5239<br><b>Position: </b>3<br><b>Percentage: </b>2.92<br><b>Margin: </b>95576<br><b>Winner: </b>MOHAMMED NASEER AHMED(Telugu Desam)<br>"
+        },
+        "96": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>96<br><b>AC Name: </b>Chilakaluripet<br><b>Candidate: </b>MADDULA RADHA KRISHNA(Indian National Congress)<br><b>No of votes: </b>2270<br><b>Position: </b>3<br><b>Percentage: </b>1.16<br><b>Margin: </b>108792<br><b>Winner: </b>PRATHIPATI PULLARAO(Telugu Desam)<br>"
+        },
+        "97": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>97<br><b>AC Name: </b>Narasaraopet<br><b>Candidate: </b>MAHABOOB BASHA SHAIK(Indian National Congress)<br><b>No of votes: </b>1820<br><b>Position: </b>3<br><b>Percentage: </b>0.95<br><b>Margin: </b>101347<br><b>Winner: </b>ARAVINDA BABU CHADALAVADA(Telugu Desam)<br>"
+        },
+        "98": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>98<br><b>AC Name: </b>Sattenapalle<br><b>Candidate: </b>CHUKKA CHANDRA PAUL(Indian National Congress)<br><b>No of votes: </b>1580<br><b>Position: </b>3<br><b>Percentage: </b>0.74<br><b>Margin: </b>116385<br><b>Winner: </b>KANNA LAKSHMINARAYANA(Telugu Desam)<br>"
+        },
+        "99": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>99<br><b>AC Name: </b>Vinukonda<br><b>Candidate: </b>CHENNA SRINIVASA RAO(Indian National Congress)<br><b>No of votes: </b>1902<br><b>Position: </b>3<br><b>Percentage: </b>0.8<br><b>Margin: </b>129536<br><b>Winner: </b>GONUGUNTLA VENKATA SIVA SITA RAMA ANZANNEYLLU(Telugu Desam)<br>"
+        },
+        "100": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>100<br><b>AC Name: </b>Gurajala<br><b>Candidate: </b>YALAMANDA REDDY TIYYAGURA(Indian National Congress)<br><b>No of votes: </b>2156<br><b>Position: </b>3<br><b>Percentage: </b>0.93<br><b>Margin: </b>126045<br><b>Winner: </b>YARAPATHINENI SRINIVASA RAO(Telugu Desam)<br>"
+        },
+        "101": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>101<br><b>AC Name: </b>Macherla<br><b>Candidate: </b>RAMACHANDRAREDDY YARAMALA(Indian National Congress)<br><b>No of votes: </b>2237<br><b>Position: </b>4<br><b>Percentage: </b>1.02<br><b>Margin: </b>120176<br><b>Winner: </b>JULAKANTI BRAHMANANDA REDDY(Telugu Desam)<br>"
+        },
+        "102": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>102<br><b>AC Name: </b>Yerragondapalem<br><b>Candidate: </b>AJITHA RAO BUDALA(Indian National Congress)<br><b>No of votes: </b>2192<br><b>Position: </b>4<br><b>Percentage: </b>1.18<br><b>Margin: </b>89549<br><b>Winner: </b>CHANDRA SEKHAR TATIPARTHI(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "103": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>103<br><b>AC Name: </b>Darsi<br><b>Candidate: </b>PUTLURI KONDA REDDY(Indian National Congress)<br><b>No of votes: </b>1985<br><b>Position: </b>4<br><b>Percentage: </b>0.96<br><b>Margin: </b>99904<br><b>Winner: </b>BUCHEPALLI SIVA PRASAD REDDY(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "104": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>104<br><b>AC Name: </b>Parchur<br><b>Candidate: </b>NALLAGORLA SIVA SRILAKSHMI JYOTHI(Indian National Congress)<br><b>No of votes: </b>2293<br><b>Position: </b>3<br><b>Percentage: </b>1.13<br><b>Margin: </b>108282<br><b>Winner: </b>YELURI SAMBASIVA RAO(Telugu Desam)<br>"
+        },
+        "105": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>105<br><b>AC Name: </b>Addanki<br><b>Candidate: </b>KISHORE BABU ADUSUMALLI(Indian National Congress)<br><b>No of votes: </b>4072<br><b>Position: </b>3<br><b>Percentage: </b>1.89<br><b>Margin: </b>112346<br><b>Winner: </b>GOTTIPATI  RAVI KUMAR(Telugu Desam)<br>"
+        },
+        "106": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC Number: </b>106<br><b>AC Name: </b>Chirala<br><b>Candidate: </b>AMANCHI KRISHNA MOHAN(Indian National Congress)<br><b>No of votes: </b>41859<br><b>Position: </b>3<br><b>Percentage: </b>24.58<br><b>Margin: </b>30841<br><b>Winner: </b>MADDULURI MALA KONDAIAH(Telugu Desam)<br>"
+        },
+        "107": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>107<br><b>AC Name: </b>Santhanuthalapadu<br><b>Candidate: </b>PALAPARTHI VIJESH RAJ(Indian National Congress)<br><b>No of votes: </b>2715<br><b>Position: </b>4<br><b>Percentage: </b>1.43<br><b>Margin: </b>103042<br><b>Winner: </b>VIJAY KUMAR B.N(Telugu Desam)<br>"
+        },
+        "108": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>108<br><b>AC Name: </b>Ongole<br><b>Candidate: </b>TURAKAPALLI NAGALAKSHMI(Indian National Congress)<br><b>No of votes: </b>2067<br><b>Position: </b>3<br><b>Percentage: </b>0.99<br><b>Margin: </b>116733<br><b>Winner: </b>DAMACHARLA JANARDHANA RAO(Telugu Desam)<br>"
+        },
+        "109": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>109<br><b>AC Name: </b>Kandukur<br><b>Candidate: </b>GOUSE MOHIDDIN SYED(Indian National Congress)<br><b>No of votes: </b>2300<br><b>Position: </b>3<br><b>Percentage: </b>1.11<br><b>Margin: </b>106873<br><b>Winner: </b>INTURI NAGESWARA RAO(Telugu Desam)<br>"
+        },
+        "110": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>110<br><b>AC Name: </b>Kondapi<br><b>Candidate: </b>SUDHAKARA RAO PASUMARTHI(Indian National Congress)<br><b>No of votes: </b>1666<br><b>Position: </b>3<br><b>Percentage: </b>0.78<br><b>Margin: </b>115008<br><b>Winner: </b>DOCTOR DOLA SREE BALA VEERANJANEYA SWAMY(Telugu Desam)<br>"
+        },
+        "111": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>111<br><b>AC Name: </b>Markapuram<br><b>Candidate: </b>SYED JAVEED ANWAR(Indian National Congress)<br><b>No of votes: </b>2088<br><b>Position: </b>3<br><b>Percentage: </b>1.09<br><b>Margin: </b>96917<br><b>Winner: </b>KANDULA NARAYANA REDDY(Telugu Desam)<br>"
+        },
+        "112": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>112<br><b>AC Name: </b>Giddalur<br><b>Candidate: </b>PAGADALA PEDDA RANGASWAMI(Indian National Congress)<br><b>No of votes: </b>2879<br><b>Position: </b>3<br><b>Percentage: </b>1.39<br><b>Margin: </b>95584<br><b>Winner: </b>ASHOK REDDY MUTHUMULA(Telugu Desam)<br>"
+        },
+        "113": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>113<br><b>AC Name: </b>Kanigiri<br><b>Candidate: </b>DEVARAPALLI SUBBA REDDY(Indian National Congress)<br><b>No of votes: </b>1838<br><b>Position: </b>4<br><b>Percentage: </b>0.89<br><b>Margin: </b>105207<br><b>Winner: </b>DR. UGRA NARASIMHA REDDY MUKKU(Telugu Desam)<br>"
+        },
+        "114": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>114<br><b>AC Name: </b>Kavali<br><b>Candidate: </b>PODALAKURI KALYAN(Indian National Congress)<br><b>No of votes: </b>2340<br><b>Position: </b>4<br><b>Percentage: </b>1.17<br><b>Margin: </b>104196<br><b>Winner: </b>DAGUMATI VENKATA KRISHNA REDDY(Telugu Desam)<br>"
+        },
+        "115": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>115<br><b>AC Name: </b>Atmakur<br><b>Candidate: </b>CHEVURU SREEDHARA REDDY(Indian National Congress)<br><b>No of votes: </b>2915<br><b>Position: </b>3<br><b>Percentage: </b>1.59<br><b>Margin: </b>88250<br><b>Winner: </b>ANAM.RAMANARAYANA REDDY(Telugu Desam)<br>"
+        },
+        "116": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>116<br><b>AC Name: </b>Kovur<br><b>Candidate: </b>KIRAN KUMAR REDDY NARAPAREDDY(Indian National Congress)<br><b>No of votes: </b>3203<br><b>Position: </b>3<br><b>Percentage: </b>1.49<br><b>Margin: </b>127420<br><b>Winner: </b>PRASHANTHI REDDY VEMIREDDY(Telugu Desam)<br>"
+        },
+        "118": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC Number: </b>118<br><b>AC Name: </b>Nellore Rural<br><b>Candidate: </b>SHAIK FAYAZ(Indian National Congress)<br><b>No of votes: </b>4280<br><b>Position: </b>3<br><b>Percentage: </b>2.2<br><b>Margin: </b>105695<br><b>Winner: </b>KOTAMREDDY SRIDHAR REDDY(Telugu Desam)<br>"
+        },
+        "119": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>119<br><b>AC Name: </b>Sarvepalli<br><b>Candidate: </b>CHANDRASEKHAR POOLA(Indian National Congress)<br><b>No of votes: </b>1577<br><b>Position: </b>4<br><b>Percentage: </b>0.81<br><b>Margin: </b>101701<br><b>Winner: </b>CHANDRA MOHAN REDDY SOMIREDDY(Telugu Desam)<br>"
+        },
+        "120": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>120<br><b>AC Name: </b>Gudur<br><b>Candidate: </b>DR UYYALA RAMAKRISHNA RAO(Indian National Congress)<br><b>No of votes: </b>3308<br><b>Position: </b>3<br><b>Percentage: </b>1.7<br><b>Margin: </b>99367<br><b>Winner: </b>PASIM SUNIL KUMAR(Telugu Desam)<br>"
+        },
+        "121": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>121<br><b>AC Name: </b>Sullurpeta<br><b>Candidate: </b>CHANDANAMUDI SIVA(Indian National Congress)<br><b>No of votes: </b>4124<br><b>Position: </b>3<br><b>Percentage: </b>2.03<br><b>Margin: </b>106924<br><b>Winner: </b>NELAVALA VIJAYASREE(Telugu Desam)<br>"
+        },
+        "122": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>122<br><b>AC Name: </b>Venkatagiri<br><b>Candidate: </b>PANTA SRINIVASULU REDDY(Indian National Congress)<br><b>No of votes: </b>1935<br><b>Position: </b>4<br><b>Percentage: </b>0.97<br><b>Margin: </b>102463<br><b>Winner: </b>KURUGONDLA RAMAKRISHNA(Telugu Desam)<br>"
+        },
+        "123": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>123<br><b>AC Name: </b>Udayagiri<br><b>Candidate: </b>ANIL KUMAR REDDY SOMU(Indian National Congress)<br><b>No of votes: </b>2512<br><b>Position: </b>3<br><b>Percentage: </b>1.25<br><b>Margin: </b>99025<br><b>Winner: </b>KAKARLA SURESH(Telugu Desam)<br>"
+        },
+        "124": {
+            "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+            "matter": "<b>AC Number: </b>124<br><b>AC Name: </b>Badvel<br><b>Candidate: </b>NEERUGATTU DORA VIJAYA JYOTHI(Indian National Congress)<br><b>No of votes: </b>7366<br><b>Position: </b>3<br><b>Percentage: </b>4.21<br><b>Margin: </b>83044<br><b>Winner: </b>DASARI SUDHA(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "126": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC Number: </b>126<br><b>AC Name: </b>Kadapa<br><b>Candidate: </b>T.K. AFZAL. ALI KHAN(Indian National Congress)<br><b>No of votes: </b>24500<br><b>Position: </b>3<br><b>Percentage: </b>12.86<br><b>Margin: </b>66488<br><b>Winner: </b>MADHAVI REDDAPPA GARI(Telugu Desam)<br>"
+        },
+        "127": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>127<br><b>AC Name: </b>Kodur<br><b>Candidate: </b>DEVI GOSALA(Indian National Congress)<br><b>No of votes: </b>2132<br><b>Position: </b>3<br><b>Percentage: </b>1.39<br><b>Margin: </b>76462<br><b>Winner: </b>ARAVA SREEDHAR(Janasena Party)<br>"
+        },
+        "128": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC Number: </b>128<br><b>AC Name: </b>Rayachoti<br><b>Candidate: </b>SHAIK ALLABAKASH(Indian National Congress)<br><b>No of votes: </b>5571<br><b>Position: </b>3<br><b>Percentage: </b>2.79<br><b>Margin: </b>90354<br><b>Winner: </b>MANDIPALLI RAMPRASAD REDDY(Telugu Desam)<br>"
+        },
+        "129": {
+            "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+            "matter": "<b>AC Number: </b>129<br><b>AC Name: </b>Pulivendla<br><b>Candidate: </b>DHRUVA KUMAR REDDY(Indian National Congress)<br><b>No of votes: </b>10083<br><b>Position: </b>3<br><b>Percentage: </b>5.32<br><b>Margin: </b>106232<br><b>Winner: </b>YS JAGAN MOHAN REDDY(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "131": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>131<br><b>AC Name: </b>Jammalamadugu<br><b>Candidate: </b>BRAMHANANDA REDDY PAMULA(Indian National Congress)<br><b>No of votes: </b>4222<br><b>Position: </b>3<br><b>Percentage: </b>1.98<br><b>Margin: </b>105418<br><b>Winner: </b>ADINARAYANA REDDY CHADIPIRALA(Bharatiya Janata Party)<br>"
+        },
+        "132": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC Number: </b>132<br><b>AC Name: </b>Proddatur<br><b>Candidate: </b>SHAIK POOLA MAHAMMAD NAZEER(Indian National Congress)<br><b>No of votes: </b>6016<br><b>Position: </b>3<br><b>Percentage: </b>2.99<br><b>Margin: </b>100696<br><b>Winner: </b>NANDYALA VARADA RAJULA REDDY(Telugu Desam)<br>"
+        },
+        "133": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC Number: </b>133<br><b>AC Name: </b>Mydukur<br><b>Candidate: </b>GUNDLAKUNTA SREERAMULU(Indian National Congress)<br><b>No of votes: </b>4579<br><b>Position: </b>3<br><b>Percentage: </b>2.53<br><b>Margin: </b>91602<br><b>Winner: </b>SUDHAKAR PUTTA(Telugu Desam)<br>"
+        },
+        "134": {
+            "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+            "matter": "<b>AC Number: </b>134<br><b>AC Name: </b>Allagadda<br><b>Candidate: </b>BARAGODLA HUSSAIN BASHA(Indian National Congress)<br><b>No of votes: </b>6100<br><b>Position: </b>3<br><b>Percentage: </b>3.08<br><b>Margin: </b>92781<br><b>Winner: </b>AKHILA PRIYA BHUMA(Telugu Desam)<br>"
+        },
+        "135": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>135<br><b>AC Name: </b>Srisailam<br><b>Candidate: </b>ISMAIL.A.S(Indian National Congress)<br><b>No of votes: </b>3429<br><b>Position: </b>3<br><b>Percentage: </b>2.08<br><b>Margin: </b>78270<br><b>Winner: </b>BUDDA RAJASEKHARA REDDY(Telugu Desam)<br>"
+        },
+        "136": {
+            "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+            "matter": "<b>AC Number: </b>136<br><b>AC Name: </b>Nandikotkur<br><b>Candidate: </b>THOGURU ARTHUR(Indian National Congress)<br><b>No of votes: </b>7949<br><b>Position: </b>3<br><b>Percentage: </b>4.25<br><b>Margin: </b>84055<br><b>Winner: </b>G JAYASURYA(Telugu Desam)<br>"
+        },
+        "137": {
+            "color": "rgba(205.8288, 224.1939, 188.8803, 1.0)",
+            "matter": "<b>AC Number: </b>137<br><b>AC Name: </b>Kurnool<br><b>Candidate: </b>SHAIK JELANI BASHA(Indian National Congress)<br><b>No of votes: </b>9022<br><b>Position: </b>3<br><b>Percentage: </b>5.05<br><b>Margin: </b>82668<br><b>Winner: </b>T.G.BHARATH(Telugu Desam)<br>"
+        },
+        "139": {
+            "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+            "matter": "<b>AC Number: </b>139<br><b>AC Name: </b>Nandyal<br><b>Candidate: </b>GOPAVARAM GOKUL KRISHNA REDDY(Indian National Congress)<br><b>No of votes: </b>6418<br><b>Position: </b>3<br><b>Percentage: </b>3.08<br><b>Margin: </b>96657<br><b>Winner: </b>NASYAM MOHAMMED FAROOK(Telugu Desam)<br>"
+        },
+        "140": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>140<br><b>AC Name: </b>Banaganapalle<br><b>Candidate: </b>GUTAM PULLAIAH (BALU YADAV)(Indian National Congress)<br><b>No of votes: </b>3344<br><b>Position: </b>3<br><b>Percentage: </b>1.63<br><b>Margin: </b>107259<br><b>Winner: </b>B.C. JANARDHAN REDDY(Telugu Desam)<br>"
+        },
+        "141": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>141<br><b>AC Name: </b>Dhone<br><b>Candidate: </b>DR. GARLAPATI. MADDULETY SWAMY(Indian National Congress)<br><b>No of votes: </b>3988<br><b>Position: </b>3<br><b>Percentage: </b>2.1<br><b>Margin: </b>89535<br><b>Winner: </b>KOTLA JAYA SURYA PRAKASH REDDY(Telugu Desam)<br>"
+        },
+        "143": {
+            "color": "rgba(197.2773, 218.8364, 188.4682, 1.0)",
+            "matter": "<b>AC Number: </b>143<br><b>AC Name: </b>Kodumur<br><b>Candidate: </b>P. MURALI KRISHNA(Indian National Congress)<br><b>No of votes: </b>9835<br><b>Position: </b>3<br><b>Percentage: </b>4.98<br><b>Margin: </b>91868<br><b>Winner: </b>BOGGULA DASTAGIRI(Telugu Desam)<br>"
+        },
+        "144": {
+            "color": "rgba(163.0712, 197.4061, 186.8197, 1.0)",
+            "matter": "<b>AC Number: </b>144<br><b>AC Name: </b>Yemmiganur<br><b>Candidate: </b>M.KHASIM VALI(Indian National Congress)<br><b>No of votes: </b>7831<br><b>Position: </b>3<br><b>Percentage: </b>3.86<br><b>Margin: </b>95258<br><b>Winner: </b>B. JAYANAGESWARA REDDY(Telugu Desam)<br>"
+        },
+        "145": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC Number: </b>145<br><b>AC Name: </b>Mantralayam<br><b>Candidate: </b>P. S MURLI KRISHNARAJU DORA(Indian National Congress)<br><b>No of votes: </b>4660<br><b>Position: </b>3<br><b>Percentage: </b>2.64<br><b>Margin: </b>83002<br><b>Winner: </b>Y. BALANAGI REDDY(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "146": {
+            "color": "rgba(180.1742, 208.1212, 187.6439, 1.0)",
+            "matter": "<b>AC Number: </b>146<br><b>AC Name: </b>Adoni<br><b>Candidate: </b>G. RAMESH YADAV(Indian National Congress)<br><b>No of votes: </b>7622<br><b>Position: </b>3<br><b>Percentage: </b>4.33<br><b>Margin: </b>82307<br><b>Winner: </b>DR. PARTHA SARATHI VALMIKI(Bharatiya Janata Party)<br>"
+        },
+        "147": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC Number: </b>147<br><b>AC Name: </b>Alur<br><b>Candidate: </b>ARAKATLA NAVEEN KISHOR(Indian National Congress)<br><b>No of votes: </b>5772<br><b>Position: </b>3<br><b>Percentage: </b>2.74<br><b>Margin: </b>94492<br><b>Winner: </b>B. VIRUPAKSHI(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "148": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>148<br><b>AC Name: </b>Rayadurg<br><b>Candidate: </b>M.B.CHINNAPPAYYA(Indian National Congress)<br><b>No of votes: </b>3388<br><b>Position: </b>3<br><b>Percentage: </b>1.48<br><b>Margin: </b>126921<br><b>Winner: </b>KALAVA SRINIVASULU(Telugu Desam)<br>"
+        },
+        "149": {
+            "color": "rgba(103.2106, 159.903, 183.9348, 1.0)",
+            "matter": "<b>AC Number: </b>149<br><b>AC Name: </b>Uravakonda<br><b>Candidate: </b>Y. MADHUSUDHAN REDDY(Indian National Congress)<br><b>No of votes: </b>4529<br><b>Position: </b>3<br><b>Percentage: </b>2.33<br><b>Margin: </b>97517<br><b>Winner: </b>PAYYAVULA KESHAV(Telugu Desam)<br>"
+        },
+        "150": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC Number: </b>150<br><b>AC Name: </b>Guntakal<br><b>Candidate: </b>K. PRABHAKAR(Indian National Congress)<br><b>No of votes: </b>5146<br><b>Position: </b>3<br><b>Percentage: </b>2.49<br><b>Margin: </b>96554<br><b>Winner: </b>GUMMANUR JAYARAM(Telugu Desam)<br>"
+        },
+        "151": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>151<br><b>AC Name: </b>Tadpatri<br><b>Candidate: </b>GUJJALA NAGIREDDY(Indian National Congress)<br><b>No of votes: </b>2628<br><b>Position: </b>3<br><b>Percentage: </b>1.27<br><b>Margin: </b>111127<br><b>Winner: </b>ASHMIT REDDY J.C(Telugu Desam)<br>"
+        },
+        "152": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>152<br><b>AC Name: </b>Singanamala<br><b>Candidate: </b>DR. SAKE SAILAJANATH(Indian National Congress)<br><b>No of votes: </b>3469<br><b>Position: </b>4<br><b>Percentage: </b>1.67<br><b>Margin: </b>99488<br><b>Winner: </b>BANDARU SRAVANI SREE(Telugu Desam)<br>"
+        },
+        "154": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>154<br><b>AC Name: </b>Kalyandurg<br><b>Candidate: </b>PERAMNETI RAMBHUPAL REDDY(Indian National Congress)<br><b>No of votes: </b>2585<br><b>Position: </b>3<br><b>Percentage: </b>1.26<br><b>Margin: </b>116293<br><b>Winner: </b>AMILINENI SURENDRA BABU(Telugu Desam)<br>"
+        },
+        "155": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>155<br><b>AC Name: </b>Raptadu<br><b>Candidate: </b>ADI ANDHRA SAKE SANKARAIAH(Indian National Congress)<br><b>No of votes: </b>3456<br><b>Position: </b>3<br><b>Percentage: </b>1.59<br><b>Margin: </b>112684<br><b>Winner: </b>PARITALA SUNITHAMMA(Telugu Desam)<br>"
+        },
+        "156": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC Number: </b>156<br><b>AC Name: </b>Madakasira<br><b>Candidate: </b>K.SUDHAKAR(Indian National Congress)<br><b>No of votes: </b>17380<br><b>Position: </b>3<br><b>Percentage: </b>9.34<br><b>Margin: </b>62603<br><b>Winner: </b>M.S.RAJU(Telugu Desam)<br>"
+        },
+        "157": {
+            "color": "rgba(188.7258, 213.4788, 188.0561, 1.0)",
+            "matter": "<b>AC Number: </b>157<br><b>AC Name: </b>Hindupur<br><b>Candidate: </b>M H ENAYATHULLA(Indian National Congress)<br><b>No of votes: </b>8958<br><b>Position: </b>3<br><b>Percentage: </b>4.57<br><b>Margin: </b>98292<br><b>Winner: </b>NANDAMURI BALAKRISHNA(Telugu Desam)<br>"
+        },
+        "158": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>158<br><b>AC Name: </b>Penukonda<br><b>Candidate: </b>PURROLLA NARASIMHAPPA(Indian National Congress)<br><b>No of votes: </b>4007<br><b>Position: </b>4<br><b>Percentage: </b>1.93<br><b>Margin: </b>109825<br><b>Winner: </b>S. SAVITHA(Telugu Desam)<br>"
+        },
+        "159": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>159<br><b>AC Name: </b>Puttaparthi<br><b>Candidate: </b>DAADHI REDDY MADUSUDHAN REDDY(Indian National Congress)<br><b>No of votes: </b>1997<br><b>Position: </b>4<br><b>Percentage: </b>1.09<br><b>Margin: </b>89744<br><b>Winner: </b>PALLE SINDHURA REDDY(Telugu Desam)<br>"
+        },
+        "160": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>160<br><b>AC Name: </b>Dharmavaram<br><b>Candidate: </b>RANGANA ASWARTHA NARAYANA(Indian National Congress)<br><b>No of votes: </b>3758<br><b>Position: </b>3<br><b>Percentage: </b>1.71<br><b>Margin: </b>102786<br><b>Winner: </b>SATYA KUMAR YADAV(Bharatiya Janata Party)<br>"
+        },
+        "161": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>161<br><b>AC Name: </b>Kadiri<br><b>Candidate: </b>K.S. SHANWAZ(Indian National Congress)<br><b>No of votes: </b>3314<br><b>Position: </b>3<br><b>Percentage: </b>1.58<br><b>Margin: </b>100296<br><b>Winner: </b>KANDIKUNTA VENKATA PRASAD(Telugu Desam)<br>"
+        },
+        "162": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>162<br><b>AC Name: </b>Thamballapalle<br><b>Candidate: </b>M.N. CHANDRA SHEKAR REDDY(Indian National Congress)<br><b>No of votes: </b>3444<br><b>Position: </b>3<br><b>Percentage: </b>1.83<br><b>Margin: </b>90692<br><b>Winner: </b>P. DWARAKANATHA REDDY(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "163": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>163<br><b>AC Name: </b>Pileru<br><b>Candidate: </b>BALIREDDY SOMASHEKAR REDDY(Indian National Congress)<br><b>No of votes: </b>3403<br><b>Position: </b>3<br><b>Percentage: </b>1.76<br><b>Margin: </b>102179<br><b>Winner: </b>NALLARI KISHAN KUMAR REDDY(Telugu Desam)<br>"
+        },
+        "164": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC Number: </b>164<br><b>AC Name: </b>Madanapalle<br><b>Candidate: </b>MALLELA PAVAN KUMAR REDDY(Indian National Congress)<br><b>No of votes: </b>6051<br><b>Position: </b>3<br><b>Percentage: </b>2.98<br><b>Margin: </b>91929<br><b>Winner: </b>M.SHAJAHAN BASHA(Telugu Desam)<br>"
+        },
+        "165": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>165<br><b>AC Name: </b>Punganur<br><b>Candidate: </b>G MURALI MOHAN YADAV(Indian National Congress)<br><b>No of votes: </b>3571<br><b>Position: </b>4<br><b>Percentage: </b>1.7<br><b>Margin: </b>97222<br><b>Winner: </b>PEDDIREDDI RAMACHANDRA REDDY(Yuvajana Sramika Rythu Congress Party)<br>"
+        },
+        "166": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>166<br><b>AC Name: </b>Chandragiri<br><b>Candidate: </b>K SRINIVASULU(Indian National Congress)<br><b>No of votes: </b>2971<br><b>Position: </b>3<br><b>Percentage: </b>1.16<br><b>Margin: </b>140696<br><b>Winner: </b>VENKATA MANI PRASAD PULLIVARTHI(Telugu Desam)<br>"
+        },
+        "168": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>168<br><b>AC Name: </b>Srikalahasti<br><b>Candidate: </b>DR. POTHUGUNTA RAJESH NAIDU(Indian National Congress)<br><b>No of votes: </b>3002<br><b>Position: </b>3<br><b>Percentage: </b>1.43<br><b>Margin: </b>118563<br><b>Winner: </b>BOJJALA VENKATA SUDHIR REDDY(Telugu Desam)<br>"
+        },
+        "169": {
+            "color": "rgba(128.8652, 175.9758, 185.1712, 1.0)",
+            "matter": "<b>AC Number: </b>169<br><b>AC Name: </b>Satyavedu<br><b>Candidate: </b>BALAGURAVAM BABU(Indian National Congress)<br><b>No of votes: </b>5444<br><b>Position: </b>3<br><b>Percentage: </b>2.95<br><b>Margin: </b>80027<br><b>Winner: </b>KONETI ADIMULAM(Telugu Desam)<br>"
+        },
+        "170": {
+            "color": "rgba(111.7621, 165.2606, 184.347, 1.0)",
+            "matter": "<b>AC Number: </b>170<br><b>AC Name: </b>Nagari<br><b>Candidate: </b>P. RAKESH REDDY(Indian National Congress)<br><b>No of votes: </b>4551<br><b>Position: </b>3<br><b>Percentage: </b>2.55<br><b>Margin: </b>103246<br><b>Winner: </b>GALI BHANU PRAKASH(Telugu Desam)<br>"
+        },
+        "171": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>171<br><b>AC Name: </b>Gangadhara Nellore<br><b>Candidate: </b>RAMESH BABU. D(Indian National Congress)<br><b>No of votes: </b>2682<br><b>Position: </b>3<br><b>Percentage: </b>1.46<br><b>Margin: </b>98494<br><b>Winner: </b>DR. VM. THOMAS(Telugu Desam)<br>"
+        },
+        "172": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>172<br><b>AC Name: </b>Chittoor<br><b>Candidate: </b>G.TIKARAM @ TIKKI ROYAL(Indian National Congress)<br><b>No of votes: </b>3264<br><b>Position: </b>3<br><b>Percentage: </b>1.95<br><b>Margin: </b>84802<br><b>Winner: </b>GURAJALA JAGAN MOHAN (GJM)(Telugu Desam)<br>"
+        },
+        "173": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>173<br><b>AC Name: </b>Puthalapattu<br><b>Candidate: </b>M BABU(Indian National Congress)<br><b>No of votes: </b>2820<br><b>Position: </b>3<br><b>Percentage: </b>1.45<br><b>Margin: </b>99317<br><b>Winner: </b>K MURALI MOHAN(Telugu Desam)<br>"
+        },
+        "174": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>174<br><b>AC Name: </b>Palamaner<br><b>Candidate: </b>B. SIVASANKAR(Indian National Congress)<br><b>No of votes: </b>4015<br><b>Position: </b>3<br><b>Percentage: </b>1.7<br><b>Margin: </b>119217<br><b>Winner: </b>AMARANATHA REDDY. N(Telugu Desam)<br>"
+        },
+        "175": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>175<br><b>AC Name: </b>Kuppam<br><b>Candidate: </b>A. GOVINDHARAJULU(Indian National Congress)<br><b>No of votes: </b>2574<br><b>Position: </b>3<br><b>Percentage: </b>1.27<br><b>Margin: </b>119355<br><b>Winner: </b>CHANDRABABU NAIDU NARA(Telugu Desam)<br>"
+        }
+    }
+}
