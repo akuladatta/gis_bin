@@ -1,0 +1,233 @@
+{
+    "title": "JK 2024 JKNC performence",
+    "trigger": "seat_id",
+    "desc": "<div><table class='col-md-12'><caption>Party hold percentself.ages</caption><thead><tr><th>Color</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: RGBA(255,0,0,1);\"></td><td>52.13% to 64.68%</td><td>14</td><td>14 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(240.0,103.0,79.0,1);\"></td><td>39.58% to 52.13%</td><td>19</td><td>16 (84.21%)</td></tr><tr><td style=\"background-color: RGBA(252.45,173.4,96.9,1);\"></td><td>27.02% to 39.58%</td><td>16</td><td>12 (75.0%)</td></tr><tr><td style=\"background-color: RGBA(255.0,255.0,191.25,1);\"></td><td>14.47% to 27.02%</td><td>5</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: RGBA(43.35,122.4,181.05,1);\"></td><td>1.92% to 14.47%</td><td>2</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>56</td><td>42 (75.0%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Party Position Status</caption><thead><tr><th>Position</th><th>Seats</th></thead><tbody><tr><td>Place No : 1</td><td>42</td></tr><tr><td>Place No : 2</td><td>11</td></tr><tr><td>Place No : 3</td><td>2</td></tr><tr><td>Place No : 4</td><td>1</td></tr><tr><td>Not Contested</td><td>34</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table></div>",
+    "search_trigger": "seat_name_en",
+    "data": {
+        "1": {
+            "color": "rgba(251.1924, 166.2889, 95.0919, 1.0)",
+            "matter": "<b>AC Number: </b>1<br><b>AC Name: </b>KARNAH<br><b>Candidate: </b>JAVAID AHMAD MIRCHAL(Jammu & Kashmir National Conference)<br><b>No of votes: </b>14294<br><b>Position: </b>1<br><b>Percentage: </b>34.59<br><b>Margin: </b>6262<br>"
+        },
+        "2": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>2<br><b>AC Name: </b>TREHGAM<br><b>Candidate: </b>SAIFULLAH MIR(Jammu & Kashmir National Conference)<br><b>No of votes: </b>18002<br><b>Position: </b>1<br><b>Percentage: </b>33.74<br><b>Margin: </b>3626<br>"
+        },
+        "3": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC Number: </b>3<br><b>AC Name: </b>KUPWARA<br><b>Candidate: </b>NASIR ASLAM WANI(Jammu & Kashmir National Conference)<br><b>No of votes: </b>17976<br><b>Position: </b>2<br><b>Percentage: </b>28.97<br><b>Margin: </b>9797<br><b>Winner: </b>MIR MOHAMMAD FAYAZ(Jammu & Kashmir Peoples Democratic Party)<br>"
+        },
+        "4": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>4<br><b>AC Name: </b>LOLAB<br><b>Candidate: </b>QAYSAR JAMSHAID LONE(Jammu & Kashmir National Conference)<br><b>No of votes: </b>19603<br><b>Position: </b>1<br><b>Percentage: </b>33.03<br><b>Margin: </b>7871<br>"
+        },
+        "5": {
+            "color": "rgba(247.1682, 143.5333, 89.3061, 1.0)",
+            "matter": "<b>AC Number: </b>5<br><b>AC Name: </b>HANDWARA<br><b>Candidate: </b>CHOWDRY MOHAMMAD RAMZAN(Jammu & Kashmir National Conference)<br><b>No of votes: </b>29150<br><b>Position: </b>2<br><b>Percentage: </b>39.88<br><b>Margin: </b>662<br><b>Winner: </b>SAJAD GANI LONE(Jammu & Kashmir People Conference)<br>"
+        },
+        "7": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC Number: </b>7<br><b>AC Name: </b>SOPORE<br><b>Candidate: </b>IRSHAD RASOOL KAR(Jammu & Kashmir National Conference)<br><b>No of votes: </b>26975<br><b>Position: </b>1<br><b>Percentage: </b>52.32<br><b>Margin: </b>20356<br>"
+        },
+        "8": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC Number: </b>8<br><b>AC Name: </b>RAFIABAD<br><b>Candidate: </b>JAVID AHMAD DAR(Jammu & Kashmir National Conference)<br><b>No of votes: </b>28783<br><b>Position: </b>1<br><b>Percentage: </b>40.42<br><b>Margin: </b>9202<br>"
+        },
+        "9": {
+            "color": "rgba(244.697, 70.7475, 54.2626, 1.0)",
+            "matter": "<b>AC Number: </b>9<br><b>AC Name: </b>URI<br><b>Candidate: </b>SAJJAD SHAFI(Jammu & Kashmir National Conference)<br><b>No of votes: </b>39713<br><b>Position: </b>1<br><b>Percentage: </b>53.73<br><b>Margin: </b>14469<br>"
+        },
+        "10": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>10<br><b>AC Name: </b>BARAMULLA<br><b>Candidate: </b>JAVID HASSAN BAIG(Jammu & Kashmir National Conference)<br><b>No of votes: </b>22523<br><b>Position: </b>1<br><b>Percentage: </b>32.75<br><b>Margin: </b>11773<br>"
+        },
+        "11": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC Number: </b>11<br><b>AC Name: </b>GULMARG<br><b>Candidate: </b>PIRZADA FAROOQ AHMED SHAH(Jammu & Kashmir National Conference)<br><b>No of votes: </b>26984<br><b>Position: </b>1<br><b>Percentage: </b>41.27<br><b>Margin: </b>4191<br>"
+        },
+        "13": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC Number: </b>13<br><b>AC Name: </b>PATTAN<br><b>Candidate: </b>JAVAID RIYAZ(Jammu & Kashmir National Conference)<br><b>No of votes: </b>29893<br><b>Position: </b>1<br><b>Percentage: </b>42.54<br><b>Margin: </b>603<br>"
+        },
+        "14": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC Number: </b>14<br><b>AC Name: </b>SONAWARI<br><b>Candidate: </b>HILAL AKBAR LONE(Jammu & Kashmir National Conference)<br><b>No of votes: </b>31535<br><b>Position: </b>1<br><b>Percentage: </b>37.07<br><b>Margin: </b>13744<br>"
+        },
+        "16": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC Number: </b>16<br><b>AC Name: </b>GUREZ<br><b>Candidate: </b>NAZIR AHMAD KHAN(Jammu & Kashmir National Conference)<br><b>No of votes: </b>8378<br><b>Position: </b>1<br><b>Percentage: </b>46.64<br><b>Margin: </b>1132<br>"
+        },
+        "17": {
+            "color": "rgba(241.0606, 95.7172, 73.4141, 1.0)",
+            "matter": "<b>AC Number: </b>17<br><b>AC Name: </b>KANGAN<br><b>Candidate: </b>MIAN MEHAR ALI(Jammu & Kashmir National Conference)<br><b>No of votes: </b>28907<br><b>Position: </b>1<br><b>Percentage: </b>49.97<br><b>Margin: </b>3819<br>"
+        },
+        "18": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC Number: </b>18<br><b>AC Name: </b>GANDERBAL<br><b>Candidate: </b>OMAR ABDULLAH(Jammu & Kashmir National Conference)<br><b>No of votes: </b>32727<br><b>Position: </b>1<br><b>Percentage: </b>43.8<br><b>Margin: </b>10574<br>"
+        },
+        "19": {
+            "color": "rgba(242.8788, 83.2323, 63.8384, 1.0)",
+            "matter": "<b>AC Number: </b>19<br><b>AC Name: </b>HAZRATBAL<br><b>Candidate: </b>SALMAN SAGAR(Jammu & Kashmir National Conference)<br><b>No of votes: </b>18890<br><b>Position: </b>1<br><b>Percentage: </b>51.52<br><b>Margin: </b>10295<br>"
+        },
+        "20": {
+            "color": "rgba(253.1818, 12.4848, 9.5758, 1.0)",
+            "matter": "<b>AC Number: </b>20<br><b>AC Name: </b>KHANYAR<br><b>Candidate: </b>ALI MOHAMMAD SAGAR(Jammu & Kashmir National Conference)<br><b>No of votes: </b>14906<br><b>Position: </b>1<br><b>Percentage: </b>62.46<br><b>Margin: </b>9912<br>"
+        },
+        "21": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC Number: </b>21<br><b>AC Name: </b>HABBAKADAL<br><b>Candidate: </b>SHAMIM FIRDOUS(Jammu & Kashmir National Conference)<br><b>No of votes: </b>12437<br><b>Position: </b>1<br><b>Percentage: </b>64.68<br><b>Margin: </b>9538<br>"
+        },
+        "22": {
+            "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+            "matter": "<b>AC Number: </b>22<br><b>AC Name: </b>LAL CHOWK<br><b>Candidate: </b>SHEIKH AHSAN AHMED(Jammu & Kashmir National Conference)<br><b>No of votes: </b>16731<br><b>Position: </b>1<br><b>Percentage: </b>45.45<br><b>Margin: </b>11343<br>"
+        },
+        "23": {
+            "color": "rgba(244.697, 70.7475, 54.2626, 1.0)",
+            "matter": "<b>AC Number: </b>23<br><b>AC Name: </b>CHANNAPORA<br><b>Candidate: </b>MUSHTAQ GUROO(Jammu & Kashmir National Conference)<br><b>No of votes: </b>13717<br><b>Position: </b>1<br><b>Percentage: </b>53.94<br><b>Margin: </b>5688<br>"
+        },
+        "24": {
+            "color": "rgba(254.3939, 4.1616, 3.1919, 1.0)",
+            "matter": "<b>AC Number: </b>24<br><b>AC Name: </b>ZADIBAL<br><b>Candidate: </b>TANVIR SADIQ(Jammu & Kashmir National Conference)<br><b>No of votes: </b>22189<br><b>Position: </b>1<br><b>Percentage: </b>63.59<br><b>Margin: </b>16173<br>"
+        },
+        "25": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>25<br><b>AC Name: </b>EIDGAH<br><b>Candidate: </b>MUBARIK GUL(Jammu & Kashmir National Conference)<br><b>No of votes: </b>7700<br><b>Position: </b>1<br><b>Percentage: </b>33.5<br><b>Margin: </b>1680<br>"
+        },
+        "27": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC Number: </b>27<br><b>AC Name: </b>BUDGAM<br><b>Candidate: </b>OMAR ABDULLAH(Jammu & Kashmir National Conference)<br><b>No of votes: </b>36010<br><b>Position: </b>1<br><b>Percentage: </b>54.52<br><b>Margin: </b>18485<br>"
+        },
+        "28": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>28<br><b>AC Name: </b>BEERWAH<br><b>Candidate: </b>SHAFI AHMAD WANI(Jammu & Kashmir National Conference)<br><b>No of votes: </b>20118<br><b>Position: </b>1<br><b>Percentage: </b>30.37<br><b>Margin: </b>4161<br>"
+        },
+        "29": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC Number: </b>29<br><b>AC Name: </b>KHANSAHIB<br><b>Candidate: </b>SAIF UD DIN BHAT(Jammu & Kashmir National Conference)<br><b>No of votes: </b>33225<br><b>Position: </b>1<br><b>Percentage: </b>48.62<br><b>Margin: </b>11614<br>"
+        },
+        "30": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC Number: </b>30<br><b>AC Name: </b>CHRAR<br><b>Candidate: </b>ADVOCATE ABDUL RAHIM RATHER(Jammu & Kashmir National Conference)<br><b>No of votes: </b>35957<br><b>Position: </b>1<br><b>Percentage: </b>48.48<br><b>Margin: </b>11496<br>"
+        },
+        "31": {
+            "color": "rgba(254.3939, 4.1616, 3.1919, 1.0)",
+            "matter": "<b>AC Number: </b>31<br><b>AC Name: </b>CHADOORA<br><b>Candidate: </b>ALI MOHAMMAD DAR(Jammu & Kashmir National Conference)<br><b>No of votes: </b>31991<br><b>Position: </b>1<br><b>Percentage: </b>63.57<br><b>Margin: </b>17218<br>"
+        },
+        "32": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>32<br><b>AC Name: </b>PAMPORE<br><b>Candidate: </b>HASNAIN MASOODI(Jammu & Kashmir National Conference)<br><b>No of votes: </b>15088<br><b>Position: </b>1<br><b>Percentage: </b>33.22<br><b>Margin: </b>2763<br>"
+        },
+        "34": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>34<br><b>AC Name: </b>PULWAMA<br><b>Candidate: </b>MOHAMMAD KHALIL BAND(Jammu & Kashmir National Conference)<br><b>No of votes: </b>16568<br><b>Position: </b>2<br><b>Percentage: </b>32.81<br><b>Margin: </b>8148<br><b>Winner: </b>WAHEED UR REHMAN PARA(Jammu & Kashmir Peoples Democratic Party)<br>"
+        },
+        "35": {
+            "color": "rgba(240.6288, 106.5556, 79.904, 1.0)",
+            "matter": "<b>AC Number: </b>35<br><b>AC Name: </b>RAJPORA<br><b>Candidate: </b>GHULAM MOHI UDDIN MIR(Jammu & Kashmir National Conference)<br><b>No of votes: </b>25627<br><b>Position: </b>1<br><b>Percentage: </b>47.93<br><b>Margin: </b>14313<br>"
+        },
+        "36": {
+            "color": "rgba(242.1379, 115.0889, 82.0737, 1.0)",
+            "matter": "<b>AC Number: </b>36<br><b>AC Name: </b>ZAINAPORA<br><b>Candidate: </b>SHOWKAT HUSSAIN GANIE(Jammu & Kashmir National Conference)<br><b>No of votes: </b>28251<br><b>Position: </b>1<br><b>Percentage: </b>46.42<br><b>Margin: </b>13233<br>"
+        },
+        "37": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC Number: </b>37<br><b>AC Name: </b>SHOPIAN<br><b>Candidate: </b>SHEIKH MOHAMMAD RAFI(Jammu & Kashmir National Conference)<br><b>No of votes: </b>12906<br><b>Position: </b>2<br><b>Percentage: </b>21.71<br><b>Margin: </b>1207<br><b>Winner: </b>SHABIR AHMAD KULLAY(Independent)<br>"
+        },
+        "38": {
+            "color": "rgba(244.697, 70.7475, 54.2626, 1.0)",
+            "matter": "<b>AC Number: </b>38<br><b>AC Name: </b>D. H. PORA<br><b>Candidate: </b>SAKEENA MASOOD(Jammu & Kashmir National Conference)<br><b>No of votes: </b>36623<br><b>Position: </b>1<br><b>Percentage: </b>53.45<br><b>Margin: </b>17449<br>"
+        },
+        "40": {
+            "color": "rgba(253.3258, 201.4242, 129.303, 1.0)",
+            "matter": "<b>AC Number: </b>40<br><b>AC Name: </b>DEVSAR<br><b>Candidate: </b>PEERZADA FEROZE AHAMAD(Jammu & Kashmir National Conference)<br><b>No of votes: </b>18230<br><b>Position: </b>1<br><b>Percentage: </b>27.91<br><b>Margin: </b>840<br>"
+        },
+        "42": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC Number: </b>42<br><b>AC Name: </b>KOKERNAG<br><b>Candidate: </b>ZAFAR ALI KHATANA(Jammu & Kashmir National Conference)<br><b>No of votes: </b>17949<br><b>Position: </b>1<br><b>Percentage: </b>31.23<br><b>Margin: </b>6162<br>"
+        },
+        "43": {
+            "color": "rgba(246.6652, 140.6889, 88.5828, 1.0)",
+            "matter": "<b>AC Number: </b>43<br><b>AC Name: </b>ANANTNAG WEST<br><b>Candidate: </b>ABDUL MAJEED BHAT(Jammu & Kashmir National Conference)<br><b>No of votes: </b>25135<br><b>Position: </b>1<br><b>Percentage: </b>40.58<br><b>Margin: </b>10435<br>"
+        },
+        "45": {
+            "color": "rgba(244.697, 70.7475, 54.2626, 1.0)",
+            "matter": "<b>AC Number: </b>45<br><b>AC Name: </b>SRIGUFWARA<br><b>Candidate: </b>BASHIR AHMAD SHAH VEERI(Jammu & Kashmir National Conference)<br><b>No of votes: </b>33299<br><b>Position: </b>1<br><b>Percentage: </b>53.63<br><b>Margin: </b>9770<br>"
+        },
+        "46": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC Number: </b>46<br><b>AC Name: </b>SHANGUS<br><b>Candidate: </b>REYAZ AHMAD KHAN(Jammu & Kashmir National Conference)<br><b>No of votes: </b>30345<br><b>Position: </b>1<br><b>Percentage: </b>52.32<br><b>Margin: </b>14532<br>"
+        },
+        "47": {
+            "color": "rgba(243.4848, 79.0707, 60.6465, 1.0)",
+            "matter": "<b>AC Number: </b>47<br><b>AC Name: </b>PAHALGAM<br><b>Candidate: </b>ALTAF AHMAD WANI(Jammu & Kashmir National Conference)<br><b>No of votes: </b>26210<br><b>Position: </b>1<br><b>Percentage: </b>52.25<br><b>Margin: </b>13756<br>"
+        },
+        "49": {
+            "color": "rgba(241.1318, 109.4, 80.6273, 1.0)",
+            "matter": "<b>AC Number: </b>49<br><b>AC Name: </b>KISHTWAR<br><b>Candidate: </b>SAJJAD AHMED KICHLOO(Jammu & Kashmir National Conference)<br><b>No of votes: </b>28532<br><b>Position: </b>2<br><b>Percentage: </b>47.14<br><b>Margin: </b>521<br><b>Winner: </b>SHAGUN PARIHAR(Bharatiya Janata Party)<br>"
+        },
+        "50": {
+            "color": "rgba(242.6409, 117.9333, 82.797, 1.0)",
+            "matter": "<b>AC Number: </b>50<br><b>AC Name: </b>PADDER<br><b>Candidate: </b>POOJA THAKUR(Jammu & Kashmir National Conference)<br><b>No of votes: </b>15490<br><b>Position: </b>2<br><b>Percentage: </b>45.83<br><b>Margin: </b>1546<br><b>Winner: </b>SUNIL KUMAR SHARMA(Bharatiya Janata Party)<br>"
+        },
+        "51": {
+            "color": "rgba(249.1803, 154.9111, 92.199, 1.0)",
+            "matter": "<b>AC Number: </b>51<br><b>AC Name: </b>BHADARWAH<br><b>Candidate: </b>SHEIKH MEHBOOB IQBAL(Jammu & Kashmir National Conference)<br><b>No of votes: </b>31998<br><b>Position: </b>2<br><b>Percentage: </b>37.2<br><b>Margin: </b>10130<br><b>Winner: </b>DALEEP SINGH(Bharatiya Janata Party)<br>"
+        },
+        "52": {
+            "color": "rgba(254.8712, 250.8788, 186.4848, 1.0)",
+            "matter": "<b>AC Number: </b>52<br><b>AC Name: </b>DODA<br><b>Candidate: </b>KHALID NAJIB SUHARWARDY(Jammu & Kashmir National Conference)<br><b>No of votes: </b>13334<br><b>Position: </b>3<br><b>Percentage: </b>18.27<br><b>Margin: </b>9894<br><b>Winner: </b>MEHRAJ MALIK(Aam Aadmi Party)<br>"
+        },
+        "54": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC Number: </b>54<br><b>AC Name: </b>RAMBAN<br><b>Candidate: </b>ARJUN SINGH RAJU(Jammu & Kashmir National Conference)<br><b>No of votes: </b>28425<br><b>Position: </b>1<br><b>Percentage: </b>41.07<br><b>Margin: </b>9013<br>"
+        },
+        "55": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC Number: </b>55<br><b>AC Name: </b>BANIHAL<br><b>Candidate: </b>SAJAD SHAHEEN(Jammu & Kashmir National Conference)<br><b>No of votes: </b>33128<br><b>Position: </b>1<br><b>Percentage: </b>36.37<br><b>Margin: </b>6110<br>"
+        },
+        "56": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC Number: </b>56<br><b>AC Name: </b>GULABGARH<br><b>Candidate: </b>KHURSHIED AHMED(Jammu & Kashmir National Conference)<br><b>No of votes: </b>30591<br><b>Position: </b>1<br><b>Percentage: </b>42.82<br><b>Margin: </b>6527<br>"
+        },
+        "60": {
+            "color": "rgba(86.1076, 149.1879, 183.1106, 1.0)",
+            "matter": "<b>AC Number: </b>60<br><b>AC Name: </b>UDHAMPUR EAST<br><b>Candidate: </b>SUNIL VERMA(Jammu & Kashmir National Conference)<br><b>No of votes: </b>4495<br><b>Position: </b>4<br><b>Percentage: </b>5.67<br><b>Margin: </b>28501<br><b>Winner: </b>RANBIR SINGH PATHANIA(Bharatiya Janata Party)<br>"
+        },
+        "67": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>67<br><b>AC Name: </b>KATHUA<br><b>Candidate: </b>SUBASH CHANDER(Jammu & Kashmir National Conference)<br><b>No of votes: </b>1597<br><b>Position: </b>3<br><b>Percentage: </b>1.92<br><b>Margin: </b>44347<br><b>Winner: </b>DR. BHARAT BHUSHAN(Bharatiya Janata Party)<br>"
+        },
+        "71": {
+            "color": "rgba(254.253, 231.097, 163.6121, 1.0)",
+            "matter": "<b>AC Number: </b>71<br><b>AC Name: </b>VIJAYPUR<br><b>Candidate: </b>RAJESH KUMAR PARGOTRA(Jammu & Kashmir National Conference)<br><b>No of votes: </b>13819<br><b>Position: </b>2<br><b>Percentage: </b>22.12<br><b>Margin: </b>19040<br><b>Winner: </b>CHANDER PARKASH(Bharatiya Janata Party)<br>"
+        },
+        "77": {
+            "color": "rgba(254.047, 224.503, 155.9879, 1.0)",
+            "matter": "<b>AC Number: </b>77<br><b>AC Name: </b>NAGROTA<br><b>Candidate: </b>JOGINDER SINGH(Jammu & Kashmir National Conference)<br><b>No of votes: </b>17641<br><b>Position: </b>2<br><b>Percentage: </b>23.81<br><b>Margin: </b>30472<br><b>Winner: </b>DEVENDER SINGH RANA(Bharatiya Janata Party)<br>"
+        },
+        "79": {
+            "color": "rgba(253.5318, 208.0182, 136.9273, 1.0)",
+            "matter": "<b>AC Number: </b>79<br><b>AC Name: </b>JAMMU NORTH<br><b>Candidate: </b>AJAY KUMAR SADHOTRA(Jammu & Kashmir National Conference)<br><b>No of votes: </b>19856<br><b>Position: </b>2<br><b>Percentage: </b>26.77<br><b>Margin: </b>27363<br><b>Winner: </b>SHAM LAL SHARMA(Bharatiya Janata Party)<br>"
+        },
+        "83": {
+            "color": "rgba(253.0167, 191.5333, 117.8667, 1.0)",
+            "matter": "<b>AC Number: </b>83<br><b>AC Name: </b>KALAKOTE<br><b>Candidate: </b>YASHU VARDHAN SINGH(Jammu & Kashmir National Conference)<br><b>No of votes: </b>20601<br><b>Position: </b>2<br><b>Percentage: </b>29.9<br><b>Margin: </b>14409<br><b>Winner: </b>RANDHIR SINGH(Bharatiya Janata Party)<br>"
+        },
+        "84": {
+            "color": "rgba(245.303, 66.5859, 51.0707, 1.0)",
+            "matter": "<b>AC Number: </b>84<br><b>AC Name: </b>NOWSHERA<br><b>Candidate: </b>SURINDER KUMAR CHOUDHARY(Jammu & Kashmir National Conference)<br><b>No of votes: </b>35069<br><b>Position: </b>1<br><b>Percentage: </b>54.16<br><b>Margin: </b>7819<br>"
+        },
+        "86": {
+            "color": "rgba(251.9697, 20.8081, 15.9596, 1.0)",
+            "matter": "<b>AC Number: </b>86<br><b>AC Name: </b>BUDHAL<br><b>Candidate: </b>JAVAID IQBAL(Jammu & Kashmir National Conference)<br><b>No of votes: </b>42043<br><b>Position: </b>1<br><b>Percentage: </b>61.49<br><b>Margin: </b>18908<br>"
+        },
+        "89": {
+            "color": "rgba(244.653, 129.3111, 85.6899, 1.0)",
+            "matter": "<b>AC Number: </b>89<br><b>AC Name: </b>POONCH HAVELI<br><b>Candidate: </b>AJAZ AHMED JAN(Jammu & Kashmir National Conference)<br><b>No of votes: </b>41807<br><b>Position: </b>1<br><b>Percentage: </b>42.72<br><b>Margin: </b>20879<br>"
+        },
+        "90": {
+            "color": "rgba(248.1742, 149.2222, 90.7525, 1.0)",
+            "matter": "<b>AC Number: </b>90<br><b>AC Name: </b>MENDHAR<br><b>Candidate: </b>JAVED AHMED RANA(Jammu & Kashmir National Conference)<br><b>No of votes: </b>32176<br><b>Position: </b>1<br><b>Percentage: </b>38.89<br><b>Margin: </b>14906<br>"
+        }
+    },
+    "border": "0,0"
+}

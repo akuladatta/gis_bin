@@ -1,0 +1,89 @@
+{
+    "title": "JK 2024 JKPC performence",
+    "trigger": "seat_id",
+    "search_trigger": "seat_name_en",
+    "desc": "<div><table class='col-md-12'><caption>Party hold percentself.ages</caption><thead><tr><th>Color</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: RGBA(255,0,0,1);\"></td><td>33.47% to 41.68%</td><td>2</td><td>1 (50.0%)</td></tr><tr><td style=\"background-color: RGBA(240.0,103.0,79.0,1);\"></td><td>25.25% to 33.47%</td><td>2</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: RGBA(252.45,173.4,96.9,1);\"></td><td>17.04% to 25.25%</td><td>2</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: RGBA(255.0,255.0,191.25,1);\"></td><td>8.82% to 17.04%</td><td>2</td><td>0 (0.0%)</td></tr><tr><td style=\"background-color: RGBA(43.35,122.4,181.05,1);\"></td><td>0.61% to 8.82%</td><td>12</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>20</td><td>1 (5.0%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Party Position Status</caption><thead><tr><th>Position</th><th>Seats</th></thead><tbody><tr><td>Place No : 1</td><td>1</td></tr><tr><td>Place No : 2</td><td>5</td></tr><tr><td>Place No : 3</td><td>1</td></tr><tr><td>Place No : 4</td><td>3</td></tr><tr><td>Place No : 5</td><td>1</td></tr><tr><td>Place No : 6</td><td>1</td></tr><tr><td>Place No : 7</td><td>2</td></tr><tr><td>Place No : 9</td><td>3</td></tr><tr><td>Place No : 10</td><td>2</td></tr><tr><td>Place No : 11</td><td>1</td></tr><tr><td>Not Contested</td><td>70</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table></div>",
+    "data": {
+        "1": {
+            "color": "rgba(252.9136, 188.2364, 114.0545, 1.0)",
+            "matter": "<b>AC Number: </b>1<br><b>AC Name: </b>KARNAH<br><b>Candidate: </b>NASEER AHMAD AWAN(Jammu & Kashmir People Conference)<br><b>No of votes: </b>8032<br><b>Position: </b>2<br><b>Percentage: </b>19.44<br><b>Margin: </b>6262<br><b>Winner: </b>JAVAID AHMAD MIRCHAL(Jammu & Kashmir National Conference)<br>"
+        },
+        "2": {
+            "color": "rgba(245.1561, 132.1556, 86.4131, 1.0)",
+            "matter": "<b>AC Number: </b>2<br><b>AC Name: </b>TREHGAM<br><b>Candidate: </b>BASHIR AHMAD DAR(Jammu & Kashmir People Conference)<br><b>No of votes: </b>14376<br><b>Position: </b>2<br><b>Percentage: </b>26.95<br><b>Margin: </b>3626<br><b>Winner: </b>SAIFULLAH MIR(Jammu & Kashmir National Conference)<br>"
+        },
+        "3": {
+            "color": "rgba(254.7682, 247.5818, 182.6727, 1.0)",
+            "matter": "<b>AC Number: </b>3<br><b>AC Name: </b>KUPWARA<br><b>Candidate: </b>SAJAD GANI LONE(Jammu & Kashmir People Conference)<br><b>No of votes: </b>7457<br><b>Position: </b>3<br><b>Percentage: </b>12.02<br><b>Margin: </b>20316<br><b>Winner: </b>MIR MOHAMMAD FAYAZ(Jammu & Kashmir Peoples Democratic Party)<br>"
+        },
+        "4": {
+            "color": "rgba(171.6227, 202.7636, 187.2318, 1.0)",
+            "matter": "<b>AC Number: </b>4<br><b>AC Name: </b>LOLAB<br><b>Candidate: </b>MUDASIR AKBAR SHAH(Jammu & Kashmir People Conference)<br><b>No of votes: </b>4095<br><b>Position: </b>5<br><b>Percentage: </b>6.9<br><b>Margin: </b>15508<br><b>Winner: </b>QAYSAR JAMSHAID LONE(Jammu & Kashmir National Conference)<br>"
+        },
+        "5": {
+            "color": "rgba(253.7879, 8.3232, 6.3838, 1.0)",
+            "matter": "<b>AC Number: </b>5<br><b>AC Name: </b>HANDWARA<br><b>Candidate: </b>SAJAD GANI LONE(Jammu & Kashmir People Conference)<br><b>No of votes: </b>29812<br><b>Position: </b>1<br><b>Percentage: </b>40.78<br><b>Margin: </b>662<br>"
+        },
+        "6": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC Number: </b>6<br><b>AC Name: </b>LANGATE<br><b>Candidate: </b>IRFAN SULTAN PANDITHPURI(Jammu & Kashmir People Conference)<br><b>No of votes: </b>24382<br><b>Position: </b>2<br><b>Percentage: </b>31.23<br><b>Margin: </b>1602<br><b>Winner: </b>KHURSHEED AHMAD SHIEKH(Independent)<br>"
+        },
+        "7": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>7<br><b>AC Name: </b>SOPORE<br><b>Candidate: </b>DR MANZOOR AHMAD BHAT(Jammu & Kashmir People Conference)<br><b>No of votes: </b>987<br><b>Position: </b>9<br><b>Percentage: </b>1.91<br><b>Margin: </b>25988<br><b>Winner: </b>IRSHAD RASOOL KAR(Jammu & Kashmir National Conference)<br>"
+        },
+        "8": {
+            "color": "rgba(214.3803, 229.5515, 189.2924, 1.0)",
+            "matter": "<b>AC Number: </b>8<br><b>AC Name: </b>RAFIABAD<br><b>Candidate: </b>ABDUL GANI VAKIL(Jammu & Kashmir People Conference)<br><b>No of votes: </b>6370<br><b>Position: </b>4<br><b>Percentage: </b>8.95<br><b>Margin: </b>22413<br><b>Winner: </b>JAVID AHMAD DAR(Jammu & Kashmir National Conference)<br>"
+        },
+        "9": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>9<br><b>AC Name: </b>URI<br><b>Candidate: </b>DR. BASHIR AHMAD CHALKOO(Jammu & Kashmir People Conference)<br><b>No of votes: </b>1792<br><b>Position: </b>4<br><b>Percentage: </b>2.42<br><b>Margin: </b>37921<br><b>Winner: </b>SAJJAD SHAFI(Jammu & Kashmir National Conference)<br>"
+        },
+        "10": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>10<br><b>AC Name: </b>BARAMULLA<br><b>Candidate: </b>ASIF AKBER LONE(Jammu & Kashmir People Conference)<br><b>No of votes: </b>1330<br><b>Position: </b>11<br><b>Percentage: </b>1.93<br><b>Margin: </b>21193<br><b>Winner: </b>JAVID HASSAN BAIG(Jammu & Kashmir National Conference)<br>"
+        },
+        "12": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>12<br><b>AC Name: </b>WAGOORA<br><b>Candidate: </b>IMTIYAZ AHMAD PARRA(Jammu & Kashmir People Conference)<br><b>No of votes: </b>969<br><b>Position: </b>9<br><b>Percentage: </b>2.18<br><b>Margin: </b>16033<br><b>Winner: </b>IRFAN HAFIZ LONE(Indian National Congress)<br>"
+        },
+        "13": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC Number: </b>13<br><b>AC Name: </b>PATTAN<br><b>Candidate: </b>IMRAN RAZA ANSARI(Jammu & Kashmir People Conference)<br><b>No of votes: </b>29290<br><b>Position: </b>2<br><b>Percentage: </b>41.68<br><b>Margin: </b>603<br><b>Winner: </b>JAVAID RIYAZ(Jammu & Kashmir National Conference)<br>"
+        },
+        "15": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>15<br><b>AC Name: </b>BANDIPORA<br><b>Candidate: </b>MUDASIR AHMAD BHAT(Jammu & Kashmir People Conference)<br><b>No of votes: </b>1762<br><b>Position: </b>9<br><b>Percentage: </b>2.37<br><b>Margin: </b>18629<br><b>Winner: </b>NIZAM UDDIN BHAT(Indian National Congress)<br>"
+        },
+        "16": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>16<br><b>AC Name: </b>GUREZ<br><b>Candidate: </b>MOHAMMAD HAMZA LONE(Jammu & Kashmir People Conference)<br><b>No of votes: </b>109<br><b>Position: </b>6<br><b>Percentage: </b>0.61<br><b>Margin: </b>8269<br><b>Winner: </b>NAZIR AHMAD KHAN(Jammu & Kashmir National Conference)<br>"
+        },
+        "24": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>24<br><b>AC Name: </b>ZADIBAL<br><b>Candidate: </b>ABID HUSSAIN ANSARI(Jammu & Kashmir People Conference)<br><b>No of votes: </b>6016<br><b>Position: </b>2<br><b>Percentage: </b>17.24<br><b>Margin: </b>16173<br><b>Winner: </b>TANVIR SADIQ(Jammu & Kashmir National Conference)<br>"
+        },
+        "25": {
+            "color": "rgba(145.9682, 186.6909, 185.9955, 1.0)",
+            "matter": "<b>AC Number: </b>25<br><b>AC Name: </b>EIDGAH<br><b>Candidate: </b>IRFAN AHMAD MATTOO(Jammu & Kashmir People Conference)<br><b>No of votes: </b>1285<br><b>Position: </b>4<br><b>Percentage: </b>5.59<br><b>Margin: </b>6415<br><b>Winner: </b>MUBARIK GUL(Jammu & Kashmir National Conference)<br>"
+        },
+        "28": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>28<br><b>AC Name: </b>BEERWAH<br><b>Candidate: </b>SHOWKET AHMED WANI(Jammu & Kashmir People Conference)<br><b>No of votes: </b>705<br><b>Position: </b>10<br><b>Percentage: </b>1.06<br><b>Margin: </b>19413<br><b>Winner: </b>SHAFI AHMAD WANI(Jammu & Kashmir National Conference)<br>"
+        },
+        "29": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>29<br><b>AC Name: </b>KHANSAHIB<br><b>Candidate: </b>FIRDOUSE AHMED FARASH(Jammu & Kashmir People Conference)<br><b>No of votes: </b>1407<br><b>Position: </b>7<br><b>Percentage: </b>2.06<br><b>Margin: </b>31818<br><b>Winner: </b>SAIF UD DIN BHAT(Jammu & Kashmir National Conference)<br>"
+        },
+        "39": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>39<br><b>AC Name: </b>KULGAM<br><b>Candidate: </b>NAZIR AHMAD LAWAY(Jammu & Kashmir People Conference)<br><b>No of votes: </b>506<br><b>Position: </b>10<br><b>Percentage: </b>0.67<br><b>Margin: </b>33128<br><b>Winner: </b>MOHAMAD YOUSUF TARIGAMI(Communist Party of India  (Marxist))<br>"
+        },
+        "89": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>89<br><b>AC Name: </b>POONCH HAVELI<br><b>Candidate: </b>RYDHAM PREET SINGH SUDAN(Jammu & Kashmir People Conference)<br><b>No of votes: </b>1010<br><b>Position: </b>7<br><b>Percentage: </b>1.03<br><b>Margin: </b>40797<br><b>Winner: </b>AJAZ AHMED JAN(Jammu & Kashmir National Conference)<br>"
+        }
+    },
+    "border": "0,0"
+}

@@ -1,0 +1,165 @@
+{
+    "title": "JK 2024 INC performence",
+    "trigger": "seat_id",
+    "search_trigger": "seat_name_en",
+    "desc": "<div><table class='col-md-12'><caption>Party hold percentself.ages</caption><thead><tr><th>Color</th><th>Percentage</th><th>Contested Seats</th><th>Winning seats</th></tr></thead><tbody><tr><td style=\"background-color: RGBA(255,0,0,1);\"></td><td>49.84% to 61.15%</td><td>2</td><td>2 (100.0%)</td></tr><tr><td style=\"background-color: RGBA(240.0,103.0,79.0,1);\"></td><td>38.52% to 49.84%</td><td>6</td><td>1 (16.67%)</td></tr><tr><td style=\"background-color: RGBA(252.45,173.4,96.9,1);\"></td><td>27.21% to 38.52%</td><td>12</td><td>2 (16.67%)</td></tr><tr><td style=\"background-color: RGBA(255.0,255.0,191.25,1);\"></td><td>15.89% to 27.21%</td><td>6</td><td>1 (16.67%)</td></tr><tr><td style=\"background-color: RGBA(43.35,122.4,181.05,1);\"></td><td>4.58% to 15.89%</td><td>13</td><td>0 (0.0%)</td></tr><tr><td></td><td></td><td>39</td><td>6 (15.38%)</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table><table class='col-md-12 w-full mt-4'><caption>Party Position Status</caption><thead><tr><th>Position</th><th>Seats</th></thead><tbody><tr><td>Place No : 1</td><td>6</td></tr><tr><td>Place No : 2</td><td>17</td></tr><tr><td>Place No : 3</td><td>8</td></tr><tr><td>Place No : 4</td><td>5</td></tr><tr><td>Place No : 5</td><td>2</td></tr><tr><td>Place No : 6</td><td>1</td></tr><tr><td>Not Contested</td><td>51</td></tr></tbody><tfoot><tr><td colspan=\"4\"></td></tr></tfoot></table></div>",
+    "data": {
+        "6": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC Number: </b>6<br><b>AC Name: </b>LANGATE<br><b>Candidate: </b>IRSHAD HUSSAIN GANAIE(Indian National Congress)<br><b>No of votes: </b>7823<br><b>Position: </b>4<br><b>Percentage: </b>10.02<br><b>Margin: </b>18161<br><b>Winner: </b>KHURSHEED AHMAD SHIEKH(Independent)<br>"
+        },
+        "7": {
+            "color": "rgba(120.3136, 170.6182, 184.7591, 1.0)",
+            "matter": "<b>AC Number: </b>7<br><b>AC Name: </b>SOPORE<br><b>Candidate: </b>ABDUL RASHID DAR(Indian National Congress)<br><b>No of votes: </b>5167<br><b>Position: </b>3<br><b>Percentage: </b>10.02<br><b>Margin: </b>21808<br><b>Winner: </b>IRSHAD RASOOL KAR(Jammu & Kashmir National Conference)<br>"
+        },
+        "10": {
+            "color": "rgba(69.0045, 138.4727, 182.2864, 1.0)",
+            "matter": "<b>AC Number: </b>10<br><b>AC Name: </b>BARAMULLA<br><b>Candidate: </b>MIR IQBAL AHMAD(Indian National Congress)<br><b>No of votes: </b>4669<br><b>Position: </b>5<br><b>Percentage: </b>6.79<br><b>Margin: </b>17854<br><b>Winner: </b>JAVID HASSAN BAIG(Jammu & Kashmir National Conference)<br>"
+        },
+        "12": {
+            "color": "rgba(247.6712, 146.3778, 90.0293, 1.0)",
+            "matter": "<b>AC Number: </b>12<br><b>AC Name: </b>WAGOORA<br><b>Candidate: </b>IRFAN HAFIZ LONE(Indian National Congress)<br><b>No of votes: </b>17002<br><b>Position: </b>1<br><b>Percentage: </b>38.17<br><b>Margin: </b>7751<br>"
+        },
+        "15": {
+            "color": "rgba(253.4288, 204.7212, 133.1152, 1.0)",
+            "matter": "<b>AC Number: </b>15<br><b>AC Name: </b>BANDIPORA<br><b>Candidate: </b>NIZAM UDDIN BHAT(Indian National Congress)<br><b>No of votes: </b>20391<br><b>Position: </b>1<br><b>Percentage: </b>27.45<br><b>Margin: </b>811<br>"
+        },
+        "26": {
+            "color": "rgba(249.5455, 37.4545, 28.7273, 1.0)",
+            "matter": "<b>AC Number: </b>26<br><b>AC Name: </b>CENTRAL SHALTENG<br><b>Candidate: </b>TARIQ HAMEED KARRA(Indian National Congress)<br><b>No of votes: </b>18933<br><b>Position: </b>1<br><b>Percentage: </b>55.86<br><b>Margin: </b>14395<br>"
+        },
+        "33": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>33<br><b>AC Name: </b>TRAL<br><b>Candidate: </b>SURINDER SINGH(Indian National Congress)<br><b>No of votes: </b>10250<br><b>Position: </b>2<br><b>Percentage: </b>23.63<br><b>Margin: </b>460<br><b>Winner: </b>RAFIQ AHMAD NAIK(Jammu & Kashmir Peoples Democratic Party)<br>"
+        },
+        "40": {
+            "color": "rgba(77.5561, 143.8303, 182.6985, 1.0)",
+            "matter": "<b>AC Number: </b>40<br><b>AC Name: </b>DEVSAR<br><b>Candidate: </b>AMAN ULLAH MANTOO(Indian National Congress)<br><b>No of votes: </b>4746<br><b>Position: </b>6<br><b>Percentage: </b>7.27<br><b>Margin: </b>13484<br><b>Winner: </b>PEERZADA FEROZE AHAMAD(Jammu & Kashmir National Conference)<br>"
+        },
+        "41": {
+            "color": "rgba(255.0, 0.0, 0.0, 1.0)",
+            "matter": "<b>AC Number: </b>41<br><b>AC Name: </b>DOORU<br><b>Candidate: </b>GULAM AHMAD MIR(Indian National Congress)<br><b>No of votes: </b>44270<br><b>Position: </b>1<br><b>Percentage: </b>61.15<br><b>Margin: </b>29728<br>"
+        },
+        "44": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>44<br><b>AC Name: </b>ANANTNAG<br><b>Candidate: </b>PEERZADA MOHAMMAD SYED(Indian National Congress)<br><b>No of votes: </b>6679<br><b>Position: </b>1<br><b>Percentage: </b>23.77<br><b>Margin: </b>1686<br>"
+        },
+        "48": {
+            "color": "rgba(254.15, 227.8, 159.8, 1.0)",
+            "matter": "<b>AC Number: </b>48<br><b>AC Name: </b>INDERWAL<br><b>Candidate: </b>MOHD ZAFARULLAH(Indian National Congress)<br><b>No of votes: </b>12533<br><b>Position: </b>3<br><b>Percentage: </b>23.27<br><b>Margin: </b>1662<br><b>Winner: </b>PAYARE LAL SHARMA(Independent)<br>"
+        },
+        "51": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>51<br><b>AC Name: </b>BHADARWAH<br><b>Candidate: </b>NADEEM SHARIEF(Indian National Congress)<br><b>No of votes: </b>7151<br><b>Position: </b>3<br><b>Percentage: </b>8.31<br><b>Margin: </b>34977<br><b>Winner: </b>DALEEP SINGH(Bharatiya Janata Party)<br>"
+        },
+        "52": {
+            "color": "rgba(60.453, 133.1152, 181.8742, 1.0)",
+            "matter": "<b>AC Number: </b>52<br><b>AC Name: </b>DODA<br><b>Candidate: </b>SHEIKH RIAZ AHMED(Indian National Congress)<br><b>No of votes: </b>4170<br><b>Position: </b>5<br><b>Percentage: </b>5.71<br><b>Margin: </b>19058<br><b>Winner: </b>MEHRAJ MALIK(Aam Aadmi Party)<br>"
+        },
+        "53": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC Number: </b>53<br><b>AC Name: </b>DODA WEST<br><b>Candidate: </b>PARDEEP KUMAR(Indian National Congress)<br><b>No of votes: </b>30511<br><b>Position: </b>2<br><b>Percentage: </b>44.91<br><b>Margin: </b>3453<br><b>Winner: </b>SHAKTI RAJ PARIHAR(Bharatiya Janata Party)<br>"
+        },
+        "55": {
+            "color": "rgba(254.3561, 234.3939, 167.4242, 1.0)",
+            "matter": "<b>AC Number: </b>55<br><b>AC Name: </b>BANIHAL<br><b>Candidate: </b>VIKAR RASOOL WANI(Indian National Congress)<br><b>No of votes: </b>20458<br><b>Position: </b>3<br><b>Percentage: </b>22.46<br><b>Margin: </b>12670<br><b>Winner: </b>SAJAD SHAHEEN(Jammu & Kashmir National Conference)<br>"
+        },
+        "57": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>57<br><b>AC Name: </b>REASI<br><b>Candidate: </b>MUMTAZ AHMED(Indian National Congress)<br><b>No of votes: </b>20832<br><b>Position: </b>2<br><b>Percentage: </b>33.37<br><b>Margin: </b>18815<br><b>Winner: </b>KULDEEP RAJ DUBEY(Bharatiya Janata Party)<br>"
+        },
+        "58": {
+            "color": "rgba(154.5197, 192.0485, 186.4076, 1.0)",
+            "matter": "<b>AC Number: </b>58<br><b>AC Name: </b>SHRI MATA VAISHNO DEVI<br><b>Candidate: </b>BHUPINDER SINGH(Indian National Congress)<br><b>No of votes: </b>5655<br><b>Position: </b>3<br><b>Percentage: </b>12.42<br><b>Margin: </b>12544<br><b>Winner: </b>BALDEV RAJ SHARMA(Bharatiya Janata Party)<br>"
+        },
+        "59": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC Number: </b>59<br><b>AC Name: </b>UDHAMPUR WEST<br><b>Candidate: </b>SUMEET MAGOTRA(Indian National Congress)<br><b>No of votes: </b>26412<br><b>Position: </b>2<br><b>Percentage: </b>29.15<br><b>Margin: </b>20752<br><b>Winner: </b>PAWAN KUMAR GUPTA(Bharatiya Janata Party)<br>"
+        },
+        "62": {
+            "color": "rgba(137.4167, 181.3333, 185.5833, 1.0)",
+            "matter": "<b>AC Number: </b>62<br><b>AC Name: </b>RAMNAGAR<br><b>Candidate: </b>MOOL RAJ(Indian National Congress)<br><b>No of votes: </b>7800<br><b>Position: </b>3<br><b>Percentage: </b>10.95<br><b>Margin: </b>26750<br><b>Winner: </b>SUNIL BHARDWAJ(Bharatiya Janata Party)<br>"
+        },
+        "63": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>63<br><b>AC Name: </b>BANI<br><b>Candidate: </b>MS KAJAL(Indian National Congress)<br><b>No of votes: </b>1970<br><b>Position: </b>4<br><b>Percentage: </b>4.58<br><b>Margin: </b>16702<br><b>Winner: </b>DR RAMESHWAR SINGH(Independent)<br>"
+        },
+        "64": {
+            "color": "rgba(251.6955, 169.1333, 95.8152, 1.0)",
+            "matter": "<b>AC Number: </b>64<br><b>AC Name: </b>BILLAWAR<br><b>Candidate: </b>MANOHAR LAL SHARMA(Indian National Congress)<br><b>No of votes: </b>23261<br><b>Position: </b>2<br><b>Percentage: </b>33.56<br><b>Margin: </b>21368<br><b>Winner: </b>SATISH KUMAR SHARMA(Bharatiya Janata Party)<br>"
+        },
+        "65": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>65<br><b>AC Name: </b>BASOHLI<br><b>Candidate: </b>CH. LAL SINGH(Indian National Congress)<br><b>No of votes: </b>15840<br><b>Position: </b>2<br><b>Percentage: </b>32.49<br><b>Margin: </b>16034<br><b>Winner: </b>DARSHAN KUMAR(Bharatiya Janata Party)<br>"
+        },
+        "66": {
+            "color": "rgba(43.35, 122.4, 181.05, 1.0)",
+            "matter": "<b>AC Number: </b>66<br><b>AC Name: </b>JASROTA<br><b>Candidate: </b>BALBIR SINGH(Indian National Congress)<br><b>No of votes: </b>3219<br><b>Position: </b>4<br><b>Percentage: </b>4.89<br><b>Margin: </b>30938<br><b>Winner: </b>RAJIV JASROTIA(Bharatiya Janata Party)<br>"
+        },
+        "68": {
+            "color": "rgba(244.15, 126.4667, 84.9667, 1.0)",
+            "matter": "<b>AC Number: </b>68<br><b>AC Name: </b>HIRANAGAR<br><b>Candidate: </b>RAKESH KUMAR(Indian National Congress)<br><b>No of votes: </b>28127<br><b>Position: </b>2<br><b>Percentage: </b>41.92<br><b>Margin: </b>8610<br><b>Winner: </b>VIJAY KUMAR(Bharatiya Janata Party)<br>"
+        },
+        "69": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC Number: </b>69<br><b>AC Name: </b>RAMGARH<br><b>Candidate: </b>YASH PAUL KUNDAL(Indian National Congress)<br><b>No of votes: </b>21470<br><b>Position: </b>2<br><b>Percentage: </b>31.02<br><b>Margin: </b>14202<br><b>Winner: </b>DR DEVINDER KUMAR MANYAL(Bharatiya Janata Party)<br>"
+        },
+        "70": {
+            "color": "rgba(51.9015, 127.7576, 181.4621, 1.0)",
+            "matter": "<b>AC Number: </b>70<br><b>AC Name: </b>SAMBA<br><b>Candidate: </b>KRISHAN DEV SINGH(Indian National Congress)<br><b>No of votes: </b>3628<br><b>Position: </b>4<br><b>Percentage: </b>5.19<br><b>Margin: </b>39554<br><b>Winner: </b>SURJEET SINGH SLATHIA(Bharatiya Janata Party)<br>"
+        },
+        "72": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC Number: </b>72<br><b>AC Name: </b>BISHNAH<br><b>Candidate: </b>NEERAJ KUNDAN(Indian National Congress)<br><b>No of votes: </b>37808<br><b>Position: </b>2<br><b>Percentage: </b>39.96<br><b>Margin: </b>15627<br><b>Winner: </b>RAJEEV KUMAR(Bharatiya Janata Party)<br>"
+        },
+        "73": {
+            "color": "rgba(252.1985, 171.9778, 96.5384, 1.0)",
+            "matter": "<b>AC Number: </b>73<br><b>AC Name: </b>SUCHETGARH<br><b>Candidate: </b>BHUSAN LAL(Indian National Congress)<br><b>No of votes: </b>28161<br><b>Position: </b>2<br><b>Percentage: </b>33.19<br><b>Margin: </b>11141<br><b>Winner: </b>GHARU RAM(Bharatiya Janata Party)<br>"
+        },
+        "74": {
+            "color": "rgba(240.1258, 103.7111, 79.1808, 1.0)",
+            "matter": "<b>AC Number: </b>74<br><b>AC Name: </b>R. S. PURA<br><b>Candidate: </b>RAMAN BHALLA(Indian National Congress)<br><b>No of votes: </b>41351<br><b>Position: </b>2<br><b>Percentage: </b>47.0<br><b>Margin: </b>1966<br><b>Winner: </b>DR. NARINDER SINGH RAINA(Bharatiya Janata Party)<br>"
+        },
+        "75": {
+            "color": "rgba(246.1621, 137.8444, 87.8596, 1.0)",
+            "matter": "<b>AC Number: </b>75<br><b>AC Name: </b>BAHU<br><b>Candidate: </b>TARANJIT SINGH TONY(Indian National Congress)<br><b>No of votes: </b>29134<br><b>Position: </b>2<br><b>Percentage: </b>39.92<br><b>Margin: </b>11251<br><b>Winner: </b>VIKRAM RANDHAWA(Bharatiya Janata Party)<br>"
+        },
+        "76": {
+            "color": "rgba(250.1864, 160.6, 93.6455, 1.0)",
+            "matter": "<b>AC Number: </b>76<br><b>AC Name: </b>JAMMU EAST<br><b>Candidate: </b>YOGESH SAWHNEY(Indian National Congress)<br><b>No of votes: </b>24475<br><b>Position: </b>2<br><b>Percentage: </b>35.32<br><b>Margin: </b>18114<br><b>Winner: </b>YUDHVIR SETHI(Bharatiya Janata Party)<br>"
+        },
+        "77": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>77<br><b>AC Name: </b>NAGROTA<br><b>Candidate: </b>BALBIR SINGH(Indian National Congress)<br><b>No of votes: </b>5979<br><b>Position: </b>3<br><b>Percentage: </b>8.07<br><b>Margin: </b>42134<br><b>Winner: </b>DEVENDER SINGH RANA(Bharatiya Janata Party)<br>"
+        },
+        "78": {
+            "color": "rgba(252.8106, 184.9394, 110.2424, 1.0)",
+            "matter": "<b>AC Number: </b>78<br><b>AC Name: </b>JAMMU WEST<br><b>Candidate: </b>MANMOHAN SINGH(Indian National Congress)<br><b>No of votes: </b>19836<br><b>Position: </b>2<br><b>Percentage: </b>30.6<br><b>Margin: </b>22127<br><b>Winner: </b>ARVIND GUPTA(Bharatiya Janata Party)<br>"
+        },
+        "80": {
+            "color": "rgba(253.8409, 217.9091, 148.3636, 1.0)",
+            "matter": "<b>AC Number: </b>80<br><b>AC Name: </b>MARH<br><b>Candidate: </b>MULA RAM(Indian National Congress)<br><b>No of votes: </b>19477<br><b>Position: </b>2<br><b>Percentage: </b>25.28<br><b>Margin: </b>23086<br><b>Winner: </b>SURINDER KUMAR(Bharatiya Janata Party)<br>"
+        },
+        "81": {
+            "color": "rgba(252.5015, 175.0485, 98.8061, 1.0)",
+            "matter": "<b>AC Number: </b>81<br><b>AC Name: </b>AKHNOOR<br><b>Candidate: </b>ASHOK KUMAR(Indian National Congress)<br><b>No of votes: </b>25248<br><b>Position: </b>2<br><b>Percentage: </b>32.81<br><b>Margin: </b>24679<br><b>Winner: </b>MOHAN LAL(Bharatiya Janata Party)<br>"
+        },
+        "82": {
+            "color": "rgba(254.9742, 254.1758, 190.297, 1.0)",
+            "matter": "<b>AC Number: </b>82<br><b>AC Name: </b>CHHAMB<br><b>Candidate: </b>TARA CHAND(Indian National Congress)<br><b>No of votes: </b>16449<br><b>Position: </b>3<br><b>Percentage: </b>18.92<br><b>Margin: </b>17536<br><b>Winner: </b>SATISH SHARMA(Independent)<br>"
+        },
+        "85": {
+            "color": "rgba(241.6348, 112.2444, 81.3505, 1.0)",
+            "matter": "<b>AC Number: </b>85<br><b>AC Name: </b>RAJOURI<br><b>Candidate: </b>IFTKAR AHMED(Indian National Congress)<br><b>No of votes: </b>28923<br><b>Position: </b>1<br><b>Percentage: </b>45.04<br><b>Margin: </b>1404<br>"
+        },
+        "87": {
+            "color": "rgba(94.6591, 154.5455, 183.5227, 1.0)",
+            "matter": "<b>AC Number: </b>87<br><b>AC Name: </b>THANNAMANDI<br><b>Candidate: </b>MOHD SHABIR KHAN(Indian National Congress)<br><b>No of votes: </b>7508<br><b>Position: </b>4<br><b>Percentage: </b>8.22<br><b>Margin: </b>25137<br><b>Winner: </b>MUZAFFAR IQBAL KHAN(Independent)<br>"
+        },
+        "88": {
+            "color": "rgba(253.1197, 194.8303, 121.6788, 1.0)",
+            "matter": "<b>AC Number: </b>88<br><b>AC Name: </b>SURANKOTE<br><b>Candidate: </b>MOHD SHAHNAWAZ(Indian National Congress)<br><b>No of votes: </b>25350<br><b>Position: </b>2<br><b>Percentage: </b>29.18<br><b>Margin: </b>8851<br><b>Winner: </b>CHOUDHARY MOHAMMED AKRAM(Independent)<br>"
+        }
+    },
+    "border": "0,0"
+}
