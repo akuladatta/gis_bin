@@ -1,0 +1,983 @@
+{
+    "title": "Largest Main Languages in India (Sub-District Wise)",
+    "trigger": "sdtcode11",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th></tr><tr><td>Rajasthani</td><td style='background-color: rgba(255, 99, 71, 0.8)'></td></tr><tr><td>Hindi</td><td style='background-color: rgba(34, 139, 34, 0.8)'></td></tr><tr><td>Wagdi</td><td style='background-color: rgba(70, 130, 180, 0.8)'></td></tr><tr><td>Brajbhasha</td><td style='background-color: rgba(255, 215, 0, 0.8)'></td></tr><tr><td>Sadan/Sadri</td><td style='background-color: rgba(218, 112, 214, 0.8)'></td></tr><tr><td>Punjabi</td><td style='background-color: rgba(139, 0, 0, 0.8)'></td></tr></table>",
+    "data": {
+        "00458": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>458<br><b>Name: </b>Ganganagar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>180291<br><b>Total Population: </b>481640<br><b>Percentage: </b>37.43<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(180291 people)\" style=\"border: 1px solid white;width: 37vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(37.4%)</td><td title=\"Punjabi&#013;(159953 people)\" style=\"border: 1px solid white;width: 33vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(33.2%)</td><td title=\"Hindi&#013;(115578 people)\" style=\"border: 1px solid white;width: 24vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(24.0%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.4%)</td></tr></table><br>"
+        },
+        "00459": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>459<br><b>Name: </b>Sadulshahar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>88052<br><b>Total Population: </b>158473<br><b>Percentage: </b>55.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(88052 people)\" style=\"border: 1px solid white;width: 55vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(55.6%)</td><td title=\"Punjabi&#013;(49836 people)\" style=\"border: 1px solid white;width: 31vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(31.4%)</td><td title=\"Hindi&#013;(9014 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.7%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.3%)</td></tr></table><br>"
+        },
+        "00460": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>460<br><b>Name: </b>Padampur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>86478<br><b>Total Population: </b>162718<br><b>Percentage: </b>53.15<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(86478 people)\" style=\"border: 1px solid white;width: 53vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(53.1%)</td><td title=\"Punjabi&#013;(60213 people)\" style=\"border: 1px solid white;width: 37vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(37.0%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.9%)</td></tr></table><br>"
+        },
+        "00461": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>461<br><b>Name: </b>Raisinghnagar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>109940<br><b>Total Population: </b>196455<br><b>Percentage: </b>55.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(109940 people)\" style=\"border: 1px solid white;width: 56vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(56.0%)</td><td title=\"Punjabi&#013;(66746 people)\" style=\"border: 1px solid white;width: 34vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(34.0%)</td><td title=\"Hindi&#013;(10314 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "00462": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>462<br><b>Name: </b>Anupgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>98498<br><b>Total Population: </b>184423<br><b>Percentage: </b>53.41<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(98498 people)\" style=\"border: 1px solid white;width: 53vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(53.4%)</td><td title=\"Punjabi&#013;(67001 people)\" style=\"border: 1px solid white;width: 36vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(36.3%)</td><td title=\"Hindi&#013;(10087 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.8%)</td></tr></table><br>"
+        },
+        "00463": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>463<br><b>Name: </b>Gharsana<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>97867<br><b>Total Population: </b>171830<br><b>Percentage: </b>56.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(97867 people)\" style=\"border: 1px solid white;width: 57vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(57.0%)</td><td title=\"Punjabi&#013;(53369 people)\" style=\"border: 1px solid white;width: 31vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(31.1%)</td><td title=\"Baori&#013;(9746 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(128, 128, 128, 0.8);\">bao.. <br>(5.7%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.2%)</td></tr></table><br>"
+        },
+        "00464": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>464<br><b>Name: </b>Vijainagar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>86198<br><b>Total Population: </b>145770<br><b>Percentage: </b>59.13<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(86198 people)\" style=\"border: 1px solid white;width: 59vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(59.1%)</td><td title=\"Punjabi&#013;(41959 people)\" style=\"border: 1px solid white;width: 28vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(28.8%)</td><td title=\"Hindi&#013;(10469 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(7.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.9%)</td></tr></table><br>"
+        },
+        "00465": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>465<br><b>Name: </b>Suratgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>231934<br><b>Total Population: </b>320981<br><b>Percentage: </b>72.26<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(231934 people)\" style=\"border: 1px solid white;width: 72vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(72.3%)</td><td title=\"Punjabi&#013;(51533 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(16.1%)</td><td title=\"Hindi&#013;(25245 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(7.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.7%)</td></tr></table><br>"
+        },
+        "00466": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Hanumangarh<br><b>Sub-District Code: </b>466<br><b>Name: </b>Sangaria<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>77299<br><b>Total Population: </b>159143<br><b>Percentage: </b>48.57<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(77299 people)\" style=\"border: 1px solid white;width: 48vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(48.6%)</td><td title=\"Punjabi&#013;(70903 people)\" style=\"border: 1px solid white;width: 44vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(44.6%)</td><td title=\"Hindi&#013;(8450 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "00467": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Hanumangarh<br><b>Sub-District Code: </b>467<br><b>Name: </b>Tibi<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>101470<br><b>Total Population: </b>165217<br><b>Percentage: </b>61.42<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(101470 people)\" style=\"border: 1px solid white;width: 61vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(61.4%)</td><td title=\"Punjabi&#013;(53014 people)\" style=\"border: 1px solid white;width: 32vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(32.1%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.5%)</td></tr></table><br>"
+        },
+        "00468": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Hanumangarh<br><b>Sub-District Code: </b>468<br><b>Name: </b>Hanumangarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>217362<br><b>Total Population: </b>424619<br><b>Percentage: </b>51.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(217362 people)\" style=\"border: 1px solid white;width: 51vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(51.2%)</td><td title=\"Punjabi&#013;(131122 people)\" style=\"border: 1px solid white;width: 30vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(30.9%)</td><td title=\"Hindi&#013;(55724 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(13.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.8%)</td></tr></table><br>"
+        },
+        "00469": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Hanumangarh<br><b>Sub-District Code: </b>469<br><b>Name: </b>Pilibanga<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>144202<br><b>Total Population: </b>215715<br><b>Percentage: </b>66.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(144202 people)\" style=\"border: 1px solid white;width: 66vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(66.8%)</td><td title=\"Punjabi&#013;(53090 people)\" style=\"border: 1px solid white;width: 24vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(24.6%)</td><td title=\"Hindi&#013;(11592 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "00470": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Hanumangarh<br><b>Sub-District Code: </b>470<br><b>Name: </b>Rawatsar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>191610<br><b>Total Population: </b>205093<br><b>Percentage: </b>93.43<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(191610 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(93.4%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.6%)</td></tr></table><br>"
+        },
+        "00471": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Hanumangarh<br><b>Sub-District Code: </b>471<br><b>Name: </b>Nohar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>300902<br><b>Total Population: </b>314587<br><b>Percentage: </b>95.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(300902 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.4%)</td></tr></table><br>"
+        },
+        "00472": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Hanumangarh<br><b>Sub-District Code: </b>472<br><b>Name: </b>Bhadra<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>256149<br><b>Total Population: </b>290318<br><b>Percentage: </b>88.23<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(256149 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(88.2%)</td><td title=\"Hindi&#013;(25821 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(8.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "00473": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bikaner<br><b>Sub-District Code: </b>473<br><b>Name: </b>Bikaner<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>730253<br><b>Total Population: </b>919706<br><b>Percentage: </b>79.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(730253 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(79.4%)</td><td title=\"Hindi&#013;(151409 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(16.5%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "00474": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bikaner<br><b>Sub-District Code: </b>474<br><b>Name: </b>Poogal<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>51018<br><b>Total Population: </b>67163<br><b>Percentage: </b>75.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(51018 people)\" style=\"border: 1px solid white;width: 76vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(76.0%)</td><td title=\"Sindhi&#013;(7402 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(128, 128, 128, 0.8);\">sin.. <br>(11.0%)</td><td style=\"border: 1px solid white;width: 13vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(13.0%)</td></tr></table><br>"
+        },
+        "00475": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bikaner<br><b>Sub-District Code: </b>475<br><b>Name: </b>Lunkaransar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>211793<br><b>Total Population: </b>213627<br><b>Percentage: </b>99.14<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(211793 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "00476": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bikaner<br><b>Sub-District Code: </b>476<br><b>Name: </b>Kolayat<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>250377<br><b>Total Population: </b>261028<br><b>Percentage: </b>95.92<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(250377 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "00477": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bikaner<br><b>Sub-District Code: </b>477<br><b>Name: </b>Nokha<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>433916<br><b>Total Population: </b>436876<br><b>Percentage: </b>99.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(433916 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00478": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bikaner<br><b>Sub-District Code: </b>478<br><b>Name: </b>Khajuwala<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>64361<br><b>Total Population: </b>88730<br><b>Percentage: </b>72.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(64361 people)\" style=\"border: 1px solid white;width: 72vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(72.5%)</td><td title=\"Punjabi&#013;(13179 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(14.9%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.6%)</td></tr></table><br>"
+        },
+        "00479": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bikaner<br><b>Sub-District Code: </b>479<br><b>Name: </b>Chhatargarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>75145<br><b>Total Population: </b>82488<br><b>Percentage: </b>91.1<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(75145 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(91.1%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.9%)</td></tr></table><br>"
+        },
+        "00480": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bikaner<br><b>Sub-District Code: </b>480<br><b>Name: </b>Sridungargarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>292734<br><b>Total Population: </b>294319<br><b>Percentage: </b>99.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(292734 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00481": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Churu<br><b>Sub-District Code: </b>481<br><b>Name: </b>Taranagar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>209288<br><b>Total Population: </b>211831<br><b>Percentage: </b>98.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(209288 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00482": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Churu<br><b>Sub-District Code: </b>482<br><b>Name: </b>Rajgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>334090<br><b>Total Population: </b>362582<br><b>Percentage: </b>92.14<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(334090 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.1%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.9%)</td></tr></table><br>"
+        },
+        "00483": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Churu<br><b>Sub-District Code: </b>483<br><b>Name: </b>Sardarshahar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>380034<br><b>Total Population: </b>382474<br><b>Percentage: </b>99.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(380034 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "00484": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Churu<br><b>Sub-District Code: </b>484<br><b>Name: </b>Churu<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>300387<br><b>Total Population: </b>310562<br><b>Percentage: </b>96.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(300387 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.3%)</td></tr></table><br>"
+        },
+        "00485": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Churu<br><b>Sub-District Code: </b>485<br><b>Name: </b>Ratangarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>290049<br><b>Total Population: </b>292059<br><b>Percentage: </b>99.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(290049 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00486": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Churu<br><b>Sub-District Code: </b>486<br><b>Name: </b>Sujangarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>473290<br><b>Total Population: </b>480039<br><b>Percentage: </b>98.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(473290 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "00487": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhunjhunun<br><b>Sub-District Code: </b>487<br><b>Name: </b>Jhunjhunun<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>493331<br><b>Total Population: </b>538174<br><b>Percentage: </b>91.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(493331 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(91.7%)</td><td title=\"Urdu&#013;(32458 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(128, 128, 128, 0.8);\">urd.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        },
+        "00488": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhunjhunun<br><b>Sub-District Code: </b>488<br><b>Name: </b>Chirawa<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>413111<br><b>Total Population: </b>476087<br><b>Percentage: </b>86.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(413111 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(86.8%)</td><td title=\"Hindi&#013;(49494 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(10.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "00490": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhunjhunun<br><b>Sub-District Code: </b>490<br><b>Name: </b>Khetri<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>255815<br><b>Total Population: </b>277946<br><b>Percentage: </b>92.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(255815 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.0%)</td><td title=\"Hindi&#013;(18550 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(6.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "00491": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhunjhunun<br><b>Sub-District Code: </b>491<br><b>Name: </b>Nawalgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>323003<br><b>Total Population: </b>326663<br><b>Percentage: </b>98.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(323003 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "00492": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhunjhunun<br><b>Sub-District Code: </b>492<br><b>Name: </b>Udaipurwati<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>289688<br><b>Total Population: </b>294770<br><b>Percentage: </b>98.28<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(289688 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00540": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>540<br><b>Name: </b>Shahpura<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>200744<br><b>Total Population: </b>272632<br><b>Percentage: </b>73.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(200744 people)\" style=\"border: 1px solid white;width: 73vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(73.6%)</td><td title=\"Hindi&#013;(71089 people)\" style=\"border: 1px solid white;width: 26vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(26.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00541": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>541<br><b>Name: </b>Chomu<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>373463<br><b>Total Population: </b>395009<br><b>Percentage: </b>94.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(373463 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.5%)</td><td title=\"Hindi&#013;(20290 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00542": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>542<br><b>Name: </b>Phulera (Hq.Sambhar)<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>417057<br><b>Total Population: </b>444105<br><b>Percentage: </b>93.91<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(417057 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(93.9%)</td><td title=\"Hindi&#013;(24246 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "00543": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>543<br><b>Name: </b>Mauzamabad<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>196136<br><b>Total Population: </b>213016<br><b>Percentage: </b>92.08<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(196136 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.1%)</td><td title=\"Hindi&#013;(16570 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(7.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "00544": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>544<br><b>Name: </b>Phagi<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>173064<br><b>Total Population: </b>191126<br><b>Percentage: </b>90.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(173064 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(90.5%)</td><td title=\"Hindi&#013;(17434 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(9.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00547": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>547<br><b>Name: </b>Amber<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>341933<br><b>Total Population: </b>452005<br><b>Percentage: </b>75.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(341933 people)\" style=\"border: 1px solid white;width: 75vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(75.6%)</td><td title=\"Hindi&#013;(97938 people)\" style=\"border: 1px solid white;width: 21vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(21.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "00548": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>548<br><b>Name: </b>Jamwa Ramgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>293579<br><b>Total Population: </b>303236<br><b>Percentage: </b>96.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(293579 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "00549": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>549<br><b>Name: </b>Bassi<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>172559<br><b>Total Population: </b>283594<br><b>Percentage: </b>60.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(172559 people)\" style=\"border: 1px solid white;width: 60vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(60.8%)</td><td title=\"Hindi&#013;(109039 people)\" style=\"border: 1px solid white;width: 38vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(38.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "00550": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>550<br><b>Name: </b>Chaksu<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>198408<br><b>Total Population: </b>223634<br><b>Percentage: </b>88.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(198408 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(88.7%)</td><td title=\"Hindi&#013;(24225 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(10.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00551": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sikar<br><b>Sub-District Code: </b>551<br><b>Name: </b>Fatehpur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>290466<br><b>Total Population: </b>305638<br><b>Percentage: </b>95.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(290466 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.0%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.0%)</td></tr></table><br>"
+        },
+        "00552": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sikar<br><b>Sub-District Code: </b>552<br><b>Name: </b>Lachhmangarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>315659<br><b>Total Population: </b>320956<br><b>Percentage: </b>98.35<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(315659 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00553": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sikar<br><b>Sub-District Code: </b>553<br><b>Name: </b>Sikar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>576370<br><b>Total Population: </b>644186<br><b>Percentage: </b>89.47<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(576370 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(89.5%)</td><td title=\"Urdu&#013;(38046 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(128, 128, 128, 0.8);\">urd.. <br>(5.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.6%)</td></tr></table><br>"
+        },
+        "00554": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sikar<br><b>Sub-District Code: </b>554<br><b>Name: </b>Danta Ramgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>418755<br><b>Total Population: </b>423314<br><b>Percentage: </b>98.92<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(418755 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "00555": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sikar<br><b>Sub-District Code: </b>555<br><b>Name: </b>Sri Madhopur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>559973<br><b>Total Population: </b>583328<br><b>Percentage: </b>96.0<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(559973 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "00556": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sikar<br><b>Sub-District Code: </b>556<br><b>Name: </b>Neem-Ka-Thana<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>385278<br><b>Total Population: </b>399911<br><b>Percentage: </b>96.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(385278 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.3%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.7%)</td></tr></table><br>"
+        },
+        "00557": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>557<br><b>Name: </b>Ladnu<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>246974<br><b>Total Population: </b>252942<br><b>Percentage: </b>97.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(246974 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "00558": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>558<br><b>Name: </b>Didwana<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>384892<br><b>Total Population: </b>397003<br><b>Percentage: </b>96.95<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(384892 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.1%)</td></tr></table><br>"
+        },
+        "00559": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>559<br><b>Name: </b>Jayal<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>265342<br><b>Total Population: </b>269024<br><b>Percentage: </b>98.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(265342 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "00560": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>560<br><b>Name: </b>Nagaur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>487821<br><b>Total Population: </b>524926<br><b>Percentage: </b>92.93<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(487821 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.9%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.1%)</td></tr></table><br>"
+        },
+        "00561": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>561<br><b>Name: </b>Kheenvsar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>192212<br><b>Total Population: </b>192924<br><b>Percentage: </b>99.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(192212 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00562": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>562<br><b>Name: </b>Merta<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>380704<br><b>Total Population: </b>388929<br><b>Percentage: </b>97.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(380704 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "00563": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>563<br><b>Name: </b>Degana<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>303257<br><b>Total Population: </b>306103<br><b>Percentage: </b>99.07<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(303257 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "00564": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>564<br><b>Name: </b>Parbatsar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>222465<br><b>Total Population: </b>225413<br><b>Percentage: </b>98.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(222465 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "00565": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>565<br><b>Name: </b>Makrana<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>300279<br><b>Total Population: </b>345569<br><b>Percentage: </b>86.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(300279 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(86.9%)</td><td title=\"Urdu&#013;(33201 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(128, 128, 128, 0.8);\">urd.. <br>(9.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "00566": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Nagaur<br><b>Sub-District Code: </b>566<br><b>Name: </b>Nawa<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>393943<br><b>Total Population: </b>404910<br><b>Percentage: </b>97.29<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(393943 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "00567": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jodhpur<br><b>Sub-District Code: </b>567<br><b>Name: </b>Phalodi<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>554533<br><b>Total Population: </b>564560<br><b>Percentage: </b>98.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(554533 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "00568": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jodhpur<br><b>Sub-District Code: </b>568<br><b>Name: </b>Osian<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>464166<br><b>Total Population: </b>465257<br><b>Percentage: </b>99.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(464166 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "00569": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jodhpur<br><b>Sub-District Code: </b>569<br><b>Name: </b>Bhopalgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>316436<br><b>Total Population: </b>320952<br><b>Percentage: </b>98.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(316436 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "00570": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jodhpur<br><b>Sub-District Code: </b>570<br><b>Name: </b>Jodhpur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>1003674<br><b>Total Population: </b>1378224<br><b>Percentage: </b>72.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(1003674 people)\" style=\"border: 1px solid white;width: 72vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(72.8%)</td><td title=\"Hindi&#013;(295254 people)\" style=\"border: 1px solid white;width: 21vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(21.4%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.8%)</td></tr></table><br>"
+        },
+        "00571": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jodhpur<br><b>Sub-District Code: </b>571<br><b>Name: </b>Shergarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>448498<br><b>Total Population: </b>452134<br><b>Percentage: </b>99.2<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(448498 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "00572": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jodhpur<br><b>Sub-District Code: </b>572<br><b>Name: </b>Luni<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>219642<br><b>Total Population: </b>221979<br><b>Percentage: </b>98.95<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(219642 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "00573": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jodhpur<br><b>Sub-District Code: </b>573<br><b>Name: </b>Bilara<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>278409<br><b>Total Population: </b>284059<br><b>Percentage: </b>98.01<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(278409 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "00574": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaisalmer<br><b>Sub-District Code: </b>574<br><b>Name: </b>Jaisalmer<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>225930<br><b>Total Population: </b>265237<br><b>Percentage: </b>85.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(225930 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(85.2%)</td><td title=\"Hindi&#013;(15544 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.9%)</td><td title=\"Sindhi&#013;(13445 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(128, 128, 128, 0.8);\">sin.. <br>(5.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.8%)</td></tr></table><br>"
+        },
+        "00575": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaisalmer<br><b>Sub-District Code: </b>575<br><b>Name: </b>Pokaran<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>295314<br><b>Total Population: </b>303662<br><b>Percentage: </b>97.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(295314 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "00576": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaisalmer<br><b>Sub-District Code: </b>576<br><b>Name: </b>Fatehgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>95580<br><b>Total Population: </b>101020<br><b>Percentage: </b>94.61<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(95580 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.6%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.4%)</td></tr></table><br>"
+        },
+        "00577": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Barmer<br><b>Sub-District Code: </b>577<br><b>Name: </b>Sheo<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>231359<br><b>Total Population: </b>237080<br><b>Percentage: </b>97.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(231359 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "00578": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Barmer<br><b>Sub-District Code: </b>578<br><b>Name: </b>Baytoo<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>252546<br><b>Total Population: </b>253350<br><b>Percentage: </b>99.68<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(252546 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00579": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Barmer<br><b>Sub-District Code: </b>579<br><b>Name: </b>Pachpadra<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>416333<br><b>Total Population: </b>422784<br><b>Percentage: </b>98.47<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(416333 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "00580": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Barmer<br><b>Sub-District Code: </b>580<br><b>Name: </b>Siwana<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>264039<br><b>Total Population: </b>272560<br><b>Percentage: </b>96.87<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(264039 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.1%)</td></tr></table><br>"
+        },
+        "00581": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Barmer<br><b>Sub-District Code: </b>581<br><b>Name: </b>Gudha Malani<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>446593<br><b>Total Population: </b>453911<br><b>Percentage: </b>98.39<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(446593 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "00582": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Barmer<br><b>Sub-District Code: </b>582<br><b>Name: </b>Barmer<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>346489<br><b>Total Population: </b>370721<br><b>Percentage: </b>93.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(346489 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(93.5%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.5%)</td></tr></table><br>"
+        },
+        "00583": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Barmer<br><b>Sub-District Code: </b>583<br><b>Name: </b>Ramsar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>87829<br><b>Total Population: </b>108001<br><b>Percentage: </b>81.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(87829 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(81.3%)</td><td title=\"Others&#013;(12398 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(128, 128, 128, 0.8);\">oth.. <br>(11.5%)</td><td title=\"Sindhi&#013;(5378 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(128, 128, 128, 0.8);\">sin.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "00584": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Barmer<br><b>Sub-District Code: </b>584<br><b>Name: </b>Chohtan<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>404718<br><b>Total Population: </b>485344<br><b>Percentage: </b>83.39<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(404718 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(83.4%)</td><td title=\"Sindhi&#013;(58278 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(128, 128, 128, 0.8);\">sin.. <br>(12.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.6%)</td></tr></table><br>"
+        },
+        "00585": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jalor<br><b>Sub-District Code: </b>585<br><b>Name: </b>Sayla<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>175960<br><b>Total Population: </b>176682<br><b>Percentage: </b>99.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(175960 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00586": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jalor<br><b>Sub-District Code: </b>586<br><b>Name: </b>Ahore<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>237964<br><b>Total Population: </b>239642<br><b>Percentage: </b>99.3<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(237964 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00587": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jalor<br><b>Sub-District Code: </b>587<br><b>Name: </b>Jalor<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>253707<br><b>Total Population: </b>264423<br><b>Percentage: </b>95.95<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(253707 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "00588": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jalor<br><b>Sub-District Code: </b>588<br><b>Name: </b>Bhinmal<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>298857<br><b>Total Population: </b>302553<br><b>Percentage: </b>98.78<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(298857 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00589": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jalor<br><b>Sub-District Code: </b>589<br><b>Name: </b>Bagora<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>150033<br><b>Total Population: </b>151141<br><b>Percentage: </b>99.27<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(150033 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00590": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jalor<br><b>Sub-District Code: </b>590<br><b>Name: </b>Sanchore<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>476785<br><b>Total Population: </b>487458<br><b>Percentage: </b>97.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(476785 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "00591": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jalor<br><b>Sub-District Code: </b>591<br><b>Name: </b>Raniwara<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>202920<br><b>Total Population: </b>206831<br><b>Percentage: </b>98.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(202920 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "00592": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sirohi<br><b>Sub-District Code: </b>592<br><b>Name: </b>Sheoganj<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>135458<br><b>Total Population: </b>142329<br><b>Percentage: </b>95.17<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(135458 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.8%)</td></tr></table><br>"
+        },
+        "00593": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sirohi<br><b>Sub-District Code: </b>593<br><b>Name: </b>Sirohi<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>175387<br><b>Total Population: </b>186079<br><b>Percentage: </b>94.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(175387 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.3%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.7%)</td></tr></table><br>"
+        },
+        "00594": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sirohi<br><b>Sub-District Code: </b>594<br><b>Name: </b>Pindwara<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>222686<br><b>Total Population: </b>261686<br><b>Percentage: </b>85.1<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(222686 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(85.1%)</td><td title=\"Garasia&#013;(23332 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(128, 128, 128, 0.8);\">gar.. <br>(8.9%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.0%)</td></tr></table><br>"
+        },
+        "00595": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sirohi<br><b>Sub-District Code: </b>595<br><b>Name: </b>Abu Road<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>115359<br><b>Total Population: </b>224404<br><b>Percentage: </b>51.41<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(115359 people)\" style=\"border: 1px solid white;width: 51vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(51.4%)</td><td title=\"Hindi&#013;(51437 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(22.9%)</td><td title=\"Garasia&#013;(42516 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(128, 128, 128, 0.8);\">gar.. <br>(18.9%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.8%)</td></tr></table><br>"
+        },
+        "00596": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sirohi<br><b>Sub-District Code: </b>596<br><b>Name: </b>Reodar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>217483<br><b>Total Population: </b>221848<br><b>Percentage: </b>98.03<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(217483 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "00597": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>597<br><b>Name: </b>Jaitaran<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>223703<br><b>Total Population: </b>226776<br><b>Percentage: </b>98.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(223703 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "00598": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>598<br><b>Name: </b>Raipur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>201292<br><b>Total Population: </b>205254<br><b>Percentage: </b>98.07<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(201292 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "00599": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>599<br><b>Name: </b>Sojat<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>214132<br><b>Total Population: </b>220854<br><b>Percentage: </b>96.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(214132 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "00600": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>600<br><b>Name: </b>Rohat<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>119861<br><b>Total Population: </b>120963<br><b>Percentage: </b>99.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(119861 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "00601": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>601<br><b>Name: </b>Pali<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>340877<br><b>Total Population: </b>368386<br><b>Percentage: </b>92.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(340877 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.5%)</td><td title=\"Hindi&#013;(24453 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(6.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "00602": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>602<br><b>Name: </b>Marwar Junction<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>196612<br><b>Total Population: </b>198978<br><b>Percentage: </b>98.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(196612 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00603": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>603<br><b>Name: </b>Desuri<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>218442<br><b>Total Population: </b>234337<br><b>Percentage: </b>93.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(218442 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(93.2%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.8%)</td></tr></table><br>"
+        },
+        "00604": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>604<br><b>Name: </b>Sumerpur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>189809<br><b>Total Population: </b>198125<br><b>Percentage: </b>95.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(189809 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "00605": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pali<br><b>Sub-District Code: </b>605<br><b>Name: </b>Bali<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>241582<br><b>Total Population: </b>263900<br><b>Percentage: </b>91.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(241582 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(91.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.5%)</td></tr></table><br>"
+        },
+        "00606": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>606<br><b>Name: </b>Kishangarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>365728<br><b>Total Population: </b>418231<br><b>Percentage: </b>87.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(365728 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(87.4%)</td><td title=\"Hindi&#013;(44572 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(10.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "00608": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>608<br><b>Name: </b>Peesangan<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>121483<br><b>Total Population: </b>127803<br><b>Percentage: </b>95.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(121483 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.9%)</td></tr></table><br>"
+        },
+        "00609": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>609<br><b>Name: </b>Beawar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>218223<br><b>Total Population: </b>342935<br><b>Percentage: </b>63.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(218223 people)\" style=\"border: 1px solid white;width: 63vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(63.6%)</td><td title=\"Hindi&#013;(113091 people)\" style=\"border: 1px solid white;width: 33vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(33.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "00610": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>610<br><b>Name: </b>Masuda<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>194308<br><b>Total Population: </b>224181<br><b>Percentage: </b>86.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(194308 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(86.7%)</td><td title=\"Hindi&#013;(28675 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(12.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00611": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>611<br><b>Name: </b>Nasirabad<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>95962<br><b>Total Population: </b>187486<br><b>Percentage: </b>51.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(95962 people)\" style=\"border: 1px solid white;width: 51vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(51.2%)</td><td title=\"Hindi&#013;(80924 people)\" style=\"border: 1px solid white;width: 43vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(43.2%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.6%)</td></tr></table><br>"
+        },
+        "00612": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>612<br><b>Name: </b>Bhinay<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>121841<br><b>Total Population: </b>126466<br><b>Percentage: </b>96.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(121841 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.3%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.7%)</td></tr></table><br>"
+        },
+        "00613": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>613<br><b>Name: </b>Sarwar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>142862<br><b>Total Population: </b>154738<br><b>Percentage: </b>92.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(142862 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.3%)</td><td title=\"Hindi&#013;(11082 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(7.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00614": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>614<br><b>Name: </b>Kekri<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>184739<br><b>Total Population: </b>202758<br><b>Percentage: </b>91.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(184739 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(91.1%)</td><td title=\"Hindi&#013;(17186 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(8.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00615": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Tonk<br><b>Sub-District Code: </b>615<br><b>Name: </b>Malpura<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>208419<br><b>Total Population: </b>240909<br><b>Percentage: </b>86.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(208419 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(86.5%)</td><td title=\"Hindi&#013;(22531 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(9.4%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "00616": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Tonk<br><b>Sub-District Code: </b>616<br><b>Name: </b>Peeplu<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>112808<br><b>Total Population: </b>117644<br><b>Percentage: </b>95.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(112808 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "00617": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Tonk<br><b>Sub-District Code: </b>617<br><b>Name: </b>Niwai<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>203476<br><b>Total Population: </b>245787<br><b>Percentage: </b>82.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(203476 people)\" style=\"border: 1px solid white;width: 82vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(82.8%)</td><td title=\"Hindi&#013;(39694 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(16.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "00619": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Tonk<br><b>Sub-District Code: </b>619<br><b>Name: </b>Todaraisingh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>135430<br><b>Total Population: </b>146870<br><b>Percentage: </b>92.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(135430 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.2%)</td><td title=\"Hindi&#013;(9686 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(6.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00620": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Tonk<br><b>Sub-District Code: </b>620<br><b>Name: </b>Deoli<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>184263<br><b>Total Population: </b>214408<br><b>Percentage: </b>85.94<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(184263 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(85.9%)</td><td title=\"Hindi&#013;(26983 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(12.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "00622": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bundi<br><b>Sub-District Code: </b>622<br><b>Name: </b>Hindoli<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>191204<br><b>Total Population: </b>221601<br><b>Percentage: </b>86.28<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(191204 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(86.3%)</td><td title=\"Others&#013;(16092 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(128, 128, 128, 0.8);\">oth.. <br>(7.3%)</td><td title=\"Hindi&#013;(12208 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "00623": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bundi<br><b>Sub-District Code: </b>623<br><b>Name: </b>Nainwa<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>149388<br><b>Total Population: </b>196070<br><b>Percentage: </b>76.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(149388 people)\" style=\"border: 1px solid white;width: 76vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(76.2%)</td><td title=\"Hindi&#013;(44123 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(22.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "00624": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bundi<br><b>Sub-District Code: </b>624<br><b>Name: </b>Indragarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>106421<br><b>Total Population: </b>127715<br><b>Percentage: </b>83.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(106421 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(83.3%)</td><td title=\"Hindi&#013;(20184 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(15.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "00625": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bundi<br><b>Sub-District Code: </b>625<br><b>Name: </b>Keshoraipatan<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>129339<br><b>Total Population: </b>153987<br><b>Percentage: </b>83.99<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(129339 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(84.0%)</td><td title=\"Hindi&#013;(21368 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(13.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "00626": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bundi<br><b>Sub-District Code: </b>626<br><b>Name: </b>Bundi<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>334005<br><b>Total Population: </b>411533<br><b>Percentage: </b>81.16<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(334005 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(81.2%)</td><td title=\"Hindi&#013;(61478 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(14.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "00627": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>627<br><b>Name: </b>Asind<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>221032<br><b>Total Population: </b>254130<br><b>Percentage: </b>86.98<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(221032 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(87.0%)</td><td title=\"Hindi&#013;(32136 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(12.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00628": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>628<br><b>Name: </b>Hurda<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>116945<br><b>Total Population: </b>138643<br><b>Percentage: </b>84.35<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(116945 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(84.3%)</td><td title=\"Hindi&#013;(20360 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(14.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "00629": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>629<br><b>Name: </b>Shahpura<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>195122<br><b>Total Population: </b>207020<br><b>Percentage: </b>94.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(195122 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.3%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.7%)</td></tr></table><br>"
+        },
+        "00630": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>630<br><b>Name: </b>Banera<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>119560<br><b>Total Population: </b>123714<br><b>Percentage: </b>96.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(119560 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "00631": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>631<br><b>Name: </b>Mandal<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>225613<br><b>Total Population: </b>235640<br><b>Percentage: </b>95.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(225613 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.3%)</td></tr></table><br>"
+        },
+        "00632": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>632<br><b>Name: </b>Raipur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>93558<br><b>Total Population: </b>97869<br><b>Percentage: </b>95.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(93558 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.4%)</td></tr></table><br>"
+        },
+        "00633": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>633<br><b>Name: </b>Sahara<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>133455<br><b>Total Population: </b>135086<br><b>Percentage: </b>98.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(133455 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00634": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>634<br><b>Name: </b>Bhilwara<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>336559<br><b>Total Population: </b>557761<br><b>Percentage: </b>60.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(336559 people)\" style=\"border: 1px solid white;width: 60vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(60.3%)</td><td title=\"Hindi&#013;(202932 people)\" style=\"border: 1px solid white;width: 36vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(36.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.3%)</td></tr></table><br>"
+        },
+        "00635": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>635<br><b>Name: </b>Kotri<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>171741<br><b>Total Population: </b>174701<br><b>Percentage: </b>98.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(171741 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00636": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>636<br><b>Name: </b>Jahazpur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>144848<br><b>Total Population: </b>217773<br><b>Percentage: </b>66.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(144848 people)\" style=\"border: 1px solid white;width: 66vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(66.5%)</td><td title=\"Hindi&#013;(51697 people)\" style=\"border: 1px solid white;width: 23vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(23.7%)</td><td title=\"Others&#013;(18658 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(128, 128, 128, 0.8);\">oth.. <br>(8.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00637": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>637<br><b>Name: </b>Mandalgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>154310<br><b>Total Population: </b>176703<br><b>Percentage: </b>87.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(154310 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(87.3%)</td><td title=\"Others&#013;(11049 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(128, 128, 128, 0.8);\">oth.. <br>(6.3%)</td><td title=\"Hindi&#013;(10255 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "00638": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bhilwara<br><b>Sub-District Code: </b>638<br><b>Name: </b>Beejoliya<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>75235<br><b>Total Population: </b>89483<br><b>Percentage: </b>84.08<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(75235 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(84.1%)</td><td title=\"Hindi&#013;(13071 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(14.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "00639": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Rajsamand<br><b>Sub-District Code: </b>639<br><b>Name: </b>Bhim<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>160939<br><b>Total Population: </b>171023<br><b>Percentage: </b>94.1<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(160939 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.1%)</td><td title=\"Hindi&#013;(9809 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "00640": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Rajsamand<br><b>Sub-District Code: </b>640<br><b>Name: </b>Deogarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>103207<br><b>Total Population: </b>110723<br><b>Percentage: </b>93.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(103207 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(93.2%)</td><td title=\"Hindi&#013;(6942 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(6.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00641": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Rajsamand<br><b>Sub-District Code: </b>641<br><b>Name: </b>Amet<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>114858<br><b>Total Population: </b>118949<br><b>Percentage: </b>96.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(114858 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "00642": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Rajsamand<br><b>Sub-District Code: </b>642<br><b>Name: </b>Kumbhalgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>143019<br><b>Total Population: </b>144231<br><b>Percentage: </b>99.16<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(143019 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "00643": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Rajsamand<br><b>Sub-District Code: </b>643<br><b>Name: </b>Rajsamand<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>204709<br><b>Total Population: </b>235140<br><b>Percentage: </b>87.06<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(204709 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(87.1%)</td><td title=\"Hindi&#013;(25844 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(11.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "00644": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Rajsamand<br><b>Sub-District Code: </b>644<br><b>Name: </b>Railmagra<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>127066<br><b>Total Population: </b>131800<br><b>Percentage: </b>96.41<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(127066 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.6%)</td></tr></table><br>"
+        },
+        "00645": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Rajsamand<br><b>Sub-District Code: </b>645<br><b>Name: </b>Nathdwara<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>229079<br><b>Total Population: </b>244731<br><b>Percentage: </b>93.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(229079 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(93.6%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.4%)</td></tr></table><br>"
+        },
+        "00648": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dungarpur<br><b>Sub-District Code: </b>648<br><b>Name: </b>Sagwara<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>187207<br><b>Total Population: </b>343232<br><b>Percentage: </b>54.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(187207 people)\" style=\"border: 1px solid white;width: 54vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(54.5%)</td><td title=\"Wagdi&#013;(147947 people)\" style=\"border: 1px solid white;width: 43vw; background-color: rgba(70, 130, 180, 0.8);\">wag.. <br>(43.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "00655": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>655<br><b>Name: </b>Rashmi<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>83628<br><b>Total Population: </b>88670<br><b>Percentage: </b>94.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(83628 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.3%)</td><td title=\"Hindi&#013;(4981 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "00656": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>656<br><b>Name: </b>Gangrar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>100852<br><b>Total Population: </b>103933<br><b>Percentage: </b>97.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(100852 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "00657": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>657<br><b>Name: </b>Begun<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>114600<br><b>Total Population: </b>135340<br><b>Percentage: </b>84.68<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(114600 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(84.7%)</td><td title=\"Hindi&#013;(19128 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(14.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00658": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>658<br><b>Name: </b>Rawatbhata<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>90115<br><b>Total Population: </b>140128<br><b>Percentage: </b>64.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(90115 people)\" style=\"border: 1px solid white;width: 64vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(64.3%)</td><td title=\"Hindi&#013;(45862 people)\" style=\"border: 1px solid white;width: 32vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(32.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "00659": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>659<br><b>Name: </b>Chittaurgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>238971<br><b>Total Population: </b>312334<br><b>Percentage: </b>76.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(238971 people)\" style=\"border: 1px solid white;width: 76vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(76.5%)</td><td title=\"Hindi&#013;(64329 people)\" style=\"border: 1px solid white;width: 20vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(20.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "00660": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>660<br><b>Name: </b>Kapasan<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>188180<br><b>Total Population: </b>199340<br><b>Percentage: </b>94.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(188180 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.4%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.6%)</td></tr></table><br>"
+        },
+        "00661": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>661<br><b>Name: </b>Dungla<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>100255<br><b>Total Population: </b>104607<br><b>Percentage: </b>95.84<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(100255 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "00662": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>662<br><b>Name: </b>Bhadesar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>118835<br><b>Total Population: </b>123930<br><b>Percentage: </b>95.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(118835 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "00663": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>663<br><b>Name: </b>Nimbahera<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>154119<br><b>Total Population: </b>219790<br><b>Percentage: </b>70.12<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(154119 people)\" style=\"border: 1px solid white;width: 70vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(70.1%)</td><td title=\"Hindi&#013;(57802 people)\" style=\"border: 1px solid white;width: 26vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(26.3%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.6%)</td></tr></table><br>"
+        },
+        "00664": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Chittaurgarh<br><b>Sub-District Code: </b>664<br><b>Name: </b>Bari Sadri<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>113250<br><b>Total Population: </b>116266<br><b>Percentage: </b>97.41<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(113250 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "00665": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Kota<br><b>Sub-District Code: </b>665<br><b>Name: </b>Pipalda<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>174733<br><b>Total Population: </b>179800<br><b>Percentage: </b>97.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(174733 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(97.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "00666": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Kota<br><b>Sub-District Code: </b>666<br><b>Name: </b>Digod<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>158939<br><b>Total Population: </b>168734<br><b>Percentage: </b>94.2<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(158939 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.2%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.8%)</td></tr></table><br>"
+        },
+        "00669": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Kota<br><b>Sub-District Code: </b>669<br><b>Name: </b>Sangod<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>173522<br><b>Total Population: </b>186240<br><b>Percentage: </b>93.17<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(173522 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(93.2%)</td><td title=\"Hindi&#013;(9244 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "00670": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Baran<br><b>Sub-District Code: </b>670<br><b>Name: </b>Mangrol<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>96760<br><b>Total Population: </b>106963<br><b>Percentage: </b>90.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(96760 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(90.5%)</td><td title=\"Urdu&#013;(5387 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(128, 128, 128, 0.8);\">urd.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.5%)</td></tr></table><br>"
+        },
+        "00671": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Baran<br><b>Sub-District Code: </b>671<br><b>Name: </b>Antah<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>110904<br><b>Total Population: </b>120038<br><b>Percentage: </b>92.39<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(110904 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.4%)</td><td title=\"Hindi&#013;(7829 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(6.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "00672": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Baran<br><b>Sub-District Code: </b>672<br><b>Name: </b>Baran<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>157127<br><b>Total Population: </b>213555<br><b>Percentage: </b>73.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(157127 people)\" style=\"border: 1px solid white;width: 73vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(73.6%)</td><td title=\"Hindi&#013;(46984 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(22.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.4%)</td></tr></table><br>"
+        },
+        "00673": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Baran<br><b>Sub-District Code: </b>673<br><b>Name: </b>Atru<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>142139<br><b>Total Population: </b>149959<br><b>Percentage: </b>94.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(142139 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(94.8%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.2%)</td></tr></table><br>"
+        },
+        "00674": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Baran<br><b>Sub-District Code: </b>674<br><b>Name: </b>Kishanganj<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>139824<br><b>Total Population: </b>166864<br><b>Percentage: </b>83.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(139824 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(83.8%)</td><td title=\"Hindi&#013;(17242 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(10.3%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.9%)</td></tr></table><br>"
+        },
+        "00676": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Baran<br><b>Sub-District Code: </b>676<br><b>Name: </b>Chhabra<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>75297<br><b>Total Population: </b>152429<br><b>Percentage: </b>49.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(75297 people)\" style=\"border: 1px solid white;width: 49vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(49.4%)</td><td title=\"Hindi&#013;(71058 people)\" style=\"border: 1px solid white;width: 46vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(46.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "00677": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Baran<br><b>Sub-District Code: </b>677<br><b>Name: </b>Chhipabarod<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>146886<br><b>Total Population: </b>170886<br><b>Percentage: </b>85.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(146886 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(86.0%)</td><td title=\"Hindi&#013;(20770 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(12.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "00678": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhalawar<br><b>Sub-District Code: </b>678<br><b>Name: </b>Khanpur<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>160671<br><b>Total Population: </b>173193<br><b>Percentage: </b>92.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(160671 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(92.8%)</td><td title=\"Hindi&#013;(11387 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(6.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "00680": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhalawar<br><b>Sub-District Code: </b>680<br><b>Name: </b>Aklera<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>135128<br><b>Total Population: </b>178571<br><b>Percentage: </b>75.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(135128 people)\" style=\"border: 1px solid white;width: 75vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(75.7%)</td><td title=\"Hindi&#013;(42926 people)\" style=\"border: 1px solid white;width: 24vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(24.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00681": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhalawar<br><b>Sub-District Code: </b>681<br><b>Name: </b>Manohar Thana<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>83423<br><b>Total Population: </b>143075<br><b>Percentage: </b>58.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(83423 people)\" style=\"border: 1px solid white;width: 58vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(58.3%)</td><td title=\"Hindi&#013;(58690 people)\" style=\"border: 1px solid white;width: 41vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(41.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00684": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhalawar<br><b>Sub-District Code: </b>684<br><b>Name: </b>Gangdhar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>139764<br><b>Total Population: </b>167486<br><b>Percentage: </b>83.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(139764 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(83.4%)</td><td title=\"Hindi&#013;(25488 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(15.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "00685": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>685<br><b>Name: </b>Mavli<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>243252<br><b>Total Population: </b>253344<br><b>Percentage: </b>96.02<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(243252 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(96.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "00686": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>686<br><b>Name: </b>Gogunda<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>205544<br><b>Total Population: </b>214948<br><b>Percentage: </b>95.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(205544 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(95.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.4%)</td></tr></table><br>"
+        },
+        "00688": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>688<br><b>Name: </b>Jhadol<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>164281<br><b>Total Population: </b>249297<br><b>Percentage: </b>65.9<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(164281 people)\" style=\"border: 1px solid white;width: 65vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(65.9%)</td><td title=\"Wagdi&#013;(51904 people)\" style=\"border: 1px solid white;width: 20vw; background-color: rgba(70, 130, 180, 0.8);\">wag.. <br>(20.8%)</td><td title=\"Hindi&#013;(30447 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(12.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "00689": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>689<br><b>Name: </b>Girwa<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>513942<br><b>Total Population: </b>898133<br><b>Percentage: </b>57.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(513942 people)\" style=\"border: 1px solid white;width: 57vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(57.2%)</td><td title=\"Hindi&#013;(280395 people)\" style=\"border: 1px solid white;width: 31vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(31.2%)</td><td title=\"Wagdi&#013;(55466 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(70, 130, 180, 0.8);\">wag.. <br>(6.2%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.4%)</td></tr></table><br>"
+        },
+        "00690": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>690<br><b>Name: </b>Vallabhnagar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>255217<br><b>Total Population: </b>271679<br><b>Percentage: </b>93.94<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(255217 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(93.9%)</td><td title=\"Hindi&#013;(15003 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "00691": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>691<br><b>Name: </b>Lasadiya<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>90763<br><b>Total Population: </b>91229<br><b>Percentage: </b>99.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(90763 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00692": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>692<br><b>Name: </b>Salumbar<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>146449<br><b>Total Population: </b>248337<br><b>Percentage: </b>58.97<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(146449 people)\" style=\"border: 1px solid white;width: 59vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(59.0%)</td><td title=\"Wagdi&#013;(79835 people)\" style=\"border: 1px solid white;width: 32vw; background-color: rgba(70, 130, 180, 0.8);\">wag.. <br>(32.1%)</td><td title=\"Hindi&#013;(14305 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.1%)</td></tr></table><br>"
+        },
+        "00693": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>693<br><b>Name: </b>Sarada<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>145154<br><b>Total Population: </b>231209<br><b>Percentage: </b>62.78<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(145154 people)\" style=\"border: 1px solid white;width: 62vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(62.8%)</td><td title=\"Wagdi&#013;(48700 people)\" style=\"border: 1px solid white;width: 21vw; background-color: rgba(70, 130, 180, 0.8);\">wag.. <br>(21.1%)</td><td title=\"Hindi&#013;(27328 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(11.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.3%)</td></tr></table><br>"
+        },
+        "00696": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pratapgarh<br><b>Sub-District Code: </b>696<br><b>Name: </b>Dhariawad<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>140998<br><b>Total Population: </b>189872<br><b>Percentage: </b>74.26<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(140998 people)\" style=\"border: 1px solid white;width: 74vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(74.3%)</td><td title=\"Wagdi&#013;(45385 people)\" style=\"border: 1px solid white;width: 23vw; background-color: rgba(70, 130, 180, 0.8);\">wag.. <br>(23.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "00698": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pratapgarh<br><b>Sub-District Code: </b>698<br><b>Name: </b>Chhoti Sadri<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>121457<br><b>Total Population: </b>134077<br><b>Percentage: </b>90.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(121457 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(90.6%)</td><td title=\"Hindi&#013;(10209 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(7.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "00699": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pratapgarh<br><b>Sub-District Code: </b>699<br><b>Name: </b>Pratapgarh<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>190469<br><b>Total Population: </b>248813<br><b>Percentage: </b>76.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(190469 people)\" style=\"border: 1px solid white;width: 76vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(76.6%)</td><td title=\"Hindi&#013;(48410 people)\" style=\"border: 1px solid white;width: 19vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(19.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "00700": {
+            "color": "rgba(255, 99, 71, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pratapgarh<br><b>Sub-District Code: </b>700<br><b>Name: </b>Arnod<br><b>Largest Language: </b>Rajasthani<br><b>rajasthani Population: </b>115140<br><b>Total Population: </b>141023<br><b>Percentage: </b>81.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Rajasthani&#013;(115140 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(255, 99, 71, 0.8);\">rajasthani <br>(81.6%)</td><td title=\"Wagdi&#013;(19325 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(70, 130, 180, 0.8);\">wag.. <br>(13.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "00457": {
+            "color": "rgba(139, 0, 0, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ganganagar <br><b>Sub-District Code: </b>457<br><b>Name: </b>Karanpur<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>80817<br><b>Total Population: </b>146878<br><b>Percentage: </b>55.02<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(80817 people)\" style=\"border: 1px solid white;width: 55vw; background-color: rgba(139, 0, 0, 0.8);\">punjabi <br>(55.0%)</td><td title=\"Rajasthani&#013;(46218 people)\" style=\"border: 1px solid white;width: 31vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(31.5%)</td><td title=\"Hindi&#013;(10216 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(7.0%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.5%)</td></tr></table><br>"
+        },
+        "00489": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhunjhunun<br><b>Sub-District Code: </b>489<br><b>Name: </b>Buhana<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>130049<br><b>Total Population: </b>223405<br><b>Percentage: </b>58.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(130049 people)\" style=\"border: 1px solid white;width: 58vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(58.2%)</td><td title=\"Rajasthani&#013;(91869 people)\" style=\"border: 1px solid white;width: 41vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(41.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00493": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>493<br><b>Name: </b>Behror<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>347181<br><b>Total Population: </b>359248<br><b>Percentage: </b>96.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(347181 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(96.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "00494": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>494<br><b>Name: </b>Mandawar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>186491<br><b>Total Population: </b>231628<br><b>Percentage: </b>80.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(186491 people)\" style=\"border: 1px solid white;width: 80vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(80.5%)</td><td title=\"Rathi&#013;(28738 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(128, 128, 128, 0.8);\">rat.. <br>(12.4%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.1%)</td></tr></table><br>"
+        },
+        "00495": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>495<br><b>Name: </b>Kotkasim<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>130245<br><b>Total Population: </b>137339<br><b>Percentage: </b>94.83<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(130245 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(94.8%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.2%)</td></tr></table><br>"
+        },
+        "00496": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>496<br><b>Name: </b>Tijara<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>279928<br><b>Total Population: </b>396575<br><b>Percentage: </b>70.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(279928 people)\" style=\"border: 1px solid white;width: 70vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(70.6%)</td><td title=\"Rajasthani&#013;(86527 people)\" style=\"border: 1px solid white;width: 21vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(21.8%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.6%)</td></tr></table><br>"
+        },
+        "00497": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>497<br><b>Name: </b>Kishangarh Bas<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>147217<br><b>Total Population: </b>201279<br><b>Percentage: </b>73.14<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(147217 people)\" style=\"border: 1px solid white;width: 73vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(73.1%)</td><td title=\"Rajasthani&#013;(34967 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(17.4%)</td><td title=\"Punjabi&#013;(10058 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.5%)</td></tr></table><br>"
+        },
+        "00498": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>498<br><b>Name: </b>Ramgarh<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>155539<br><b>Total Population: </b>256605<br><b>Percentage: </b>60.61<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(155539 people)\" style=\"border: 1px solid white;width: 60vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(60.6%)</td><td title=\"Rajasthani&#013;(70988 people)\" style=\"border: 1px solid white;width: 27vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(27.7%)</td><td title=\"Punjabi&#013;(17567 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(139, 0, 0, 0.8);\">pun.. <br>(6.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.9%)</td></tr></table><br>"
+        },
+        "00499": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>499<br><b>Name: </b>Alwar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>604656<br><b>Total Population: </b>703856<br><b>Percentage: </b>85.91<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(604656 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(85.9%)</td><td title=\"Rajasthani&#013;(70008 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(9.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "00500": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>500<br><b>Name: </b>Bansur<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>259346<br><b>Total Population: </b>263663<br><b>Percentage: </b>98.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(259346 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "00501": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>501<br><b>Name: </b>Thanagazi<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>199243<br><b>Total Population: </b>233395<br><b>Percentage: </b>85.37<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(199243 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(85.4%)</td><td title=\"Rajasthani&#013;(33809 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(14.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "00502": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>502<br><b>Name: </b>Rajgarh<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>354394<br><b>Total Population: </b>356727<br><b>Percentage: </b>99.35<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(354394 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00503": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>503<br><b>Name: </b>Lachhmangarh<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>248617<br><b>Total Population: </b>288671<br><b>Percentage: </b>86.12<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(248617 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(86.1%)</td><td title=\"Rajasthani&#013;(29204 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(10.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.8%)</td></tr></table><br>"
+        },
+        "00504": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Alwar<br><b>Sub-District Code: </b>504<br><b>Name: </b>Kathumar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>219931<br><b>Total Population: </b>245193<br><b>Percentage: </b>89.7<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(219931 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(89.7%)</td><td title=\"Brajbhasha&#013;(22876 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(255, 215, 0, 0.8);\">bra.. <br>(9.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "00505": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>505<br><b>Name: </b>Pahari<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>131907<br><b>Total Population: </b>198897<br><b>Percentage: </b>66.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(131907 people)\" style=\"border: 1px solid white;width: 66vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(66.3%)</td><td title=\"Rajasthani&#013;(51011 people)\" style=\"border: 1px solid white;width: 25vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(25.6%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.1%)</td></tr></table><br>"
+        },
+        "00506": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>506<br><b>Name: </b>Kaman<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>113164<br><b>Total Population: </b>203949<br><b>Percentage: </b>55.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(113164 people)\" style=\"border: 1px solid white;width: 55vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(55.5%)</td><td title=\"Rajasthani&#013;(46487 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(22.8%)</td><td title=\"Brajbhasha&#013;(32507 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(255, 215, 0, 0.8);\">bra.. <br>(15.9%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.8%)</td></tr></table><br>"
+        },
+        "00507": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>507<br><b>Name: </b>Nagar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>208504<br><b>Total Population: </b>241858<br><b>Percentage: </b>86.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(208504 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(86.2%)</td><td title=\"Rajasthani&#013;(16440 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(6.8%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.0%)</td></tr></table><br>"
+        },
+        "00508": {
+            "color": "rgba(255, 215, 0, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>508<br><b>Name: </b>Deeg<br><b>Largest Language: </b>Brajbhasha<br><b>brajbhasha Population: </b>193280<br><b>Total Population: </b>226710<br><b>Percentage: </b>85.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Brajbhasha&#013;(193280 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(255, 215, 0, 0.8);\">brajbhasha <br>(85.3%)</td><td title=\"Hindi&#013;(17609 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(7.8%)</td><td title=\"Rajasthani&#013;(15352 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(6.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "00509": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>509<br><b>Name: </b>Nadbai<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>187201<br><b>Total Population: </b>215136<br><b>Percentage: </b>87.02<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(187201 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(87.0%)</td><td title=\"Brajbhasha&#013;(25705 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(255, 215, 0, 0.8);\">bra.. <br>(11.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "00510": {
+            "color": "rgba(255, 215, 0, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>510<br><b>Name: </b>Kumher<br><b>Largest Language: </b>Brajbhasha<br><b>brajbhasha Population: </b>103800<br><b>Total Population: </b>201341<br><b>Percentage: </b>51.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Brajbhasha&#013;(103800 people)\" style=\"border: 1px solid white;width: 51vw; background-color: rgba(255, 215, 0, 0.8);\">brajbhasha <br>(51.6%)</td><td title=\"Hindi&#013;(95935 people)\" style=\"border: 1px solid white;width: 47vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(47.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "00511": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>511<br><b>Name: </b>Bharatpur<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>247307<br><b>Total Population: </b>453015<br><b>Percentage: </b>54.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(247307 people)\" style=\"border: 1px solid white;width: 54vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(54.6%)</td><td title=\"Brajbhasha&#013;(198122 people)\" style=\"border: 1px solid white;width: 43vw; background-color: rgba(255, 215, 0, 0.8);\">bra.. <br>(43.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00512": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>512<br><b>Name: </b>Weir<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>221518<br><b>Total Population: </b>280092<br><b>Percentage: </b>79.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(221518 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(79.1%)</td><td title=\"Brajbhasha&#013;(57775 people)\" style=\"border: 1px solid white;width: 20vw; background-color: rgba(255, 215, 0, 0.8);\">bra.. <br>(20.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00513": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>513<br><b>Name: </b>Bayana<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>181108<br><b>Total Population: </b>269512<br><b>Percentage: </b>67.2<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(181108 people)\" style=\"border: 1px solid white;width: 67vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(67.2%)</td><td title=\"Brajbhasha&#013;(87315 people)\" style=\"border: 1px solid white;width: 32vw; background-color: rgba(255, 215, 0, 0.8);\">bra.. <br>(32.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00514": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Bharatpur<br><b>Sub-District Code: </b>514<br><b>Name: </b>Rupbas<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>217277<br><b>Total Population: </b>257952<br><b>Percentage: </b>84.23<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(217277 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(84.2%)</td><td title=\"Brajbhasha&#013;(38988 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(255, 215, 0, 0.8);\">bra.. <br>(15.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00515": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dhaulpur<br><b>Sub-District Code: </b>515<br><b>Name: </b>Baseri<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>243971<br><b>Total Population: </b>244774<br><b>Percentage: </b>99.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(243971 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00516": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dhaulpur<br><b>Sub-District Code: </b>516<br><b>Name: </b>Bari<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>244519<br><b>Total Population: </b>245650<br><b>Percentage: </b>99.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(244519 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00517": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dhaulpur<br><b>Sub-District Code: </b>517<br><b>Name: </b>Sepau<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>170283<br><b>Total Population: </b>191079<br><b>Percentage: </b>89.12<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(170283 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(89.1%)</td><td title=\"Brajbhasha&#013;(17283 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(255, 215, 0, 0.8);\">bra.. <br>(9.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "00518": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dhaulpur<br><b>Sub-District Code: </b>518<br><b>Name: </b>Dhaulpur<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>359492<br><b>Total Population: </b>361109<br><b>Percentage: </b>99.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(359492 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00519": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dhaulpur<br><b>Sub-District Code: </b>519<br><b>Name: </b>Rajakhera<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>163075<br><b>Total Population: </b>163904<br><b>Percentage: </b>99.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(163075 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00520": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Karauli<br><b>Sub-District Code: </b>520<br><b>Name: </b>Todabhim<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>247480<br><b>Total Population: </b>251180<br><b>Percentage: </b>98.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(247480 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "00521": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Karauli<br><b>Sub-District Code: </b>521<br><b>Name: </b>Nadoti<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>150795<br><b>Total Population: </b>150898<br><b>Percentage: </b>99.93<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(150795 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "00522": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Karauli<br><b>Sub-District Code: </b>522<br><b>Name: </b>Hindaun<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>422681<br><b>Total Population: </b>423874<br><b>Percentage: </b>99.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(422681 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00523": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Karauli<br><b>Sub-District Code: </b>523<br><b>Name: </b>Karauli<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>344864<br><b>Total Population: </b>349128<br><b>Percentage: </b>98.78<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(344864 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00524": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Karauli<br><b>Sub-District Code: </b>524<br><b>Name: </b>Mandrail<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>74481<br><b>Total Population: </b>74600<br><b>Percentage: </b>99.84<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(74481 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "00525": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Karauli<br><b>Sub-District Code: </b>525<br><b>Name: </b>Sapotra<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>207901<br><b>Total Population: </b>208568<br><b>Percentage: </b>99.68<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(207901 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00526": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sawai Madhopur<br><b>Sub-District Code: </b>526<br><b>Name: </b>Gangapur<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>332271<br><b>Total Population: </b>346614<br><b>Percentage: </b>95.86<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(332271 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(95.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "00527": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sawai Madhopur<br><b>Sub-District Code: </b>527<br><b>Name: </b>Bamanwas<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>168358<br><b>Total Population: </b>171648<br><b>Percentage: </b>98.08<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(168358 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(98.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "00528": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sawai Madhopur<br><b>Sub-District Code: </b>528<br><b>Name: </b>Malarna Doongar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>90768<br><b>Total Population: </b>105732<br><b>Percentage: </b>85.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(90768 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(85.8%)</td><td title=\"Urdu&#013;(12472 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(128, 128, 128, 0.8);\">urd.. <br>(11.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "00529": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sawai Madhopur<br><b>Sub-District Code: </b>529<br><b>Name: </b>Bonli<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>119273<br><b>Total Population: </b>142741<br><b>Percentage: </b>83.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(119273 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(83.6%)</td><td title=\"Rajasthani&#013;(19938 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(14.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "00530": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sawai Madhopur<br><b>Sub-District Code: </b>530<br><b>Name: </b>Chauth Ka Barwara<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>93136<br><b>Total Population: </b>97500<br><b>Percentage: </b>95.52<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(93136 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(95.5%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.5%)</td></tr></table><br>"
+        },
+        "00531": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sawai Madhopur<br><b>Sub-District Code: </b>531<br><b>Name: </b>Sawai Madhopur<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>296215<br><b>Total Population: </b>334877<br><b>Percentage: </b>88.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(296215 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(88.5%)</td><td title=\"Rajasthani&#013;(24263 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(7.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.3%)</td></tr></table><br>"
+        },
+        "00532": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Sawai Madhopur<br><b>Sub-District Code: </b>532<br><b>Name: </b>Khandar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>130465<br><b>Total Population: </b>136439<br><b>Percentage: </b>95.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(130465 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(95.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.4%)</td></tr></table><br>"
+        },
+        "00533": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dausa<br><b>Sub-District Code: </b>533<br><b>Name: </b>Baswa<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>322007<br><b>Total Population: </b>338878<br><b>Percentage: </b>95.02<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(322007 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(95.0%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.0%)</td></tr></table><br>"
+        },
+        "00534": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dausa<br><b>Sub-District Code: </b>534<br><b>Name: </b>Mahwa<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>264397<br><b>Total Population: </b>264667<br><b>Percentage: </b>99.9<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(264397 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "00535": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dausa<br><b>Sub-District Code: </b>535<br><b>Name: </b>Sikrai<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>252826<br><b>Total Population: </b>260484<br><b>Percentage: </b>97.06<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(252826 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(97.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "00536": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dausa<br><b>Sub-District Code: </b>536<br><b>Name: </b>Dausa<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>318896<br><b>Total Population: </b>420937<br><b>Percentage: </b>75.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(318896 people)\" style=\"border: 1px solid white;width: 75vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(75.8%)</td><td title=\"Rajasthani&#013;(101213 people)\" style=\"border: 1px solid white;width: 24vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(24.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "00537": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dausa<br><b>Sub-District Code: </b>537<br><b>Name: </b>Lalsot<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>260120<br><b>Total Population: </b>349443<br><b>Percentage: </b>74.44<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(260120 people)\" style=\"border: 1px solid white;width: 74vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(74.4%)</td><td title=\"Rajasthani&#013;(88466 people)\" style=\"border: 1px solid white;width: 25vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(25.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00538": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>538<br><b>Name: </b>Kotputli<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>391592<br><b>Total Population: </b>413256<br><b>Percentage: </b>94.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(391592 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(94.8%)</td><td title=\"Rajasthani&#013;(20475 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "00539": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>539<br><b>Name: </b>Viratnagar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>127224<br><b>Total Population: </b>166087<br><b>Percentage: </b>76.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(127224 people)\" style=\"border: 1px solid white;width: 76vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(76.6%)</td><td title=\"Rajasthani&#013;(38621 people)\" style=\"border: 1px solid white;width: 23vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(23.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "00545": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>545<br><b>Name: </b>Sanganer<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>547334<br><b>Total Population: </b>969696<br><b>Percentage: </b>56.44<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(547334 people)\" style=\"border: 1px solid white;width: 56vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(56.4%)</td><td title=\"Rajasthani&#013;(349194 people)\" style=\"border: 1px solid white;width: 36vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(36.0%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.6%)</td></tr></table><br>"
+        },
+        "00546": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jaipur<br><b>Sub-District Code: </b>546<br><b>Name: </b>Jaipur<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>1582918<br><b>Total Population: </b>2298782<br><b>Percentage: </b>68.86<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(1582918 people)\" style=\"border: 1px solid white;width: 68vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(68.9%)</td><td title=\"Rajasthani&#013;(427528 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(18.6%)</td><td title=\"Urdu&#013;(169140 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(128, 128, 128, 0.8);\">urd.. <br>(7.4%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.1%)</td></tr></table><br>"
+        },
+        "00607": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Ajmer<br><b>Sub-District Code: </b>607<br><b>Name: </b>Ajmer<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>494728<br><b>Total Population: </b>798454<br><b>Percentage: </b>61.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(494728 people)\" style=\"border: 1px solid white;width: 62vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(62.0%)</td><td title=\"Rajasthani&#013;(242643 people)\" style=\"border: 1px solid white;width: 30vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(30.4%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.6%)</td></tr></table><br>"
+        },
+        "00618": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Tonk<br><b>Sub-District Code: </b>618<br><b>Name: </b>Tonk<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>143822<br><b>Total Population: </b>286808<br><b>Percentage: </b>50.15<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(143822 people)\" style=\"border: 1px solid white;width: 50vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(50.1%)</td><td title=\"Rajasthani&#013;(101706 people)\" style=\"border: 1px solid white;width: 35vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(35.5%)</td><td title=\"Urdu&#013;(39936 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(128, 128, 128, 0.8);\">urd.. <br>(13.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "00621": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Tonk<br><b>Sub-District Code: </b>621<br><b>Name: </b>Uniara<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>132831<br><b>Total Population: </b>168900<br><b>Percentage: </b>78.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(132831 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(78.6%)</td><td title=\"Rajasthani&#013;(34192 people)\" style=\"border: 1px solid white;width: 20vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(20.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00646": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dungarpur<br><b>Sub-District Code: </b>646<br><b>Name: </b>Dungarpur<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>446920<br><b>Total Population: </b>495423<br><b>Percentage: </b>90.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(446920 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(90.2%)</td><td title=\"Hindi&#013;(25050 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(5.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "00647": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dungarpur<br><b>Sub-District Code: </b>647<br><b>Name: </b>Aspur<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>198144<br><b>Total Population: </b>224243<br><b>Percentage: </b>88.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(198144 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(88.4%)</td><td title=\"Rajasthani&#013;(19661 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(8.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "00649": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Dungarpur<br><b>Sub-District Code: </b>649<br><b>Name: </b>Simalwara<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>242026<br><b>Total Population: </b>325654<br><b>Percentage: </b>74.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(242026 people)\" style=\"border: 1px solid white;width: 74vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(74.3%)</td><td title=\"Rajasthani&#013;(77171 people)\" style=\"border: 1px solid white;width: 23vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(23.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "00650": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Banswara<br><b>Sub-District Code: </b>650<br><b>Name: </b>Ghatol<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>273227<br><b>Total Population: </b>287101<br><b>Percentage: </b>95.17<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(273227 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(95.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.8%)</td></tr></table><br>"
+        },
+        "00651": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Banswara<br><b>Sub-District Code: </b>651<br><b>Name: </b>Garhi<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>274419<br><b>Total Population: </b>298740<br><b>Percentage: </b>91.86<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(274419 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(91.9%)</td><td title=\"Rajasthani&#013;(17358 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(5.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        },
+        "00652": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Banswara<br><b>Sub-District Code: </b>652<br><b>Name: </b>Banswara<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>373938<br><b>Total Population: </b>458587<br><b>Percentage: </b>81.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(373938 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(81.5%)</td><td title=\"Hindi&#013;(51934 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(11.3%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.2%)</td></tr></table><br>"
+        },
+        "00653": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Banswara<br><b>Sub-District Code: </b>653<br><b>Name: </b>Bagidora<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>349258<br><b>Total Population: </b>373825<br><b>Percentage: </b>93.43<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(349258 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(93.4%)</td><td title=\"Rajasthani&#013;(19838 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(5.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "00654": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Banswara<br><b>Sub-District Code: </b>654<br><b>Name: </b>Kushalgarh<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>306004<br><b>Total Population: </b>379232<br><b>Percentage: </b>80.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(306004 people)\" style=\"border: 1px solid white;width: 80vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(80.7%)</td><td title=\"Bhili/Bhilodi&#013;(39789 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(128, 128, 128, 0.8);\">bhi.. <br>(10.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.8%)</td></tr></table><br>"
+        },
+        "00667": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Kota<br><b>Sub-District Code: </b>667<br><b>Name: </b>Ladpura<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>568002<br><b>Total Population: </b>1143792<br><b>Percentage: </b>49.66<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(568002 people)\" style=\"border: 1px solid white;width: 49vw; background-color: rgba(34, 139, 34, 0.8);\">hin.. <br>(49.7%)</td><td title=\"Rajasthani&#013;(477856 people)\" style=\"border: 1px solid white;width: 41vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(41.8%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.5%)</td></tr></table><br>"
+        },
+        "00668": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Kota<br><b>Sub-District Code: </b>668<br><b>Name: </b>Ramganj Mandi<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>179752<br><b>Total Population: </b>272448<br><b>Percentage: </b>65.98<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(179752 people)\" style=\"border: 1px solid white;width: 66vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(66.0%)</td><td title=\"Rajasthani&#013;(87229 people)\" style=\"border: 1px solid white;width: 32vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(32.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "00675": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Baran<br><b>Sub-District Code: </b>675<br><b>Name: </b>Shahbad<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>135549<br><b>Total Population: </b>142061<br><b>Percentage: </b>95.42<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(135549 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(95.4%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.6%)</td></tr></table><br>"
+        },
+        "00679": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhalawar<br><b>Sub-District Code: </b>679<br><b>Name: </b>Jhalrapatan<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>264055<br><b>Total Population: </b>356707<br><b>Percentage: </b>74.03<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(264055 people)\" style=\"border: 1px solid white;width: 74vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(74.0%)</td><td title=\"Rajasthani&#013;(86820 people)\" style=\"border: 1px solid white;width: 24vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(24.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00682": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhalawar<br><b>Sub-District Code: </b>682<br><b>Name: </b>Pachpahar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>111204<br><b>Total Population: </b>179418<br><b>Percentage: </b>61.98<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(111204 people)\" style=\"border: 1px solid white;width: 62vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(62.0%)</td><td title=\"Rajasthani&#013;(65668 people)\" style=\"border: 1px solid white;width: 36vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(36.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "00683": {
+            "color": "rgba(34, 139, 34, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Jhalawar<br><b>Sub-District Code: </b>683<br><b>Name: </b>Pirawa<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>113705<br><b>Total Population: </b>212679<br><b>Percentage: </b>53.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(113705 people)\" style=\"border: 1px solid white;width: 53vw; background-color: rgba(34, 139, 34, 0.8);\">hindi <br>(53.5%)</td><td title=\"Rajasthani&#013;(92979 people)\" style=\"border: 1px solid white;width: 43vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(43.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "00687": {
+            "color": "rgba(218, 112, 214, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>687<br><b>Name: </b>Kotra<br><b>Largest Language: </b>Sadan/Sadri<br><b>sadan/sadri Population: </b>210829<br><b>Total Population: </b>230532<br><b>Percentage: </b>91.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Sadan/Sadri&#013;(210829 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(218, 112, 214, 0.8);\">sadan/sadri <br>(91.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.5%)</td></tr></table><br>"
+        },
+        "00694": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>694<br><b>Name: </b>Rishabhdeo<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>164879<br><b>Total Population: </b>172935<br><b>Percentage: </b>95.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(164879 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(95.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "00695": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Udaipur<br><b>Sub-District Code: </b>695<br><b>Name: </b>Kherwara<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>187464<br><b>Total Population: </b>206777<br><b>Percentage: </b>90.66<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(187464 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(90.7%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.3%)</td></tr></table><br>"
+        },
+        "00697": {
+            "color": "rgba(70, 130, 180, 0.8)",
+            "matter": "<b>State: </b>RAJASTHAN<br><b>District: </b>Pratapgarh<br><b>Sub-District Code: </b>697<br><b>Name: </b>Peepalkhoont<br><b>Largest Language: </b>Wagdi<br><b>wagdi Population: </b>102561<br><b>Total Population: </b>154063<br><b>Percentage: </b>66.57<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Wagdi&#013;(102561 people)\" style=\"border: 1px solid white;width: 66vw; background-color: rgba(70, 130, 180, 0.8);\">wagdi <br>(66.6%)</td><td title=\"Rajasthani&#013;(47857 people)\" style=\"border: 1px solid white;width: 31vw; background-color: rgba(255, 99, 71, 0.8);\">raj.. <br>(31.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        }
+    }
+}
