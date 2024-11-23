@@ -1,0 +1,260 @@
+{
+    "title": "Languages of KERALA",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Malayalam</td><td style='background-color: rgba(254,253,5, 1)'></td><td title='total population: 32393324'>96.97%</td><td>63</td></tr><tr><td>Tamil</td><td style='background-color: rgba(208,0,75, 1)'></td><td title='total population: 498938'>1.49%</td><td>0</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>1.54%</td><td>0</td></tr></table>",
+    "data": {
+        "05630": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kasaragod<br><b>Sub-District Code: </b>5630<br><b>Name: </b>Kasaragod<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>480405<br><b>Total Population: </b>681734<br><b>Percentage: </b>70.47<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(480405 people)\" style=\"border: 1px solid white;width: 70vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(70.5%)</td><td title=\"Tulu&#013;(110621 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(75, 0, 130, 0.7);\">tul.. <br>(16.2%)</td><td title=\"Kannada&#013;(43664 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(6.4%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.9%)</td></tr></table><br>"
+        },
+        "05631": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kasaragod<br><b>Sub-District Code: </b>5631<br><b>Name: </b>Hosdurg<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>600721<br><b>Total Population: </b>625641<br><b>Percentage: </b>96.02<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(600721 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(96.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "05632": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kannur<br><b>Sub-District Code: </b>5632<br><b>Name: </b>Taliparamba <br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>754985<br><b>Total Population: </b>764888<br><b>Percentage: </b>98.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(754985 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "05633": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kannur<br><b>Sub-District Code: </b>5633<br><b>Name: </b>Kannur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>772832<br><b>Total Population: </b>784984<br><b>Percentage: </b>98.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(772832 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "05634": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kannur<br><b>Sub-District Code: </b>5634<br><b>Name: </b>Thalassery<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>966967<br><b>Total Population: </b>973131<br><b>Percentage: </b>99.37<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(966967 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05635": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Wayanad<br><b>Sub-District Code: </b>5635<br><b>Name: </b>Mananthavady<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>248287<br><b>Total Population: </b>258140<br><b>Percentage: </b>96.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(248287 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(96.2%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.8%)</td></tr></table><br>"
+        },
+        "05636": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Wayanad<br><b>Sub-District Code: </b>5636<br><b>Name: </b>Sulthanbathery<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>272642<br><b>Total Population: </b>297863<br><b>Percentage: </b>91.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(272642 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(91.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.5%)</td></tr></table><br>"
+        },
+        "05637": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Wayanad<br><b>Sub-District Code: </b>5637<br><b>Name: </b>Vythiri<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>246475<br><b>Total Population: </b>261417<br><b>Percentage: </b>94.28<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(246475 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(94.3%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.7%)</td></tr></table><br>"
+        },
+        "05638": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kozhikode<br><b>Sub-District Code: </b>5638<br><b>Name: </b>Vadakara<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>684003<br><b>Total Population: </b>687265<br><b>Percentage: </b>99.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(684003 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05639": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kozhikode<br><b>Sub-District Code: </b>5639<br><b>Name: </b>Quilandy<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>725296<br><b>Total Population: </b>728168<br><b>Percentage: </b>99.61<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(725296 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05640": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kozhikode<br><b>Sub-District Code: </b>5640<br><b>Name: </b>Kozhikode<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>1647550<br><b>Total Population: </b>1670860<br><b>Percentage: </b>98.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(1647550 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05641": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Malappuram<br><b>Sub-District Code: </b>5641<br><b>Name: </b>Ernad<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>905796<br><b>Total Population: </b>910978<br><b>Percentage: </b>99.43<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(905796 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05642": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Malappuram<br><b>Sub-District Code: </b>5642<br><b>Name: </b>Nilambur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>570355<br><b>Total Population: </b>574059<br><b>Percentage: </b>99.35<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(570355 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05643": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Malappuram<br><b>Sub-District Code: </b>5643<br><b>Name: </b>Perinthalmanna<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>603415<br><b>Total Population: </b>606396<br><b>Percentage: </b>99.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(603415 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05644": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Malappuram<br><b>Sub-District Code: </b>5644<br><b>Name: </b>Tirur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>924446<br><b>Total Population: </b>928672<br><b>Percentage: </b>99.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(924446 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05645": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Malappuram<br><b>Sub-District Code: </b>5645<br><b>Name: </b>Tirurangadi<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>708592<br><b>Total Population: </b>713017<br><b>Percentage: </b>99.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(708592 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05646": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Malappuram<br><b>Sub-District Code: </b>5646<br><b>Name: </b>Ponnani<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>377830<br><b>Total Population: </b>379798<br><b>Percentage: </b>99.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(377830 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05647": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Palakkad<br><b>Sub-District Code: </b>5647<br><b>Name: </b>Ottappalam<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>925927<br><b>Total Population: </b>930692<br><b>Percentage: </b>99.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(925927 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05648": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Palakkad<br><b>Sub-District Code: </b>5648<br><b>Name: </b>Mannarkad<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>355410<br><b>Total Population: </b>384393<br><b>Percentage: </b>92.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(355410 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(92.5%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.5%)</td></tr></table><br>"
+        },
+        "05649": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Palakkad<br><b>Sub-District Code: </b>5649<br><b>Name: </b>Palakkad<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>565159<br><b>Total Population: </b>612116<br><b>Percentage: </b>92.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(565159 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(92.3%)</td><td title=\"Tamil&#013;(38057 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(6.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "05650": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Palakkad<br><b>Sub-District Code: </b>5650<br><b>Name: </b>Chittur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>347725<br><b>Total Population: </b>437738<br><b>Percentage: </b>79.44<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(347725 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(79.4%)</td><td title=\"Tamil&#013;(78908 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(18.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "05651": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Palakkad<br><b>Sub-District Code: </b>5651<br><b>Name: </b>Alathur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>438827<br><b>Total Population: </b>444995<br><b>Percentage: </b>98.61<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(438827 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05652": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thrissur<br><b>Sub-District Code: </b>5652<br><b>Name: </b>Talappilly<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>624280<br><b>Total Population: </b>632086<br><b>Percentage: </b>98.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(624280 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "05653": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thrissur<br><b>Sub-District Code: </b>5653<br><b>Name: </b>Chavakkad<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>467360<br><b>Total Population: </b>470898<br><b>Percentage: </b>99.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(467360 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05654": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thrissur<br><b>Sub-District Code: </b>5654<br><b>Name: </b>Thrissur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>863408<br><b>Total Population: </b>874615<br><b>Percentage: </b>98.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(863408 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "05655": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thrissur<br><b>Sub-District Code: </b>5655<br><b>Name: </b>Kodungallur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>309763<br><b>Total Population: </b>312238<br><b>Percentage: </b>99.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(309763 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05656": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thrissur<br><b>Sub-District Code: </b>5656<br><b>Name: </b>Mukundapuram<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>822103<br><b>Total Population: </b>831363<br><b>Percentage: </b>98.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(822103 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05657": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Ernakulam<br><b>Sub-District Code: </b>5657<br><b>Name: </b>Kunnathunad<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>461576<br><b>Total Population: </b>469164<br><b>Percentage: </b>98.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(461576 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "05658": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Ernakulam<br><b>Sub-District Code: </b>5658<br><b>Name: </b>Aluva<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>459928<br><b>Total Population: </b>468408<br><b>Percentage: </b>98.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(459928 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "05659": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Ernakulam<br><b>Sub-District Code: </b>5659<br><b>Name: </b>Paravur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>403149<br><b>Total Population: </b>410571<br><b>Percentage: </b>98.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(403149 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "05660": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Ernakulam<br><b>Sub-District Code: </b>5660<br><b>Name: </b>Kochi<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>468682<br><b>Total Population: </b>508212<br><b>Percentage: </b>92.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(468682 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(92.2%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.8%)</td></tr></table><br>"
+        },
+        "05661": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Ernakulam<br><b>Sub-District Code: </b>5661<br><b>Name: </b>Kanayannur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>811460<br><b>Total Population: </b>851406<br><b>Percentage: </b>95.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(811460 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(95.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "05662": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Ernakulam<br><b>Sub-District Code: </b>5662<br><b>Name: </b>Muvattupuzha<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>332558<br><b>Total Population: </b>336224<br><b>Percentage: </b>98.91<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(332558 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05663": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Ernakulam<br><b>Sub-District Code: </b>5663<br><b>Name: </b>Kothamangalam<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>236812<br><b>Total Population: </b>238403<br><b>Percentage: </b>99.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(236812 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "05664": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Idukki <br><b>Sub-District Code: </b>5664<br><b>Name: </b>Devikulam<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>97828<br><b>Total Population: </b>177621<br><b>Percentage: </b>55.08<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(97828 people)\" style=\"border: 1px solid white;width: 55vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(55.1%)</td><td title=\"Tamil&#013;(78358 people)\" style=\"border: 1px solid white;width: 44vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(44.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05665": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Idukki <br><b>Sub-District Code: </b>5665<br><b>Name: </b>Udumbanchola<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>372198<br><b>Total Population: </b>429780<br><b>Percentage: </b>86.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(372198 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(86.6%)</td><td title=\"Tamil&#013;(54170 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(12.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05666": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Idukki <br><b>Sub-District Code: </b>5666<br><b>Name: </b>Thodupuzha<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>323896<br><b>Total Population: </b>325951<br><b>Percentage: </b>99.37<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(323896 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05667": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Idukki <br><b>Sub-District Code: </b>5667<br><b>Name: </b>Peerumade<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>113667<br><b>Total Population: </b>175622<br><b>Percentage: </b>64.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(113667 people)\" style=\"border: 1px solid white;width: 64vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(64.7%)</td><td title=\"Tamil&#013;(60316 people)\" style=\"border: 1px solid white;width: 34vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(34.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "05668": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kottayam<br><b>Sub-District Code: </b>5668<br><b>Name: </b>Meenachil<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>403293<br><b>Total Population: </b>406471<br><b>Percentage: </b>99.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(403293 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05669": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kottayam<br><b>Sub-District Code: </b>5669<br><b>Name: </b>Vaikom<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>307644<br><b>Total Population: </b>310414<br><b>Percentage: </b>99.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(307644 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "05670": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kottayam<br><b>Sub-District Code: </b>5670<br><b>Name: </b>Kottayam<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>620468<br><b>Total Population: </b>631885<br><b>Percentage: </b>98.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(620468 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "05671": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kottayam<br><b>Sub-District Code: </b>5671<br><b>Name: </b>Changanassery<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>352577<br><b>Total Population: </b>355736<br><b>Percentage: </b>99.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(352577 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "05672": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kottayam<br><b>Sub-District Code: </b>5672<br><b>Name: </b>Kanjirappally<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>268401<br><b>Total Population: </b>270045<br><b>Percentage: </b>99.39<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(268401 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05673": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Alappuzha<br><b>Sub-District Code: </b>5673<br><b>Name: </b>Cherthala<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>534983<br><b>Total Population: </b>542657<br><b>Percentage: </b>98.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(534983 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05674": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Alappuzha<br><b>Sub-District Code: </b>5674<br><b>Name: </b>Ambalappuzha<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>448303<br><b>Total Population: </b>454864<br><b>Percentage: </b>98.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(448303 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05675": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Alappuzha<br><b>Sub-District Code: </b>5675<br><b>Name: </b>Kuttanad<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>192531<br><b>Total Population: </b>193007<br><b>Percentage: </b>99.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(192531 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "05676": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Alappuzha<br><b>Sub-District Code: </b>5676<br><b>Name: </b>Karthikappally<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>403418<br><b>Total Population: </b>406524<br><b>Percentage: </b>99.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(403418 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05677": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Alappuzha<br><b>Sub-District Code: </b>5677<br><b>Name: </b>Chengannur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>195934<br><b>Total Population: </b>197419<br><b>Percentage: </b>99.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(195934 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05678": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Alappuzha<br><b>Sub-District Code: </b>5678<br><b>Name: </b>Mavelikkara<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>331291<br><b>Total Population: </b>333318<br><b>Percentage: </b>99.39<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(331291 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05679": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Pathanamthitta<br><b>Sub-District Code: </b>5679<br><b>Name: </b>Thiruvalla<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>221628<br><b>Total Population: </b>223503<br><b>Percentage: </b>99.16<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(221628 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05680": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Pathanamthitta<br><b>Sub-District Code: </b>5680<br><b>Name: </b>Mallappally<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>133503<br><b>Total Population: </b>134219<br><b>Percentage: </b>99.47<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(133503 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05681": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Pathanamthitta<br><b>Sub-District Code: </b>5681<br><b>Name: </b>Ranni<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>196310<br><b>Total Population: </b>198194<br><b>Percentage: </b>99.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(196310 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "05682": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Pathanamthitta<br><b>Sub-District Code: </b>5682<br><b>Name: </b>Kozhenchery<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>334737<br><b>Total Population: </b>338560<br><b>Percentage: </b>98.87<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(334737 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05683": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Pathanamthitta<br><b>Sub-District Code: </b>5683<br><b>Name: </b>Adoor<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>300806<br><b>Total Population: </b>302936<br><b>Percentage: </b>99.3<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(300806 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "05684": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kollam<br><b>Sub-District Code: </b>5684<br><b>Name: </b>Karunagappally <br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>426575<br><b>Total Population: </b>428802<br><b>Percentage: </b>99.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(426575 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05685": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kollam<br><b>Sub-District Code: </b>5685<br><b>Name: </b>Kunnathur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>198637<br><b>Total Population: </b>199456<br><b>Percentage: </b>99.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(198637 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05686": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kollam<br><b>Sub-District Code: </b>5686<br><b>Name: </b>Pathanapuram<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>423480<br><b>Total Population: </b>432904<br><b>Percentage: </b>97.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(423480 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "05687": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kollam<br><b>Sub-District Code: </b>5687<br><b>Name: </b>Kottarakkara<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>584191<br><b>Total Population: </b>586434<br><b>Percentage: </b>99.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(584191 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05688": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Kollam<br><b>Sub-District Code: </b>5688<br><b>Name: </b>Kollam<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>978762<br><b>Total Population: </b>987779<br><b>Percentage: </b>99.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(978762 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "05689": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thiruvananthapuram<br><b>Sub-District Code: </b>5689<br><b>Name: </b>Chirayinkeezhu<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>631728<br><b>Total Population: </b>634270<br><b>Percentage: </b>99.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(631728 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05690": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thiruvananthapuram<br><b>Sub-District Code: </b>5690<br><b>Name: </b>Nedumangad<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>642362<br><b>Total Population: </b>645326<br><b>Percentage: </b>99.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(642362 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05691": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thiruvananthapuram<br><b>Sub-District Code: </b>5691<br><b>Name: </b>Thiruvananthapuram<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>1096197<br><b>Total Population: </b>1140845<br><b>Percentage: </b>96.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(1096197 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(96.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "05692": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>KERALA<br><b>District: </b>Thiruvananthapuram<br><b>Sub-District Code: </b>5692<br><b>Name: </b>Neyyattinkara<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>873252<br><b>Total Population: </b>880986<br><b>Percentage: </b>99.12<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(873252 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        }
+    }
+}

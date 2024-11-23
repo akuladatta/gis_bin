@@ -1,0 +1,116 @@
+{
+    "title": "Languages of NCT OF DELHI",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Hindi</td><td style='background-color: rgba(250,142,1,1)'></td><td title='total population: 13642944'>81.27%</td><td>26</td></tr><tr><td>Punjabi</td><td style='background-color: rgba(254,2,95,0.8)'></td><td title='total population: 873305'>5.2%</td><td>0</td></tr><tr><td>Urdu</td><td style='background-color: rgba(173, 255, 47, 0.8)'></td><td title='total population: 866879'>5.16%</td><td>1</td></tr><tr><td>Bhojpuri</td><td style='background-color: rgba(255, 105, 180, 1)'></td><td title='total population: 226103'>1.35%</td><td>0</td></tr><tr><td>Bengali</td><td style='background-color: rgba(34, 139, 34, 1)'></td><td title='total population: 215818'>1.29%</td><td>0</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>5.74%</td><td>0</td></tr></table>",
+    "data": {
+        "00430": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North West<br><b>Sub-District Code: </b>430<br><b>Name: </b>Narela<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>712367<br><b>Total Population: </b>809913<br><b>Percentage: </b>87.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(712367 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(250,142,1,1);\">hindi <br>(88.0%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.0%)</td></tr></table><br>"
+        },
+        "00431": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North West<br><b>Sub-District Code: </b>431<br><b>Name: </b>Saraswati Vihar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>1937905<br><b>Total Population: </b>2250816<br><b>Percentage: </b>86.1<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(1937905 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(250,142,1,1);\">hindi <br>(86.1%)</td><td style=\"border: 1px solid white;width: 13vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(13.9%)</td></tr></table><br>"
+        },
+        "00432": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North West<br><b>Sub-District Code: </b>432<br><b>Name: </b>Model Town<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>494301<br><b>Total Population: </b>595810<br><b>Percentage: </b>82.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(494301 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(250,142,1,1);\">hindi <br>(83.0%)</td><td title=\"Punjabi&#013;(44991 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(7.6%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.4%)</td></tr></table><br>"
+        },
+        "00433": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North<br><b>Sub-District Code: </b>433<br><b>Name: </b>Civil Lines<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>609903<br><b>Total Population: </b>688616<br><b>Percentage: </b>88.57<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(609903 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(250,142,1,1);\">hindi <br>(88.6%)</td><td style=\"border: 1px solid white;width: 11vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(11.4%)</td></tr></table><br>"
+        },
+        "00434": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North<br><b>Sub-District Code: </b>434<br><b>Name: </b>Sadar Bazar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>74097<br><b>Total Population: </b>130188<br><b>Percentage: </b>56.92<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(74097 people)\" style=\"border: 1px solid white;width: 56vw; background-color: rgba(250,142,1,1);\">hindi <br>(56.9%)</td><td title=\"Urdu&#013;(52574 people)\" style=\"border: 1px solid white;width: 40vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(40.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "00435": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North<br><b>Sub-District Code: </b>435<br><b>Name: </b>Kotwali<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>45070<br><b>Total Population: </b>69174<br><b>Percentage: </b>65.15<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(45070 people)\" style=\"border: 1px solid white;width: 65vw; background-color: rgba(250,142,1,1);\">hindi <br>(65.2%)</td><td title=\"Urdu&#013;(21791 people)\" style=\"border: 1px solid white;width: 31vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(31.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.3%)</td></tr></table><br>"
+        },
+        "00436": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North East<br><b>Sub-District Code: </b>436<br><b>Name: </b>Seelam Pur<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>1161226<br><b>Total Population: </b>1378779<br><b>Percentage: </b>84.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(1161226 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(250,142,1,1);\">hindi <br>(84.2%)</td><td title=\"Urdu&#013;(175107 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(12.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.1%)</td></tr></table><br>"
+        },
+        "00437": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North East<br><b>Sub-District Code: </b>437<br><b>Name: </b>Shahdara<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>252229<br><b>Total Population: </b>322931<br><b>Percentage: </b>78.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(252229 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(250,142,1,1);\">hindi <br>(78.1%)</td><td title=\"Urdu&#013;(57125 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(17.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "00438": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>North East<br><b>Sub-District Code: </b>438<br><b>Name: </b>Seema Puri<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>486515<br><b>Total Population: </b>539914<br><b>Percentage: </b>90.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(486515 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(250,142,1,1);\">hindi <br>(90.1%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.9%)</td></tr></table><br>"
+        },
+        "00439": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>East<br><b>Sub-District Code: </b>439<br><b>Name: </b>Gandhi Nagar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>326819<br><b>Total Population: </b>395342<br><b>Percentage: </b>82.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(326819 people)\" style=\"border: 1px solid white;width: 82vw; background-color: rgba(250,142,1,1);\">hindi <br>(82.7%)</td><td title=\"Punjabi&#013;(41072 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(10.4%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.9%)</td></tr></table><br>"
+        },
+        "00440": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>East<br><b>Sub-District Code: </b>440<br><b>Name: </b>Vivek Vihar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>224033<br><b>Total Population: </b>247906<br><b>Percentage: </b>90.37<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(224033 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(250,142,1,1);\">hindi <br>(90.4%)</td><td title=\"Punjabi&#013;(12853 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(5.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.4%)</td></tr></table><br>"
+        },
+        "00441": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>East<br><b>Sub-District Code: </b>441<br><b>Name: </b>Preet Vihar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>894966<br><b>Total Population: </b>1066098<br><b>Percentage: </b>83.95<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(894966 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(250,142,1,1);\">hindi <br>(83.9%)</td><td style=\"border: 1px solid white;width: 16vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(16.1%)</td></tr></table><br>"
+        },
+        "00442": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>New Delhi<br><b>Sub-District Code: </b>442<br><b>Name: </b>Connaught Place<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>22063<br><b>Total Population: </b>28228<br><b>Percentage: </b>78.16<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(22063 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(250,142,1,1);\">hindi <br>(78.2%)</td><td style=\"border: 1px solid white;width: 21vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(21.8%)</td></tr></table><br>"
+        },
+        "00443": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>New Delhi<br><b>Sub-District Code: </b>443<br><b>Name: </b>Chanakya Puri<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>47715<br><b>Total Population: </b>61382<br><b>Percentage: </b>77.73<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(47715 people)\" style=\"border: 1px solid white;width: 77vw; background-color: rgba(250,142,1,1);\">hindi <br>(77.7%)</td><td style=\"border: 1px solid white;width: 22vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(22.3%)</td></tr></table><br>"
+        },
+        "00444": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>New Delhi<br><b>Sub-District Code: </b>444<br><b>Name: </b>Parliament Street<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>41174<br><b>Total Population: </b>52394<br><b>Percentage: </b>78.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(41174 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(250,142,1,1);\">hindi <br>(78.6%)</td><td style=\"border: 1px solid white;width: 21vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(21.4%)</td></tr></table><br>"
+        },
+        "00445": {
+            "color": "rgba(173, 255, 47, 0.8)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>Central<br><b>Sub-District Code: </b>445<br><b>Name: </b>Darya Ganj<br><b>Largest Language: </b>Urdu<br><b>urdu Population: </b>157577<br><b>Total Population: </b>271108<br><b>Percentage: </b>58.12<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Urdu&#013;(157577 people)\" style=\"border: 1px solid white;width: 58vw; background-color: rgba(173, 255, 47, 0.8);\">urdu <br>(58.1%)</td><td title=\"Hindi&#013;(106506 people)\" style=\"border: 1px solid white;width: 39vw; background-color: rgba(250,142,1,1);\">hin.. <br>(39.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "00446": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>Central<br><b>Sub-District Code: </b>446<br><b>Name: </b>Pahar Ganj<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>152753<br><b>Total Population: </b>174613<br><b>Percentage: </b>87.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(152753 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(250,142,1,1);\">hindi <br>(87.5%)</td><td title=\"Punjabi&#013;(10729 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(6.1%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.4%)</td></tr></table><br>"
+        },
+        "00447": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>Central<br><b>Sub-District Code: </b>447<br><b>Name: </b>Karol Bagh<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>105743<br><b>Total Population: </b>136599<br><b>Percentage: </b>77.41<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(105743 people)\" style=\"border: 1px solid white;width: 77vw; background-color: rgba(250,142,1,1);\">hindi <br>(77.4%)</td><td title=\"Punjabi&#013;(13067 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(9.6%)</td><td style=\"border: 1px solid white;width: 13vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(13.0%)</td></tr></table><br>"
+        },
+        "00448": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>West<br><b>Sub-District Code: </b>448<br><b>Name: </b>Patel Nagar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>947088<br><b>Total Population: </b>1262158<br><b>Percentage: </b>75.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(947088 people)\" style=\"border: 1px solid white;width: 75vw; background-color: rgba(250,142,1,1);\">hindi <br>(75.0%)</td><td title=\"Punjabi&#013;(192973 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(15.3%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.7%)</td></tr></table><br>"
+        },
+        "00449": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>West<br><b>Sub-District Code: </b>449<br><b>Name: </b>Rajouri Garden<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>308166<br><b>Total Population: </b>481632<br><b>Percentage: </b>63.98<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(308166 people)\" style=\"border: 1px solid white;width: 64vw; background-color: rgba(250,142,1,1);\">hindi <br>(64.0%)</td><td title=\"Punjabi&#013;(112976 people)\" style=\"border: 1px solid white;width: 23vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(23.5%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.5%)</td></tr></table><br>"
+        },
+        "00450": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>West<br><b>Sub-District Code: </b>450<br><b>Name: </b>Punjabi Bagh<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>663900<br><b>Total Population: </b>799453<br><b>Percentage: </b>83.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(663900 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(250,142,1,1);\">hindi <br>(83.0%)</td><td title=\"Punjabi&#013;(63410 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(7.9%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.1%)</td></tr></table><br>"
+        },
+        "00451": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>South West<br><b>Sub-District Code: </b>451<br><b>Name: </b>Najafgarh<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>1175570<br><b>Total Population: </b>1365152<br><b>Percentage: </b>86.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(1175570 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(250,142,1,1);\">hindi <br>(86.1%)</td><td style=\"border: 1px solid white;width: 13vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(13.9%)</td></tr></table><br>"
+        },
+        "00452": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>South West<br><b>Sub-District Code: </b>452<br><b>Name: </b>Delhi Cantonment<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>220326<br><b>Total Population: </b>286140<br><b>Percentage: </b>77.0<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(220326 people)\" style=\"border: 1px solid white;width: 77vw; background-color: rgba(250,142,1,1);\">hindi <br>(77.0%)</td><td style=\"border: 1px solid white;width: 23vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(23.0%)</td></tr></table><br>"
+        },
+        "00453": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>South West<br><b>Sub-District Code: </b>453<br><b>Name: </b>Vasant Vihar<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>512993<br><b>Total Population: </b>641666<br><b>Percentage: </b>79.95<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(512993 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(250,142,1,1);\">hindi <br>(79.9%)</td><td style=\"border: 1px solid white;width: 20vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(20.1%)</td></tr></table><br>"
+        },
+        "00454": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>South<br><b>Sub-District Code: </b>454<br><b>Name: </b>Hauz Khas<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>1025728<br><b>Total Population: </b>1231293<br><b>Percentage: </b>83.3<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(1025728 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(250,142,1,1);\">hindi <br>(83.3%)</td><td style=\"border: 1px solid white;width: 16vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(16.7%)</td></tr></table><br>"
+        },
+        "00455": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>South<br><b>Sub-District Code: </b>455<br><b>Name: </b>Defence Colony<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>390536<br><b>Total Population: </b>637775<br><b>Percentage: </b>61.23<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(390536 people)\" style=\"border: 1px solid white;width: 61vw; background-color: rgba(250,142,1,1);\">hindi <br>(61.2%)</td><td title=\"Urdu&#013;(141925 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(22.3%)</td><td title=\"Punjabi&#013;(42249 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(6.6%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.9%)</td></tr></table><br>"
+        },
+        "00456": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>NCT OF DELHI<br><b>District: </b>South<br><b>Sub-District Code: </b>456<br><b>Name: </b>Kalkaji<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>703252<br><b>Total Population: </b>862861<br><b>Percentage: </b>81.5<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(703252 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(250,142,1,1);\">hindi <br>(81.5%)</td><td style=\"border: 1px solid white;width: 18vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(18.5%)</td></tr></table><br>"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Languages of PUDUCHERRY",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Tamil</td><td style='background-color: rgba(208,0,75, 1)'></td><td title='total population: 1100976'>88.22%</td><td>6</td></tr><tr><td>Telugu</td><td style='background-color: rgba(64, 224, 208, 1)'></td><td title='total population: 74347'>5.96%</td><td>1</td></tr><tr><td>Malayalam</td><td style='background-color: rgba(254,253,5, 1)'></td><td title='total population: 47973'>3.84%</td><td>1</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>1.98%</td><td>0</td></tr></table>",
+    "data": {
+        "05908": {
+            "color": "rgba(64, 224, 208, 1)",
+            "matter": "<b>State: </b>PUDUCHERRY<br><b>District: </b>Yanam<br><b>Sub-District Code: </b>5908<br><b>Name: </b>Yanam Taluk<br><b>Largest Language: </b>Telugu<br><b>telugu Population: </b>54256<br><b>Total Population: </b>55626<br><b>Percentage: </b>97.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Telugu&#013;(54256 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(64, 224, 208, 1);\">telugu <br>(97.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "05909": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>PUDUCHERRY<br><b>District: </b>Puducherry<br><b>Sub-District Code: </b>5909<br><b>Name: </b>Puducherry Taluk<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>297731<br><b>Total Population: </b>316432<br><b>Percentage: </b>94.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(297731 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(208,0,75, 1);\">tamil <br>(94.1%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.9%)</td></tr></table><br>"
+        },
+        "05910": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>PUDUCHERRY<br><b>District: </b>Puducherry<br><b>Sub-District Code: </b>5910<br><b>Name: </b>Ozhukarai Taluk<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>278565<br><b>Total Population: </b>300104<br><b>Percentage: </b>92.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(278565 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.8%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.2%)</td></tr></table><br>"
+        },
+        "05911": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>PUDUCHERRY<br><b>District: </b>Puducherry<br><b>Sub-District Code: </b>5911<br><b>Name: </b>Villianur Taluk<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>208861<br><b>Total Population: </b>213278<br><b>Percentage: </b>97.93<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(208861 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "05912": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>PUDUCHERRY<br><b>District: </b>Puducherry<br><b>Sub-District Code: </b>5912<br><b>Name: </b>Bahour Taluk<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>118774<br><b>Total Population: </b>120475<br><b>Percentage: </b>98.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(118774 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05913": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>PUDUCHERRY<br><b>District: </b>Mahe<br><b>Sub-District Code: </b>5913<br><b>Name: </b>Mahe Taluk<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>41310<br><b>Total Population: </b>41816<br><b>Percentage: </b>98.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(41310 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "05914": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>PUDUCHERRY<br><b>District: </b>Karaikal<br><b>Sub-District Code: </b>5914<br><b>Name: </b>Karaikal Taluk<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>141147<br><b>Total Population: </b>144200<br><b>Percentage: </b>97.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(141147 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "05915": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>PUDUCHERRY<br><b>District: </b>Karaikal<br><b>Sub-District Code: </b>5915<br><b>Name: </b>Thirunallar Taluk<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>55653<br><b>Total Population: </b>56022<br><b>Percentage: </b>99.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(55653 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        }
+    }
+}

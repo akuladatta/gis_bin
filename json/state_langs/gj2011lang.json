@@ -1,0 +1,908 @@
+{
+    "title": "Languages of GUJARAT",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Gujarati</td><td style='background-color: rgba(255, 69, 0, 1)'></td><td title='total population: 51937867'>85.93%</td><td>216</td></tr><tr><td>Hindi</td><td style='background-color: rgba(250,142,1,1)'></td><td title='total population: 3670047'>6.07%</td><td>0</td></tr><tr><td>Marathi</td><td style='background-color: rgba(252,94,75, 1)'></td><td title='total population: 915771'>1.52%</td><td>0</td></tr><tr><td>Kachchhi</td><td style='background-color: rgba(254,253,5, 1)'></td><td title='total population: 861976'>1.43%</td><td>5</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>5.05%</td><td>0</td></tr></table>",
+    "data": {
+        "03722": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3722<br><b>Name: </b>Lakhpat<br><b>Largest Language: </b>Kachchhi<br><b>kachchhi Population: </b>43608<br><b>Total Population: </b>62552<br><b>Percentage: </b>69.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Kachchhi&#013;(43608 people)\" style=\"border: 1px solid white;width: 69vw; background-color: rgba(254,253,5, 1);\">kachchhi <br>(69.7%)</td><td title=\"Gujarati&#013;(16306 people)\" style=\"border: 1px solid white;width: 26vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(26.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "03723": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3723<br><b>Name: </b>Rapar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>215658<br><b>Total Population: </b>217315<br><b>Percentage: </b>99.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(215658 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03724": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3724<br><b>Name: </b>Bhachau<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>171864<br><b>Total Population: </b>186035<br><b>Percentage: </b>92.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(171864 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(92.4%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.6%)</td></tr></table><br>"
+        },
+        "03725": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3725<br><b>Name: </b>Anjar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>173383<br><b>Total Population: </b>235537<br><b>Percentage: </b>73.61<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(173383 people)\" style=\"border: 1px solid white;width: 73vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(73.6%)</td><td title=\"Kachchhi&#013;(42546 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(254,253,5, 1);\">kac.. <br>(18.1%)</td><td title=\"Hindi&#013;(13832 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "03726": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3726<br><b>Name: </b>Bhuj<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>220533<br><b>Total Population: </b>443269<br><b>Percentage: </b>49.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(220533 people)\" style=\"border: 1px solid white;width: 49vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(49.8%)</td><td title=\"Kachchhi&#013;(192317 people)\" style=\"border: 1px solid white;width: 43vw; background-color: rgba(254,253,5, 1);\">kac.. <br>(43.4%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.8%)</td></tr></table><br>"
+        },
+        "03727": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3727<br><b>Name: </b>Nakhatrana<br><b>Largest Language: </b>Kachchhi<br><b>kachchhi Population: </b>79834<br><b>Total Population: </b>146367<br><b>Percentage: </b>54.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Kachchhi&#013;(79834 people)\" style=\"border: 1px solid white;width: 54vw; background-color: rgba(254,253,5, 1);\">kachchhi <br>(54.5%)</td><td title=\"Gujarati&#013;(63419 people)\" style=\"border: 1px solid white;width: 43vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(43.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "03728": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3728<br><b>Name: </b>Abdasa<br><b>Largest Language: </b>Kachchhi<br><b>kachchhi Population: </b>89403<br><b>Total Population: </b>117538<br><b>Percentage: </b>76.06<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Kachchhi&#013;(89403 people)\" style=\"border: 1px solid white;width: 76vw; background-color: rgba(254,253,5, 1);\">kachchhi <br>(76.1%)</td><td title=\"Gujarati&#013;(17457 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(14.9%)</td><td title=\"Hindi&#013;(6866 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "03729": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3729<br><b>Name: </b>Mandvi<br><b>Largest Language: </b>Kachchhi<br><b>kachchhi Population: </b>127069<br><b>Total Population: </b>203373<br><b>Percentage: </b>62.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Kachchhi&#013;(127069 people)\" style=\"border: 1px solid white;width: 62vw; background-color: rgba(254,253,5, 1);\">kachchhi <br>(62.5%)</td><td title=\"Gujarati&#013;(70344 people)\" style=\"border: 1px solid white;width: 34vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(34.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "03730": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3730<br><b>Name: </b>Mundra<br><b>Largest Language: </b>Kachchhi<br><b>kachchhi Population: </b>77616<br><b>Total Population: </b>153219<br><b>Percentage: </b>50.66<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Kachchhi&#013;(77616 people)\" style=\"border: 1px solid white;width: 50vw; background-color: rgba(254,253,5, 1);\">kachchhi <br>(50.7%)</td><td title=\"Gujarati&#013;(38421 people)\" style=\"border: 1px solid white;width: 25vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(25.1%)</td><td title=\"Hindi&#013;(21156 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(250,142,1,1);\">hin.. <br>(13.8%)</td><td style=\"border: 1px solid white;width: 10vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(10.4%)</td></tr></table><br>"
+        },
+        "03731": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kachchh<br><b>Sub-District Code: </b>3731<br><b>Name: </b>Gandhidham<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>161541<br><b>Total Population: </b>327166<br><b>Percentage: </b>49.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(161541 people)\" style=\"border: 1px solid white;width: 49vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(49.4%)</td><td title=\"Hindi&#013;(53977 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(250,142,1,1);\">hin.. <br>(16.5%)</td><td title=\"Kachchhi&#013;(46216 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(254,253,5, 1);\">kac.. <br>(14.1%)</td><td title=\"Sindhi&#013;(22410 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(128, 128, 128, 0.8);\">sin.. <br>(6.8%)</td><td style=\"border: 1px solid white;width: 13vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(13.2%)</td></tr></table><br>"
+        },
+        "03732": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3732<br><b>Name: </b>Vav<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>244976<br><b>Total Population: </b>246156<br><b>Percentage: </b>99.52<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(244976 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "03733": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3733<br><b>Name: </b>Tharad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>321280<br><b>Total Population: </b>327289<br><b>Percentage: </b>98.16<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(321280 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "03734": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3734<br><b>Name: </b>Dhanera<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>224863<br><b>Total Population: </b>230741<br><b>Percentage: </b>97.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(224863 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "03735": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3735<br><b>Name: </b>Dantiwada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>113240<br><b>Total Population: </b>115221<br><b>Percentage: </b>98.28<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(113240 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "03736": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3736<br><b>Name: </b>Amirgadh<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>75628<br><b>Total Population: </b>132354<br><b>Percentage: </b>57.14<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(75628 people)\" style=\"border: 1px solid white;width: 57vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(57.1%)</td><td title=\"OTHERS&#013;(49091 people)\" style=\"border: 1px solid white;width: 37vw; background-color: rgba(128, 128, 128, 0.8);\">oth.. <br>(37.1%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.8%)</td></tr></table><br>"
+        },
+        "03737": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3737<br><b>Name: </b>Danta<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>218518<br><b>Total Population: </b>224839<br><b>Percentage: </b>97.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(218518 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "03738": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3738<br><b>Name: </b>Vadgam<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>239077<br><b>Total Population: </b>240326<br><b>Percentage: </b>99.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(239077 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "03739": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3739<br><b>Name: </b>Palanpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>424753<br><b>Total Population: </b>438773<br><b>Percentage: </b>96.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(424753 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "03740": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3740<br><b>Name: </b>Deesa<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>572476<br><b>Total Population: </b>588123<br><b>Percentage: </b>97.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(572476 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "03741": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3741<br><b>Name: </b>Deodar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>174862<br><b>Total Population: </b>177919<br><b>Percentage: </b>98.28<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(174862 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "03742": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3742<br><b>Name: </b>Bhabhar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>122672<br><b>Total Population: </b>123152<br><b>Percentage: </b>99.61<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(122672 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03743": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Banas Kantha<br><b>Sub-District Code: </b>3743<br><b>Name: </b>Kankrej<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>274175<br><b>Total Population: </b>275613<br><b>Percentage: </b>99.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(274175 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "03744": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Patan  <br><b>Sub-District Code: </b>3744<br><b>Name: </b>Santalpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>126727<br><b>Total Population: </b>128791<br><b>Percentage: </b>98.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(126727 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "03745": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Patan  <br><b>Sub-District Code: </b>3745<br><b>Name: </b>Radhanpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>143416<br><b>Total Population: </b>144266<br><b>Percentage: </b>99.41<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(143416 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03746": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Patan  <br><b>Sub-District Code: </b>3746<br><b>Name: </b>Sidhpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>206308<br><b>Total Population: </b>213087<br><b>Percentage: </b>96.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(206308 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "03747": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Patan  <br><b>Sub-District Code: </b>3747<br><b>Name: </b>Patan<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>439728<br><b>Total Population: </b>449480<br><b>Percentage: </b>97.83<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(439728 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "03748": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Patan  <br><b>Sub-District Code: </b>3748<br><b>Name: </b>Harij<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>94235<br><b>Total Population: </b>94562<br><b>Percentage: </b>99.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(94235 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03749": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Patan  <br><b>Sub-District Code: </b>3749<br><b>Name: </b>Sami<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>181382<br><b>Total Population: </b>182805<br><b>Percentage: </b>99.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(181382 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03750": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Patan  <br><b>Sub-District Code: </b>3750<br><b>Name: </b>Chanasma<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>129872<br><b>Total Population: </b>130743<br><b>Percentage: </b>99.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(129872 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "03751": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3751<br><b>Name: </b>Satlasana<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>88973<br><b>Total Population: </b>89546<br><b>Percentage: </b>99.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(88973 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03752": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3752<br><b>Name: </b>Kheralu<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>131437<br><b>Total Population: </b>133778<br><b>Percentage: </b>98.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(131437 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "03753": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3753<br><b>Name: </b>Unjha<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>172739<br><b>Total Population: </b>175539<br><b>Percentage: </b>98.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(172739 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "03754": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3754<br><b>Name: </b>Visnagar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>259592<br><b>Total Population: </b>262246<br><b>Percentage: </b>98.99<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(259592 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "03755": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3755<br><b>Name: </b>Vadnagar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>145011<br><b>Total Population: </b>145445<br><b>Percentage: </b>99.7<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(145011 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03756": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3756<br><b>Name: </b>Vijapur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>253739<br><b>Total Population: </b>257699<br><b>Percentage: </b>98.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(253739 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "03757": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3757<br><b>Name: </b>Mahesana<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>506812<br><b>Total Population: </b>529816<br><b>Percentage: </b>95.66<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(506812 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(95.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.3%)</td></tr></table><br>"
+        },
+        "03758": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3758<br><b>Name: </b>Becharaji<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>98506<br><b>Total Population: </b>99588<br><b>Percentage: </b>98.91<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(98506 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "03759": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Mahesana<br><b>Sub-District Code: </b>3759<br><b>Name: </b>Kadi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>328957<br><b>Total Population: </b>341407<br><b>Percentage: </b>96.35<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(328957 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.6%)</td></tr></table><br>"
+        },
+        "03760": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3760<br><b>Name: </b>Khedbrahma<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>287416<br><b>Total Population: </b>293143<br><b>Percentage: </b>98.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(287416 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "03761": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3761<br><b>Name: </b>Vijaynagar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>101250<br><b>Total Population: </b>103895<br><b>Percentage: </b>97.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(101250 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "03762": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3762<br><b>Name: </b>Vadali<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>91263<br><b>Total Population: </b>92357<br><b>Percentage: </b>98.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(91263 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "03763": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3763<br><b>Name: </b>Idar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>253581<br><b>Total Population: </b>257904<br><b>Percentage: </b>98.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(253581 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "03764": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3764<br><b>Name: </b>Bhiloda<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>236074<br><b>Total Population: </b>239216<br><b>Percentage: </b>98.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(236074 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "03765": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3765<br><b>Name: </b>Meghraj<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>161571<br><b>Total Population: </b>167115<br><b>Percentage: </b>96.68<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(161571 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.3%)</td></tr></table><br>"
+        },
+        "03766": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3766<br><b>Name: </b>Himatnagar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>314176<br><b>Total Population: </b>325669<br><b>Percentage: </b>96.47<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(314176 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "03767": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3767<br><b>Name: </b>Prantij<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>157932<br><b>Total Population: </b>161279<br><b>Percentage: </b>97.92<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(157932 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "03768": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3768<br><b>Name: </b>Talod<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>153131<br><b>Total Population: </b>154424<br><b>Percentage: </b>99.16<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(153131 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03769": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3769<br><b>Name: </b>Modasa<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>212207<br><b>Total Population: </b>222625<br><b>Percentage: </b>95.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(212207 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(95.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "03770": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3770<br><b>Name: </b>Dhansura<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>105603<br><b>Total Population: </b>106733<br><b>Percentage: </b>98.94<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(105603 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "03771": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3771<br><b>Name: </b>Malpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>97182<br><b>Total Population: </b>97838<br><b>Percentage: </b>99.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(97182 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "03772": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Sabar Kantha<br><b>Sub-District Code: </b>3772<br><b>Name: </b>Bayad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>205252<br><b>Total Population: </b>206391<br><b>Percentage: </b>99.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(205252 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03773": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Gandhinagar<br><b>Sub-District Code: </b>3773<br><b>Name: </b>Kalol<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>329127<br><b>Total Population: </b>356127<br><b>Percentage: </b>92.42<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(329127 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(92.4%)</td><td title=\"Hindi&#013;(19719 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "03774": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Gandhinagar<br><b>Sub-District Code: </b>3774<br><b>Name: </b>Mansa<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>203508<br><b>Total Population: </b>206567<br><b>Percentage: </b>98.52<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(203508 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "03775": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Gandhinagar<br><b>Sub-District Code: </b>3775<br><b>Name: </b>Gandhinagar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>514416<br><b>Total Population: </b>560497<br><b>Percentage: </b>91.78<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(514416 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(91.8%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.2%)</td></tr></table><br>"
+        },
+        "03776": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Gandhinagar<br><b>Sub-District Code: </b>3776<br><b>Name: </b>Dehgam<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>260400<br><b>Total Population: </b>268562<br><b>Percentage: </b>96.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(260400 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "03777": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3777<br><b>Name: </b>Mandal<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>70187<br><b>Total Population: </b>70346<br><b>Percentage: </b>99.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(70187 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "03778": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3778<br><b>Name: </b>Detroj-Rampura<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>83011<br><b>Total Population: </b>83199<br><b>Percentage: </b>99.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(83011 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "03779": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3779<br><b>Name: </b>Viramgam<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>188996<br><b>Total Population: </b>193283<br><b>Percentage: </b>97.78<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(188996 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "03780": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3780<br><b>Name: </b>Sanand<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>231176<br><b>Total Population: </b>237845<br><b>Percentage: </b>97.2<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(231176 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "03781": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3781<br><b>Name: </b>Ahmadabad City<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>3814224<br><b>Total Population: </b>5585528<br><b>Percentage: </b>68.29<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(3814224 people)\" style=\"border: 1px solid white;width: 68vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(68.3%)</td><td title=\"Hindi&#013;(1094042 people)\" style=\"border: 1px solid white;width: 19vw; background-color: rgba(250,142,1,1);\">hin.. <br>(19.6%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.1%)</td></tr></table><br>"
+        },
+        "03782": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3782<br><b>Name: </b>Daskroi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>294557<br><b>Total Population: </b>321817<br><b>Percentage: </b>91.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(294557 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(91.5%)</td><td title=\"Hindi&#013;(18818 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "03783": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3783<br><b>Name: </b>Dholka<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>245311<br><b>Total Population: </b>249852<br><b>Percentage: </b>98.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(245311 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "03784": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3784<br><b>Name: </b>Bavla<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>155216<br><b>Total Population: </b>158191<br><b>Percentage: </b>98.12<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(155216 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "03785": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3785<br><b>Name: </b>Ranpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>92745<br><b>Total Population: </b>92926<br><b>Percentage: </b>99.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(92745 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "03786": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3786<br><b>Name: </b>Barwala<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>75760<br><b>Total Population: </b>75986<br><b>Percentage: </b>99.7<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(75760 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03787": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Ahmadabad<br><b>Sub-District Code: </b>3787<br><b>Name: </b>Dhandhuka<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>144677<br><b>Total Population: </b>145252<br><b>Percentage: </b>99.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(144677 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03788": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3788<br><b>Name: </b>Halvad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>170219<br><b>Total Population: </b>171000<br><b>Percentage: </b>99.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(170219 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "03789": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3789<br><b>Name: </b>Dhrangadhra<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>212079<br><b>Total Population: </b>218041<br><b>Percentage: </b>97.27<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(212079 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "03790": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3790<br><b>Name: </b>Dasada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>179740<br><b>Total Population: </b>180641<br><b>Percentage: </b>99.5<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(179740 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "03791": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3791<br><b>Name: </b>Lakhtar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>75120<br><b>Total Population: </b>75606<br><b>Percentage: </b>99.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(75120 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03792": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3792<br><b>Name: </b>Wadhwan<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>351461<br><b>Total Population: </b>359325<br><b>Percentage: </b>97.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(351461 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "03793": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3793<br><b>Name: </b>Muli<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>118550<br><b>Total Population: </b>118902<br><b>Percentage: </b>99.7<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(118550 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03794": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3794<br><b>Name: </b>Chotila<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>218002<br><b>Total Population: </b>220855<br><b>Percentage: </b>98.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(218002 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "03795": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3795<br><b>Name: </b>Sayla<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>138161<br><b>Total Population: </b>138643<br><b>Percentage: </b>99.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(138161 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03796": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3796<br><b>Name: </b>Chuda<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>97794<br><b>Total Population: </b>97916<br><b>Percentage: </b>99.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(97794 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "03797": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surendranagar<br><b>Sub-District Code: </b>3797<br><b>Name: </b>Limbdi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>174808<br><b>Total Population: </b>175339<br><b>Percentage: </b>99.7<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(174808 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03798": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3798<br><b>Name: </b>Maliya<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>66527<br><b>Total Population: </b>78692<br><b>Percentage: </b>84.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(66527 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(84.5%)</td><td title=\"Marathi&#013;(8211 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(252,94,75, 1);\">mar.. <br>(10.4%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.1%)</td></tr></table><br>"
+        },
+        "03799": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3799<br><b>Name: </b>Morvi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>394309<br><b>Total Population: </b>403995<br><b>Percentage: </b>97.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(394309 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "03800": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3800<br><b>Name: </b>Tankara<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>86691<br><b>Total Population: </b>87577<br><b>Percentage: </b>98.99<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(86691 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "03801": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3801<br><b>Name: </b>Wankaner<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>216463<br><b>Total Population: </b>219065<br><b>Percentage: </b>98.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(216463 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "03802": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3802<br><b>Name: </b>Paddhari<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>74037<br><b>Total Population: </b>74781<br><b>Percentage: </b>99.01<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(74037 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "03803": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3803<br><b>Name: </b>Rajkot<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>1454603<br><b>Total Population: </b>1533821<br><b>Percentage: </b>94.84<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(1454603 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(94.8%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.2%)</td></tr></table><br>"
+        },
+        "03804": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3804<br><b>Name: </b>Lodhika<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>53638<br><b>Total Population: </b>57415<br><b>Percentage: </b>93.42<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(53638 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(93.4%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.6%)</td></tr></table><br>"
+        },
+        "03805": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3805<br><b>Name: </b>Kotda Sangani<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>84792<br><b>Total Population: </b>90460<br><b>Percentage: </b>93.73<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(84792 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(93.7%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.3%)</td></tr></table><br>"
+        },
+        "03806": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3806<br><b>Name: </b>Jasdan<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>312750<br><b>Total Population: </b>314124<br><b>Percentage: </b>99.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(312750 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03807": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3807<br><b>Name: </b>Gondal<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>281181<br><b>Total Population: </b>285550<br><b>Percentage: </b>98.47<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(281181 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "03808": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3808<br><b>Name: </b>Jamkandorna<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>77597<br><b>Total Population: </b>78130<br><b>Percentage: </b>99.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(77597 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "03809": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3809<br><b>Name: </b>Upleta<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>169345<br><b>Total Population: </b>178912<br><b>Percentage: </b>94.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(169345 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(94.7%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "03810": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3810<br><b>Name: </b>Dhoraji<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>147288<br><b>Total Population: </b>154896<br><b>Percentage: </b>95.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(147288 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(95.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.9%)</td></tr></table><br>"
+        },
+        "03811": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Rajkot<br><b>Sub-District Code: </b>3811<br><b>Name: </b>Jetpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>241209<br><b>Total Population: </b>247140<br><b>Percentage: </b>97.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(241209 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "03812": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3812<br><b>Name: </b>Okhamandal<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>138463<br><b>Total Population: </b>162828<br><b>Percentage: </b>85.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(138463 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(85.0%)</td><td title=\"Kachchhi&#013;(19453 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(254,253,5, 1);\">kac.. <br>(11.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.1%)</td></tr></table><br>"
+        },
+        "03813": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3813<br><b>Name: </b>Khambhalia<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>208125<br><b>Total Population: </b>268062<br><b>Percentage: </b>77.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(208125 people)\" style=\"border: 1px solid white;width: 77vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(77.6%)</td><td title=\"Kachchhi&#013;(49485 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(254,253,5, 1);\">kac.. <br>(18.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "03814": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3814<br><b>Name: </b>Jamnagar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>733576<br><b>Total Population: </b>851948<br><b>Percentage: </b>86.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(733576 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(86.1%)</td><td title=\"Kachchhi&#013;(47097 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(254,253,5, 1);\">kac.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.4%)</td></tr></table><br>"
+        },
+        "03815": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3815<br><b>Name: </b>Jodiya<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>78702<br><b>Total Population: </b>85958<br><b>Percentage: </b>91.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(78702 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(91.6%)</td><td title=\"Kachchhi&#013;(6257 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(254,253,5, 1);\">kac.. <br>(7.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "03816": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3816<br><b>Name: </b>Dhrol<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>79071<br><b>Total Population: </b>79315<br><b>Percentage: </b>99.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(79071 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03817": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3817<br><b>Name: </b>Kalavad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>137795<br><b>Total Population: </b>139729<br><b>Percentage: </b>98.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(137795 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "03818": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3818<br><b>Name: </b>Lalpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>116586<br><b>Total Population: </b>118187<br><b>Percentage: </b>98.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(116586 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "03819": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3819<br><b>Name: </b>Kalyanpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>194445<br><b>Total Population: </b>196033<br><b>Percentage: </b>99.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(194445 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03820": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3820<br><b>Name: </b>Bhanvad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>122038<br><b>Total Population: </b>125561<br><b>Percentage: </b>97.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(122038 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "03821": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Jamnagar<br><b>Sub-District Code: </b>3821<br><b>Name: </b>Jamjodhpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>129822<br><b>Total Population: </b>132498<br><b>Percentage: </b>97.98<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(129822 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "03822": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Porbandar <br><b>Sub-District Code: </b>3822<br><b>Name: </b>Porbandar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>371590<br><b>Total Population: </b>384660<br><b>Percentage: </b>96.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(371590 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "03823": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Porbandar <br><b>Sub-District Code: </b>3823<br><b>Name: </b>Ranavav<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>110254<br><b>Total Population: </b>114568<br><b>Percentage: </b>96.23<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(110254 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.2%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.8%)</td></tr></table><br>"
+        },
+        "03824": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Porbandar <br><b>Sub-District Code: </b>3824<br><b>Name: </b>Kutiyana<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>84292<br><b>Total Population: </b>86221<br><b>Percentage: </b>97.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(84292 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "03825": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3825<br><b>Name: </b>Manavadar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>129234<br><b>Total Population: </b>132830<br><b>Percentage: </b>97.29<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(129234 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "03826": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3826<br><b>Name: </b>Vanthali<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>95806<br><b>Total Population: </b>97189<br><b>Percentage: </b>98.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(95806 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "03827": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3827<br><b>Name: </b>Junagadh<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>418155<br><b>Total Population: </b>439420<br><b>Percentage: </b>95.16<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(418155 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(95.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.8%)</td></tr></table><br>"
+        },
+        "03828": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3828<br><b>Name: </b>Bhesan<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>79381<br><b>Total Population: </b>79712<br><b>Percentage: </b>99.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(79381 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03829": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3829<br><b>Name: </b>Visavadar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>139067<br><b>Total Population: </b>140023<br><b>Percentage: </b>99.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(139067 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "03830": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3830<br><b>Name: </b>Mendarda<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>68274<br><b>Total Population: </b>68531<br><b>Percentage: </b>99.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(68274 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03831": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3831<br><b>Name: </b>Keshod<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>191746<br><b>Total Population: </b>194746<br><b>Percentage: </b>98.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(191746 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "03832": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3832<br><b>Name: </b>Mangrol<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>206023<br><b>Total Population: </b>212973<br><b>Percentage: </b>96.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(206023 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.3%)</td></tr></table><br>"
+        },
+        "03833": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3833<br><b>Name: </b>Malia<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>158819<br><b>Total Population: </b>160181<br><b>Percentage: </b>99.15<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(158819 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "03834": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3834<br><b>Name: </b>Talala<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>134664<br><b>Total Population: </b>135731<br><b>Percentage: </b>99.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(134664 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03835": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3835<br><b>Name: </b>Patan-Veraval<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>294058<br><b>Total Population: </b>322492<br><b>Percentage: </b>91.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(294058 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(91.2%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.8%)</td></tr></table><br>"
+        },
+        "03836": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3836<br><b>Name: </b>Sutrapada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>139432<br><b>Total Population: </b>141968<br><b>Percentage: </b>98.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(139432 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "03837": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3837<br><b>Name: </b>Kodinar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>221793<br><b>Total Population: </b>228809<br><b>Percentage: </b>96.93<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(221793 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.1%)</td></tr></table><br>"
+        },
+        "03838": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Junagadh<br><b>Sub-District Code: </b>3838<br><b>Name: </b>Una<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>379825<br><b>Total Population: </b>388477<br><b>Percentage: </b>97.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(379825 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "03839": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3839<br><b>Name: </b>Kunkavav Vadia<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>97984<br><b>Total Population: </b>99794<br><b>Percentage: </b>98.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(97984 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "03840": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3840<br><b>Name: </b>Babra<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>139387<br><b>Total Population: </b>140521<br><b>Percentage: </b>99.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(139387 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03841": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3841<br><b>Name: </b>Lathi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>131630<br><b>Total Population: </b>132914<br><b>Percentage: </b>99.03<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(131630 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "03842": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3842<br><b>Name: </b>Lilia<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>59688<br><b>Total Population: </b>60423<br><b>Percentage: </b>98.78<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(59688 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "03843": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3843<br><b>Name: </b>Amreli<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>236869<br><b>Total Population: </b>241279<br><b>Percentage: </b>98.17<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(236869 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "03844": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3844<br><b>Name: </b>Bagasara<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>82222<br><b>Total Population: </b>83054<br><b>Percentage: </b>99.0<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(82222 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "03845": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3845<br><b>Name: </b>Dhari<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>139341<br><b>Total Population: </b>139807<br><b>Percentage: </b>99.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(139341 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03846": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3846<br><b>Name: </b>Savar Kundla<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>238701<br><b>Total Population: </b>239272<br><b>Percentage: </b>99.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(238701 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "03847": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3847<br><b>Name: </b>Khambha<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>93347<br><b>Total Population: </b>93431<br><b>Percentage: </b>99.91<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(93347 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "03848": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3848<br><b>Name: </b>Jafrabad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>106227<br><b>Total Population: </b>108002<br><b>Percentage: </b>98.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(106227 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "03849": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Amreli<br><b>Sub-District Code: </b>3849<br><b>Name: </b>Rajula<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>173580<br><b>Total Population: </b>175693<br><b>Percentage: </b>98.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(173580 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "03850": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3850<br><b>Name: </b>Botad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>285336<br><b>Total Population: </b>286618<br><b>Percentage: </b>99.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(285336 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03851": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3851<br><b>Name: </b>Vallabhipur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>79939<br><b>Total Population: </b>80192<br><b>Percentage: </b>99.68<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(79939 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03852": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3852<br><b>Name: </b>Gadhada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>199907<br><b>Total Population: </b>200475<br><b>Percentage: </b>99.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(199907 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03853": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3853<br><b>Name: </b>Umrala<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>86107<br><b>Total Population: </b>86323<br><b>Percentage: </b>99.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(86107 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03854": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3854<br><b>Name: </b>Bhavnagar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>756143<br><b>Total Population: </b>787319<br><b>Percentage: </b>96.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(756143 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "03855": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3855<br><b>Name: </b>Ghogha<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>100672<br><b>Total Population: </b>100977<br><b>Percentage: </b>99.7<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(100672 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03856": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3856<br><b>Name: </b>Sihor<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>209698<br><b>Total Population: </b>212236<br><b>Percentage: </b>98.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(209698 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "03857": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3857<br><b>Name: </b>Gariadhar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>117850<br><b>Total Population: </b>118276<br><b>Percentage: </b>99.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(117850 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03858": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3858<br><b>Name: </b>Palitana<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>226760<br><b>Total Population: </b>230271<br><b>Percentage: </b>98.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(226760 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "03859": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3859<br><b>Name: </b>Talaja<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>306306<br><b>Total Population: </b>325667<br><b>Percentage: </b>94.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(306306 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(94.1%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.9%)</td></tr></table><br>"
+        },
+        "03860": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bhavnagar<br><b>Sub-District Code: </b>3860<br><b>Name: </b>Mahuva<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>450210<br><b>Total Population: </b>452011<br><b>Percentage: </b>99.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(450210 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03861": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Anand  <br><b>Sub-District Code: </b>3861<br><b>Name: </b>Tarapur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>87953<br><b>Total Population: </b>88522<br><b>Percentage: </b>99.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(87953 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03862": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Anand  <br><b>Sub-District Code: </b>3862<br><b>Name: </b>Sojitra<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>105769<br><b>Total Population: </b>106526<br><b>Percentage: </b>99.29<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(105769 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "03863": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Anand  <br><b>Sub-District Code: </b>3863<br><b>Name: </b>Umreth<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>184133<br><b>Total Population: </b>188029<br><b>Percentage: </b>97.93<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(184133 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "03864": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Anand  <br><b>Sub-District Code: </b>3864<br><b>Name: </b>Anand<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>579405<br><b>Total Population: </b>609307<br><b>Percentage: </b>95.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(579405 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(95.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.9%)</td></tr></table><br>"
+        },
+        "03865": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Anand  <br><b>Sub-District Code: </b>3865<br><b>Name: </b>Petlad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>281096<br><b>Total Population: </b>287924<br><b>Percentage: </b>97.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(281096 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "03866": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Anand  <br><b>Sub-District Code: </b>3866<br><b>Name: </b>Khambhat<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>272078<br><b>Total Population: </b>285679<br><b>Percentage: </b>95.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(272078 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(95.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.8%)</td></tr></table><br>"
+        },
+        "03867": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Anand  <br><b>Sub-District Code: </b>3867<br><b>Name: </b>Borsad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>366916<br><b>Total Population: </b>379650<br><b>Percentage: </b>96.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(366916 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "03868": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Anand  <br><b>Sub-District Code: </b>3868<br><b>Name: </b>Anklav<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>145458<br><b>Total Population: </b>147108<br><b>Percentage: </b>98.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(145458 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "03869": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3869<br><b>Name: </b>Kapadvanj<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>269939<br><b>Total Population: </b>273168<br><b>Percentage: </b>98.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(269939 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "03870": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3870<br><b>Name: </b>Virpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>100081<br><b>Total Population: </b>100293<br><b>Percentage: </b>99.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(100081 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "03871": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3871<br><b>Name: </b>Balasinor<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>143867<br><b>Total Population: </b>145823<br><b>Percentage: </b>98.66<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(143867 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "03872": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3872<br><b>Name: </b>Kathlal<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>204070<br><b>Total Population: </b>208626<br><b>Percentage: </b>97.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(204070 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "03873": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3873<br><b>Name: </b>Mehmedabad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>250172<br><b>Total Population: </b>255978<br><b>Percentage: </b>97.73<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(250172 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        },
+        "03874": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3874<br><b>Name: </b>Kheda<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>124990<br><b>Total Population: </b>128162<br><b>Percentage: </b>97.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(124990 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "03875": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3875<br><b>Name: </b>Matar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>159830<br><b>Total Population: </b>162800<br><b>Percentage: </b>98.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(159830 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "03876": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3876<br><b>Name: </b>Nadiad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>522141<br><b>Total Population: </b>550330<br><b>Percentage: </b>94.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(522141 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(94.9%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.1%)</td></tr></table><br>"
+        },
+        "03877": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3877<br><b>Name: </b>Mahudha<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>130248<br><b>Total Population: </b>132560<br><b>Percentage: </b>98.26<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(130248 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "03878": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Kheda<br><b>Sub-District Code: </b>3878<br><b>Name: </b>Thasra<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>333570<br><b>Total Population: </b>342145<br><b>Percentage: </b>97.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(333570 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "03879": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3879<br><b>Name: </b>Khanpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>95297<br><b>Total Population: </b>96041<br><b>Percentage: </b>99.23<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(95297 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03880": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3880<br><b>Name: </b>Kadana<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>129153<br><b>Total Population: </b>129545<br><b>Percentage: </b>99.7<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(129153 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03881": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3881<br><b>Name: </b>Santrampur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>262545<br><b>Total Population: </b>265694<br><b>Percentage: </b>98.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(262545 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "03882": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3882<br><b>Name: </b>Lunawada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>253263<br><b>Total Population: </b>257228<br><b>Percentage: </b>98.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(253263 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "03883": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3883<br><b>Name: </b>Shehera<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>271140<br><b>Total Population: </b>277559<br><b>Percentage: </b>97.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(271140 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        },
+        "03884": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3884<br><b>Name: </b>Morwa (Hadaf)<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>186639<br><b>Total Population: </b>186920<br><b>Percentage: </b>99.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(186639 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "03885": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3885<br><b>Name: </b>Godhra<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>416133<br><b>Total Population: </b>462516<br><b>Percentage: </b>89.97<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(416133 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(90.0%)</td><td title=\"Urdu&#013;(31538 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(6.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "03886": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3886<br><b>Name: </b>Kalol<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>206283<br><b>Total Population: </b>216371<br><b>Percentage: </b>95.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(206283 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(95.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "03887": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3887<br><b>Name: </b>Ghoghamba<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>217219<br><b>Total Population: </b>218467<br><b>Percentage: </b>99.43<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(217219 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03888": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3888<br><b>Name: </b>Halol<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>227577<br><b>Total Population: </b>237959<br><b>Percentage: </b>95.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(227577 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(95.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.4%)</td></tr></table><br>"
+        },
+        "03889": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Panch Mahals<br><b>Sub-District Code: </b>3889<br><b>Name: </b>Jambughoda<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>42304<br><b>Total Population: </b>42476<br><b>Percentage: </b>99.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(42304 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03890": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Dohad  <br><b>Sub-District Code: </b>3890<br><b>Name: </b>Fatepura<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>236637<br><b>Total Population: </b>238116<br><b>Percentage: </b>99.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(236637 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03891": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Dohad  <br><b>Sub-District Code: </b>3891<br><b>Name: </b>Jhalod<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>449125<br><b>Total Population: </b>473273<br><b>Percentage: </b>94.9<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(449125 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(94.9%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.1%)</td></tr></table><br>"
+        },
+        "03892": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Dohad  <br><b>Sub-District Code: </b>3892<br><b>Name: </b>Limkheda<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>305381<br><b>Total Population: </b>306269<br><b>Percentage: </b>99.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(305381 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "03893": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Dohad  <br><b>Sub-District Code: </b>3893<br><b>Name: </b>Dohad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>432022<br><b>Total Population: </b>480845<br><b>Percentage: </b>89.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(432022 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(89.8%)</td><td style=\"border: 1px solid white;width: 10vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(10.2%)</td></tr></table><br>"
+        },
+        "03894": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Dohad  <br><b>Sub-District Code: </b>3894<br><b>Name: </b>Garbada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>197628<br><b>Total Population: </b>198879<br><b>Percentage: </b>99.37<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(197628 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03895": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Dohad  <br><b>Sub-District Code: </b>3895<br><b>Name: </b>Devgadbaria<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>247308<br><b>Total Population: </b>249335<br><b>Percentage: </b>99.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(247308 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03896": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Dohad  <br><b>Sub-District Code: </b>3896<br><b>Name: </b>Dhanpur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>180033<br><b>Total Population: </b>180369<br><b>Percentage: </b>99.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(180033 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "03897": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3897<br><b>Name: </b>Savli<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>250533<br><b>Total Population: </b>255009<br><b>Percentage: </b>98.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(250533 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "03898": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3898<br><b>Name: </b>Vadodara<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>1483500<br><b>Total Population: </b>2009434<br><b>Percentage: </b>73.83<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(1483500 people)\" style=\"border: 1px solid white;width: 73vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(73.8%)</td><td title=\"Hindi&#013;(273153 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(250,142,1,1);\">hin.. <br>(13.6%)</td><td title=\"Marathi&#013;(137047 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(252,94,75, 1);\">mar.. <br>(6.8%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.8%)</td></tr></table><br>"
+        },
+        "03899": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3899<br><b>Name: </b>Vaghodia<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>143892<br><b>Total Population: </b>149914<br><b>Percentage: </b>95.98<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(143892 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "03900": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3900<br><b>Name: </b>Jetpur Pavi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>259322<br><b>Total Population: </b>261425<br><b>Percentage: </b>99.2<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(259322 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "03901": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3901<br><b>Name: </b>Chhota Udaipur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>234128<br><b>Total Population: </b>241377<br><b>Percentage: </b>97.0<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(234128 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "03902": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3902<br><b>Name: </b>Kavant<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>209131<br><b>Total Population: </b>210002<br><b>Percentage: </b>99.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(209131 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "03903": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3903<br><b>Name: </b>Nasvadi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>153478<br><b>Total Population: </b>155443<br><b>Percentage: </b>98.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(153478 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "03904": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3904<br><b>Name: </b>Sankheda<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>199258<br><b>Total Population: </b>203584<br><b>Percentage: </b>97.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(199258 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "03905": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3905<br><b>Name: </b>Dabhoi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>169759<br><b>Total Population: </b>180518<br><b>Percentage: </b>94.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(169759 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(94.0%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.0%)</td></tr></table><br>"
+        },
+        "03906": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3906<br><b>Name: </b>Padra<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>260715<br><b>Total Population: </b>265901<br><b>Percentage: </b>98.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(260715 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "03907": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3907<br><b>Name: </b>Karjan<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>162854<br><b>Total Population: </b>167579<br><b>Percentage: </b>97.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(162854 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "03908": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Vadodara<br><b>Sub-District Code: </b>3908<br><b>Name: </b>Sinor<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>63482<br><b>Total Population: </b>65440<br><b>Percentage: </b>97.01<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(63482 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "03909": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Narmada<br><b>Sub-District Code: </b>3909<br><b>Name: </b>Tilakwada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>63240<br><b>Total Population: </b>63871<br><b>Percentage: </b>99.01<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(63240 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "03910": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Narmada<br><b>Sub-District Code: </b>3910<br><b>Name: </b>Nandod<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>226372<br><b>Total Population: </b>241053<br><b>Percentage: </b>93.91<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(226372 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(93.9%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.1%)</td></tr></table><br>"
+        },
+        "03911": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Narmada<br><b>Sub-District Code: </b>3911<br><b>Name: </b>Dediapada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>88202<br><b>Total Population: </b>174449<br><b>Percentage: </b>50.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(88202 people)\" style=\"border: 1px solid white;width: 50vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(50.6%)</td><td title=\"Vasava&#013;(82628 people)\" style=\"border: 1px solid white;width: 47vw; background-color: rgba(0, 255, 255, 0.8);\">vas.. <br>(47.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "03912": {
+            "color": "rgba(139, 0, 0, 0.7)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Narmada<br><b>Sub-District Code: </b>3912<br><b>Name: </b>Sagbara<br><b>Largest Language: </b>Haryanvi<br><b>haryanvi Population: </b>68312<br><b>Total Population: </b>110924<br><b>Percentage: </b>61.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Haryanvi&#013;(68312 people)\" style=\"border: 1px solid white;width: 61vw; background-color: rgba(139, 0, 0, 0.7);\">haryanvi <br>(61.6%)</td><td title=\"Gujarati&#013;(26412 people)\" style=\"border: 1px solid white;width: 23vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(23.8%)</td><td style=\"border: 1px solid white;width: 14vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(14.6%)</td></tr></table><br>"
+        },
+        "03913": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bharuch<br><b>Sub-District Code: </b>3913<br><b>Name: </b>Jambusar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>194227<br><b>Total Population: </b>197038<br><b>Percentage: </b>98.57<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(194227 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "03914": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bharuch<br><b>Sub-District Code: </b>3914<br><b>Name: </b>Amod<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>93280<br><b>Total Population: </b>93819<br><b>Percentage: </b>99.43<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(93280 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "03915": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bharuch<br><b>Sub-District Code: </b>3915<br><b>Name: </b>Vagra<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>92290<br><b>Total Population: </b>100044<br><b>Percentage: </b>92.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(92290 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(92.2%)</td><td title=\"Hindi&#013;(5766 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "03916": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bharuch<br><b>Sub-District Code: </b>3916<br><b>Name: </b>Bharuch<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>407141<br><b>Total Population: </b>452517<br><b>Percentage: </b>89.97<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(407141 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(90.0%)</td><td title=\"Hindi&#013;(31858 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(250,142,1,1);\">hin.. <br>(7.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "03917": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bharuch<br><b>Sub-District Code: </b>3917<br><b>Name: </b>Jhagadia<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>180979<br><b>Total Population: </b>185337<br><b>Percentage: </b>97.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(180979 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "03918": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bharuch<br><b>Sub-District Code: </b>3918<br><b>Name: </b>Anklesvar<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>234050<br><b>Total Population: </b>315596<br><b>Percentage: </b>74.16<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(234050 people)\" style=\"border: 1px solid white;width: 74vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(74.2%)</td><td title=\"Hindi&#013;(51217 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(250,142,1,1);\">hin.. <br>(16.2%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.6%)</td></tr></table><br>"
+        },
+        "03919": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bharuch<br><b>Sub-District Code: </b>3919<br><b>Name: </b>Hansot<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>57013<br><b>Total Population: </b>61268<br><b>Percentage: </b>93.06<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(57013 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(93.1%)</td><td title=\"Hindi&#013;(3099 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "03920": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Bharuch<br><b>Sub-District Code: </b>3920<br><b>Name: </b>Valia<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>137140<br><b>Total Population: </b>145400<br><b>Percentage: </b>94.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(137140 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(94.3%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.7%)</td></tr></table><br>"
+        },
+        "03921": {
+            "color": "rgba(255, 218, 185, 0.8)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>The Dangs<br><b>Sub-District Code: </b>3921<br><b>Name: </b>The Dangs<br><b>Largest Language: </b>Dangi<br><b>dangi Population: </b>135945<br><b>Total Population: </b>228291<br><b>Percentage: </b>59.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Dangi&#013;(135945 people)\" style=\"border: 1px solid white;width: 59vw; background-color: rgba(255, 218, 185, 0.8);\">dangi <br>(59.5%)</td><td title=\"Gujarati&#013;(74273 people)\" style=\"border: 1px solid white;width: 32vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(32.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.0%)</td></tr></table><br>"
+        },
+        "03922": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Navsari  <br><b>Sub-District Code: </b>3922<br><b>Name: </b>Navsari<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>265960<br><b>Total Population: </b>311238<br><b>Percentage: </b>85.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(265960 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(85.5%)</td><td title=\"Hindi&#013;(24916 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(250,142,1,1);\">hin.. <br>(8.0%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.5%)</td></tr></table><br>"
+        },
+        "03923": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Navsari  <br><b>Sub-District Code: </b>3923<br><b>Name: </b>Jalalpore<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>175023<br><b>Total Population: </b>228065<br><b>Percentage: </b>76.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(175023 people)\" style=\"border: 1px solid white;width: 76vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(76.7%)</td><td title=\"Marathi&#013;(22893 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(252,94,75, 1);\">mar.. <br>(10.0%)</td><td title=\"Hindi&#013;(21357 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(250,142,1,1);\">hin.. <br>(9.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "03924": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Navsari  <br><b>Sub-District Code: </b>3924<br><b>Name: </b>Gandevi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>229999<br><b>Total Population: </b>249264<br><b>Percentage: </b>92.27<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(229999 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(92.3%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.7%)</td></tr></table><br>"
+        },
+        "03925": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Navsari  <br><b>Sub-District Code: </b>3925<br><b>Name: </b>Chikhli<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>299944<br><b>Total Population: </b>309877<br><b>Percentage: </b>96.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(299944 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(96.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "03926": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Navsari  <br><b>Sub-District Code: </b>3926<br><b>Name: </b>Bansda<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>217524<br><b>Total Population: </b>231228<br><b>Percentage: </b>94.07<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(217524 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(94.1%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.9%)</td></tr></table><br>"
+        },
+        "03927": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Valsad<br><b>Sub-District Code: </b>3927<br><b>Name: </b>Valsad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>371608<br><b>Total Population: </b>415140<br><b>Percentage: </b>89.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(371608 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(89.5%)</td><td title=\"Hindi&#013;(27406 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(250,142,1,1);\">hin.. <br>(6.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "03928": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Valsad<br><b>Sub-District Code: </b>3928<br><b>Name: </b>Dharampur<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>98985<br><b>Total Population: </b>215872<br><b>Percentage: </b>45.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(98985 people)\" style=\"border: 1px solid white;width: 45vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(45.9%)</td><td title=\"Kokna/Kokni/Kukna&#013;(50853 people)\" style=\"border: 1px solid white;width: 23vw; background-color: rgba(128, 128, 128, 0.8);\">kok.. <br>(23.6%)</td><td title=\"Varli&#013;(47383 people)\" style=\"border: 1px solid white;width: 21vw; background-color: rgba(255, 239, 213, 0.8);\">var.. <br>(21.9%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.6%)</td></tr></table><br>"
+        },
+        "03929": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Valsad<br><b>Sub-District Code: </b>3929<br><b>Name: </b>Pardi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>313349<br><b>Total Population: </b>518814<br><b>Percentage: </b>60.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(313349 people)\" style=\"border: 1px solid white;width: 60vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(60.4%)</td><td title=\"Hindi&#013;(130744 people)\" style=\"border: 1px solid white;width: 25vw; background-color: rgba(250,142,1,1);\">hin.. <br>(25.2%)</td><td style=\"border: 1px solid white;width: 14vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(14.4%)</td></tr></table><br>"
+        },
+        "03930": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Valsad<br><b>Sub-District Code: </b>3930<br><b>Name: </b>Kaprada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>182539<br><b>Total Population: </b>258888<br><b>Percentage: </b>70.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(182539 people)\" style=\"border: 1px solid white;width: 70vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(70.5%)</td><td title=\"Varli&#013;(48233 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(255, 239, 213, 0.8);\">var.. <br>(18.6%)</td><td title=\"Kokna/Kokni/Kukna&#013;(20673 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(128, 128, 128, 0.8);\">kok.. <br>(8.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "03931": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Valsad<br><b>Sub-District Code: </b>3931<br><b>Name: </b>Umbergaon<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>239835<br><b>Total Population: </b>296964<br><b>Percentage: </b>80.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(239835 people)\" style=\"border: 1px solid white;width: 80vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(80.8%)</td><td title=\"Hindi&#013;(33999 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(250,142,1,1);\">hin.. <br>(11.4%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.8%)</td></tr></table><br>"
+        },
+        "03932": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3932<br><b>Name: </b>Olpad<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>166067<br><b>Total Population: </b>196846<br><b>Percentage: </b>84.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(166067 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(84.4%)</td><td title=\"Hindi&#013;(17397 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(250,142,1,1);\">hin.. <br>(8.8%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.8%)</td></tr></table><br>"
+        },
+        "03933": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3933<br><b>Name: </b>Mangrol<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>177103<br><b>Total Population: </b>209054<br><b>Percentage: </b>84.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(177103 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(84.7%)</td><td title=\"Hindi&#013;(22492 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(250,142,1,1);\">hin.. <br>(10.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.5%)</td></tr></table><br>"
+        },
+        "03934": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3934<br><b>Name: </b>Umarpada<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>69932<br><b>Total Population: </b>83723<br><b>Percentage: </b>83.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(69932 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(83.5%)</td><td title=\"Vasava&#013;(11360 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(0, 255, 255, 0.8);\">vas.. <br>(13.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "03935": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3935<br><b>Name: </b>Mandvi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>128864<br><b>Total Population: </b>195949<br><b>Percentage: </b>65.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(128864 people)\" style=\"border: 1px solid white;width: 65vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(65.8%)</td><td title=\"Chodhari&#013;(42159 people)\" style=\"border: 1px solid white;width: 21vw; background-color: rgba(128, 128, 128, 0.8);\">cho.. <br>(21.5%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.7%)</td></tr></table><br>"
+        },
+        "03936": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3936<br><b>Name: </b>Kamrej<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>160882<br><b>Total Population: </b>184554<br><b>Percentage: </b>87.17<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(160882 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(87.2%)</td><td title=\"Hindi&#013;(12189 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(250,142,1,1);\">hin.. <br>(6.6%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.2%)</td></tr></table><br>"
+        },
+        "03937": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3937<br><b>Name: </b>Surat City<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>2445520<br><b>Total Population: </b>4467797<br><b>Percentage: </b>54.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(2445520 people)\" style=\"border: 1px solid white;width: 54vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(54.7%)</td><td title=\"Hindi&#013;(1007688 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(250,142,1,1);\">hin.. <br>(22.6%)</td><td title=\"Marathi&#013;(446291 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(252,94,75, 1);\">mar.. <br>(10.0%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.7%)</td></tr></table><br>"
+        },
+        "03938": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3938<br><b>Name: </b>Chorasi<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>114897<br><b>Total Population: </b>229277<br><b>Percentage: </b>50.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(114897 people)\" style=\"border: 1px solid white;width: 50vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(50.1%)</td><td title=\"Hindi&#013;(69136 people)\" style=\"border: 1px solid white;width: 30vw; background-color: rgba(250,142,1,1);\">hin.. <br>(30.2%)</td><td style=\"border: 1px solid white;width: 19vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(19.7%)</td></tr></table><br>"
+        },
+        "03939": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3939<br><b>Name: </b>Palsana<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>87195<br><b>Total Population: </b>145052<br><b>Percentage: </b>60.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(87195 people)\" style=\"border: 1px solid white;width: 60vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(60.1%)</td><td title=\"Hindi&#013;(41291 people)\" style=\"border: 1px solid white;width: 28vw; background-color: rgba(250,142,1,1);\">hin.. <br>(28.5%)</td><td title=\"Marathi&#013;(9910 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(252,94,75, 1);\">mar.. <br>(6.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.6%)</td></tr></table><br>"
+        },
+        "03940": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3940<br><b>Name: </b>Bardoli<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>176427<br><b>Total Population: </b>224164<br><b>Percentage: </b>78.7<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(176427 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(78.7%)</td><td title=\"Hindi&#013;(16349 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(250,142,1,1);\">hin.. <br>(7.3%)</td><td title=\"Chodhari&#013;(11817 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(128, 128, 128, 0.8);\">cho.. <br>(5.3%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.7%)</td></tr></table><br>"
+        },
+        "03941": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Surat<br><b>Sub-District Code: </b>3941<br><b>Name: </b>Mahuva<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>119986<br><b>Total Population: </b>144906<br><b>Percentage: </b>82.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(119986 people)\" style=\"border: 1px solid white;width: 82vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(82.8%)</td><td title=\"Dhodia&#013;(10774 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(128, 128, 128, 0.8);\">dho.. <br>(7.4%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.8%)</td></tr></table><br>"
+        },
+        "03942": {
+            "color": "rgba(123, 104, 238, 0.8)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Tapi<br><b>Sub-District Code: </b>3942<br><b>Name: </b>Nizar<br><b>Largest Language: </b>Bhili/Bhilodi<br><b>bhili/bhilodi Population: </b>78283<br><b>Total Population: </b>129969<br><b>Percentage: </b>60.23<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Bhili/Bhilodi&#013;(78283 people)\" style=\"border: 1px solid white;width: 60vw; background-color: rgba(123, 104, 238, 0.8);\">bhili/bhilodi <br>(60.2%)</td><td title=\"Vasava&#013;(21879 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(0, 255, 255, 0.8);\">vas.. <br>(16.8%)</td><td title=\"Ahirani&#013;(6786 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(255, 18, 193, 0.8);\">ahi.. <br>(5.2%)</td><td style=\"border: 1px solid white;width: 17vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(17.8%)</td></tr></table><br>"
+        },
+        "03943": {
+            "color": "rgba(0, 255, 255, 0.8)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Tapi<br><b>Sub-District Code: </b>3943<br><b>Name: </b>Uchchhal<br><b>Largest Language: </b>Vasava<br><b>vasava Population: </b>39847<br><b>Total Population: </b>88416<br><b>Percentage: </b>45.07<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Vasava&#013;(39847 people)\" style=\"border: 1px solid white;width: 45vw; background-color: rgba(0, 255, 255, 0.8);\">vas.. <br>(45.1%)</td><td title=\"Gamti/Gavit&#013;(21435 people)\" style=\"border: 1px solid white;width: 24vw; background-color: rgba(128, 128, 128, 0.8);\">gam.. <br>(24.2%)</td><td title=\"Gujarati&#013;(20739 people)\" style=\"border: 1px solid white;width: 23vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(23.5%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.2%)</td></tr></table><br>"
+        },
+        "03944": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Tapi<br><b>Sub-District Code: </b>3944<br><b>Name: </b>Songadh<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>158530<br><b>Total Population: </b>229782<br><b>Percentage: </b>68.99<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(158530 people)\" style=\"border: 1px solid white;width: 69vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(69.0%)</td><td title=\"Gamti/Gavit&#013;(39646 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(128, 128, 128, 0.8);\">gam.. <br>(17.3%)</td><td style=\"border: 1px solid white;width: 13vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(13.7%)</td></tr></table><br>"
+        },
+        "03945": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Tapi<br><b>Sub-District Code: </b>3945<br><b>Name: </b>Vyara<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>145216<br><b>Total Population: </b>268289<br><b>Percentage: </b>54.13<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(145216 people)\" style=\"border: 1px solid white;width: 54vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(54.1%)</td><td title=\"Gamti/Gavit&#013;(51196 people)\" style=\"border: 1px solid white;width: 19vw; background-color: rgba(128, 128, 128, 0.8);\">gam.. <br>(19.1%)</td><td title=\"Chodhari&#013;(36670 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(128, 128, 128, 0.8);\">cho.. <br>(13.7%)</td><td style=\"border: 1px solid white;width: 13vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(13.1%)</td></tr></table><br>"
+        },
+        "03946": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>GUJARAT<br><b>District: </b>Tapi<br><b>Sub-District Code: </b>3946<br><b>Name: </b>Valod<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>68431<br><b>Total Population: </b>90566<br><b>Percentage: </b>75.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(68431 people)\" style=\"border: 1px solid white;width: 75vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(75.6%)</td><td title=\"Chodhari&#013;(8338 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(128, 128, 128, 0.8);\">cho.. <br>(9.2%)</td><td title=\"Gamti/Gavit&#013;(4885 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(128, 128, 128, 0.8);\">gam.. <br>(5.4%)</td><td style=\"border: 1px solid white;width: 9vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(9.8%)</td></tr></table><br>"
+        }
+    }
+}

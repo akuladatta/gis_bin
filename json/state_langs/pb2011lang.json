@@ -1,0 +1,316 @@
+{
+    "title": "Languages of PUNJAB",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Punjabi</td><td style='background-color: rgba(254,2,95,0.8)'></td><td title='total population: 24917725'>89.82%</td><td>77</td></tr><tr><td>Hindi</td><td style='background-color: rgba(250,142,1,1)'></td><td title='total population: 2179066'>7.85%</td><td>0</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>2.33%</td><td>0</td></tr></table>",
+    "data": {
+        "00200": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Gurdaspur<br><b>Sub-District Code: </b>200<br><b>Name: </b>Dhar Kalan<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>48069<br><b>Total Population: </b>54186<br><b>Percentage: </b>88.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(48069 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(88.7%)</td><td style=\"border: 1px solid white;width: 11vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(11.3%)</td></tr></table><br>"
+        },
+        "00201": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Gurdaspur<br><b>Sub-District Code: </b>201<br><b>Name: </b>Pathankot       <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>559912<br><b>Total Population: </b>622412<br><b>Percentage: </b>89.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(559912 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(90.0%)</td><td title=\"Hindi&#013;(33266 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "00202": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Gurdaspur<br><b>Sub-District Code: </b>202<br><b>Name: </b>Gurdaspur <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>803962<br><b>Total Population: </b>821539<br><b>Percentage: </b>97.86<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(803962 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "00203": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Gurdaspur<br><b>Sub-District Code: </b>203<br><b>Name: </b>Batala <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>667375<br><b>Total Population: </b>675891<br><b>Percentage: </b>98.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(667375 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "00204": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Gurdaspur<br><b>Sub-District Code: </b>204<br><b>Name: </b>Dera Baba Nanak  <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>122357<br><b>Total Population: </b>124295<br><b>Percentage: </b>98.44<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(122357 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "00205": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Kapurthala <br><b>Sub-District Code: </b>205<br><b>Name: </b>Bhulath<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>102018<br><b>Total Population: </b>104354<br><b>Percentage: </b>97.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(102018 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "00206": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Kapurthala <br><b>Sub-District Code: </b>206<br><b>Name: </b>Kapurthala <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>307116<br><b>Total Population: </b>341631<br><b>Percentage: </b>89.9<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(307116 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(89.9%)</td><td title=\"Hindi&#013;(28407 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(250,142,1,1);\">hin.. <br>(8.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "00207": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Kapurthala <br><b>Sub-District Code: </b>207<br><b>Name: </b>Sultanpur Lodhi <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>118575<br><b>Total Population: </b>121816<br><b>Percentage: </b>97.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(118575 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "00208": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Kapurthala <br><b>Sub-District Code: </b>208<br><b>Name: </b>Phagwara <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>215751<br><b>Total Population: </b>247367<br><b>Percentage: </b>87.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(215751 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(87.2%)</td><td title=\"Hindi&#013;(25682 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(250,142,1,1);\">hin.. <br>(10.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "00209": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Jalandhar<br><b>Sub-District Code: </b>209<br><b>Name: </b>Shahkot<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>163886<br><b>Total Population: </b>166532<br><b>Percentage: </b>98.41<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(163886 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "00210": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Jalandhar<br><b>Sub-District Code: </b>210<br><b>Name: </b>Nakodar<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>199420<br><b>Total Population: </b>208157<br><b>Percentage: </b>95.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(199420 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(95.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "00211": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Jalandhar<br><b>Sub-District Code: </b>211<br><b>Name: </b>Phillaur<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>362387<br><b>Total Population: </b>381732<br><b>Percentage: </b>94.93<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(362387 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.9%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.1%)</td></tr></table><br>"
+        },
+        "00212": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Jalandhar<br><b>Sub-District Code: </b>212<br><b>Name: </b>Jalandhar - I<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>937390<br><b>Total Population: </b>1145692<br><b>Percentage: </b>81.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(937390 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(81.8%)</td><td title=\"Hindi&#013;(171802 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(250,142,1,1);\">hin.. <br>(15.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "00213": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Jalandhar<br><b>Sub-District Code: </b>213<br><b>Name: </b>Jalandhar - II<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>270613<br><b>Total Population: </b>291477<br><b>Percentage: </b>92.84<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(270613 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(92.8%)</td><td title=\"Hindi&#013;(17562 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(250,142,1,1);\">hin.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00214": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Hoshiarpur<br><b>Sub-District Code: </b>214<br><b>Name: </b>Dasua<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>345335<br><b>Total Population: </b>360505<br><b>Percentage: </b>95.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(345335 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(95.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "00215": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Hoshiarpur<br><b>Sub-District Code: </b>215<br><b>Name: </b>Mukerian <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>322455<br><b>Total Population: </b>335063<br><b>Percentage: </b>96.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(322455 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(96.2%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.8%)</td></tr></table><br>"
+        },
+        "00216": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Hoshiarpur<br><b>Sub-District Code: </b>216<br><b>Name: </b>Hoshiarpur <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>506455<br><b>Total Population: </b>560346<br><b>Percentage: </b>90.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(506455 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(90.4%)</td><td title=\"Hindi&#013;(47037 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(250,142,1,1);\">hin.. <br>(8.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00217": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Hoshiarpur<br><b>Sub-District Code: </b>217<br><b>Name: </b>Garhshankar<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>313037<br><b>Total Population: </b>330711<br><b>Percentage: </b>94.66<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(313037 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.7%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "00218": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Shahid Bhagat Singh Nagar <br><b>Sub-District Code: </b>218<br><b>Name: </b>Nawanshahr<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>401310<br><b>Total Population: </b>423546<br><b>Percentage: </b>94.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(401310 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.8%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.2%)</td></tr></table><br>"
+        },
+        "00219": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Shahid Bhagat Singh Nagar <br><b>Sub-District Code: </b>219<br><b>Name: </b>Balachaur<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>178138<br><b>Total Population: </b>188764<br><b>Percentage: </b>94.37<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(178138 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.4%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.6%)</td></tr></table><br>"
+        },
+        "00220": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Fatehgarh Sahib<br><b>Sub-District Code: </b>220<br><b>Name: </b>Bassi Pathana<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>93681<br><b>Total Population: </b>96163<br><b>Percentage: </b>97.42<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(93681 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "00221": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Fatehgarh Sahib<br><b>Sub-District Code: </b>221<br><b>Name: </b>Fatehgarh Sahib<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>191109<br><b>Total Population: </b>202334<br><b>Percentage: </b>94.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(191109 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.5%)</td><td title=\"Hindi&#013;(10553 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "00222": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Fatehgarh Sahib<br><b>Sub-District Code: </b>222<br><b>Name: </b>Amloh<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>168126<br><b>Total Population: </b>210628<br><b>Percentage: </b>79.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(168126 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(79.8%)</td><td title=\"Hindi&#013;(38868 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(250,142,1,1);\">hin.. <br>(18.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00223": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Fatehgarh Sahib<br><b>Sub-District Code: </b>223<br><b>Name: </b>Khamanon<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>86759<br><b>Total Population: </b>91038<br><b>Percentage: </b>95.3<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(86759 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(95.3%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "00224": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Ludhiana<br><b>Sub-District Code: </b>224<br><b>Name: </b>Samrala<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>208602<br><b>Total Population: </b>223385<br><b>Percentage: </b>93.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(208602 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(93.4%)</td><td title=\"Hindi&#013;(13310 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(250,142,1,1);\">hin.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "00225": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Ludhiana<br><b>Sub-District Code: </b>225<br><b>Name: </b>Khanna<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>197705<br><b>Total Population: </b>222297<br><b>Percentage: </b>88.94<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(197705 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(88.9%)</td><td title=\"Hindi&#013;(22902 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(250,142,1,1);\">hin.. <br>(10.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "00226": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Ludhiana<br><b>Sub-District Code: </b>226<br><b>Name: </b>Payal<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>203389<br><b>Total Population: </b>213545<br><b>Percentage: </b>95.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(203389 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(95.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.8%)</td></tr></table><br>"
+        },
+        "00227": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Ludhiana<br><b>Sub-District Code: </b>227<br><b>Name: </b>Ludhiana (East)<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>1349666<br><b>Total Population: </b>1934225<br><b>Percentage: </b>69.78<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(1349666 people)\" style=\"border: 1px solid white;width: 69vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(69.8%)</td><td title=\"Hindi&#013;(519381 people)\" style=\"border: 1px solid white;width: 26vw; background-color: rgba(250,142,1,1);\">hin.. <br>(26.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.3%)</td></tr></table><br>"
+        },
+        "00228": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Ludhiana<br><b>Sub-District Code: </b>228<br><b>Name: </b>Ludhiana (West)<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>307572<br><b>Total Population: </b>362602<br><b>Percentage: </b>84.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(307572 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(84.8%)</td><td title=\"Hindi&#013;(51883 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(250,142,1,1);\">hin.. <br>(14.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "00229": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Ludhiana<br><b>Sub-District Code: </b>229<br><b>Name: </b>Raikot<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>190785<br><b>Total Population: </b>201451<br><b>Percentage: </b>94.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(190785 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.7%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "00230": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Ludhiana<br><b>Sub-District Code: </b>230<br><b>Name: </b>Jagraon<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>329220<br><b>Total Population: </b>341234<br><b>Percentage: </b>96.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(329220 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(96.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "00231": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Moga<br><b>Sub-District Code: </b>231<br><b>Name: </b>Nihal Singhwala<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>167691<br><b>Total Population: </b>170609<br><b>Percentage: </b>98.29<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(167691 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00232": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Moga<br><b>Sub-District Code: </b>232<br><b>Name: </b>Bagha Purana<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>219928<br><b>Total Population: </b>225649<br><b>Percentage: </b>97.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(219928 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "00233": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Moga<br><b>Sub-District Code: </b>233<br><b>Name: </b>Moga<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>570344<br><b>Total Population: </b>599488<br><b>Percentage: </b>95.14<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(570344 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(95.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.9%)</td></tr></table><br>"
+        },
+        "00234": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Firozpur<br><b>Sub-District Code: </b>234<br><b>Name: </b>Zira<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>254267<br><b>Total Population: </b>258438<br><b>Percentage: </b>98.39<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(254267 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(98.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.6%)</td></tr></table><br>"
+        },
+        "00235": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Firozpur<br><b>Sub-District Code: </b>235<br><b>Name: </b>Firozpur<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>506217<br><b>Total Population: </b>567191<br><b>Percentage: </b>89.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(506217 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(89.2%)</td><td title=\"Hindi&#013;(49564 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(250,142,1,1);\">hin.. <br>(8.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "00236": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Firozpur<br><b>Sub-District Code: </b>236<br><b>Name: </b>Jalalabad <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>343615<br><b>Total Population: </b>356027<br><b>Percentage: </b>96.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(343615 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(96.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "00237": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Firozpur<br><b>Sub-District Code: </b>237<br><b>Name: </b>Fazilka<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>304138<br><b>Total Population: </b>404152<br><b>Percentage: </b>75.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(304138 people)\" style=\"border: 1px solid white;width: 75vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(75.3%)</td><td title=\"Bagri Rajasthani&#013;(68782 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(128, 128, 128, 0.8);\">bag.. <br>(17.0%)</td><td title=\"Hindi&#013;(28273 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(250,142,1,1);\">hin.. <br>(7.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00238": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Firozpur<br><b>Sub-District Code: </b>238<br><b>Name: </b>Abohar <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>225237<br><b>Total Population: </b>443266<br><b>Percentage: </b>50.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(225237 people)\" style=\"border: 1px solid white;width: 50vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(50.8%)</td><td title=\"Bagri Rajasthani&#013;(152392 people)\" style=\"border: 1px solid white;width: 34vw; background-color: rgba(128, 128, 128, 0.8);\">bag.. <br>(34.4%)</td><td title=\"Hindi&#013;(60121 people)\" style=\"border: 1px solid white;width: 13vw; background-color: rgba(250,142,1,1);\">hin.. <br>(13.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00239": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Muktsar<br><b>Sub-District Code: </b>239<br><b>Name: </b>Malout<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>311460<br><b>Total Population: </b>348165<br><b>Percentage: </b>89.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(311460 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(89.5%)</td><td title=\"Hindi&#013;(29497 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(250,142,1,1);\">hin.. <br>(8.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "00240": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Muktsar<br><b>Sub-District Code: </b>240<br><b>Name: </b>Gidderbaha<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>211236<br><b>Total Population: </b>222937<br><b>Percentage: </b>94.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(211236 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.8%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.2%)</td></tr></table><br>"
+        },
+        "00241": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Muktsar<br><b>Sub-District Code: </b>241<br><b>Name: </b>Muktsar<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>308250<br><b>Total Population: </b>330794<br><b>Percentage: </b>93.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(308250 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(93.2%)</td><td title=\"Hindi&#013;(21322 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(250,142,1,1);\">hin.. <br>(6.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "00242": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Faridkot<br><b>Sub-District Code: </b>242<br><b>Name: </b>Faridkot<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>416664<br><b>Total Population: </b>456578<br><b>Percentage: </b>91.26<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(416664 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(91.3%)</td><td title=\"Hindi&#013;(33001 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(250,142,1,1);\">hin.. <br>(7.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "00243": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Faridkot<br><b>Sub-District Code: </b>243<br><b>Name: </b>Jaitu<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>150160<br><b>Total Population: </b>160930<br><b>Percentage: </b>93.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(150160 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(93.3%)</td><td title=\"Hindi&#013;(9659 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(250,142,1,1);\">hin.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00244": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Bathinda<br><b>Sub-District Code: </b>244<br><b>Name: </b>Rampura Phul<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>308758<br><b>Total Population: </b>316669<br><b>Percentage: </b>97.5<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(308758 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "00245": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Bathinda<br><b>Sub-District Code: </b>245<br><b>Name: </b>Bathinda<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>641134<br><b>Total Population: </b>755926<br><b>Percentage: </b>84.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(641134 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(84.8%)</td><td title=\"Hindi&#013;(93614 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(250,142,1,1);\">hin.. <br>(12.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "00246": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Bathinda<br><b>Sub-District Code: </b>246<br><b>Name: </b>Talwandi Sabo<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>293695<br><b>Total Population: </b>315930<br><b>Percentage: </b>92.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(293695 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(93.0%)</td><td title=\"Hindi&#013;(19055 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(250,142,1,1);\">hin.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "00247": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Mansa<br><b>Sub-District Code: </b>247<br><b>Name: </b>Sardulgarh<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>163198<br><b>Total Population: </b>174234<br><b>Percentage: </b>93.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(163198 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(93.7%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.3%)</td></tr></table><br>"
+        },
+        "00248": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Mansa<br><b>Sub-District Code: </b>248<br><b>Name: </b>Budhlada<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>248886<br><b>Total Population: </b>254706<br><b>Percentage: </b>97.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(248886 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        },
+        "00249": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Mansa<br><b>Sub-District Code: </b>249<br><b>Name: </b>Mansa<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>330960<br><b>Total Population: </b>340811<br><b>Percentage: </b>97.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(330960 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "00250": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Patiala<br><b>Sub-District Code: </b>250<br><b>Name: </b>Samana<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>163940<br><b>Total Population: </b>173970<br><b>Percentage: </b>94.23<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(163940 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.2%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.8%)</td></tr></table><br>"
+        },
+        "00251": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Patiala<br><b>Sub-District Code: </b>251<br><b>Name: </b>Patran<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>185048<br><b>Total Population: </b>193683<br><b>Percentage: </b>95.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(185048 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(95.5%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.5%)</td></tr></table><br>"
+        },
+        "00252": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Patiala<br><b>Sub-District Code: </b>252<br><b>Name: </b>Nabha<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>264479<br><b>Total Population: </b>277236<br><b>Percentage: </b>95.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(264479 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(95.4%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.6%)</td></tr></table><br>"
+        },
+        "00253": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Patiala<br><b>Sub-District Code: </b>253<br><b>Name: </b>Patiala<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>746496<br><b>Total Population: </b>859786<br><b>Percentage: </b>86.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(746496 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(86.8%)</td><td title=\"Hindi&#013;(91798 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(250,142,1,1);\">hin.. <br>(10.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "00254": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Patiala<br><b>Sub-District Code: </b>254<br><b>Name: </b>Rajpura<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>338767<br><b>Total Population: </b>391011<br><b>Percentage: </b>86.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(338767 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(86.6%)</td><td title=\"Hindi&#013;(31512 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(250,142,1,1);\">hin.. <br>(8.1%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "00255": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Amritsar <br><b>Sub-District Code: </b>255<br><b>Name: </b>Ajnala<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>437946<br><b>Total Population: </b>442711<br><b>Percentage: </b>98.92<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(437946 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "00256": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Amritsar <br><b>Sub-District Code: </b>256<br><b>Name: </b>Amritsar -I  <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>301563<br><b>Total Population: </b>312240<br><b>Percentage: </b>96.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(301563 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(96.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "00257": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Amritsar <br><b>Sub-District Code: </b>257<br><b>Name: </b>Amritsar- II <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>1295519<br><b>Total Population: </b>1415214<br><b>Percentage: </b>91.54<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(1295519 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(91.5%)</td><td title=\"Hindi&#013;(102991 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(250,142,1,1);\">hin.. <br>(7.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "00258": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Amritsar <br><b>Sub-District Code: </b>258<br><b>Name: </b>Baba Bakala <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>313545<br><b>Total Population: </b>320491<br><b>Percentage: </b>97.83<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(313545 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "00259": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Tarn Taran<br><b>Sub-District Code: </b>259<br><b>Name: </b>Tarn Taran<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>489547<br><b>Total Population: </b>493625<br><b>Percentage: </b>99.17<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(489547 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "00260": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Tarn Taran<br><b>Sub-District Code: </b>260<br><b>Name: </b>Patti <br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>432444<br><b>Total Population: </b>438190<br><b>Percentage: </b>98.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(432444 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "00261": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Tarn Taran<br><b>Sub-District Code: </b>261<br><b>Name: </b>Khadur Sahib<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>186323<br><b>Total Population: </b>187812<br><b>Percentage: </b>99.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(186323 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "00262": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Rupnagar<br><b>Sub-District Code: </b>262<br><b>Name: </b>Anandpur Sahib<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>187568<br><b>Total Population: </b>194445<br><b>Percentage: </b>96.46<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(187568 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(96.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "00263": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Rupnagar<br><b>Sub-District Code: </b>263<br><b>Name: </b>Nangal<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>120647<br><b>Total Population: </b>133585<br><b>Percentage: </b>90.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(120647 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(90.3%)</td><td title=\"Hindi&#013;(11972 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(250,142,1,1);\">hin.. <br>(9.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "00264": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Rupnagar<br><b>Sub-District Code: </b>264<br><b>Name: </b>Rup Nagar<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>157004<br><b>Total Population: </b>181256<br><b>Percentage: </b>86.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(157004 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(86.6%)</td><td title=\"Hindi&#013;(21229 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(250,142,1,1);\">hin.. <br>(11.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00265": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Rupnagar<br><b>Sub-District Code: </b>265<br><b>Name: </b>Chamkaur Sahib<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>168942<br><b>Total Population: </b>175341<br><b>Percentage: </b>96.35<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(168942 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(96.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.6%)</td></tr></table><br>"
+        },
+        "00266": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sahibzada Ajit Singh Nagar<br><b>Sub-District Code: </b>266<br><b>Name: </b>Kharar<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>269017<br><b>Total Population: </b>329763<br><b>Percentage: </b>81.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(269017 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(81.6%)</td><td title=\"Hindi&#013;(54891 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(250,142,1,1);\">hin.. <br>(16.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "00267": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sahibzada Ajit Singh Nagar<br><b>Sub-District Code: </b>267<br><b>Name: </b>SAS Nagar (Mohali)<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>241724<br><b>Total Population: </b>324375<br><b>Percentage: </b>74.52<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(241724 people)\" style=\"border: 1px solid white;width: 74vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(74.5%)</td><td title=\"Hindi&#013;(72619 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(250,142,1,1);\">hin.. <br>(22.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.1%)</td></tr></table><br>"
+        },
+        "00268": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sahibzada Ajit Singh Nagar<br><b>Sub-District Code: </b>268<br><b>Name: </b>Dera Bassi<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>232413<br><b>Total Population: </b>340490<br><b>Percentage: </b>68.26<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(232413 people)\" style=\"border: 1px solid white;width: 68vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(68.3%)</td><td title=\"Hindi&#013;(95481 people)\" style=\"border: 1px solid white;width: 28vw; background-color: rgba(250,142,1,1);\">hin.. <br>(28.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.7%)</td></tr></table><br>"
+        },
+        "00269": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sangrur<br><b>Sub-District Code: </b>269<br><b>Name: </b>Malerkotla<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>406952<br><b>Total Population: </b>429754<br><b>Percentage: </b>94.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(406952 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(94.7%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "00270": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sangrur<br><b>Sub-District Code: </b>270<br><b>Name: </b>Dhuri<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>252920<br><b>Total Population: </b>261247<br><b>Percentage: </b>96.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(252920 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(96.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "00271": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sangrur<br><b>Sub-District Code: </b>271<br><b>Name: </b>Sangrur<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>346628<br><b>Total Population: </b>362882<br><b>Percentage: </b>95.52<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(346628 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(95.5%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.5%)</td></tr></table><br>"
+        },
+        "00272": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sangrur<br><b>Sub-District Code: </b>272<br><b>Name: </b>Sunam<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>325020<br><b>Total Population: </b>334641<br><b>Percentage: </b>97.12<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(325020 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "00273": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sangrur<br><b>Sub-District Code: </b>273<br><b>Name: </b>Lehra<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>130149<br><b>Total Population: </b>132382<br><b>Percentage: </b>98.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(130149 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "00274": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Sangrur<br><b>Sub-District Code: </b>274<br><b>Name: </b>Moonak<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>108531<br><b>Total Population: </b>134263<br><b>Percentage: </b>80.83<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(108531 people)\" style=\"border: 1px solid white;width: 80vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(80.8%)</td><td title=\"Haryanvi&#013;(16906 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(139, 0, 0, 0.7);\">har.. <br>(12.6%)</td><td title=\"Hindi&#013;(8043 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(250,142,1,1);\">hin.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "00275": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Barnala<br><b>Sub-District Code: </b>275<br><b>Name: </b>Barnala<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>365057<br><b>Total Population: </b>388699<br><b>Percentage: </b>93.92<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(365057 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(93.9%)</td><td title=\"Hindi&#013;(20618 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(250,142,1,1);\">hin.. <br>(5.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "00276": {
+            "color": "rgba(254,2,95,0.8)",
+            "matter": "<b>State: </b>PUNJAB<br><b>District: </b>Barnala<br><b>Sub-District Code: </b>276<br><b>Name: </b>Tapa<br><b>Largest Language: </b>Punjabi<br><b>punjabi Population: </b>201523<br><b>Total Population: </b>206828<br><b>Percentage: </b>97.44<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Punjabi&#013;(201523 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,2,95,0.8);\">punjabi <br>(97.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        }
+    }
+}

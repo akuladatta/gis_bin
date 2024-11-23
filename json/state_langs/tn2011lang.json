@@ -1,0 +1,876 @@
+{
+    "title": "Languages of TAMIL NADU",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Tamil</td><td style='background-color: rgba(208,0,75, 1)'></td><td title='total population: 67384199'>87.75%</td><td>215</td></tr><tr><td>Telugu</td><td style='background-color: rgba(64, 224, 208, 1)'></td><td title='total population: 4666492'>6.08%</td><td>0</td></tr><tr><td>Urdu</td><td style='background-color: rgba(173, 255, 47, 0.8)'></td><td title='total population: 1462894'>1.9%</td><td>0</td></tr><tr><td>Kannada</td><td style='background-color: rgba(253,176,0, 1)'></td><td title='total population: 1163597'>1.52%</td><td>0</td></tr><tr><td>Malayalam</td><td style='background-color: rgba(254,253,5, 1)'></td><td title='total population: 823968'>1.07%</td><td>1</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>1.68%</td><td>0</td></tr></table>",
+    "data": {
+        "05693": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5693<br><b>Name: </b>Gummidipoondi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>156239<br><b>Total Population: </b>190541<br><b>Percentage: </b>82.0<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(156239 people)\" style=\"border: 1px solid white;width: 82vw; background-color: rgba(208,0,75, 1);\">tamil <br>(82.0%)</td><td title=\"Telugu&#013;(26675 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(14.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "05694": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5694<br><b>Name: </b>Ponneri<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>341525<br><b>Total Population: </b>389862<br><b>Percentage: </b>87.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(341525 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(208,0,75, 1);\">tamil <br>(87.6%)</td><td title=\"Telugu&#013;(37218 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "05695": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5695<br><b>Name: </b>Uthukkottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>121426<br><b>Total Population: </b>152631<br><b>Percentage: </b>79.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(121426 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(208,0,75, 1);\">tamil <br>(79.6%)</td><td title=\"Telugu&#013;(27116 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(17.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "05696": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5696<br><b>Name: </b>Tiruttani<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>166564<br><b>Total Population: </b>211291<br><b>Percentage: </b>78.83<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(166564 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(208,0,75, 1);\">tamil <br>(78.8%)</td><td title=\"Telugu&#013;(37604 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(17.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "05697": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5697<br><b>Name: </b>Pallipattu<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>170809<br><b>Total Population: </b>214073<br><b>Percentage: </b>79.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(170809 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(208,0,75, 1);\">tamil <br>(79.8%)</td><td title=\"Telugu&#013;(39666 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(18.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "05698": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5698<br><b>Name: </b>Thiruvallur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>354333<br><b>Total Population: </b>407048<br><b>Percentage: </b>87.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(354333 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(208,0,75, 1);\">tamil <br>(87.0%)</td><td title=\"Telugu&#013;(42273 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(10.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "05699": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5699<br><b>Name: </b>Poonamallee<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>537362<br><b>Total Population: </b>659922<br><b>Percentage: </b>81.43<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(537362 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(208,0,75, 1);\">tamil <br>(81.4%)</td><td title=\"Telugu&#013;(73681 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(11.2%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.4%)</td></tr></table><br>"
+        },
+        "05700": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5700<br><b>Name: </b>Ambattur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>759467<br><b>Total Population: </b>906580<br><b>Percentage: </b>83.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(759467 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(208,0,75, 1);\">tamil <br>(83.8%)</td><td title=\"Telugu&#013;(84276 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.3%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.9%)</td></tr></table><br>"
+        },
+        "05701": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvallur<br><b>Sub-District Code: </b>5701<br><b>Name: </b>Mathavaram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>504341<br><b>Total Population: </b>596156<br><b>Percentage: </b>84.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(504341 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(208,0,75, 1);\">tamil <br>(84.6%)</td><td title=\"Telugu&#013;(46576 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(7.8%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.6%)</td></tr></table><br>"
+        },
+        "05925": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Chennai<br><b>Sub-District Code: </b>5925<br><b>Name: </b>Chennai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>3640352<br><b>Total Population: </b>4646732<br><b>Percentage: </b>78.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(3640352 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(208,0,75, 1);\">tamil <br>(78.3%)</td><td title=\"Telugu&#013;(432276 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.3%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.4%)</td></tr></table><br>"
+        },
+        "99999": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Chennai<br><b>Sub-District Code: </b>99999<br><b>Name: </b>Area not under any Sub-district<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>3640352<br><b>Total Population: </b>4646732<br><b>Percentage: </b>78.34<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(3640352 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(208,0,75, 1);\">tamil <br>(78.3%)</td><td title=\"Telugu&#013;(432276 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.3%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.4%)</td></tr></table><br>"
+        },
+        "05702": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5702<br><b>Name: </b>Sriperumbudur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>462818<br><b>Total Population: </b>510836<br><b>Percentage: </b>90.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(462818 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(208,0,75, 1);\">tamil <br>(90.6%)</td><td title=\"Telugu&#013;(26517 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.2%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "05703": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5703<br><b>Name: </b>Tambaram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>324233<br><b>Total Population: </b>383718<br><b>Percentage: </b>84.5<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(324233 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(208,0,75, 1);\">tamil <br>(84.5%)</td><td title=\"Telugu&#013;(29959 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(7.8%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.7%)</td></tr></table><br>"
+        },
+        "05704": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5704<br><b>Name: </b>Alandur <br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>536421<br><b>Total Population: </b>642237<br><b>Percentage: </b>83.52<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(536421 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(208,0,75, 1);\">tamil <br>(83.5%)</td><td title=\"Telugu&#013;(51825 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(8.1%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.4%)</td></tr></table><br>"
+        },
+        "05705": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5705<br><b>Name: </b>Sholinganallur <br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>499340<br><b>Total Population: </b>563342<br><b>Percentage: </b>88.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(499340 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(208,0,75, 1);\">tamil <br>(88.6%)</td><td title=\"Telugu&#013;(30657 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.4%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.0%)</td></tr></table><br>"
+        },
+        "05706": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5706<br><b>Name: </b>Chengalpattu<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>529435<br><b>Total Population: </b>573406<br><b>Percentage: </b>92.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(529435 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.3%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.7%)</td></tr></table><br>"
+        },
+        "05707": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5707<br><b>Name: </b>Kancheepuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>455638<br><b>Total Population: </b>497711<br><b>Percentage: </b>91.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(455638 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.5%)</td></tr></table><br>"
+        },
+        "05708": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5708<br><b>Name: </b>Uthiramerur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>139535<br><b>Total Population: </b>148133<br><b>Percentage: </b>94.2<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(139535 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(208,0,75, 1);\">tamil <br>(94.2%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.8%)</td></tr></table><br>"
+        },
+        "05709": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5709<br><b>Name: </b>Tirukalukundram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>187060<br><b>Total Population: </b>196897<br><b>Percentage: </b>95.0<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(187060 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.0%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.0%)</td></tr></table><br>"
+        },
+        "05710": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5710<br><b>Name: </b>Maduranthakam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>264695<br><b>Total Population: </b>275953<br><b>Percentage: </b>95.92<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(264695 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "05711": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kancheepuram<br><b>Sub-District Code: </b>5711<br><b>Name: </b>Cheyyur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>201668<br><b>Total Population: </b>206019<br><b>Percentage: </b>97.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(201668 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "05712": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5712<br><b>Name: </b>Gudiyatham<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>294688<br><b>Total Population: </b>425353<br><b>Percentage: </b>69.28<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(294688 people)\" style=\"border: 1px solid white;width: 69vw; background-color: rgba(208,0,75, 1);\">tamil <br>(69.3%)</td><td title=\"Telugu&#013;(63855 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(15.0%)</td><td title=\"Urdu&#013;(63488 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(14.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05713": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5713<br><b>Name: </b>Katpadi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>327251<br><b>Total Population: </b>391100<br><b>Percentage: </b>83.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(327251 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(208,0,75, 1);\">tamil <br>(83.7%)</td><td title=\"Telugu&#013;(45407 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(11.6%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.7%)</td></tr></table><br>"
+        },
+        "05714": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5714<br><b>Name: </b>Wallajah<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>364543<br><b>Total Population: </b>444758<br><b>Percentage: </b>81.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(364543 people)\" style=\"border: 1px solid white;width: 82vw; background-color: rgba(208,0,75, 1);\">tamil <br>(82.0%)</td><td title=\"Urdu&#013;(50447 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(11.3%)</td><td title=\"Telugu&#013;(22300 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "05715": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5715<br><b>Name: </b>Arakonam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>441284<br><b>Total Population: </b>504026<br><b>Percentage: </b>87.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(441284 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(208,0,75, 1);\">tamil <br>(87.6%)</td><td title=\"Telugu&#013;(46102 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.3%)</td></tr></table><br>"
+        },
+        "05716": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5716<br><b>Name: </b>Arcot<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>224817<br><b>Total Population: </b>250517<br><b>Percentage: </b>89.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(224817 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.7%)</td><td title=\"Telugu&#013;(12500 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "05717": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5717<br><b>Name: </b>Vellore<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>569708<br><b>Total Population: </b>696110<br><b>Percentage: </b>81.84<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(569708 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(208,0,75, 1);\">tamil <br>(81.8%)</td><td title=\"Urdu&#013;(73572 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(10.6%)</td><td title=\"Telugu&#013;(42668 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "05718": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5718<br><b>Name: </b>Vaniyambadi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>239420<br><b>Total Population: </b>336548<br><b>Percentage: </b>71.14<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(239420 people)\" style=\"border: 1px solid white;width: 71vw; background-color: rgba(208,0,75, 1);\">tamil <br>(71.1%)</td><td title=\"Urdu&#013;(64611 people)\" style=\"border: 1px solid white;width: 19vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(19.2%)</td><td title=\"Telugu&#013;(20282 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.7%)</td></tr></table><br>"
+        },
+        "05719": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5719<br><b>Name: </b>Ambur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>218183<br><b>Total Population: </b>326211<br><b>Percentage: </b>66.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(218183 people)\" style=\"border: 1px solid white;width: 66vw; background-color: rgba(208,0,75, 1);\">tamil <br>(66.9%)</td><td title=\"Urdu&#013;(66890 people)\" style=\"border: 1px solid white;width: 20vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(20.5%)</td><td title=\"Telugu&#013;(37178 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(11.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "05720": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Vellore<br><b>Sub-District Code: </b>5720<br><b>Name: </b>Tirupathur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>482521<br><b>Total Population: </b>561708<br><b>Percentage: </b>85.9<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(482521 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(208,0,75, 1);\">tamil <br>(85.9%)</td><td title=\"Urdu&#013;(32990 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(5.9%)</td><td title=\"Telugu&#013;(28626 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.1%)</td></tr></table><br>"
+        },
+        "05721": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruvannamalai<br><b>Sub-District Code: </b>5721<br><b>Name: </b>Arani<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>269863<br><b>Total Population: </b>294976<br><b>Percentage: </b>91.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(269863 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.5%)</td></tr></table><br>"
+        },
+        "05722": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruvannamalai<br><b>Sub-District Code: </b>5722<br><b>Name: </b>Cheyyar<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>325530<br><b>Total Population: </b>338612<br><b>Percentage: </b>96.14<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(325530 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.1%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "05723": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruvannamalai<br><b>Sub-District Code: </b>5723<br><b>Name: </b>Vandavasi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>323432<br><b>Total Population: </b>336121<br><b>Percentage: </b>96.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(323432 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.2%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.8%)</td></tr></table><br>"
+        },
+        "05724": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruvannamalai<br><b>Sub-District Code: </b>5724<br><b>Name: </b>Polur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>431895<br><b>Total Population: </b>449860<br><b>Percentage: </b>96.01<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(431895 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "05725": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruvannamalai<br><b>Sub-District Code: </b>5725<br><b>Name: </b>Chengam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>262697<br><b>Total Population: </b>283917<br><b>Percentage: </b>92.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(262697 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.5%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.5%)</td></tr></table><br>"
+        },
+        "05726": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruvannamalai<br><b>Sub-District Code: </b>5726<br><b>Name: </b>Thandrampet<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>165922<br><b>Total Population: </b>179553<br><b>Percentage: </b>92.41<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(165922 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.4%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.6%)</td></tr></table><br>"
+        },
+        "05727": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruvannamalai<br><b>Sub-District Code: </b>5727<br><b>Name: </b>Tiruvannamalai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>544911<br><b>Total Population: </b>581836<br><b>Percentage: </b>93.65<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(544911 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(208,0,75, 1);\">tamil <br>(93.7%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.3%)</td></tr></table><br>"
+        },
+        "05728": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Viluppuram<br><b>Sub-District Code: </b>5728<br><b>Name: </b>Gingee<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>406339<br><b>Total Population: </b>423942<br><b>Percentage: </b>95.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(406339 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "05729": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Viluppuram<br><b>Sub-District Code: </b>5729<br><b>Name: </b>Tindivanam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>431074<br><b>Total Population: </b>446682<br><b>Percentage: </b>96.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(431074 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "05730": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Viluppuram<br><b>Sub-District Code: </b>5730<br><b>Name: </b>Vanur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>193384<br><b>Total Population: </b>196422<br><b>Percentage: </b>98.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(193384 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "05731": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Viluppuram<br><b>Sub-District Code: </b>5731<br><b>Name: </b>Viluppuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>677911<br><b>Total Population: </b>697569<br><b>Percentage: </b>97.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(677911 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "05732": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Viluppuram<br><b>Sub-District Code: </b>5732<br><b>Name: </b>Tirukkoyilur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>435381<br><b>Total Population: </b>446531<br><b>Percentage: </b>97.5<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(435381 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.5%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "05733": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Viluppuram<br><b>Sub-District Code: </b>5733<br><b>Name: </b>Sankarapuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>387884<br><b>Total Population: </b>407970<br><b>Percentage: </b>95.08<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(387884 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.9%)</td></tr></table><br>"
+        },
+        "05734": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Viluppuram<br><b>Sub-District Code: </b>5734<br><b>Name: </b>Kallakkurichi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>446215<br><b>Total Population: </b>466136<br><b>Percentage: </b>95.73<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(446215 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.7%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.3%)</td></tr></table><br>"
+        },
+        "05735": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Viluppuram<br><b>Sub-District Code: </b>5735<br><b>Name: </b>Ulundurpettai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>364562<br><b>Total Population: </b>373621<br><b>Percentage: </b>97.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(364562 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "05736": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5736<br><b>Name: </b>Mettur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>376961<br><b>Total Population: </b>419887<br><b>Percentage: </b>89.78<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(376961 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.8%)</td><td title=\"Telugu&#013;(21082 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.2%)</td></tr></table><br>"
+        },
+        "05737": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5737<br><b>Name: </b>Omalur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>452801<br><b>Total Population: </b>494355<br><b>Percentage: </b>91.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(452801 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.6%)</td><td title=\"Telugu&#013;(32990 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "05738": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5738<br><b>Name: </b>Edappadi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>215909<br><b>Total Population: </b>223756<br><b>Percentage: </b>96.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(215909 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "05739": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5739<br><b>Name: </b>Sankari<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>223662<br><b>Total Population: </b>241783<br><b>Percentage: </b>92.51<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(223662 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.5%)</td><td title=\"Telugu&#013;(13777 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "05740": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5740<br><b>Name: </b>Salem<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>1008476<br><b>Total Population: </b>1272743<br><b>Percentage: </b>79.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(1008476 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(208,0,75, 1);\">tamil <br>(79.2%)</td><td title=\"Telugu&#013;(117330 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.2%)</td><td style=\"border: 1px solid white;width: 11vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(11.6%)</td></tr></table><br>"
+        },
+        "05741": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5741<br><b>Name: </b>Yercaud<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>40873<br><b>Total Population: </b>41869<br><b>Percentage: </b>97.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(40873 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "05742": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5742<br><b>Name: </b>Vazhapadi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>188725<br><b>Total Population: </b>195412<br><b>Percentage: </b>96.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(188725 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.4%)</td></tr></table><br>"
+        },
+        "05743": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5743<br><b>Name: </b>Attur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>416905<br><b>Total Population: </b>430949<br><b>Percentage: </b>96.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(416905 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.3%)</td></tr></table><br>"
+        },
+        "05744": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Salem<br><b>Sub-District Code: </b>5744<br><b>Name: </b>Gangavalli<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>156633<br><b>Total Population: </b>161302<br><b>Percentage: </b>97.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(156633 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "05745": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Namakkal   <br><b>Sub-District Code: </b>5745<br><b>Name: </b>Tiruchengode<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>533620<br><b>Total Population: </b>631507<br><b>Percentage: </b>84.5<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(533620 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(208,0,75, 1);\">tamil <br>(84.5%)</td><td title=\"Telugu&#013;(57186 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.1%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.4%)</td></tr></table><br>"
+        },
+        "05746": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Namakkal   <br><b>Sub-District Code: </b>5746<br><b>Name: </b>Rasipuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>310018<br><b>Total Population: </b>340515<br><b>Percentage: </b>91.04<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(310018 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.0%)</td><td title=\"Telugu&#013;(20844 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "05747": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Namakkal   <br><b>Sub-District Code: </b>5747<br><b>Name: </b>Namakkal<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>470365<br><b>Total Population: </b>541488<br><b>Percentage: </b>86.87<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(470365 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(208,0,75, 1);\">tamil <br>(86.9%)</td><td title=\"Telugu&#013;(56029 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(10.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "05748": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Namakkal   <br><b>Sub-District Code: </b>5748<br><b>Name: </b>Paramathi-Velur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>189471<br><b>Total Population: </b>213091<br><b>Percentage: </b>88.92<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(189471 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(208,0,75, 1);\">tamil <br>(88.9%)</td><td title=\"Telugu&#013;(20869 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "05749": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Erode<br><b>Sub-District Code: </b>5749<br><b>Name: </b>Sathyamangalam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>169809<br><b>Total Population: </b>327441<br><b>Percentage: </b>51.86<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(169809 people)\" style=\"border: 1px solid white;width: 51vw; background-color: rgba(208,0,75, 1);\">tamil <br>(51.9%)</td><td title=\"Kannada&#013;(79051 people)\" style=\"border: 1px solid white;width: 24vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(24.1%)</td><td title=\"Telugu&#013;(67166 people)\" style=\"border: 1px solid white;width: 20vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(20.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "05750": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Erode<br><b>Sub-District Code: </b>5750<br><b>Name: </b>Bhavani<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>390070<br><b>Total Population: </b>459517<br><b>Percentage: </b>84.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(390070 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(208,0,75, 1);\">tamil <br>(84.9%)</td><td title=\"Telugu&#013;(41546 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.0%)</td><td title=\"Kannada&#013;(22954 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05751": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Erode<br><b>Sub-District Code: </b>5751<br><b>Name: </b>Gobichettipalayam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>318374<br><b>Total Population: </b>376351<br><b>Percentage: </b>84.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(318374 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(208,0,75, 1);\">tamil <br>(84.6%)</td><td title=\"Telugu&#013;(47276 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(12.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "05752": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Erode<br><b>Sub-District Code: </b>5752<br><b>Name: </b>Perundurai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>228149<br><b>Total Population: </b>266106<br><b>Percentage: </b>85.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(228149 people)\" style=\"border: 1px solid white;width: 85vw; background-color: rgba(208,0,75, 1);\">tamil <br>(85.7%)</td><td title=\"Telugu&#013;(28304 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(10.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.7%)</td></tr></table><br>"
+        },
+        "05753": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Erode<br><b>Sub-District Code: </b>5753<br><b>Name: </b>Erode<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>734520<br><b>Total Population: </b>822329<br><b>Percentage: </b>89.32<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(734520 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.3%)</td><td title=\"Telugu&#013;(48078 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.9%)</td></tr></table><br>"
+        },
+        "05754": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>The Nilgiris<br><b>Sub-District Code: </b>5754<br><b>Name: </b>Panthalur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>66376<br><b>Total Population: </b>125931<br><b>Percentage: </b>52.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(66376 people)\" style=\"border: 1px solid white;width: 52vw; background-color: rgba(208,0,75, 1);\">tamil <br>(52.7%)</td><td title=\"Malayalam&#013;(49853 people)\" style=\"border: 1px solid white;width: 39vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(39.6%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.7%)</td></tr></table><br>"
+        },
+        "05755": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>The Nilgiris<br><b>Sub-District Code: </b>5755<br><b>Name: </b>Gudalur<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>45813<br><b>Total Population: </b>104768<br><b>Percentage: </b>43.73<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(45813 people)\" style=\"border: 1px solid white;width: 43vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(43.7%)</td><td title=\"Tamil&#013;(40628 people)\" style=\"border: 1px solid white;width: 38vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(38.8%)</td><td style=\"border: 1px solid white;width: 17vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(17.5%)</td></tr></table><br>"
+        },
+        "05756": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>The Nilgiris<br><b>Sub-District Code: </b>5756<br><b>Name: </b>Udhagamandalam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>88896<br><b>Total Population: </b>191960<br><b>Percentage: </b>46.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(88896 people)\" style=\"border: 1px solid white;width: 46vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(46.3%)</td><td title=\"Badaga&#013;(41213 people)\" style=\"border: 1px solid white;width: 21vw; background-color: rgba(127, 255, 212, 0.8);\">bad.. <br>(21.5%)</td><td title=\"Kannada&#013;(27070 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(14.1%)</td><td title=\"Telugu&#013;(11115 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.8%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.3%)</td></tr></table><br>"
+        },
+        "05757": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>The Nilgiris<br><b>Sub-District Code: </b>5757<br><b>Name: </b>Kotagiri<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>50392<br><b>Total Population: </b>108684<br><b>Percentage: </b>46.37<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(50392 people)\" style=\"border: 1px solid white;width: 46vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(46.4%)</td><td title=\"Badaga&#013;(34936 people)\" style=\"border: 1px solid white;width: 32vw; background-color: rgba(127, 255, 212, 0.8);\">bad.. <br>(32.1%)</td><td title=\"Malayalam&#013;(6188 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(5.7%)</td><td style=\"border: 1px solid white;width: 15vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(15.8%)</td></tr></table><br>"
+        },
+        "05758": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>The Nilgiris<br><b>Sub-District Code: </b>5758<br><b>Name: </b>Coonoor<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>92621<br><b>Total Population: </b>157744<br><b>Percentage: </b>58.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(92621 people)\" style=\"border: 1px solid white;width: 58vw; background-color: rgba(208,0,75, 1);\">tamil <br>(58.7%)</td><td title=\"Badaga&#013;(25975 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(127, 255, 212, 0.8);\">bad.. <br>(16.5%)</td><td title=\"Malayalam&#013;(11741 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(7.4%)</td><td title=\"Telugu&#013;(8464 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.4%)</td><td style=\"border: 1px solid white;width: 12vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(12.0%)</td></tr></table><br>"
+        },
+        "05759": {
+            "color": "rgba(127, 255, 212, 0.8)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>The Nilgiris<br><b>Sub-District Code: </b>5759<br><b>Name: </b>Kundah<br><b>Largest Language: </b>Badaga<br><b>badaga Population: </b>18844<br><b>Total Population: </b>46307<br><b>Percentage: </b>40.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Badaga&#013;(18844 people)\" style=\"border: 1px solid white;width: 40vw; background-color: rgba(127, 255, 212, 0.8);\">bad.. <br>(40.7%)</td><td title=\"Tamil&#013;(18090 people)\" style=\"border: 1px solid white;width: 39vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(39.1%)</td><td title=\"Kannada&#013;(3481 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(7.5%)</td><td title=\"Malayalam&#013;(2647 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(5.7%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.0%)</td></tr></table><br>"
+        },
+        "05760": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dindigul<br><b>Sub-District Code: </b>5760<br><b>Name: </b>Palani<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>254847<br><b>Total Population: </b>292301<br><b>Percentage: </b>87.19<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(254847 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(208,0,75, 1);\">tamil <br>(87.2%)</td><td title=\"Telugu&#013;(29028 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.9%)</td></tr></table><br>"
+        },
+        "05761": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dindigul<br><b>Sub-District Code: </b>5761<br><b>Name: </b>Oddanchatram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>165737<br><b>Total Population: </b>182600<br><b>Percentage: </b>90.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(165737 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(208,0,75, 1);\">tamil <br>(90.8%)</td><td title=\"Telugu&#013;(15086 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(8.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "05762": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dindigul<br><b>Sub-District Code: </b>5762<br><b>Name: </b>Vedasandur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>295823<br><b>Total Population: </b>324540<br><b>Percentage: </b>91.15<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(295823 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.2%)</td><td title=\"Telugu&#013;(23577 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(7.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "05763": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dindigul<br><b>Sub-District Code: </b>5763<br><b>Name: </b>Natham<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>157072<br><b>Total Population: </b>158687<br><b>Percentage: </b>98.98<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(157072 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "05764": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dindigul<br><b>Sub-District Code: </b>5764<br><b>Name: </b>Dindigul<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>587196<br><b>Total Population: </b>639910<br><b>Percentage: </b>91.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(587196 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.8%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.2%)</td></tr></table><br>"
+        },
+        "05765": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dindigul<br><b>Sub-District Code: </b>5765<br><b>Name: </b>Attur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>142013<br><b>Total Population: </b>159846<br><b>Percentage: </b>88.84<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(142013 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(208,0,75, 1);\">tamil <br>(88.8%)</td><td title=\"Kannada&#013;(12333 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(7.7%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.5%)</td></tr></table><br>"
+        },
+        "05766": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dindigul<br><b>Sub-District Code: </b>5766<br><b>Name: </b>Kodaikanal<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>112044<br><b>Total Population: </b>115250<br><b>Percentage: </b>97.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(112044 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "05767": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dindigul<br><b>Sub-District Code: </b>5767<br><b>Name: </b>Nilakkottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>261885<br><b>Total Population: </b>286641<br><b>Percentage: </b>91.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(261885 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.4%)</td><td title=\"Telugu&#013;(17212 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "05768": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Karur <br><b>Sub-District Code: </b>5768<br><b>Name: </b>Aravakurichi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>163035<br><b>Total Population: </b>183321<br><b>Percentage: </b>88.93<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(163035 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(208,0,75, 1);\">tamil <br>(88.9%)</td><td title=\"Telugu&#013;(15896 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(8.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "05769": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Karur <br><b>Sub-District Code: </b>5769<br><b>Name: </b>Karur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>411957<br><b>Total Population: </b>445389<br><b>Percentage: </b>92.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(411957 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.5%)</td><td title=\"Telugu&#013;(22262 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.5%)</td></tr></table><br>"
+        },
+        "05770": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Karur <br><b>Sub-District Code: </b>5770<br><b>Name: </b>Krishnarayapuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>111230<br><b>Total Population: </b>119213<br><b>Percentage: </b>93.3<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(111230 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(208,0,75, 1);\">tamil <br>(93.3%)</td><td title=\"Telugu&#013;(7688 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05771": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Karur <br><b>Sub-District Code: </b>5771<br><b>Name: </b>Kulithalai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>185657<br><b>Total Population: </b>206731<br><b>Percentage: </b>89.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(185657 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.8%)</td><td title=\"Telugu&#013;(19999 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05772": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Karur <br><b>Sub-District Code: </b>5772<br><b>Name: </b>Kadavur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>106885<br><b>Total Population: </b>109839<br><b>Percentage: </b>97.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(106885 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "05773": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5773<br><b>Name: </b>Thottiyam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>128928<br><b>Total Population: </b>135120<br><b>Percentage: </b>95.42<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(128928 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.4%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.6%)</td></tr></table><br>"
+        },
+        "05774": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5774<br><b>Name: </b>Musiri<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>227294<br><b>Total Population: </b>231655<br><b>Percentage: </b>98.12<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(227294 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "05775": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5775<br><b>Name: </b>Thuraiyur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>244534<br><b>Total Population: </b>249327<br><b>Percentage: </b>98.08<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(244534 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "05776": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5776<br><b>Name: </b>Manachanallur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>187905<br><b>Total Population: </b>192869<br><b>Percentage: </b>97.43<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(187905 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "05777": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5777<br><b>Name: </b>Lalgudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>251652<br><b>Total Population: </b>254865<br><b>Percentage: </b>98.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(251652 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "05778": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5778<br><b>Name: </b>Srirangam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>203030<br><b>Total Population: </b>207494<br><b>Percentage: </b>97.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(203030 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "05779": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5779<br><b>Name: </b>Tiruchirappalli<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>779665<br><b>Total Population: </b>850073<br><b>Percentage: </b>91.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(779665 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.7%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.3%)</td></tr></table><br>"
+        },
+        "05780": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5780<br><b>Name: </b>Thiruverumbur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>213774<br><b>Total Population: </b>225517<br><b>Percentage: </b>94.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(213774 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(208,0,75, 1);\">tamil <br>(94.8%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.2%)</td></tr></table><br>"
+        },
+        "05781": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruchirappalli<br><b>Sub-District Code: </b>5781<br><b>Name: </b>Manapparai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>367675<br><b>Total Population: </b>375370<br><b>Percentage: </b>97.95<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(367675 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "05782": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Perambalur  <br><b>Sub-District Code: </b>5782<br><b>Name: </b>Veppanthattai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>142861<br><b>Total Population: </b>148743<br><b>Percentage: </b>96.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(142861 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.0%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.0%)</td></tr></table><br>"
+        },
+        "05783": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Perambalur  <br><b>Sub-District Code: </b>5783<br><b>Name: </b>Perambalur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>158519<br><b>Total Population: </b>162356<br><b>Percentage: </b>97.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(158519 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.6%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "05784": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Perambalur  <br><b>Sub-District Code: </b>5784<br><b>Name: </b>Kunnam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>252096<br><b>Total Population: </b>254124<br><b>Percentage: </b>99.2<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(252096 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05785": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ariyalur  <br><b>Sub-District Code: </b>5785<br><b>Name: </b>Sendurai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>111597<br><b>Total Population: </b>111891<br><b>Percentage: </b>99.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(111597 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05786": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ariyalur  <br><b>Sub-District Code: </b>5786<br><b>Name: </b>Udayarpalayam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>384934<br><b>Total Population: </b>387194<br><b>Percentage: </b>99.42<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(384934 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05787": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ariyalur  <br><b>Sub-District Code: </b>5787<br><b>Name: </b>Ariyalur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>252878<br><b>Total Population: </b>255809<br><b>Percentage: </b>98.85<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(252878 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05788": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Cuddalore<br><b>Sub-District Code: </b>5788<br><b>Name: </b>Panruti<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>402813<br><b>Total Population: </b>413639<br><b>Percentage: </b>97.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(402813 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "05789": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Cuddalore<br><b>Sub-District Code: </b>5789<br><b>Name: </b>Cuddalore<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>413741<br><b>Total Population: </b>426466<br><b>Percentage: </b>97.02<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(413741 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.0%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "05790": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Cuddalore<br><b>Sub-District Code: </b>5790<br><b>Name: </b>Kurinjipadi <br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>318282<br><b>Total Population: </b>331755<br><b>Percentage: </b>95.94<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(318282 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "05791": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Cuddalore<br><b>Sub-District Code: </b>5791<br><b>Name: </b>Chidambaram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>455225<br><b>Total Population: </b>467909<br><b>Percentage: </b>97.29<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(455225 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.3%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.7%)</td></tr></table><br>"
+        },
+        "05792": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Cuddalore<br><b>Sub-District Code: </b>5792<br><b>Name: </b>Kattumannarkoil<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>275080<br><b>Total Population: </b>276947<br><b>Percentage: </b>99.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(275080 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "05793": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Cuddalore<br><b>Sub-District Code: </b>5793<br><b>Name: </b>Virudhachalam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>418325<br><b>Total Population: </b>426592<br><b>Percentage: </b>98.06<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(418325 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "05794": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Cuddalore<br><b>Sub-District Code: </b>5794<br><b>Name: </b>Tittakudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>259708<br><b>Total Population: </b>262606<br><b>Percentage: </b>98.9<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(259708 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05795": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Nagapattinam  <br><b>Sub-District Code: </b>5795<br><b>Name: </b>Sirkali<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>317795<br><b>Total Population: </b>319715<br><b>Percentage: </b>99.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(317795 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05796": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Nagapattinam  <br><b>Sub-District Code: </b>5796<br><b>Name: </b>Mayiladuthurai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>256222<br><b>Total Population: </b>259634<br><b>Percentage: </b>98.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(256222 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "05797": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Nagapattinam  <br><b>Sub-District Code: </b>5797<br><b>Name: </b>Kuthalam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>131528<br><b>Total Population: </b>131948<br><b>Percentage: </b>99.68<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(131528 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05798": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Nagapattinam  <br><b>Sub-District Code: </b>5798<br><b>Name: </b>Tharangambadi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>206532<br><b>Total Population: </b>207059<br><b>Percentage: </b>99.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(206532 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05799": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Nagapattinam  <br><b>Sub-District Code: </b>5799<br><b>Name: </b>Nagapattinam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>280826<br><b>Total Population: </b>282784<br><b>Percentage: </b>99.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(280826 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "05800": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Nagapattinam  <br><b>Sub-District Code: </b>5800<br><b>Name: </b>Kilvelur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>137923<br><b>Total Population: </b>138474<br><b>Percentage: </b>99.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(137923 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05801": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Nagapattinam  <br><b>Sub-District Code: </b>5801<br><b>Name: </b>Thirukkuvalai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>60580<br><b>Total Population: </b>60771<br><b>Percentage: </b>99.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(60580 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05802": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Nagapattinam  <br><b>Sub-District Code: </b>5802<br><b>Name: </b>Vedaranyam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>215711<br><b>Total Population: </b>216065<br><b>Percentage: </b>99.84<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(215711 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "05803": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvarur<br><b>Sub-District Code: </b>5803<br><b>Name: </b>Valangaiman<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>100411<br><b>Total Population: </b>100645<br><b>Percentage: </b>99.77<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(100411 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "05804": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvarur<br><b>Sub-District Code: </b>5804<br><b>Name: </b>Kodavasal<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>202210<br><b>Total Population: </b>203157<br><b>Percentage: </b>99.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(202210 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05805": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvarur<br><b>Sub-District Code: </b>5805<br><b>Name: </b>Nannilam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>137531<br><b>Total Population: </b>137964<br><b>Percentage: </b>99.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(137531 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05806": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvarur<br><b>Sub-District Code: </b>5806<br><b>Name: </b>Thiruvarur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>150168<br><b>Total Population: </b>151696<br><b>Percentage: </b>98.99<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(150168 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "05807": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvarur<br><b>Sub-District Code: </b>5807<br><b>Name: </b>Needamangalam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>146797<br><b>Total Population: </b>147440<br><b>Percentage: </b>99.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(146797 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05808": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvarur<br><b>Sub-District Code: </b>5808<br><b>Name: </b>Mannargudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>305693<br><b>Total Population: </b>308380<br><b>Percentage: </b>99.13<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(305693 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "05809": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thiruvarur<br><b>Sub-District Code: </b>5809<br><b>Name: </b>Thiruthuraipoondi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>213910<br><b>Total Population: </b>214995<br><b>Percentage: </b>99.5<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(213910 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05810": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thanjavur<br><b>Sub-District Code: </b>5810<br><b>Name: </b>Thiruvidaimarudur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>223732<br><b>Total Population: </b>231151<br><b>Percentage: </b>96.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(223732 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.8%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "05811": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thanjavur<br><b>Sub-District Code: </b>5811<br><b>Name: </b>Kumbakonam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>413328<br><b>Total Population: </b>436592<br><b>Percentage: </b>94.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(413328 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(208,0,75, 1);\">tamil <br>(94.7%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "05812": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thanjavur<br><b>Sub-District Code: </b>5812<br><b>Name: </b>Papanasam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>267683<br><b>Total Population: </b>273511<br><b>Percentage: </b>97.87<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(267683 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.1%)</td></tr></table><br>"
+        },
+        "05813": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thanjavur<br><b>Sub-District Code: </b>5813<br><b>Name: </b>Thiruvaiyaru<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>184986<br><b>Total Population: </b>185803<br><b>Percentage: </b>99.56<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(184986 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05814": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thanjavur<br><b>Sub-District Code: </b>5814<br><b>Name: </b>Thanjavur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>490706<br><b>Total Population: </b>511865<br><b>Percentage: </b>95.87<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(490706 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.9%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "05815": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thanjavur<br><b>Sub-District Code: </b>5815<br><b>Name: </b>Orathanadu<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>246147<br><b>Total Population: </b>246871<br><b>Percentage: </b>99.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(246147 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05816": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thanjavur<br><b>Sub-District Code: </b>5816<br><b>Name: </b>Pattukkottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>393858<br><b>Total Population: </b>396236<br><b>Percentage: </b>99.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(393858 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05817": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thanjavur<br><b>Sub-District Code: </b>5817<br><b>Name: </b>Peravurani<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>123277<br><b>Total Population: </b>123861<br><b>Percentage: </b>99.53<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(123277 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05818": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5818<br><b>Name: </b>Iluppur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>218137<br><b>Total Population: </b>219491<br><b>Percentage: </b>99.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(218137 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05819": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5819<br><b>Name: </b>Kulathur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>160360<br><b>Total Population: </b>162524<br><b>Percentage: </b>98.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(160360 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "05820": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5820<br><b>Name: </b>Gandarvakkottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>89869<br><b>Total Population: </b>89982<br><b>Percentage: </b>99.87<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(89869 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05821": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5821<br><b>Name: </b>Pudukkottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>221850<br><b>Total Population: </b>228282<br><b>Percentage: </b>97.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(221850 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.2%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.8%)</td></tr></table><br>"
+        },
+        "05822": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5822<br><b>Name: </b>Thirumayam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>158688<br><b>Total Population: </b>158860<br><b>Percentage: </b>99.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(158688 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05823": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5823<br><b>Name: </b>Ponnamaravathi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>107702<br><b>Total Population: </b>108479<br><b>Percentage: </b>99.28<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(107702 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "05824": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5824<br><b>Name: </b>Alangudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>169802<br><b>Total Population: </b>170419<br><b>Percentage: </b>99.64<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(169802 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05825": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5825<br><b>Name: </b>Karambakudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>110479<br><b>Total Population: </b>110604<br><b>Percentage: </b>99.89<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(110479 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05826": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5826<br><b>Name: </b>Aranthangi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>195234<br><b>Total Population: </b>195782<br><b>Percentage: </b>99.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(195234 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05827": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5827<br><b>Name: </b>Manamelkudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>86571<br><b>Total Population: </b>86672<br><b>Percentage: </b>99.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(86571 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05828": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Pudukkottai<br><b>Sub-District Code: </b>5828<br><b>Name: </b>Avudayarkoil<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>87195<br><b>Total Population: </b>87250<br><b>Percentage: </b>99.94<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(87195 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05829": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Sivaganga<br><b>Sub-District Code: </b>5829<br><b>Name: </b>Tirupathur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>274549<br><b>Total Population: </b>275779<br><b>Percentage: </b>99.55<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(274549 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05830": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Sivaganga<br><b>Sub-District Code: </b>5830<br><b>Name: </b>Karaikkudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>295029<br><b>Total Population: </b>300527<br><b>Percentage: </b>98.17<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(295029 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "05831": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Sivaganga<br><b>Sub-District Code: </b>5831<br><b>Name: </b>Devakottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>157020<br><b>Total Population: </b>157631<br><b>Percentage: </b>99.61<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(157020 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05832": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Sivaganga<br><b>Sub-District Code: </b>5832<br><b>Name: </b>Sivaganga<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>286834<br><b>Total Population: </b>288674<br><b>Percentage: </b>99.36<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(286834 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05833": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Sivaganga<br><b>Sub-District Code: </b>5833<br><b>Name: </b>Manamadurai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>206060<br><b>Total Population: </b>207223<br><b>Percentage: </b>99.44<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(206060 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05834": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Sivaganga<br><b>Sub-District Code: </b>5834<br><b>Name: </b>Ilayangudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>108122<br><b>Total Population: </b>109267<br><b>Percentage: </b>98.95<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(108122 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "05835": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Madurai<br><b>Sub-District Code: </b>5835<br><b>Name: </b>Melur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>290187<br><b>Total Population: </b>291398<br><b>Percentage: </b>99.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(290187 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05836": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Madurai<br><b>Sub-District Code: </b>5836<br><b>Name: </b>Madurai North<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>465945<br><b>Total Population: </b>494430<br><b>Percentage: </b>94.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(465945 people)\" style=\"border: 1px solid white;width: 94vw; background-color: rgba(208,0,75, 1);\">tamil <br>(94.2%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.8%)</td></tr></table><br>"
+        },
+        "05837": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Madurai<br><b>Sub-District Code: </b>5837<br><b>Name: </b>Vadipatti<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>231986<br><b>Total Population: </b>234533<br><b>Percentage: </b>98.91<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(231986 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05838": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Madurai<br><b>Sub-District Code: </b>5838<br><b>Name: </b>Usilampatti<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>193050<br><b>Total Population: </b>195756<br><b>Percentage: </b>98.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(193050 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05839": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Madurai<br><b>Sub-District Code: </b>5839<br><b>Name: </b>Peraiyur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>185673<br><b>Total Population: </b>200510<br><b>Percentage: </b>92.6<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(185673 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.6%)</td><td title=\"Telugu&#013;(10977 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.9%)</td></tr></table><br>"
+        },
+        "05840": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Madurai<br><b>Sub-District Code: </b>5840<br><b>Name: </b>Thirumangalam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>211753<br><b>Total Population: </b>229645<br><b>Percentage: </b>92.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(211753 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.2%)</td><td title=\"Telugu&#013;(15472 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05841": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Madurai<br><b>Sub-District Code: </b>5841<br><b>Name: </b>Madurai South<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>1233675<br><b>Total Population: </b>1391980<br><b>Percentage: </b>88.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(1233675 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(208,0,75, 1);\">tamil <br>(88.6%)</td><td title=\"Saurashtra/Saurashtri&#013;(85578 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(128, 128, 128, 0.8);\">sau.. <br>(6.1%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "05842": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Theni  <br><b>Sub-District Code: </b>5842<br><b>Name: </b>Bodinayakanur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>122860<br><b>Total Population: </b>180789<br><b>Percentage: </b>67.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(122860 people)\" style=\"border: 1px solid white;width: 68vw; background-color: rgba(208,0,75, 1);\">tamil <br>(68.0%)</td><td title=\"Telugu&#013;(31504 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(17.4%)</td><td title=\"Kannada&#013;(25918 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(14.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05843": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Theni  <br><b>Sub-District Code: </b>5843<br><b>Name: </b>Periyakulam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>192730<br><b>Total Population: </b>217358<br><b>Percentage: </b>88.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(192730 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(208,0,75, 1);\">tamil <br>(88.7%)</td><td title=\"Telugu&#013;(19324 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(8.9%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.4%)</td></tr></table><br>"
+        },
+        "05844": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Theni  <br><b>Sub-District Code: </b>5844<br><b>Name: </b>Theni <br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>150956<br><b>Total Population: </b>199983<br><b>Percentage: </b>75.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(150956 people)\" style=\"border: 1px solid white;width: 75vw; background-color: rgba(208,0,75, 1);\">tamil <br>(75.5%)</td><td title=\"Telugu&#013;(35982 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(18.0%)</td><td title=\"Kannada&#013;(11932 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(6.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05845": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Theni  <br><b>Sub-District Code: </b>5845<br><b>Name: </b>Uthamapalayam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>350206<br><b>Total Population: </b>435069<br><b>Percentage: </b>80.49<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(350206 people)\" style=\"border: 1px solid white;width: 80vw; background-color: rgba(208,0,75, 1);\">tamil <br>(80.5%)</td><td title=\"Kannada&#013;(44569 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(10.2%)</td><td title=\"Telugu&#013;(38784 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(8.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05846": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Theni  <br><b>Sub-District Code: </b>5846<br><b>Name: </b>Andipatti<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>167969<br><b>Total Population: </b>212700<br><b>Percentage: </b>78.97<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(167969 people)\" style=\"border: 1px solid white;width: 79vw; background-color: rgba(208,0,75, 1);\">tamil <br>(79.0%)</td><td title=\"Telugu&#013;(33255 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(15.6%)</td><td title=\"Kannada&#013;(11222 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(5.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05847": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Virudhunagar<br><b>Sub-District Code: </b>5847<br><b>Name: </b>Rajapalayam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>315103<br><b>Total Population: </b>347668<br><b>Percentage: </b>90.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(315103 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(208,0,75, 1);\">tamil <br>(90.6%)</td><td title=\"Telugu&#013;(31560 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05848": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Virudhunagar<br><b>Sub-District Code: </b>5848<br><b>Name: </b>Srivilliputhur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>272264<br><b>Total Population: </b>293209<br><b>Percentage: </b>92.86<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(272264 people)\" style=\"border: 1px solid white;width: 92vw; background-color: rgba(208,0,75, 1);\">tamil <br>(92.9%)</td><td title=\"Telugu&#013;(19918 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05849": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Virudhunagar<br><b>Sub-District Code: </b>5849<br><b>Name: </b>Sivakasi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>389733<br><b>Total Population: </b>426753<br><b>Percentage: </b>91.33<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(389733 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.3%)</td><td title=\"Telugu&#013;(32821 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(7.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "05850": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Virudhunagar<br><b>Sub-District Code: </b>5850<br><b>Name: </b>Virudhunagar<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>225280<br><b>Total Population: </b>251097<br><b>Percentage: </b>89.72<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(225280 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.7%)</td><td title=\"Telugu&#013;(22944 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.2%)</td></tr></table><br>"
+        },
+        "05851": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Virudhunagar<br><b>Sub-District Code: </b>5851<br><b>Name: </b>Kariapatti<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>98299<br><b>Total Population: </b>105428<br><b>Percentage: </b>93.24<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(98299 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(208,0,75, 1);\">tamil <br>(93.2%)</td><td title=\"Telugu&#013;(5683 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.4%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05852": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Virudhunagar<br><b>Sub-District Code: </b>5852<br><b>Name: </b>Tiruchuli<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>101988<br><b>Total Population: </b>103290<br><b>Percentage: </b>98.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(101988 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "05853": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Virudhunagar<br><b>Sub-District Code: </b>5853<br><b>Name: </b>Aruppukkottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>188123<br><b>Total Population: </b>246236<br><b>Percentage: </b>76.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(188123 people)\" style=\"border: 1px solid white;width: 76vw; background-color: rgba(208,0,75, 1);\">tamil <br>(76.4%)</td><td title=\"Telugu&#013;(40314 people)\" style=\"border: 1px solid white;width: 16vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(16.4%)</td><td title=\"Kannada&#013;(17611 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(7.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(-0.0%)</td></tr></table><br>"
+        },
+        "05854": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Virudhunagar<br><b>Sub-District Code: </b>5854<br><b>Name: </b>Sattur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>147747<br><b>Total Population: </b>168607<br><b>Percentage: </b>87.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(147747 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(208,0,75, 1);\">tamil <br>(87.6%)</td><td title=\"Telugu&#013;(17843 people)\" style=\"border: 1px solid white;width: 10vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(10.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "05855": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ramanathapuram<br><b>Sub-District Code: </b>5855<br><b>Name: </b>Tiruvadanai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>211879<br><b>Total Population: </b>212029<br><b>Percentage: </b>99.93<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(211879 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05856": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ramanathapuram<br><b>Sub-District Code: </b>5856<br><b>Name: </b>Paramakudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>243256<br><b>Total Population: </b>265142<br><b>Percentage: </b>91.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(243256 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.7%)</td><td title=\"Saurashtra/Saurashtri&#013;(20522 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(128, 128, 128, 0.8);\">sau.. <br>(7.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05857": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ramanathapuram<br><b>Sub-District Code: </b>5857<br><b>Name: </b>Mudukulathur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>113393<br><b>Total Population: </b>113432<br><b>Percentage: </b>99.97<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(113393 people)\" style=\"border: 1px solid white;width: 100vw; background-color: rgba(208,0,75, 1);\">tamil <br>(100.0%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.0%)</td></tr></table><br>"
+        },
+        "05858": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ramanathapuram<br><b>Sub-District Code: </b>5858<br><b>Name: </b>Kamuthi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>130745<br><b>Total Population: </b>135658<br><b>Percentage: </b>96.38<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(130745 people)\" style=\"border: 1px solid white;width: 96vw; background-color: rgba(208,0,75, 1);\">tamil <br>(96.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.6%)</td></tr></table><br>"
+        },
+        "05859": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ramanathapuram<br><b>Sub-District Code: </b>5859<br><b>Name: </b>Kadaladi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>144921<br><b>Total Population: </b>145277<br><b>Percentage: </b>99.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(144921 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.2%)</td></tr></table><br>"
+        },
+        "05860": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ramanathapuram<br><b>Sub-District Code: </b>5860<br><b>Name: </b>Ramanathapuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>395673<br><b>Total Population: </b>399232<br><b>Percentage: </b>99.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(395673 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.1%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "05861": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Ramanathapuram<br><b>Sub-District Code: </b>5861<br><b>Name: </b>Rameswaram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>82090<br><b>Total Population: </b>82675<br><b>Percentage: </b>99.29<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(82090 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "05862": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thoothukkudi<br><b>Sub-District Code: </b>5862<br><b>Name: </b>Kovilpatti<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>300109<br><b>Total Population: </b>321323<br><b>Percentage: </b>93.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(300109 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(208,0,75, 1);\">tamil <br>(93.4%)</td><td title=\"Telugu&#013;(20105 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05863": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thoothukkudi<br><b>Sub-District Code: </b>5863<br><b>Name: </b>Ettayapuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>67006<br><b>Total Population: </b>74991<br><b>Percentage: </b>89.35<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(67006 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.4%)</td><td title=\"Telugu&#013;(7311 people)\" style=\"border: 1px solid white;width: 9vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(9.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.9%)</td></tr></table><br>"
+        },
+        "05864": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thoothukkudi<br><b>Sub-District Code: </b>5864<br><b>Name: </b>Vilathikulam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>129937<br><b>Total Population: </b>139581<br><b>Percentage: </b>93.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(129937 people)\" style=\"border: 1px solid white;width: 93vw; background-color: rgba(208,0,75, 1);\">tamil <br>(93.1%)</td><td title=\"Telugu&#013;(8296 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "05865": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thoothukkudi<br><b>Sub-District Code: </b>5865<br><b>Name: </b>Ottapidaram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>120527<br><b>Total Population: </b>123356<br><b>Percentage: </b>97.71<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(120527 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        },
+        "05866": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thoothukkudi<br><b>Sub-District Code: </b>5866<br><b>Name: </b>Thoothukkudi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>471782<br><b>Total Population: </b>478328<br><b>Percentage: </b>98.63<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(471782 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.6%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05867": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thoothukkudi<br><b>Sub-District Code: </b>5867<br><b>Name: </b>Srivaikuntam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>199918<br><b>Total Population: </b>202962<br><b>Percentage: </b>98.5<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(199918 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.5%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.5%)</td></tr></table><br>"
+        },
+        "05868": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thoothukkudi<br><b>Sub-District Code: </b>5868<br><b>Name: </b>Tiruchendur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>309912<br><b>Total Population: </b>310945<br><b>Percentage: </b>99.67<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(309912 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.7%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.3%)</td></tr></table><br>"
+        },
+        "05869": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Thoothukkudi<br><b>Sub-District Code: </b>5869<br><b>Name: </b>Sathankulam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>98549<br><b>Total Population: </b>98690<br><b>Percentage: </b>99.86<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(98549 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.9%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05870": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5870<br><b>Name: </b>Sivagiri<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>190363<br><b>Total Population: </b>194156<br><b>Percentage: </b>98.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(190363 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "05871": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5871<br><b>Name: </b>Sankarankoil<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>344097<br><b>Total Population: </b>350144<br><b>Percentage: </b>98.27<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(344097 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "05872": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5872<br><b>Name: </b>Veerakeralamputhur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>121738<br><b>Total Population: </b>123137<br><b>Percentage: </b>98.86<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(121738 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05873": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5873<br><b>Name: </b>Tenkasi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>396939<br><b>Total Population: </b>399946<br><b>Percentage: </b>99.25<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(396939 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.2%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.8%)</td></tr></table><br>"
+        },
+        "05874": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5874<br><b>Name: </b>Shenkottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>139860<br><b>Total Population: </b>141416<br><b>Percentage: </b>98.9<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(139860 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05875": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5875<br><b>Name: </b>Alangulam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>175020<br><b>Total Population: </b>176138<br><b>Percentage: </b>99.37<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(175020 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05876": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5876<br><b>Name: </b>Tirunelveli<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>628694<br><b>Total Population: </b>642835<br><b>Percentage: </b>97.8<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(628694 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.8%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.2%)</td></tr></table><br>"
+        },
+        "05877": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5877<br><b>Name: </b>Palayamkottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>89043<br><b>Total Population: </b>91176<br><b>Percentage: </b>97.66<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(89043 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(208,0,75, 1);\">tamil <br>(97.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        },
+        "05878": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5878<br><b>Name: </b>Ambasamudram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>420791<br><b>Total Population: </b>428031<br><b>Percentage: </b>98.31<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(420791 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.3%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "05879": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5879<br><b>Name: </b>Nanguneri<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>224365<br><b>Total Population: </b>225602<br><b>Percentage: </b>99.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(224365 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.5%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.5%)</td></tr></table><br>"
+        },
+        "05880": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tirunelveli <br><b>Sub-District Code: </b>5880<br><b>Name: </b>Radhapuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>301486<br><b>Total Population: </b>304652<br><b>Percentage: </b>98.96<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(301486 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.0%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.0%)</td></tr></table><br>"
+        },
+        "05881": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kanniyakumari<br><b>Sub-District Code: </b>5881<br><b>Name: </b>Vilavancode<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>514439<br><b>Total Population: </b>590567<br><b>Percentage: </b>87.11<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(514439 people)\" style=\"border: 1px solid white;width: 87vw; background-color: rgba(208,0,75, 1);\">tamil <br>(87.1%)</td><td title=\"Malayalam&#013;(75697 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(12.8%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.1%)</td></tr></table><br>"
+        },
+        "05882": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kanniyakumari<br><b>Sub-District Code: </b>5882<br><b>Name: </b>Kalkulam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>581183<br><b>Total Population: </b>606706<br><b>Percentage: </b>95.79<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(581183 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(208,0,75, 1);\">tamil <br>(95.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.2%)</td></tr></table><br>"
+        },
+        "05883": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kanniyakumari<br><b>Sub-District Code: </b>5883<br><b>Name: </b>Thovala<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>120082<br><b>Total Population: </b>120926<br><b>Percentage: </b>99.3<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(120082 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(208,0,75, 1);\">tamil <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "05884": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Kanniyakumari<br><b>Sub-District Code: </b>5884<br><b>Name: </b>Agastheeswaram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>541389<br><b>Total Population: </b>552175<br><b>Percentage: </b>98.05<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(541389 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(208,0,75, 1);\">tamil <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "05885": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dharmapuri<br><b>Sub-District Code: </b>5885<br><b>Name: </b>Palakkodu<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>300379<br><b>Total Population: </b>346489<br><b>Percentage: </b>86.69<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(300379 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(208,0,75, 1);\">tamil <br>(86.7%)</td><td title=\"Telugu&#013;(19102 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.8%)</td></tr></table><br>"
+        },
+        "05886": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dharmapuri<br><b>Sub-District Code: </b>5886<br><b>Name: </b>Harur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>216357<br><b>Total Population: </b>240908<br><b>Percentage: </b>89.81<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(216357 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.8%)</td><td title=\"Telugu&#013;(14703 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.1%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.1%)</td></tr></table><br>"
+        },
+        "05887": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dharmapuri<br><b>Sub-District Code: </b>5887<br><b>Name: </b>Pappireddipatti<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>217198<br><b>Total Population: </b>243445<br><b>Percentage: </b>89.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(217198 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.2%)</td><td title=\"Telugu&#013;(15688 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.4%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.4%)</td></tr></table><br>"
+        },
+        "05888": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dharmapuri<br><b>Sub-District Code: </b>5888<br><b>Name: </b>Dharmapuri<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>387998<br><b>Total Population: </b>441148<br><b>Percentage: </b>87.95<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(387998 people)\" style=\"border: 1px solid white;width: 88vw; background-color: rgba(208,0,75, 1);\">tamil <br>(88.0%)</td><td title=\"Telugu&#013;(29398 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(6.7%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "05889": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Dharmapuri<br><b>Sub-District Code: </b>5889<br><b>Name: </b>Pennagaram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>202630<br><b>Total Population: </b>234853<br><b>Percentage: </b>86.28<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(202630 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(208,0,75, 1);\">tamil <br>(86.3%)</td><td title=\"Telugu&#013;(19176 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(8.2%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.5%)</td></tr></table><br>"
+        },
+        "05890": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Krishnagiri<br><b>Sub-District Code: </b>5890<br><b>Name: </b>Hosur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>227381<br><b>Total Population: </b>539663<br><b>Percentage: </b>42.13<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(227381 people)\" style=\"border: 1px solid white;width: 42vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(42.1%)</td><td title=\"Telugu&#013;(173738 people)\" style=\"border: 1px solid white;width: 32vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(32.2%)</td><td title=\"Kannada&#013;(92031 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(17.1%)</td><td title=\"Urdu&#013;(30022 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(5.6%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.0%)</td></tr></table><br>"
+        },
+        "05891": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Krishnagiri<br><b>Sub-District Code: </b>5891<br><b>Name: </b>Krishnagiri<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>416437<br><b>Total Population: </b>597071<br><b>Percentage: </b>69.75<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(416437 people)\" style=\"border: 1px solid white;width: 69vw; background-color: rgba(208,0,75, 1);\">tamil <br>(69.7%)</td><td title=\"Telugu&#013;(90365 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(15.1%)</td><td title=\"Urdu&#013;(48281 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(8.1%)</td><td title=\"Kannada&#013;(34247 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(5.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05892": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Krishnagiri<br><b>Sub-District Code: </b>5892<br><b>Name: </b>Denkanikottai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>125903<br><b>Total Population: </b>347474<br><b>Percentage: </b>36.23<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(125903 people)\" style=\"border: 1px solid white;width: 36vw; background-color: rgba(208,0,75, 1);\">tam.. <br>(36.2%)</td><td title=\"Kannada&#013;(105758 people)\" style=\"border: 1px solid white;width: 30vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(30.4%)</td><td title=\"Telugu&#013;(93443 people)\" style=\"border: 1px solid white;width: 26vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(26.9%)</td><td title=\"Urdu&#013;(17571 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(173, 255, 47, 0.8);\">urd.. <br>(5.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        },
+        "05893": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Krishnagiri<br><b>Sub-District Code: </b>5893<br><b>Name: </b>Pochampalli<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>148806<br><b>Total Population: </b>182310<br><b>Percentage: </b>81.62<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(148806 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(208,0,75, 1);\">tamil <br>(81.6%)</td><td title=\"Telugu&#013;(21996 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(12.1%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.3%)</td></tr></table><br>"
+        },
+        "05894": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Krishnagiri<br><b>Sub-District Code: </b>5894<br><b>Name: </b>Uthangarai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>176156<br><b>Total Population: </b>213291<br><b>Percentage: </b>82.59<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(176156 people)\" style=\"border: 1px solid white;width: 82vw; background-color: rgba(208,0,75, 1);\">tamil <br>(82.6%)</td><td title=\"Telugu&#013;(25725 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(12.1%)</td><td style=\"border: 1px solid white;width: 5vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(5.3%)</td></tr></table><br>"
+        },
+        "05895": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Coimbatore<br><b>Sub-District Code: </b>5895<br><b>Name: </b>Mettupalayam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>140833<br><b>Total Population: </b>260172<br><b>Percentage: </b>54.13<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(140833 people)\" style=\"border: 1px solid white;width: 54vw; background-color: rgba(208,0,75, 1);\">tamil <br>(54.1%)</td><td title=\"Kannada&#013;(55883 people)\" style=\"border: 1px solid white;width: 21vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(21.5%)</td><td title=\"Telugu&#013;(47618 people)\" style=\"border: 1px solid white;width: 18vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(18.3%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.1%)</td></tr></table><br>"
+        },
+        "05896": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Coimbatore<br><b>Sub-District Code: </b>5896<br><b>Name: </b>Sulur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>250692<br><b>Total Population: </b>321051<br><b>Percentage: </b>78.08<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(250692 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(208,0,75, 1);\">tamil <br>(78.1%)</td><td title=\"Telugu&#013;(45503 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(14.2%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.7%)</td></tr></table><br>"
+        },
+        "05897": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Coimbatore<br><b>Sub-District Code: </b>5897<br><b>Name: </b>Coimbatore North<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>414908<br><b>Total Population: </b>637389<br><b>Percentage: </b>65.09<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(414908 people)\" style=\"border: 1px solid white;width: 65vw; background-color: rgba(208,0,75, 1);\">tamil <br>(65.1%)</td><td title=\"Telugu&#013;(125760 people)\" style=\"border: 1px solid white;width: 19vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(19.7%)</td><td title=\"Kannada&#013;(52734 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(8.3%)</td><td style=\"border: 1px solid white;width: 6vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(6.9%)</td></tr></table><br>"
+        },
+        "05898": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Coimbatore<br><b>Sub-District Code: </b>5898<br><b>Name: </b>Coimbatore South<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>1085828<br><b>Total Population: </b>1592646<br><b>Percentage: </b>68.18<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(1085828 people)\" style=\"border: 1px solid white;width: 68vw; background-color: rgba(208,0,75, 1);\">tamil <br>(68.2%)</td><td title=\"Telugu&#013;(246503 people)\" style=\"border: 1px solid white;width: 15vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(15.5%)</td><td title=\"Malayalam&#013;(109614 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(6.9%)</td><td title=\"Kannada&#013;(86964 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(253,176,0, 1);\">kan.. <br>(5.5%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "05899": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Coimbatore<br><b>Sub-District Code: </b>5899<br><b>Name: </b>Pollachi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>434524<br><b>Total Population: </b>575928<br><b>Percentage: </b>75.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(434524 people)\" style=\"border: 1px solid white;width: 75vw; background-color: rgba(208,0,75, 1);\">tamil <br>(75.4%)</td><td title=\"Telugu&#013;(97834 people)\" style=\"border: 1px solid white;width: 17vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(17.0%)</td><td style=\"border: 1px solid white;width: 7vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(7.6%)</td></tr></table><br>"
+        },
+        "05900": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Coimbatore<br><b>Sub-District Code: </b>5900<br><b>Name: </b>Valparai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>63310<br><b>Total Population: </b>70859<br><b>Percentage: </b>89.35<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(63310 people)\" style=\"border: 1px solid white;width: 89vw; background-color: rgba(208,0,75, 1);\">tamil <br>(89.3%)</td><td title=\"Malayalam&#013;(5710 people)\" style=\"border: 1px solid white;width: 8vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(8.1%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "05901": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruppur<br><b>Sub-District Code: </b>5901<br><b>Name: </b>Kangeyam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>190156<br><b>Total Population: </b>209385<br><b>Percentage: </b>90.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(190156 people)\" style=\"border: 1px solid white;width: 90vw; background-color: rgba(208,0,75, 1);\">tamil <br>(90.8%)</td><td title=\"Telugu&#013;(11223 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(5.4%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.8%)</td></tr></table><br>"
+        },
+        "05902": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruppur<br><b>Sub-District Code: </b>5902<br><b>Name: </b>Dharapuram<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>257899<br><b>Total Population: </b>282752<br><b>Percentage: </b>91.21<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(257899 people)\" style=\"border: 1px solid white;width: 91vw; background-color: rgba(208,0,75, 1);\">tamil <br>(91.2%)</td><td title=\"Telugu&#013;(20081 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(7.1%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.7%)</td></tr></table><br>"
+        },
+        "05903": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruppur<br><b>Sub-District Code: </b>5903<br><b>Name: </b>Avanashi<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>285956<br><b>Total Population: </b>340899<br><b>Percentage: </b>83.88<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(285956 people)\" style=\"border: 1px solid white;width: 83vw; background-color: rgba(208,0,75, 1);\">tamil <br>(83.9%)</td><td title=\"Telugu&#013;(44132 people)\" style=\"border: 1px solid white;width: 12vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(12.9%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.2%)</td></tr></table><br>"
+        },
+        "05904": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruppur<br><b>Sub-District Code: </b>5904<br><b>Name: </b>Tiruppur<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>828403<br><b>Total Population: </b>981247<br><b>Percentage: </b>84.42<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(828403 people)\" style=\"border: 1px solid white;width: 84vw; background-color: rgba(208,0,75, 1);\">tamil <br>(84.4%)</td><td title=\"Telugu&#013;(73762 people)\" style=\"border: 1px solid white;width: 7vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(7.5%)</td><td style=\"border: 1px solid white;width: 8vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(8.1%)</td></tr></table><br>"
+        },
+        "05905": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruppur<br><b>Sub-District Code: </b>5905<br><b>Name: </b>Palladam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>201000<br><b>Total Population: </b>245522<br><b>Percentage: </b>81.87<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(201000 people)\" style=\"border: 1px solid white;width: 81vw; background-color: rgba(208,0,75, 1);\">tamil <br>(81.9%)</td><td title=\"Telugu&#013;(34769 people)\" style=\"border: 1px solid white;width: 14vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(14.2%)</td><td style=\"border: 1px solid white;width: 3vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(3.9%)</td></tr></table><br>"
+        },
+        "05906": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruppur<br><b>Sub-District Code: </b>5906<br><b>Name: </b>Udumalaipettai<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>172887<br><b>Total Population: </b>237861<br><b>Percentage: </b>72.68<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(172887 people)\" style=\"border: 1px solid white;width: 72vw; background-color: rgba(208,0,75, 1);\">tamil <br>(72.7%)</td><td title=\"Telugu&#013;(54149 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(22.8%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.5%)</td></tr></table><br>"
+        },
+        "05907": {
+            "color": "rgba(208,0,75, 1)",
+            "matter": "<b>State: </b>TAMIL NADU<br><b>District: </b>Tiruppur<br><b>Sub-District Code: </b>5907<br><b>Name: </b>Madathukulam<br><b>Largest Language: </b>Tamil<br><b>tamil Population: </b>141521<br><b>Total Population: </b>181386<br><b>Percentage: </b>78.02<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Tamil&#013;(141521 people)\" style=\"border: 1px solid white;width: 78vw; background-color: rgba(208,0,75, 1);\">tamil <br>(78.0%)</td><td title=\"Telugu&#013;(35663 people)\" style=\"border: 1px solid white;width: 19vw; background-color: rgba(64, 224, 208, 1);\">tel.. <br>(19.7%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.3%)</td></tr></table><br>"
+        }
+    }
+}

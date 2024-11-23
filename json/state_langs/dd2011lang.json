@@ -1,0 +1,16 @@
+{
+    "title": "Languages of DAMAN & DIU",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Gujarati</td><td style='background-color: rgba(255, 69, 0, 1)'></td><td title='total population: 123176'>50.64%</td><td>2</td></tr><tr><td>Hindi</td><td style='background-color: rgba(250,142,1,1)'></td><td title='total population: 70884'>29.14%</td><td>0</td></tr><tr><td>Bhojpuri</td><td style='background-color: rgba(255, 105, 180, 1)'></td><td title='total population: 12116'>4.98%</td><td>0</td></tr><tr><td>Marathi</td><td style='background-color: rgba(252,94,75, 1)'></td><td title='total population: 11003'>4.52%</td><td>0</td></tr><tr><td>Bengali</td><td style='background-color: rgba(34, 139, 34, 1)'></td><td title='total population: 5232'>2.15%</td><td>0</td></tr><tr><td>Odia</td><td style='background-color: rgba(0, 191, 255, 1)'></td><td title='total population: 4415'>1.82%</td><td>0</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>6.75%</td><td>0</td></tr></table>",
+    "data": {
+        "03947": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>DAMAN & DIU<br><b>District: </b>Diu<br><b>Sub-District Code: </b>3947<br><b>Name: </b>Diu<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>51023<br><b>Total Population: </b>52074<br><b>Percentage: </b>97.98<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(51023 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(255, 69, 0, 1);\">gujarati <br>(98.0%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.0%)</td></tr></table><br>"
+        },
+        "03948": {
+            "color": "rgba(255, 69, 0, 1)",
+            "matter": "<b>State: </b>DAMAN & DIU<br><b>District: </b>Daman<br><b>Sub-District Code: </b>3948<br><b>Name: </b>Daman<br><b>Largest Language: </b>Gujarati<br><b>gujarati Population: </b>72153<br><b>Total Population: </b>191173<br><b>Percentage: </b>37.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Gujarati&#013;(72153 people)\" style=\"border: 1px solid white;width: 37vw; background-color: rgba(255, 69, 0, 1);\">guj.. <br>(37.7%)</td><td title=\"Hindi&#013;(70355 people)\" style=\"border: 1px solid white;width: 36vw; background-color: rgba(250,142,1,1);\">hin.. <br>(36.8%)</td><td title=\"Bhojpuri&#013;(12112 people)\" style=\"border: 1px solid white;width: 6vw; background-color: rgba(255, 105, 180, 1);\">bho.. <br>(6.3%)</td><td title=\"Marathi&#013;(10966 people)\" style=\"border: 1px solid white;width: 5vw; background-color: rgba(252,94,75, 1);\">mar.. <br>(5.7%)</td><td style=\"border: 1px solid white;width: 13vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(13.5%)</td></tr></table><br>"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Languages of CHANDIGARH",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Hindi</td><td style='background-color: rgba(250,142,1,1)'></td><td title='total population: 715131'>67.76%</td><td>1</td></tr><tr><td>Punjabi</td><td style='background-color: rgba(254,2,95,0.8)'></td><td title='total population: 232427'>22.02%</td><td>0</td></tr><tr><td>Bhojpuri</td><td style='background-color: rgba(255, 105, 180, 1)'></td><td title='total population: 23994'>2.27%</td><td>0</td></tr><tr><td>Haryanvi</td><td style='background-color: rgba(139, 0, 0, 0.7)'></td><td title='total population: 11138'>1.06%</td><td>0</td></tr><tr><td>Urdu</td><td style='background-color: rgba(173, 255, 47, 0.8)'></td><td title='total population: 10556'>1.0%</td><td>0</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>5.89%</td><td>0</td></tr></table>",
+    "data": {
+        "00277": {
+            "color": "rgba(250,142,1,1)",
+            "matter": "<b>State: </b>CHANDIGARH<br><b>District: </b>Chandigarh<br><b>Sub-District Code: </b>277<br><b>Name: </b>Chandigarh<br><b>Largest Language: </b>Hindi<br><b>hindi Population: </b>715131<br><b>Total Population: </b>1055450<br><b>Percentage: </b>67.76<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Hindi&#013;(715131 people)\" style=\"border: 1px solid white;width: 67vw; background-color: rgba(250,142,1,1);\">hindi <br>(67.8%)</td><td title=\"Punjabi&#013;(232427 people)\" style=\"border: 1px solid white;width: 22vw; background-color: rgba(254,2,95,0.8);\">pun.. <br>(22.0%)</td><td style=\"border: 1px solid white;width: 10vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(10.2%)</td></tr></table><br>"
+        }
+    }
+}

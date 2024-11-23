@@ -1,0 +1,48 @@
+{
+    "title": "Languages of LAKSHADWEEP",
+    "trigger": "sdtcode11",
+    "search_trigger": "sdtname",
+    "desc": "<table style='border-collapse: collapse;border: 1px solid black;'><tr><th>Name</th><th>Color</th><th>Percentage</th><th>tashils</th></tr><tr><td>Malayalam</td><td style='background-color: rgba(254,253,5, 1)'></td><td title='total population: 54264'>84.17%</td><td>9</td></tr><tr><td>OTHERS</td><td style='background-color: rgba(128, 128, 128, 0.8)'></td><td title='total population: 9311'>14.44%</td><td>1</td></tr><tr><td>Others</td><td style='background-color: rgba(112, 128, 144, 0.8)'></td><td title='total population: 0'>1.39%</td><td>0</td></tr></table>",
+    "data": {
+        "05620": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5620<br><b>Name: </b>Amini<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>7629<br><b>Total Population: </b>7661<br><b>Percentage: </b>99.58<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(7629 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.6%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.4%)</td></tr></table><br>"
+        },
+        "05621": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5621<br><b>Name: </b>Bitra<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>269<br><b>Total Population: </b>271<br><b>Percentage: </b>99.26<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(269 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.3%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.7%)</td></tr></table><br>"
+        },
+        "05622": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5622<br><b>Name: </b>Chetlat<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>2286<br><b>Total Population: </b>2347<br><b>Percentage: </b>97.4<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(2286 people)\" style=\"border: 1px solid white;width: 97vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(97.4%)</td><td style=\"border: 1px solid white;width: 2vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(2.6%)</td></tr></table><br>"
+        },
+        "05623": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5623<br><b>Name: </b>Kiltan<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>3873<br><b>Total Population: </b>3946<br><b>Percentage: </b>98.15<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(3873 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "05624": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5624<br><b>Name: </b>Kadmat<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>5336<br><b>Total Population: </b>5404<br><b>Percentage: </b>98.74<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(5336 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.7%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.3%)</td></tr></table><br>"
+        },
+        "05625": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5625<br><b>Name: </b>Kavaratti<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>10714<br><b>Total Population: </b>11221<br><b>Percentage: </b>95.48<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(10714 people)\" style=\"border: 1px solid white;width: 95vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(95.5%)</td><td style=\"border: 1px solid white;width: 4vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(4.5%)</td></tr></table><br>"
+        },
+        "05626": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5626<br><b>Name: </b>Agatti<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>7431<br><b>Total Population: </b>7566<br><b>Percentage: </b>98.22<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(7431 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.2%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.8%)</td></tr></table><br>"
+        },
+        "05627": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5627<br><b>Name: </b>Andrott <br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>11129<br><b>Total Population: </b>11191<br><b>Percentage: </b>99.45<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(11129 people)\" style=\"border: 1px solid white;width: 99vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(99.4%)</td><td style=\"border: 1px solid white;width: 0vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(0.6%)</td></tr></table><br>"
+        },
+        "05628": {
+            "color": "rgba(254,253,5, 1)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5628<br><b>Name: </b>Kalpeni<br><b>Largest Language: </b>Malayalam<br><b>malayalam Population: </b>4369<br><b>Total Population: </b>4419<br><b>Percentage: </b>98.87<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"Malayalam&#013;(4369 people)\" style=\"border: 1px solid white;width: 98vw; background-color: rgba(254,253,5, 1);\">malayalam <br>(98.9%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.1%)</td></tr></table><br>"
+        },
+        "05629": {
+            "color": "rgba(128, 128, 128, 0.8)",
+            "matter": "<b>State: </b>LAKSHADWEEP<br><b>District: </b>Lakshadweep<br><b>Sub-District Code: </b>5629<br><b>Name: </b>Minicoy<br><b>Largest Language: </b>OTHERS<br><b>others Population: </b>9070<br><b>Total Population: </b>10447<br><b>Percentage: </b>86.82<br><hr><table style=\"border: 2px solid white;\"><tr><td title=\"OTHERS&#013;(9070 people)\" style=\"border: 1px solid white;width: 86vw; background-color: rgba(128, 128, 128, 0.8);\">others <br>(86.8%)</td><td title=\"Malayalam&#013;(1228 people)\" style=\"border: 1px solid white;width: 11vw; background-color: rgba(254,253,5, 1);\">mal.. <br>(11.8%)</td><td style=\"border: 1px solid white;width: 1vw;background-color: rgba(128, 128, 128, 0.8);\">etc<br>(1.4%)</td></tr></table><br>"
+        }
+    }
+}
