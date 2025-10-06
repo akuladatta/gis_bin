@@ -1,0 +1,708 @@
+{
+  "title": "AP Constituency-wise PCI (2017-2018)",
+  "trigger": "objectid",
+  "desc": "<div>\n                    <table class='col-md-12 w-full'>\n                <caption>Top 10 Constituencies by Per Capita Income (PCI)</caption>\n                <thead>\n                    <tr>\n                        <th>Rank</th>\n                        <th>Constituency</th>\n                        <th>District</th>\n                        <th>PCI (AE)</th>\n                    </tr>\n                </thead>\n                    <tbody>\n                        <tr>\n                        <td>1</td>\n                        <td>Kaikalur</td>\n                        <td>Krishna</td>\n                        <td>375988</td>\n                    </tr><tr>\n                        <td>2</td>\n                        <td>Gajuwaka</td>\n                        <td>Visakhapatnam</td>\n                        <td>324816</td>\n                    </tr><tr>\n                        <td>3</td>\n                        <td>Yelamanchili</td>\n                        <td>Visakhapatnam</td>\n                        <td>285777</td>\n                    </tr><tr>\n                        <td>4</td>\n                        <td>Visakhapatnam-South</td>\n                        <td>Visakhapatnam</td>\n                        <td>264137</td>\n                    </tr><tr>\n                        <td>5</td>\n                        <td>Kakinada (City)</td>\n                        <td>East Godavari</td>\n                        <td>263303</td>\n                    </tr><tr>\n                        <td>6</td>\n                        <td>Unguturu</td>\n                        <td>West Godavari</td>\n                        <td>238800</td>\n                    </tr><tr>\n                        <td>7</td>\n                        <td>Pedana</td>\n                        <td>Krishna</td>\n                        <td>235575</td>\n                    </tr><tr>\n                        <td>8</td>\n                        <td>Undi</td>\n                        <td>West Godavari</td>\n                        <td>233698</td>\n                    </tr><tr>\n                        <td>9</td>\n                        <td>Gudivada</td>\n                        <td>Krishna</td>\n                        <td>231220</td>\n                    </tr><tr>\n                        <td>10</td>\n                        <td>Denduluru</td>\n                        <td>West Godavari</td>\n                        <td>223526</td>\n                    </tr>\n                    </tbody>\n                </table>\n                \n                    <table class='col-md-12 w-full mt-4'>\n                <caption>Bottom 10 Constituencies by Per Capita Income (PCI)</caption>\n                <thead>\n                    <tr>\n                        <th>Rank</th>\n                        <th>Constituency</th>\n                        <th>District</th>\n                        <th>PCI (AE)</th>\n                    </tr>\n                </thead>\n                    <tbody>\n                        <tr>\n                        <td>166</td>\n                        <td>Tekkali</td>\n                        <td>Srikakulam</td>\n                        <td>89975</td>\n                    </tr><tr>\n                        <td>167</td>\n                        <td>Gajapathinagaram</td>\n                        <td>Vizianagaram</td>\n                        <td>88934</td>\n                    </tr><tr>\n                        <td>168</td>\n                        <td>Mantralayam</td>\n                        <td>Kurnool</td>\n                        <td>87366</td>\n                    </tr><tr>\n                        <td>169</td>\n                        <td>Parvathipuram (S.C)</td>\n                        <td>Vizianagaram</td>\n                        <td>86552</td>\n                    </tr><tr>\n                        <td>170</td>\n                        <td>Rayadurgam</td>\n                        <td>Ananthapuramu</td>\n                        <td>85030</td>\n                    </tr><tr>\n                        <td>171</td>\n                        <td>Palakonda</td>\n                        <td>Srikakulam</td>\n                        <td>81350</td>\n                    </tr><tr>\n                        <td>172</td>\n                        <td>Rampachodavaram</td>\n                        <td>East Godavari</td>\n                        <td>79514</td>\n                    </tr><tr>\n                        <td>173</td>\n                        <td>Pithapuram</td>\n                        <td>East Godavari</td>\n                        <td>77378</td>\n                    </tr><tr>\n                        <td>174</td>\n                        <td>Ichchapuram</td>\n                        <td>Srikakulam</td>\n                        <td>76260</td>\n                    </tr><tr>\n                        <td>175</td>\n                        <td>Madakasira</td>\n                        <td>Ananthapuramu</td>\n                        <td>66036</td>\n                    </tr>\n                    </tbody>\n                </table>\n                \n                    </div>",
+  "search_trigger": "Constituency",
+  "data": {
+    "25": {
+      "color": "rgba(24, 115, 53, 1.0)",
+      "matter": "<b>Constituency: </b>Gajuwaka<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>324816 (Rank: 2)<br><b>Total GVA (AE): </b>1131242 (Rank: 1)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>14253 (159)<br><b>Industry: </b>899842 (1)<br><b>Services: </b>217147 (37)"
+    },
+    "73": {
+      "color": "rgba(1, 85, 4, 1.0)",
+      "matter": "<b>Constituency: </b>Kaikalur<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>375988 (Rank: 1)<br><b>Total GVA (AE): </b>1021841 (Rank: 2)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>815044 (1)<br><b>Industry: </b>65376 (102)<br><b>Services: </b>141420 (91)"
+    },
+    "41": {
+      "color": "rgba(39, 131, 68, 1.0)",
+      "matter": "<b>Constituency: </b>Kakinada (City)<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>263303 (Rank: 5)<br><b>Total GVA (AE): </b>881236 (Rank: 3)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>1933 (171)<br><b>Industry: </b>215039 (7)<br><b>Services: </b>664264 (1)"
+    },
+    "23": {
+      "color": "rgba(71, 163, 102, 1.0)",
+      "matter": "<b>Constituency: </b>Visakhapatnam-North<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>222299 (Rank: 11)<br><b>Total GVA (AE): </b>787220 (Rank: 4)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>2376 (170)<br><b>Industry: </b>143209 (20)<br><b>Services: </b>641635 (2)"
+    },
+    "22": {
+      "color": "rgba(36, 129, 65, 1.0)",
+      "matter": "<b>Constituency: </b>Visakhapatnam-South<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>264137 (Rank: 4)<br><b>Total GVA (AE): </b>779620 (Rank: 5)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>81813 (133)<br><b>Industry: </b>119362 (39)<br><b>Services: </b>578445 (4)"
+    },
+    "32": {
+      "color": "rgba(31, 124, 60, 1.0)",
+      "matter": "<b>Constituency: </b>Yelamanchili<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>285777 (Rank: 3)<br><b>Total GVA (AE): </b>755776 (Rank: 6)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>107018 (112)<br><b>Industry: </b>493921 (2)<br><b>Services: </b>154837 (73)"
+    },
+    "94": {
+      "color": "rgba(81, 174, 112, 1.0)",
+      "matter": "<b>Constituency: </b>Guntur West<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>213161 (Rank: 15)<br><b>Total GVA (AE): </b>712089 (Rank: 7)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>0 (173)<br><b>Industry: </b>150976 (17)<br><b>Services: </b>553533 (5)"
+    },
+    "167": {
+      "color": "rgba(132, 226, 164, 1.0)",
+      "matter": "<b>Constituency: </b>Tirupati<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>158119 (Rank: 49)<br><b>Total GVA (AE): </b>673584 (Rank: 8)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>5240 (167)<br><b>Industry: </b>59046 (117)<br><b>Services: </b>609297 (3)"
+    },
+    "95": {
+      "color": "rgba(93, 187, 124, 1.0)",
+      "matter": "<b>Constituency: </b>Guntur East<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>195346 (Rank: 20)<br><b>Total GVA (AE): </b>668492 (Rank: 9)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>0 (173)<br><b>Industry: </b>154571 (16)<br><b>Services: </b>510950 (7)"
+    },
+    "60": {
+      "color": "rgba(59, 151, 90, 1.0)",
+      "matter": "<b>Constituency: </b>Undi<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>233698 (Rank: 8)<br><b>Total GVA (AE): </b>664418 (Rank: 10)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>448457 (2)<br><b>Industry: </b>64543 (104)<br><b>Services: </b>151418 (76)"
+    },
+    "71": {
+      "color": "rgba(88, 181, 119, 1.0)",
+      "matter": "<b>Constituency: </b>Gannavaram<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>198825 (Rank: 18)<br><b>Total GVA (AE): </b>655096 (Rank: 11)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>178213 (47)<br><b>Industry: </b>149164 (18)<br><b>Services: </b>327719 (17)"
+    },
+    "63": {
+      "color": "rgba(49, 141, 79, 1.0)",
+      "matter": "<b>Constituency: </b>Unguturu<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>238800 (Rank: 6)<br><b>Total GVA (AE): </b>640167 (Rank: 12)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>445960 (3)<br><b>Industry: </b>57255 (122)<br><b>Services: </b>136952 (101)"
+    },
+    "82": {
+      "color": "rgba(108, 201, 140, 1.0)",
+      "matter": "<b>Constituency: </b>Mylavaram<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>185783 (Rank: 27)<br><b>Total GVA (AE): </b>628002 (Rank: 13)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>245725 (18)<br><b>Industry: </b>136679 (26)<br><b>Services: </b>245599 (26)"
+    },
+    "79": {
+      "color": "rgba(122, 216, 154, 1.0)",
+      "matter": "<b>Constituency: </b>Vijayawada West<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>164598 (Rank: 40)<br><b>Total GVA (AE): </b>623156 (Rank: 14)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>7655 (162)<br><b>Industry: </b>84724 (73)<br><b>Services: </b>530776 (6)"
+    },
+    "121": {
+      "color": "rgba(109, 203, 141, 1.0)",
+      "matter": "<b>Constituency: </b>Sullurpet<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>185493 (Rank: 28)<br><b>Total GVA (AE): </b>610367 (Rank: 15)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>144236 (82)<br><b>Industry: </b>269674 (5)<br><b>Services: </b>196456 (44)"
+    },
+    "64": {
+      "color": "rgba(69, 161, 100, 1.0)",
+      "matter": "<b>Constituency: </b>Denduluru<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>223526 (Rank: 10)<br><b>Total GVA (AE): </b>608194 (Rank: 16)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>433513 (4)<br><b>Industry: </b>49881 (136)<br><b>Services: </b>124800 (116)"
+    },
+    "72": {
+      "color": "rgba(64, 156, 95, 1.0)",
+      "matter": "<b>Constituency: </b>Gudivada<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>231220 (Rank: 9)<br><b>Total GVA (AE): </b>601335 (Rank: 17)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>352235 (8)<br><b>Industry: </b>63378 (107)<br><b>Services: </b>185722 (48)"
+    },
+    "70": {
+      "color": "rgba(100, 194, 131, 1.0)",
+      "matter": "<b>Constituency: </b>Nuzvid<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>190636 (Rank: 24)<br><b>Total GVA (AE): </b>599277 (Rank: 18)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>357764 (6)<br><b>Industry: </b>85746 (71)<br><b>Services: </b>155767 (71)"
+    },
+    "107": {
+      "color": "rgba(79, 171, 110, 1.0)",
+      "matter": "<b>Constituency: </b>S.N.Padu<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>216464 (Rank: 14)<br><b>Total GVA (AE): </b>593447 (Rank: 19)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>168588 (58)<br><b>Industry: </b>235547 (6)<br><b>Services: </b>189312 (47)"
+    },
+    "24": {
+      "color": "rgba(78, 170, 109, 1.0)",
+      "matter": "<b>Constituency: </b>Visakhapatnam-West<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>216488 (Rank: 13)<br><b>Total GVA (AE): </b>588567 (Rank: 20)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>2959 (169)<br><b>Industry: </b>103569 (50)<br><b>Services: </b>482039 (9)"
+    },
+    "50": {
+      "color": "rgba(127, 221, 159, 1.0)",
+      "matter": "<b>Constituency: </b>Rajamhendravaram (City)<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>160005 (Rank: 45)<br><b>Total GVA (AE): </b>585705 (Rank: 21)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>7110 (164)<br><b>Industry: </b>157196 (15)<br><b>Services: </b>421399 (14)"
+    },
+    "114": {
+      "color": "rgba(99, 192, 130, 1.0)",
+      "matter": "<b>Constituency: </b>Kavali<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>191583 (Rank: 23)<br><b>Total GVA (AE): </b>579611 (Rank: 22)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>231127 (22)<br><b>Industry: </b>112168 (43)<br><b>Services: </b>236315 (29)"
+    },
+    "137": {
+      "color": "rgba(121, 215, 153, 1.0)",
+      "matter": "<b>Constituency: </b>Kurnool<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>164717 (Rank: 39)<br><b>Total GVA (AE): </b>577056 (Rank: 23)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>0 (173)<br><b>Industry: </b>138666 (24)<br><b>Services: </b>438390 (12)"
+    },
+    "90": {
+      "color": "rgba(94, 188, 125, 1.0)",
+      "matter": "<b>Constituency: </b>Repalle<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>194562 (Rank: 21)<br><b>Total GVA (AE): </b>574896 (Rank: 24)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>278199 (14)<br><b>Industry: </b>133128 (27)<br><b>Services: </b>163569 (61)"
+    },
+    "31": {
+      "color": "rgba(119, 212, 151, 1.0)",
+      "matter": "<b>Constituency: </b>Pendurthi<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>166272 (Rank: 37)<br><b>Total GVA (AE): </b>572825 (Rank: 25)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>80238 (135)<br><b>Industry: </b>274040 (4)<br><b>Services: </b>218547 (36)"
+    },
+    "81": {
+      "color": "rgba(125, 219, 157, 1.0)",
+      "matter": "<b>Constituency: </b>Vijayawada East<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>161635 (Rank: 43)<br><b>Total GVA (AE): </b>571226 (Rank: 26)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>7017 (165)<br><b>Industry: </b>77664 (85)<br><b>Services: </b>486545 (8)"
+    },
+    "152": {
+      "color": "rgba(106, 199, 138, 1.0)",
+      "matter": "<b>Constituency: </b>Singanamala<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>186470 (Rank: 26)<br><b>Total GVA (AE): </b>570642 (Rank: 27)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>415905 (5)<br><b>Industry: </b>40780 (153)<br><b>Services: </b>113957 (142)"
+    },
+    "76": {
+      "color": "rgba(84, 176, 115, 1.0)",
+      "matter": "<b>Constituency: </b>Avanigadda<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>208023 (Rank: 16)<br><b>Total GVA (AE): </b>570512 (Rank: 28)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>356226 (7)<br><b>Industry: </b>59574 (116)<br><b>Services: </b>154712 (74)"
+    },
+    "80": {
+      "color": "rgba(120, 213, 152, 1.0)",
+      "matter": "<b>Constituency: </b>Vijayawada Central<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>165419 (Rank: 38)<br><b>Total GVA (AE): </b>568163 (Rank: 29)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>10189 (161)<br><b>Industry: </b>80954 (80)<br><b>Services: </b>477020 (10)"
+    },
+    "120": {
+      "color": "rgba(113, 206, 145, 1.0)",
+      "matter": "<b>Constituency: </b>Gudur<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>178585 (Rank: 31)<br><b>Total GVA (AE): </b>564864 (Rank: 30)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>165371 (62)<br><b>Industry: </b>169089 (11)<br><b>Services: </b>230405 (32)"
+    },
+    "45": {
+      "color": "rgba(74, 166, 105, 1.0)",
+      "matter": "<b>Constituency: </b>Razole<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>216856 (Rank: 12)<br><b>Total GVA (AE): </b>563013 (Rank: 31)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>91404 (125)<br><b>Industry: </b>368165 (3)<br><b>Services: </b>103444 (156)"
+    },
+    "129": {
+      "color": "rgba(111, 204, 143, 1.0)",
+      "matter": "<b>Constituency: </b>Pulivendula<br><b>District: </b>YSR KADAPA<br><hr><b>PCI (AE): </b>183783 (Rank: 29)<br><b>Total GVA (AE): </b>557322 (Rank: 32)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>319957 (10)<br><b>Industry: </b>78737 (82)<br><b>Services: </b>158629 (67)"
+    },
+    "119": {
+      "color": "rgba(97, 191, 128, 1.0)",
+      "matter": "<b>Constituency: </b>Survepalli<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>191855 (Rank: 22)<br><b>Total GVA (AE): </b>555420 (Rank: 33)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>266555 (15)<br><b>Industry: </b>124988 (33)<br><b>Services: </b>163878 (60)"
+    },
+    "59": {
+      "color": "rgba(111, 204, 143, 1.0)",
+      "matter": "<b>Constituency: </b>Bhimavaram<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>183600 (Rank: 30)<br><b>Total GVA (AE): </b>554798 (Rank: 34)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>284564 (12)<br><b>Industry: </b>53771 (129)<br><b>Services: </b>216463 (38)"
+    },
+    "153": {
+      "color": "rgba(117, 210, 149, 1.0)",
+      "matter": "<b>Constituency: </b>Ananthapuramu<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>168902 (Rank: 35)<br><b>Total GVA (AE): </b>541715 (Rank: 35)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>5720 (166)<br><b>Industry: </b>92906 (62)<br><b>Services: </b>443089 (11)"
+    },
+    "21": {
+      "color": "rgba(102, 195, 133, 1.0)",
+      "matter": "<b>Constituency: </b>Visakhapatnam-East<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>189835 (Rank: 25)<br><b>Total GVA (AE): </b>539155 (Rank: 36)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>3395 (168)<br><b>Industry: </b>106613 (47)<br><b>Services: </b>429147 (13)"
+    },
+    "166": {
+      "color": "rgba(128, 222, 160, 1.0)",
+      "matter": "<b>Constituency: </b>Chandragiri<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>159975 (Rank: 46)<br><b>Total GVA (AE): </b>530376 (Rank: 37)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>195992 (35)<br><b>Industry: </b>73834 (93)<br><b>Services: </b>260549 (23)"
+    },
+    "168": {
+      "color": "rgba(126, 220, 158, 1.0)",
+      "matter": "<b>Constituency: </b>Srikalahasti<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>160940 (Rank: 44)<br><b>Total GVA (AE): </b>526742 (Rank: 38)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>85321 (130)<br><b>Industry: </b>211882 (8)<br><b>Services: </b>229538 (33)"
+    },
+    "66": {
+      "color": "rgba(114, 208, 146, 1.0)",
+      "matter": "<b>Constituency: </b>Gopalapuram<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>174675 (Rank: 33)<br><b>Total GVA (AE): </b>525175 (Rank: 39)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>278535 (13)<br><b>Industry: </b>97978 (58)<br><b>Services: </b>148662 (80)"
+    },
+    "118": {
+      "color": "rgba(180, 255, 212, 1.0)",
+      "matter": "<b>Constituency: </b>Nellore Rural<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>126870 (Rank: 92)<br><b>Total GVA (AE): </b>524382 (Rank: 40)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>73255 (142)<br><b>Industry: </b>191349 (9)<br><b>Services: </b>259778 (24)"
+    },
+    "20": {
+      "color": "rgba(157, 250, 189, 1.0)",
+      "matter": "<b>Constituency: </b>Bheemunipatnam<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>145413 (Rank: 66)<br><b>Total GVA (AE): </b>523369 (Rank: 41)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>124251 (98)<br><b>Industry: </b>140790 (22)<br><b>Services: </b>258328 (25)"
+    },
+    "74": {
+      "color": "rgba(54, 146, 84, 1.0)",
+      "matter": "<b>Constituency: </b>Pedana<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>235575 (Rank: 7)<br><b>Total GVA (AE): </b>514728 (Rank: 42)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>335037 (9)<br><b>Industry: </b>42953 (151)<br><b>Services: </b>136738 (102)"
+    },
+    "116": {
+      "color": "rgba(135, 228, 167, 1.0)",
+      "matter": "<b>Constituency: </b>Kovur<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>157333 (Rank: 51)<br><b>Total GVA (AE): </b>509633 (Rank: 43)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>220715 (25)<br><b>Industry: </b>125448 (31)<br><b>Services: </b>163471 (62)"
+    },
+    "75": {
+      "color": "rgba(87, 179, 118, 1.0)",
+      "matter": "<b>Constituency: </b>Machilipatnam<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>200830 (Rank: 17)<br><b>Total GVA (AE): </b>498979 (Rank: 44)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>233274 (20)<br><b>Industry: </b>51910 (131)<br><b>Services: </b>213795 (39)"
+    },
+    "65": {
+      "color": "rgba(118, 211, 150, 1.0)",
+      "matter": "<b>Constituency: </b>Eluru<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>167992 (Rank: 36)<br><b>Total GVA (AE): </b>490686 (Rank: 45)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>26811 (157)<br><b>Industry: </b>142581 (21)<br><b>Services: </b>321295 (18)"
+    },
+    "131": {
+      "color": "rgba(140, 234, 172, 1.0)",
+      "matter": "<b>Constituency: </b>J.Madugu<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>151778 (Rank: 56)<br><b>Total GVA (AE): </b>490615 (Rank: 46)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>98692 (120)<br><b>Industry: </b>157459 (14)<br><b>Services: </b>234464 (31)"
+    },
+    "68": {
+      "color": "rgba(146, 239, 178, 1.0)",
+      "matter": "<b>Constituency: </b>Chintalapudi<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>149084 (Rank: 59)<br><b>Total GVA (AE): </b>490341 (Rank: 47)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>264839 (16)<br><b>Industry: </b>47264 (143)<br><b>Services: </b>178238 (50)"
+    },
+    "5": {
+      "color": "rgba(136, 230, 168, 1.0)",
+      "matter": "<b>Constituency: </b>Srikakulam<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>156142 (Rank: 52)<br><b>Total GVA (AE): </b>485838 (Rank: 48)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>56424 (148)<br><b>Industry: </b>84637 (74)<br><b>Services: </b>344776 (16)"
+    },
+    "78": {
+      "color": "rgba(156, 249, 188, 1.0)",
+      "matter": "<b>Constituency: </b>Penamaluru<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>147358 (Rank: 65)<br><b>Total GVA (AE): </b>481533 (Rank: 49)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>77952 (136)<br><b>Industry: </b>100907 (52)<br><b>Services: </b>302675 (20)"
+    },
+    "67": {
+      "color": "rgba(158, 251, 190, 1.0)",
+      "matter": "<b>Constituency: </b>Polavaram<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>145215 (Rank: 67)<br><b>Total GVA (AE): </b>480578 (Rank: 50)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>286355 (11)<br><b>Industry: </b>48817 (139)<br><b>Services: </b>145406 (85)"
+    },
+    "55": {
+      "color": "rgba(114, 207, 146, 1.0)",
+      "matter": "<b>Constituency: </b>Nidadavole<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>176881 (Rank: 32)<br><b>Total GVA (AE): </b>478586 (Rank: 51)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>232876 (21)<br><b>Industry: </b>95262 (61)<br><b>Services: </b>150448 (77)"
+    },
+    "165": {
+      "color": "rgba(138, 231, 170, 1.0)",
+      "matter": "<b>Constituency: </b>Punganur<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>154180 (Rank: 53)<br><b>Total GVA (AE): </b>472839 (Rank: 52)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>258458 (17)<br><b>Industry: </b>76413 (86)<br><b>Services: </b>137968 (99)"
+    },
+    "141": {
+      "color": "rgba(124, 218, 156, 1.0)",
+      "matter": "<b>Constituency: </b>Dhone<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>161820 (Rank: 42)<br><b>Total GVA (AE): </b>471936 (Rank: 53)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>192465 (38)<br><b>Industry: </b>105901 (48)<br><b>Services: </b>173571 (54)"
+    },
+    "108": {
+      "color": "rgba(142, 235, 174, 1.0)",
+      "matter": "<b>Constituency: </b>Ongole<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>150345 (Rank: 57)<br><b>Total GVA (AE): </b>470386 (Rank: 54)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>102221 (117)<br><b>Industry: </b>58604 (118)<br><b>Services: </b>309561 (19)"
+    },
+    "101": {
+      "color": "rgba(160, 252, 192, 1.0)",
+      "matter": "<b>Constituency: </b>Macherla<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>142149 (Rank: 69)<br><b>Total GVA (AE): </b>465718 (Rank: 55)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>222462 (24)<br><b>Industry: </b>102546 (51)<br><b>Services: </b>140710 (93)"
+    },
+    "91": {
+      "color": "rgba(145, 238, 177, 1.0)",
+      "matter": "<b>Constituency: </b>Tenali<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>149446 (Rank: 58)<br><b>Total GVA (AE): </b>463591 (Rank: 56)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>123077 (99)<br><b>Industry: </b>131008 (28)<br><b>Services: </b>209506 (41)"
+    },
+    "33": {
+      "color": "rgba(161, 254, 193, 1.0)",
+      "matter": "<b>Constituency: </b>Payakaraopeta<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>141477 (Rank: 70)<br><b>Total GVA (AE): </b>459467 (Rank: 57)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>150054 (72)<br><b>Industry: </b>167273 (12)<br><b>Services: </b>142140 (90)"
+    },
+    "173": {
+      "color": "rgba(129, 223, 161, 1.0)",
+      "matter": "<b>Constituency: </b>Puthalapattu<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>159645 (Rank: 47)<br><b>Total GVA (AE): </b>457793 (Rank: 58)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>216549 (26)<br><b>Industry: </b>137731 (25)<br><b>Services: </b>103513 (155)"
+    },
+    "155": {
+      "color": "rgba(139, 232, 171, 1.0)",
+      "matter": "<b>Constituency: </b>Rapthadu<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>153977 (Rank: 55)<br><b>Total GVA (AE): </b>446776 (Rank: 59)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>187156 (45)<br><b>Industry: </b>51659 (132)<br><b>Services: </b>207961 (42)"
+    },
+    "104": {
+      "color": "rgba(154, 247, 186, 1.0)",
+      "matter": "<b>Constituency: </b>Parchur<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>147759 (Rank: 62)<br><b>Total GVA (AE): </b>438973 (Rank: 60)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>208151 (30)<br><b>Industry: </b>118756 (40)<br><b>Services: </b>112066 (148)"
+    },
+    "87": {
+      "color": "rgba(174, 255, 206, 1.0)",
+      "matter": "<b>Constituency: </b>Mangalagiri<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>129866 (Rank: 85)<br><b>Total GVA (AE): </b>437741 (Rank: 61)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>100301 (119)<br><b>Industry: </b>116645 (42)<br><b>Services: </b>220795 (35)"
+    },
+    "157": {
+      "color": "rgba(167, 255, 199, 1.0)",
+      "matter": "<b>Constituency: </b>Hindupur<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>138243 (Rank: 74)<br><b>Total GVA (AE): </b>434199 (Rank: 62)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>64801 (145)<br><b>Industry: </b>157858 (13)<br><b>Services: </b>211540 (40)"
+    },
+    "58": {
+      "color": "rgba(91, 184, 122, 1.0)",
+      "matter": "<b>Constituency: </b>Narasapuram<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>197643 (Rank: 19)<br><b>Total GVA (AE): </b>432427 (Rank: 63)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>242256 (19)<br><b>Industry: </b>82192 (78)<br><b>Services: </b>107979 (152)"
+    },
+    "140": {
+      "color": "rgba(159, 252, 191, 1.0)",
+      "matter": "<b>Constituency: </b>Banaganapalle<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>143134 (Rank: 68)<br><b>Total GVA (AE): </b>429921 (Rank: 64)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>149983 (73)<br><b>Industry: </b>139374 (23)<br><b>Services: </b>140565 (94)"
+    },
+    "172": {
+      "color": "rgba(133, 227, 165, 1.0)",
+      "matter": "<b>Constituency: </b>Chittoor<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>157379 (Rank: 50)<br><b>Total GVA (AE): </b>421657 (Rank: 65)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>53359 (151)<br><b>Industry: </b>129845 (29)<br><b>Services: </b>238453 (28)"
+    },
+    "111": {
+      "color": "rgba(148, 241, 180, 1.0)",
+      "matter": "<b>Constituency: </b>Markapur<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>148766 (Rank: 61)<br><b>Total GVA (AE): </b>420571 (Rank: 66)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>122886 (100)<br><b>Industry: </b>74692 (90)<br><b>Services: </b>222993 (34)"
+    },
+    "105": {
+      "color": "rgba(168, 255, 200, 1.0)",
+      "matter": "<b>Constituency: </b>Addanki<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>136931 (Rank: 75)<br><b>Total GVA (AE): </b>418384 (Rank: 67)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>174296 (52)<br><b>Industry: </b>129647 (30)<br><b>Services: </b>114441 (139)"
+    },
+    "117": {
+      "color": "rgba(123, 217, 155, 1.0)",
+      "matter": "<b>Constituency: </b>Nellore City<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>162502 (Rank: 41)<br><b>Total GVA (AE): </b>415545 (Rank: 68)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>526 (172)<br><b>Industry: </b>27411 (164)<br><b>Services: </b>387608 (15)"
+    },
+    "61": {
+      "color": "rgba(162, 255, 194, 1.0)",
+      "matter": "<b>Constituency: </b>Tanuku<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>141186 (Rank: 71)<br><b>Total GVA (AE): </b>414672 (Rank: 69)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>116807 (103)<br><b>Industry: </b>98109 (57)<br><b>Services: </b>199756 (43)"
+    },
+    "128": {
+      "color": "rgba(195, 255, 227, 1.0)",
+      "matter": "<b>Constituency: </b>Rayachoty<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>123749 (Rank: 104)<br><b>Total GVA (AE): </b>414458 (Rank: 70)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>160603 (65)<br><b>Industry: </b>90882 (64)<br><b>Services: </b>162972 (63)"
+    },
+    "69": {
+      "color": "rgba(139, 232, 171, 1.0)",
+      "matter": "<b>Constituency: </b>Tiruvuru (Sc)<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>154100 (Rank: 54)<br><b>Total GVA (AE): </b>411034 (Rank: 71)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>214847 (27)<br><b>Industry: </b>60385 (112)<br><b>Services: </b>135802 (103)"
+    },
+    "174": {
+      "color": "rgba(215, 255, 247, 1.0)",
+      "matter": "<b>Constituency: </b>Palamaner<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>115009 (Rank: 123)<br><b>Total GVA (AE): </b>410173 (Rank: 72)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>189412 (42)<br><b>Industry: </b>77808 (84)<br><b>Services: </b>142953 (88)"
+    },
+    "47": {
+      "color": "rgba(192, 255, 224, 1.0)",
+      "matter": "<b>Constituency: </b>Kothapeta<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>124953 (Rank: 101)<br><b>Total GVA (AE): </b>402525 (Rank: 73)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>174952 (51)<br><b>Industry: </b>72098 (97)<br><b>Services: </b>155475 (72)"
+    },
+    "109": {
+      "color": "rgba(163, 255, 195, 1.0)",
+      "matter": "<b>Constituency: </b>Kandukur<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>140317 (Rank: 72)<br><b>Total GVA (AE): </b>401929 (Rank: 74)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>194393 (36)<br><b>Industry: </b>48297 (140)<br><b>Services: </b>159239 (65)"
+    },
+    "122": {
+      "color": "rgba(171, 255, 203, 1.0)",
+      "matter": "<b>Constituency: </b>Venkatagiri<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>133214 (Rank: 80)<br><b>Total GVA (AE): </b>399037 (Rank: 75)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>203409 (31)<br><b>Industry: </b>45228 (148)<br><b>Services: </b>150400 (78)"
+    },
+    "96": {
+      "color": "rgba(169, 255, 201, 1.0)",
+      "matter": "<b>Constituency: </b>Chilakaluripet<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>136685 (Rank: 76)<br><b>Total GVA (AE): </b>398618 (Rank: 76)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>74231 (140)<br><b>Industry: </b>176955 (10)<br><b>Services: </b>147431 (82)"
+    },
+    "84": {
+      "color": "rgba(155, 248, 187, 1.0)",
+      "matter": "<b>Constituency: </b>Jaggayyapeta<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>147570 (Rank: 63)<br><b>Total GVA (AE): </b>397727 (Rank: 77)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>122703 (101)<br><b>Industry: </b>99898 (53)<br><b>Services: </b>175126 (53)"
+    },
+    "54": {
+      "color": "rgba(116, 209, 148, 1.0)",
+      "matter": "<b>Constituency: </b>Kovvur<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>169244 (Rank: 34)<br><b>Total GVA (AE): </b>396631 (Rank: 78)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>132566 (90)<br><b>Industry: </b>143808 (19)<br><b>Services: </b>120257 (129)"
+    },
+    "163": {
+      "color": "rgba(173, 255, 205, 1.0)",
+      "matter": "<b>Constituency: </b>Piler<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>131620 (Rank: 83)<br><b>Total GVA (AE): </b>394423 (Rank: 79)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>201938 (32)<br><b>Industry: </b>42926 (152)<br><b>Services: </b>149558 (79)"
+    },
+    "44": {
+      "color": "rgba(170, 255, 202, 1.0)",
+      "matter": "<b>Constituency: </b>Amalapuram<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>135872 (Rank: 77)<br><b>Total GVA (AE): </b>392656 (Rank: 80)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>151476 (69)<br><b>Industry: </b>74444 (91)<br><b>Services: </b>166735 (58)"
+    },
+    "138": {
+      "color": "rgba(230, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Panyam<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>109042 (Rank: 137)<br><b>Total GVA (AE): </b>392597 (Rank: 81)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>148459 (78)<br><b>Industry: </b>91278 (63)<br><b>Services: </b>152860 (75)"
+    },
+    "110": {
+      "color": "rgba(177, 255, 209, 1.0)",
+      "matter": "<b>Constituency: </b>Kondapi<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>127711 (Rank: 88)<br><b>Total GVA (AE): </b>390360 (Rank: 82)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>166621 (61)<br><b>Industry: </b>75508 (88)<br><b>Services: </b>148231 (81)"
+    },
+    "29": {
+      "color": "rgba(202, 255, 234, 1.0)",
+      "matter": "<b>Constituency: </b>Paderu<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>121341 (Rank: 110)<br><b>Total GVA (AE): </b>388264 (Rank: 83)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>188369 (43)<br><b>Industry: </b>59659 (115)<br><b>Services: </b>140236 (95)"
+    },
+    "98": {
+      "color": "rgba(173, 255, 205, 1.0)",
+      "matter": "<b>Constituency: </b>Sattenapalli<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>131635 (Rank: 82)<br><b>Total GVA (AE): </b>387676 (Rank: 84)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>129731 (94)<br><b>Industry: </b>117095 (41)<br><b>Services: </b>140850 (92)"
+    },
+    "77": {
+      "color": "rgba(130, 224, 162, 1.0)",
+      "matter": "<b>Constituency: </b>Pamarru (Sc)<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>159511 (Rank: 48)<br><b>Total GVA (AE): </b>383961 (Rank: 85)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>164965 (63)<br><b>Industry: </b>62153 (109)<br><b>Services: </b>156843 (69)"
+    },
+    "43": {
+      "color": "rgba(202, 255, 234, 1.0)",
+      "matter": "<b>Constituency: </b>Mummidivaram<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>121383 (Rank: 109)<br><b>Total GVA (AE): </b>381685 (Rank: 86)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>198127 (34)<br><b>Industry: </b>75893 (87)<br><b>Services: </b>107665 (153)"
+    },
+    "18": {
+      "color": "rgba(178, 255, 210, 1.0)",
+      "matter": "<b>Constituency: </b>Vizianagaram<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>127465 (Rank: 89)<br><b>Total GVA (AE): </b>379503 (Rank: 87)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>13985 (160)<br><b>Industry: </b>77967 (83)<br><b>Services: </b>287551 (21)"
+    },
+    "150": {
+      "color": "rgba(216, 255, 248, 1.0)",
+      "matter": "<b>Constituency: </b>Guntakal<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>114244 (Rank: 124)<br><b>Total GVA (AE): </b>377627 (Rank: 88)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>95117 (122)<br><b>Industry: </b>46509 (146)<br><b>Services: </b>236000 (30)"
+    },
+    "40": {
+      "color": "rgba(175, 255, 207, 1.0)",
+      "matter": "<b>Constituency: </b>Anaparthi<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>130411 (Rank: 84)<br><b>Total GVA (AE): </b>376645 (Rank: 89)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>192365 (39)<br><b>Industry: </b>80121 (81)<br><b>Services: </b>104158 (154)"
+    },
+    "38": {
+      "color": "rgba(165, 255, 197, 1.0)",
+      "matter": "<b>Constituency: </b>Kakinada (Rural)<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>139665 (Rank: 73)<br><b>Total GVA (AE): </b>374693 (Rank: 90)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>146363 (79)<br><b>Industry: </b>98332 (56)<br><b>Services: </b>129999 (110)"
+    },
+    "89": {
+      "color": "rgba(147, 240, 179, 1.0)",
+      "matter": "<b>Constituency: </b>Vemuru<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>148882 (Rank: 60)<br><b>Total GVA (AE): </b>373051 (Rank: 91)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>191493 (40)<br><b>Industry: </b>58482 (120)<br><b>Services: </b>123075 (121)"
+    },
+    "164": {
+      "color": "rgba(219, 255, 251, 1.0)",
+      "matter": "<b>Constituency: </b>Madanapalle<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>113035 (Rank: 127)<br><b>Total GVA (AE): </b>372791 (Rank: 92)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>132009 (91)<br><b>Industry: </b>65280 (103)<br><b>Services: </b>175502 (52)"
+    },
+    "161": {
+      "color": "rgba(211, 255, 243, 1.0)",
+      "matter": "<b>Constituency: </b>Kadiri<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>116920 (Rank: 118)<br><b>Total GVA (AE): </b>372386 (Rank: 93)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>208617 (29)<br><b>Industry: </b>34457 (156)<br><b>Services: </b>129312 (111)"
+    },
+    "126": {
+      "color": "rgba(229, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Kadapa<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>110464 (Rank: 136)<br><b>Total GVA (AE): </b>371750 (Rank: 94)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>7324 (163)<br><b>Industry: </b>89217 (66)<br><b>Services: </b>275210 (22)"
+    },
+    "151": {
+      "color": "rgba(212, 255, 244, 1.0)",
+      "matter": "<b>Constituency: </b>Tadipatri<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>116159 (Rank: 120)<br><b>Total GVA (AE): </b>367606 (Rank: 95)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>133549 (89)<br><b>Industry: </b>88646 (67)<br><b>Services: </b>145411 (84)"
+    },
+    "26": {
+      "color": "rgba(191, 255, 223, 1.0)",
+      "matter": "<b>Constituency: </b>Chodavaram<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>125119 (Rank: 100)<br><b>Total GVA (AE): </b>367523 (Rank: 96)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>85672 (129)<br><b>Industry: </b>125119 (32)<br><b>Services: </b>156732 (70)"
+    },
+    "48": {
+      "color": "rgba(176, 255, 208, 1.0)",
+      "matter": "<b>Constituency: </b>Mandapeta<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>128892 (Rank: 86)<br><b>Total GVA (AE): </b>367072 (Rank: 97)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>142848 (84)<br><b>Industry: </b>109925 (45)<br><b>Services: </b>114299 (140)"
+    },
+    "100": {
+      "color": "rgba(227, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Gurazala<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>111056 (Rank: 134)<br><b>Total GVA (AE): </b>367028 (Rank: 98)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>144753 (81)<br><b>Industry: </b>84264 (75)<br><b>Services: </b>138010 (98)"
+    },
+    "125": {
+      "color": "rgba(224, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Rajampet<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>112030 (Rank: 131)<br><b>Total GVA (AE): </b>362927 (Rank: 99)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>120635 (102)<br><b>Industry: </b>75326 (89)<br><b>Services: </b>166966 (57)"
+    },
+    "85": {
+      "color": "rgba(176, 255, 208, 1.0)",
+      "matter": "<b>Constituency: </b>Pedakurapadu<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>128569 (Rank: 87)<br><b>Total GVA (AE): </b>362298 (Rank: 100)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>189544 (41)<br><b>Industry: </b>57160 (123)<br><b>Services: </b>115594 (137)"
+    },
+    "30": {
+      "color": "rgba(172, 255, 204, 1.0)",
+      "matter": "<b>Constituency: </b>Anakapalli<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>132625 (Rank: 81)<br><b>Total GVA (AE): </b>361606 (Rank: 101)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>48350 (154)<br><b>Industry: </b>119520 (37)<br><b>Services: </b>193736 (46)"
+    },
+    "93": {
+      "color": "rgba(226, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Prathipadu<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>111237 (Rank: 133)<br><b>Total GVA (AE): </b>360893 (Rank: 102)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>167538 (60)<br><b>Industry: </b>111480 (44)<br><b>Services: </b>92426 (163)"
+    },
+    "34": {
+      "color": "rgba(183, 255, 215, 1.0)",
+      "matter": "<b>Constituency: </b>Narsipatnam<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>126160 (Rank: 97)<br><b>Total GVA (AE): </b>360815 (Rank: 103)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>77473 (137)<br><b>Industry: </b>105111 (49)<br><b>Services: </b>178231 (51)"
+    },
+    "134": {
+      "color": "rgba(206, 255, 238, 1.0)",
+      "matter": "<b>Constituency: </b>Allagadda<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>119667 (Rank: 113)<br><b>Total GVA (AE): </b>359936 (Rank: 104)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>176902 (48)<br><b>Industry: </b>52595 (130)<br><b>Services: </b>130439 (108)"
+    },
+    "142": {
+      "color": "rgba(182, 255, 214, 1.0)",
+      "matter": "<b>Constituency: </b>Pattikonda<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>126616 (Rank: 94)<br><b>Total GVA (AE): </b>359900 (Rank: 105)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>192915 (37)<br><b>Industry: </b>74120 (92)<br><b>Services: </b>92865 (162)"
+    },
+    "7": {
+      "color": "rgba(214, 255, 246, 1.0)",
+      "matter": "<b>Constituency: </b>Etcherla<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>115669 (Rank: 122)<br><b>Total GVA (AE): </b>359826 (Rank: 106)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>124895 (97)<br><b>Industry: </b>106825 (46)<br><b>Services: </b>128106 (112)"
+    },
+    "92": {
+      "color": "rgba(156, 249, 188, 1.0)",
+      "matter": "<b>Constituency: </b>Bapatla<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>147467 (Rank: 64)<br><b>Total GVA (AE): </b>358869 (Rank: 107)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>149758 (76)<br><b>Industry: </b>73640 (94)<br><b>Services: </b>135471 (104)"
+    },
+    "83": {
+      "color": "rgba(171, 255, 203, 1.0)",
+      "matter": "<b>Constituency: </b>Nandigama (Sc)<br><b>District: </b>Krishna<br><hr><b>PCI (AE): </b>135444 (Rank: 78)<br><b>Total GVA (AE): </b>356316 (Rank: 108)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>128453 (95)<br><b>Industry: </b>85650 (72)<br><b>Services: </b>142213 (89)"
+    },
+    "51": {
+      "color": "rgba(179, 255, 211, 1.0)",
+      "matter": "<b>Constituency: </b>Rajamahendravaram (Rural)<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>127101 (Rank: 91)<br><b>Total GVA (AE): </b>350438 (Rank: 109)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>35007 (156)<br><b>Industry: </b>120276 (35)<br><b>Services: </b>195155 (45)"
+    },
+    "169": {
+      "color": "rgba(203, 255, 235, 1.0)",
+      "matter": "<b>Constituency: </b>Satyavedu<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>120450 (Rank: 111)<br><b>Total GVA (AE): </b>349034 (Rank: 110)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>105021 (114)<br><b>Industry: </b>122778 (34)<br><b>Services: </b>121235 (126)"
+    },
+    "49": {
+      "color": "rgba(182, 255, 214, 1.0)",
+      "matter": "<b>Constituency: </b>Rajanagaram<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>126299 (Rank: 96)<br><b>Total GVA (AE): </b>347999 (Rank: 111)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>134083 (88)<br><b>Industry: </b>81508 (79)<br><b>Services: </b>132408 (106)"
+    },
+    "139": {
+      "color": "rgba(232, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Nandyal<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>107538 (Rank: 139)<br><b>Total GVA (AE): </b>344455 (Rank: 112)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>45938 (155)<br><b>Industry: </b>56403 (125)<br><b>Services: </b>242115 (27)"
+    },
+    "99": {
+      "color": "rgba(235, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Vinukonda<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>106792 (Rank: 142)<br><b>Total GVA (AE): </b>344062 (Rank: 113)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>143793 (83)<br><b>Industry: </b>70086 (98)<br><b>Services: </b>130183 (109)"
+    },
+    "17": {
+      "color": "rgba(181, 255, 213, 1.0)",
+      "matter": "<b>Constituency: </b>Nellimarla<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>126853 (Rank: 93)<br><b>Total GVA (AE): </b>343998 (Rank: 114)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>109648 (108)<br><b>Industry: </b>99098 (55)<br><b>Services: </b>135252 (105)"
+    },
+    "88": {
+      "color": "rgba(197, 255, 229, 1.0)",
+      "matter": "<b>Constituency: </b>Ponnur<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>122196 (Rank: 106)<br><b>Total GVA (AE): </b>343995 (Rank: 115)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>101288 (118)<br><b>Industry: </b>83857 (76)<br><b>Services: </b>158850 (66)"
+    },
+    "133": {
+      "color": "rgba(196, 255, 228, 1.0)",
+      "matter": "<b>Constituency: </b>Mydukur<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>124289 (Rank: 103)<br><b>Total GVA (AE): </b>343453 (Rank: 116)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>169670 (55)<br><b>Industry: </b>60304 (113)<br><b>Services: </b>113479 (146)"
+    },
+    "123": {
+      "color": "rgba(219, 255, 251, 1.0)",
+      "matter": "<b>Constituency: </b>Udayagiri<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>113072 (Rank: 126)<br><b>Total GVA (AE): </b>342118 (Rank: 117)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>168900 (57)<br><b>Industry: </b>47727 (141)<br><b>Services: </b>125491 (114)"
+    },
+    "62": {
+      "color": "rgba(190, 255, 222, 1.0)",
+      "matter": "<b>Constituency: </b>Tadepalligudem<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>125179 (Rank: 99)<br><b>Total GVA (AE): </b>340893 (Rank: 118)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>107091 (111)<br><b>Industry: </b>51211 (134)<br><b>Services: </b>182592 (49)"
+    },
+    "112": {
+      "color": "rgba(228, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Giddalur<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>110919 (Rank: 135)<br><b>Total GVA (AE): </b>340780 (Rank: 119)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>187184 (44)<br><b>Industry: </b>21716 (168)<br><b>Services: </b>131880 (107)"
+    },
+    "46": {
+      "color": "rgba(183, 255, 215, 1.0)",
+      "matter": "<b>Constituency: </b>P. Gannavaram<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>126135 (Rank: 98)<br><b>Total GVA (AE): </b>339891 (Rank: 120)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>158621 (66)<br><b>Industry: </b>95622 (60)<br><b>Services: </b>85648 (167)"
+    },
+    "170": {
+      "color": "rgba(201, 255, 233, 1.0)",
+      "matter": "<b>Constituency: </b>Nagari<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>121723 (Rank: 108)<br><b>Total GVA (AE): </b>339678 (Rank: 121)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>96534 (121)<br><b>Industry: </b>86231 (68)<br><b>Services: </b>156912 (68)"
+    },
+    "19": {
+      "color": "rgba(211, 255, 243, 1.0)",
+      "matter": "<b>Constituency: </b>S.Kota<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>117033 (Rank: 117)<br><b>Total GVA (AE): </b>338870 (Rank: 122)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>83121 (131)<br><b>Industry: </b>82228 (77)<br><b>Services: </b>173521 (55)"
+    },
+    "162": {
+      "color": "rgba(209, 255, 241, 1.0)",
+      "matter": "<b>Constituency: </b>Thamballapalle<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>118048 (Rank: 115)<br><b>Total GVA (AE): </b>338049 (Rank: 123)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>212763 (28)<br><b>Industry: </b>40112 (154)<br><b>Services: </b>85174 (168)"
+    },
+    "130": {
+      "color": "rgba(179, 255, 211, 1.0)",
+      "matter": "<b>Constituency: </b>Kamalapuram<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>127436 (Rank: 90)<br><b>Total GVA (AE): </b>335832 (Rank: 124)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>127397 (96)<br><b>Industry: </b>96879 (59)<br><b>Services: </b>111556 (149)"
+    },
+    "171": {
+      "color": "rgba(207, 255, 239, 1.0)",
+      "matter": "<b>Constituency: </b>G.D.Nellore<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>119452 (Rank: 114)<br><b>Total GVA (AE): </b>335236 (Rank: 125)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>157312 (67)<br><b>Industry: </b>86089 (69)<br><b>Services: </b>91835 (165)"
+    },
+    "115": {
+      "color": "rgba(198, 255, 230, 1.0)",
+      "matter": "<b>Constituency: </b>Atmakur<br><b>District: </b>SPS Nellore<br><hr><b>PCI (AE): </b>122151 (Rank: 107)<br><b>Total GVA (AE): </b>334301 (Rank: 126)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>175452 (50)<br><b>Industry: </b>34120 (157)<br><b>Services: </b>124729 (117)"
+    },
+    "136": {
+      "color": "rgba(205, 255, 237, 1.0)",
+      "matter": "<b>Constituency: </b>Nandikotkur<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>119847 (Rank: 112)<br><b>Total GVA (AE): </b>332709 (Rank: 127)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>168928 (56)<br><b>Industry: </b>49546 (137)<br><b>Services: </b>114236 (141)"
+    },
+    "127": {
+      "color": "rgba(212, 255, 244, 1.0)",
+      "matter": "<b>Constituency: </b>Rly.Kodur<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>116396 (Rank: 119)<br><b>Total GVA (AE): </b>329158 (Rank: 128)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>149872 (74)<br><b>Industry: </b>99608 (54)<br><b>Services: </b>79677 (172)"
+    },
+    "35": {
+      "color": "rgba(225, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Tuni<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>111790 (Rank: 132)<br><b>Total GVA (AE): </b>328228 (Rank: 129)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>111414 (107)<br><b>Industry: </b>69582 (99)<br><b>Services: </b>147232 (83)"
+    },
+    "57": {
+      "color": "rgba(172, 255, 204, 1.0)",
+      "matter": "<b>Constituency: </b>Palacole<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>134380 (Rank: 79)<br><b>Total GVA (AE): </b>325791 (Rank: 130)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>154062 (68)<br><b>Industry: </b>47383 (142)<br><b>Services: </b>124345 (118)"
+    },
+    "160": {
+      "color": "rgba(241, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Dharmavaram<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>101968 (Rank: 148)<br><b>Total GVA (AE): </b>325163 (Rank: 131)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>175720 (49)<br><b>Industry: </b>25470 (165)<br><b>Services: </b>123973 (120)"
+    },
+    "86": {
+      "color": "rgba(182, 255, 214, 1.0)",
+      "matter": "<b>Constituency: </b>Tadikonda<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>126520 (Rank: 95)<br><b>Total GVA (AE): </b>324935 (Rank: 132)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>130963 (92)<br><b>Industry: </b>54187 (128)<br><b>Services: </b>139784 (96)"
+    },
+    "39": {
+      "color": "rgba(215, 255, 247, 1.0)",
+      "matter": "<b>Constituency: </b>Peddapuram<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>115715 (Rank: 121)<br><b>Total GVA (AE): </b>323888 (Rank: 133)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>90738 (126)<br><b>Industry: </b>119424 (38)<br><b>Services: </b>113726 (144)"
+    },
+    "36": {
+      "color": "rgba(223, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Prathipadu<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>112052 (Rank: 130)<br><b>Total GVA (AE): </b>323132 (Rank: 134)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>111673 (106)<br><b>Industry: </b>119606 (36)<br><b>Services: </b>91853 (164)"
+    },
+    "113": {
+      "color": "rgba(239, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Kanigiri<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>102752 (Rank: 146)<br><b>Total GVA (AE): </b>322766 (Rank: 135)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>173923 (53)<br><b>Industry: </b>31636 (161)<br><b>Services: </b>117207 (135)"
+    },
+    "158": {
+      "color": "rgba(237, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Penukonda<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>104477 (Rank: 144)<br><b>Total GVA (AE): </b>316690 (Rank: 136)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>109188 (109)<br><b>Industry: </b>85914 (70)<br><b>Services: </b>121587 (125)"
+    },
+    "52": {
+      "color": "rgba(236, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Jaggampeta<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>106414 (Rank: 143)<br><b>Total GVA (AE): </b>316671 (Rank: 137)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>149827 (75)<br><b>Industry: </b>46952 (144)<br><b>Services: </b>119892 (130)"
+    },
+    "147": {
+      "color": "rgba(246, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Alur<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>96628 (Rank: 153)<br><b>Total GVA (AE): </b>316329 (Rank: 138)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>198314 (33)<br><b>Industry: </b>32957 (159)<br><b>Services: </b>85058 (169)"
+    },
+    "103": {
+      "color": "rgba(231, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Darsi<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>108644 (Rank: 138)<br><b>Total GVA (AE): </b>314919 (Rank: 139)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>171520 (54)<br><b>Industry: </b>45726 (147)<br><b>Services: </b>97673 (160)"
+    },
+    "42": {
+      "color": "rgba(210, 255, 242, 1.0)",
+      "matter": "<b>Constituency: </b>Ramachandrapuram<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>117433 (Rank: 116)<br><b>Total GVA (AE): </b>312429 (Rank: 140)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>103331 (116)<br><b>Industry: </b>64128 (106)<br><b>Services: </b>144970 (87)"
+    },
+    "102": {
+      "color": "rgba(218, 255, 250, 1.0)",
+      "matter": "<b>Constituency: </b>Y.Palem<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>113424 (Rank: 125)<br><b>Total GVA (AE): </b>311891 (Rank: 141)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>228190 (23)<br><b>Industry: </b>18299 (173)<br><b>Services: </b>65402 (175)"
+    },
+    "135": {
+      "color": "rgba(195, 255, 227, 1.0)",
+      "matter": "<b>Constituency: </b>Srisailam<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>124323 (Rank: 102)<br><b>Total GVA (AE): </b>311447 (Rank: 142)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>151386 (70)<br><b>Industry: </b>44295 (150)<br><b>Services: </b>115766 (136)"
+    },
+    "144": {
+      "color": "rgba(244, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Yemmiganur<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>97933 (Rank: 151)<br><b>Total GVA (AE): </b>307624 (Rank: 143)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>135590 (87)<br><b>Industry: </b>49072 (138)<br><b>Services: </b>122961 (122)"
+    },
+    "154": {
+      "color": "rgba(238, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Kalyandurgam<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>103094 (Rank: 145)<br><b>Total GVA (AE): </b>302305 (Rank: 144)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>168078 (59)<br><b>Industry: </b>20478 (170)<br><b>Services: </b>113750 (143)"
+    },
+    "53": {
+      "color": "rgba(255, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Rampachodavaram<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>79514 (Rank: 172)<br><b>Total GVA (AE): </b>297946 (Rank: 145)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>162995 (64)<br><b>Industry: </b>25086 (167)<br><b>Services: </b>109865 (151)"
+    },
+    "28": {
+      "color": "rgba(255, 245, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Araku<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>90418 (Rank: 164)<br><b>Total GVA (AE): </b>296500 (Rank: 146)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>105736 (113)<br><b>Industry: </b>51008 (135)<br><b>Services: </b>139756 (97)"
+    },
+    "27": {
+      "color": "rgba(220, 255, 252, 1.0)",
+      "matter": "<b>Constituency: </b>Madugula<br><b>District: </b>Visakhapatnam<br><hr><b>PCI (AE): </b>112840 (Rank: 128)<br><b>Total GVA (AE): </b>287401 (Rank: 147)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>112515 (104)<br><b>Industry: </b>62312 (108)<br><b>Services: </b>112574 (147)"
+    },
+    "148": {
+      "color": "rgba(255, 251, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Rayadurgam<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>85030 (Rank: 170)<br><b>Total GVA (AE): </b>284297 (Rank: 148)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>103960 (115)<br><b>Industry: </b>60931 (111)<br><b>Services: </b>119406 (131)"
+    },
+    "143": {
+      "color": "rgba(222, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Kodumur<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>112245 (Rank: 129)<br><b>Total GVA (AE): </b>284090 (Rank: 149)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>179091 (46)<br><b>Industry: </b>28005 (163)<br><b>Services: </b>76995 (173)"
+    },
+    "56": {
+      "color": "rgba(197, 255, 229, 1.0)",
+      "matter": "<b>Constituency: </b>Achanta<br><b>District: </b>West Godavari<br><hr><b>PCI (AE): </b>122202 (Rank: 105)<br><b>Total GVA (AE): </b>283458 (Rank: 150)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>150100 (71)<br><b>Industry: </b>19702 (171)<br><b>Services: </b>113656 (145)"
+    },
+    "13": {
+      "color": "rgba(234, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Saluru<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>107032 (Rank: 141)<br><b>Total GVA (AE): </b>282066 (Rank: 151)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>130272 (93)<br><b>Industry: </b>33959 (158)<br><b>Services: </b>117835 (133)"
+    },
+    "14": {
+      "color": "rgba(250, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Bobbili<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>93732 (Rank: 159)<br><b>Total GVA (AE): </b>278035 (Rank: 152)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>80748 (134)<br><b>Industry: </b>60227 (114)<br><b>Services: </b>137060 (100)"
+    },
+    "132": {
+      "color": "rgba(255, 246, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Proddatur<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>90233 (Rank: 165)<br><b>Total GVA (AE): </b>277760 (Rank: 153)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>20493 (158)<br><b>Industry: </b>90262 (65)<br><b>Services: </b>167006 (56)"
+    },
+    "146": {
+      "color": "rgba(243, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Adoni<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>99422 (Rank: 150)<br><b>Total GVA (AE): </b>276246 (Rank: 154)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>55396 (150)<br><b>Industry: </b>55124 (127)<br><b>Services: </b>165726 (59)"
+    },
+    "106": {
+      "color": "rgba(233, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Chirala<br><b>District: </b>Prakasam<br><hr><b>PCI (AE): </b>107428 (Rank: 140)<br><b>Total GVA (AE): </b>275036 (Rank: 155)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>73888 (141)<br><b>Industry: </b>56035 (126)<br><b>Services: </b>145113 (86)"
+    },
+    "124": {
+      "color": "rgba(248, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Badvel<br><b>District: </b>YSR Kadapa<br><hr><b>PCI (AE): </b>94896 (Rank: 155)<br><b>Total GVA (AE): </b>274559 (Rank: 156)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>93983 (123)<br><b>Industry: </b>58543 (119)<br><b>Services: </b>122033 (123)"
+    },
+    "175": {
+      "color": "rgba(255, 246, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Kuppam<br><b>District: </b>Chittoor<br><hr><b>PCI (AE): </b>91409 (Rank: 163)<br><b>Total GVA (AE): </b>272638 (Rank: 157)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>89618 (127)<br><b>Industry: </b>64413 (105)<br><b>Services: </b>118607 (132)"
+    },
+    "9": {
+      "color": "rgba(245, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Rajam<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>96793 (Rank: 152)<br><b>Total GVA (AE): </b>272189 (Rank: 158)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>83115 (132)<br><b>Industry: </b>68270 (100)<br><b>Services: </b>120804 (127)"
+    },
+    "159": {
+      "color": "rgba(242, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Puttaparthi<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>99774 (Rank: 149)<br><b>Total GVA (AE): </b>268771 (Rank: 159)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>140381 (85)<br><b>Industry: </b>16917 (174)<br><b>Services: </b>111472 (150)"
+    },
+    "149": {
+      "color": "rgba(247, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Uravakonda<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>96110 (Rank: 154)<br><b>Total GVA (AE): </b>267279 (Rank: 160)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>145167 (80)<br><b>Industry: </b>19548 (172)<br><b>Services: </b>102564 (157)"
+    },
+    "97": {
+      "color": "rgba(252, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Narasaraopet<br><b>District: </b>Guntur<br><hr><b>PCI (AE): </b>93127 (Rank: 161)<br><b>Total GVA (AE): </b>266797 (Rank: 161)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>53036 (152)<br><b>Industry: </b>51386 (133)<br><b>Services: </b>162375 (64)"
+    },
+    "11": {
+      "color": "rgba(240, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Kurupam (S.T)<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>102011 (Rank: 147)<br><b>Total GVA (AE): </b>266750 (Rank: 162)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>148997 (77)<br><b>Industry: </b>20750 (169)<br><b>Services: </b>97003 (161)"
+    },
+    "3": {
+      "color": "rgba(255, 248, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Tekkali<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>89975 (Rank: 166)<br><b>Total GVA (AE): </b>257340 (Rank: 163)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>56392 (149)<br><b>Industry: </b>73264 (95)<br><b>Services: </b>127683 (113)"
+    },
+    "15": {
+      "color": "rgba(249, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Cheepurupalle<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>94826 (Rank: 156)<br><b>Total GVA (AE): </b>252534 (Rank: 164)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>107595 (110)<br><b>Industry: </b>44596 (149)<br><b>Services: </b>100343 (159)"
+    },
+    "4": {
+      "color": "rgba(254, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Pathapatnam<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>91643 (Rank: 162)<br><b>Total GVA (AE): </b>250588 (Rank: 165)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>68802 (143)<br><b>Industry: </b>61417 (110)<br><b>Services: </b>120369 (128)"
+    },
+    "8": {
+      "color": "rgba(251, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Narasannapeta<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>93920 (Rank: 158)<br><b>Total GVA (AE): </b>248230 (Rank: 166)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>75783 (139)<br><b>Industry: </b>56854 (124)<br><b>Services: </b>115593 (138)"
+    },
+    "2": {
+      "color": "rgba(251, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Palasa<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>93500 (Rank: 160)<br><b>Total GVA (AE): </b>245838 (Rank: 167)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>48461 (153)<br><b>Industry: </b>73126 (96)<br><b>Services: </b>124251 (119)"
+    },
+    "1": {
+      "color": "rgba(255, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Ichchapuram<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>76260 (Rank: 174)<br><b>Total GVA (AE): </b>245633 (Rank: 168)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>66546 (144)<br><b>Industry: </b>57268 (121)<br><b>Services: </b>121819 (124)"
+    },
+    "16": {
+      "color": "rgba(255, 249, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Gajapathinagaram<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>88934 (Rank: 167)<br><b>Total GVA (AE): </b>243284 (Rank: 169)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>92663 (124)<br><b>Industry: </b>32868 (160)<br><b>Services: </b>117753 (134)"
+    },
+    "37": {
+      "color": "rgba(255, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Pithapuram<br><b>District: </b>East Godavari<br><hr><b>PCI (AE): </b>77378 (Rank: 173)<br><b>Total GVA (AE): </b>241122 (Rank: 170)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>112473 (105)<br><b>Industry: </b>39156 (155)<br><b>Services: </b>89493 (166)"
+    },
+    "145": {
+      "color": "rgba(255, 250, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Mantralayam<br><b>District: </b>Kurnool<br><hr><b>PCI (AE): </b>87366 (Rank: 168)<br><b>Total GVA (AE): </b>239502 (Rank: 171)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>140194 (86)<br><b>Industry: </b>29374 (162)<br><b>Services: </b>69934 (174)"
+    },
+    "6": {
+      "color": "rgba(249, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Amadalavalasa<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>94817 (Rank: 157)<br><b>Total GVA (AE): </b>229709 (Rank: 172)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>62463 (146)<br><b>Industry: </b>66795 (101)<br><b>Services: </b>100451 (158)"
+    },
+    "12": {
+      "color": "rgba(255, 252, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Parvathipuram (S.C)<br><b>District: </b>Vizianagaram<br><hr><b>PCI (AE): </b>86552 (Rank: 169)<br><b>Total GVA (AE): </b>210468 (Rank: 173)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>59929 (147)<br><b>Industry: </b>25415 (166)<br><b>Services: </b>125124 (115)"
+    },
+    "10": {
+      "color": "rgba(255, 254, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Palakonda<br><b>District: </b>Srikakulam<br><hr><b>PCI (AE): </b>81350 (Rank: 171)<br><b>Total GVA (AE): </b>203031 (Rank: 174)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>76229 (138)<br><b>Industry: </b>46822 (145)<br><b>Services: </b>79980 (171)"
+    },
+    "156": {
+      "color": "rgba(255, 255, 255, 1.0)",
+      "matter": "<b>Constituency: </b>Madakasira<br><b>District: </b>Ananthapuramu<br><hr><b>PCI (AE): </b>66036 (Rank: 175)<br><b>Total GVA (AE): </b>183710 (Rank: 175)<br><hr><b>Sector-wise GVA (AE) and Rank:</b><br><b>Agriculture & Allied: </b>86780 (128)<br><b>Industry: </b>15521 (175)<br><b>Services: </b>81408 (170)"
+    }
+  }
+}
